@@ -7,4 +7,5 @@ from datetime import date
 st.title("Jogos do Dia")
 
 dia = st.date_input(
-  date.today())
+    "Data de Análise,
+    date.today())

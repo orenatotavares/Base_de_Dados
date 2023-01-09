@@ -1,0 +1,181 @@
+Nº,Id_Jogo,League,Season,Date,Rodada,Home,Away,FT_Goals_H,FT_Goals_A,FT_TotalGoals,Goals_H_Minutes,Goals_A_Minutes,FT_Odd_H,FT_Odd_D,FT_Odd_A,FT_Odd_Over25,FT_Odd_Under25,FT_Odd_BTTS_Yes,FT_Odd_BTTS_No
+1,1268911,Montenegro Montenegrin First League,2021/2022,2021-07-24 15:30:00,1,Iskra,FK Jezero Plav,2,0,2,"['64', '89']",[],1.75,3.0,4.75,2.4,1.5,2.5,1.5
+2,1268912,Montenegro Montenegrin First League,2021/2022,2021-07-24 15:30:00,1,Dečić,Zeta,2,0,2,"['19', '25']",[],1.15,6.0,17.0,1.91,1.8,2.07,1.68
+3,1268914,Montenegro Montenegrin First League,2021/2022,2021-07-24 15:30:00,1,Petrovac,Mornar,0,1,1,[],['66'],1.97,3.18,3.86,2.4,1.5,2.19,1.65
+4,1268913,Montenegro Montenegrin First League,2021/2022,2021-07-25 14:00:00,1,Sutjeska,Mladost Lješkopolje,1,0,1,['77'],[],1.83,3.25,3.75,2.3,1.6,0.0,0.0
+5,1268919,Montenegro Montenegrin First League,2021/2022,2021-07-31 14:00:00,2,Rudar,Iskra,0,0,0,[],[],1.68,3.2,2.0,2.25,1.62,1.94,1.77
+6,1268918,Montenegro Montenegrin First League,2021/2022,2021-07-31 14:00:00,2,FK Jezero Plav,Dečić,0,0,0,[],[],2.6,3.0,1.4,2.7,1.44,2.48,1.48
+7,1268915,Montenegro Montenegrin First League,2021/2022,2021-07-31 15:00:00,2,Budućnost,Mornar,1,1,2,['45'],['60'],1.2,4.5,3.75,2.0,1.8,2.14,1.63
+8,1268916,Montenegro Montenegrin First League,2021/2022,2021-07-31 15:30:00,2,Mladost Lješkopolje,Petrovac,1,3,4,['29'],"['22', '72', '90+1']",1.32,3.1,2.85,2.35,1.57,2.16,1.62
+9,1268917,Montenegro Montenegrin First League,2021/2022,2021-08-02 16:00:00,2,Zeta,Sutjeska,0,4,4,[],"['33', '55', '75', '81']",0.0,0.0,0.0,0.0,0.0,0.0,0.0
+10,1268923,Montenegro Montenegrin First League,2021/2022,2021-08-07 15:00:00,3,Petrovac,Zeta,2,2,4,"['29', '60']","['17', '78']",1.17,4.0,4.1,2.1,1.7,2.1,1.65
+11,1268921,Montenegro Montenegrin First League,2021/2022,2021-08-07 15:00:00,3,Dečić,Rudar,3,0,3,"['25', '42', '67']",[],1.25,3.4,3.3,2.7,1.44,2.47,1.52
+12,1268920,Montenegro Montenegrin First League,2021/2022,2021-08-07 15:00:00,3,Iskra,Budućnost,2,1,3,"['48', '90']",['40'],2.3,3.0,1.52,2.4,1.53,2.1,1.7
+13,1268924,Montenegro Montenegrin First League,2021/2022,2021-08-07 15:30:00,3,Mornar,Mladost Lješkopolje,3,1,4,"['39', '53', '90+5']",['4'],1.48,3.2,2.35,2.35,1.57,2.06,1.68
+14,1268922,Montenegro Montenegrin First League,2021/2022,2021-08-08 14:00:00,3,Sutjeska,FK Jezero Plav,2,0,2,"['18', '77']",[],1.07,5.0,7.0,2.0,1.8,2.55,1.45
+15,1268927,Montenegro Montenegrin First League,2021/2022,2021-08-14 14:00:00,4,FK Jezero Plav,Petrovac,1,2,3,['44'],"['67', '74']",1.87,3.0,1.83,2.35,1.57,2.0,1.72
+16,1268926,Montenegro Montenegrin First League,2021/2022,2021-08-14 15:00:00,4,Zeta,Mornar,0,1,1,[],['33'],3.3,3.3,1.28,2.15,1.67,2.0,1.72
+17,1268929,Montenegro Montenegrin First League,2021/2022,2021-08-14 15:30:00,4,Iskra,Dečić,0,1,1,[],['54'],1.66,2.75,2.1,2.88,1.4,2.25,1.57
+18,1268925,Montenegro Montenegrin First League,2021/2022,2021-08-14 15:30:00,4,Budućnost,Mladost Lješkopolje,2,1,3,"['3', '90+1']",['58'],1.16,4.0,4.5,2.05,1.75,2.1,1.66
+19,1268928,Montenegro Montenegrin First League,2021/2022,2021-08-15 15:00:00,4,Rudar,Sutjeska,0,1,1,[],['24'],4.2,3.4,1.18,2.08,1.75,2.05,1.7
+20,1268931,Montenegro Montenegrin First League,2021/2022,2021-08-21 14:00:00,5,Sutjeska,Iskra,3,1,4,"['15', '18', '88']",['2'],1.3,3.25,3.25,2.3,1.6,2.15,1.62
+21,1268934,Montenegro Montenegrin First League,2021/2022,2021-08-21 15:00:00,5,Mladost Lješkopolje,Zeta,0,0,0,[],[],1.17,3.5,4.1,2.35,1.57,2.5,1.5
+22,1268932,Montenegro Montenegrin First League,2021/2022,2021-08-21 15:00:00,5,Petrovac,Rudar,4,3,7,"['56', '68', '90+2', '90+7']","['20', '35', '82']",0.0,0.0,0.0,0.0,0.0,0.0,0.0
+23,1268930,Montenegro Montenegrin First League,2021/2022,2021-08-21 15:30:00,5,Dečić,Budućnost,2,2,4,"['61', '72']","['20', '34']",0.0,0.0,0.0,2.4,1.53,0.0,0.0
+24,1268933,Montenegro Montenegrin First League,2021/2022,2021-08-21 15:30:00,5,Mornar,FK Jezero Plav,1,0,1,['60'],[],1.62,3.2,4.4,2.2,1.49,2.15,1.51
+25,1268910,Montenegro Montenegrin First League,2021/2022,2021-08-25 12:30:00,1,Rudar,Budućnost,1,1,2,['28'],['35'],4.0,3.75,1.18,1.92,1.75,1.96,1.76
+26,1268936,Montenegro Montenegrin First League,2021/2022,2021-08-28 13:00:00,6,FK Jezero Plav,Mladost Lješkopolje,1,2,3,['55'],"['68', '69']",1.66,2.9,2.1,2.7,1.44,2.1,1.65
+27,1268938,Montenegro Montenegrin First League,2021/2022,2021-08-28 14:00:00,6,Iskra,Petrovac,4,1,5,"['23', '34', '83', '90+2']",['66'],1.75,3.15,4.33,2.35,1.5,2.15,1.63
+28,1268937,Montenegro Montenegrin First League,2021/2022,2021-08-29 12:30:00,6,Rudar,Mornar,2,1,3,"['7', '87']",['27'],2.0,3.1,1.72,2.5,1.5,2.05,1.68
+29,1268935,Montenegro Montenegrin First League,2021/2022,2021-08-29 14:00:00,6,Budućnost,Zeta,5,1,6,"['52', '62', '69', '85', '86']",['12'],1.07,4.33,7.0,2.0,1.8,2.6,1.44
+30,1268939,Montenegro Montenegrin First League,2021/2022,2021-08-29 15:00:00,6,Dečić,Sutjeska,1,1,2,['67'],['86'],2.35,3.1,1.52,2.4,1.53,2.0,1.72
+31,1268940,Montenegro Montenegrin First League,2021/2022,2021-09-11 13:00:00,7,Sutjeska,Budućnost,1,0,1,['78'],[],1.42,3.4,2.5,2.15,1.67,2.05,1.74
+32,1268941,Montenegro Montenegrin First League,2021/2022,2021-09-11 14:00:00,7,Petrovac,Dečić,3,2,5,"['32', '48', '61']","['45', '67']",4.0,3.0,1.85,2.37,1.5,2.15,1.67
+33,1268944,Montenegro Montenegrin First League,2021/2022,2021-09-11 14:00:00,7,Zeta,FK Jezero Plav,1,2,3,['73'],"['4', '80']",2.57,2.8,2.68,2.4,1.48,2.15,1.67
+34,1268943,Montenegro Montenegrin First League,2021/2022,2021-09-11 15:00:00,7,Mladost Lješkopolje,Rudar,0,1,1,[],['90+3'],1.7,2.9,1.95,2.4,1.53,2.05,1.71
+35,1268942,Montenegro Montenegrin First League,2021/2022,2021-09-11 15:00:00,7,Mornar,Iskra,0,1,1,[],['42'],2.0,3.0,3.49,2.4,1.48,2.25,1.61
+36,1268945,Montenegro Montenegrin First League,2021/2022,2021-09-17 13:00:00,8,Budućnost,FK Jezero Plav,0,1,1,[],['37'],1.34,4.1,6.75,1.71,1.87,1.95,1.62
+37,1268946,Montenegro Montenegrin First League,2021/2022,2021-09-18 13:00:00,8,Rudar,Zeta,2,0,2,"['57', '68']",[],1.24,3.3,3.4,2.3,1.6,2.2,1.6
+38,1268947,Montenegro Montenegrin First League,2021/2022,2021-09-18 14:00:00,8,Iskra,Mladost Lješkopolje,4,2,6,"['57', '70', '72', '90+2']","['12', '15']",1.48,3.2,2.35,2.5,1.5,2.1,1.65
+39,1268949,Montenegro Montenegrin First League,2021/2022,2021-09-19 13:00:00,8,Sutjeska,Petrovac,0,0,0,[],[],1.12,4.33,6.0,1.95,1.85,2.15,1.64
+40,1268948,Montenegro Montenegrin First League,2021/2022,2021-09-19 14:00:00,8,Dečić,Mornar,0,1,1,[],['83'],1.35,3.3,2.85,2.4,1.53,2.14,1.63
+41,1268953,Montenegro Montenegrin First League,2021/2022,2021-09-24 14:00:00,9,Zeta,Iskra,1,1,2,['77'],['35'],2.5,2.4,2.9,2.3,1.57,1.08,7.0
+42,1268954,Montenegro Montenegrin First League,2021/2022,2021-09-25 13:00:00,9,FK Jezero Plav,Rudar,2,4,6,"['45+1', '90']","['10', '43', '84', '90+2']",1.58,2.8,2.15,2.6,1.48,2.2,1.62
+43,1268952,Montenegro Montenegrin First League,2021/2022,2021-09-25 14:00:00,9,Mladost Lješkopolje,Dečić,1,1,2,['61'],['23'],1.65,2.75,2.05,2.5,1.5,2.05,1.68
+44,1268951,Montenegro Montenegrin First League,2021/2022,2021-09-26 14:00:00,9,Mornar,Sutjeska,0,2,2,[],"['13', '43']",3.6,3.0,1.95,2.25,1.57,2.02,1.71
+45,1268950,Montenegro Montenegrin First League,2021/2022,2021-09-26 15:00:00,9,Petrovac,Budućnost,2,3,5,"['60', '78']","['8', '24', '79']",4.6,3.15,1.77,1.65,2.1,2.04,1.69
+46,1268956,Montenegro Montenegrin First League,2021/2022,2021-10-01 12:00:00,10,FK Jezero Plav,Iskra,1,0,1,['20'],[],2.0,3.2,1.72,2.17,1.62,1.87,1.83
+47,1268958,Montenegro Montenegrin First League,2021/2022,2021-10-02 13:00:00,10,Mladost Lješkopolje,Sutjeska,1,2,3,['38'],"['7', '43']",3.0,3.0,1.35,2.2,1.65,2.0,1.77
+48,1268959,Montenegro Montenegrin First League,2021/2022,2021-10-02 14:00:00,10,Mornar,Petrovac,0,0,0,[],[],1.79,3.24,4.7,2.3,1.53,2.35,1.56
+49,1268957,Montenegro Montenegrin First League,2021/2022,2021-10-03 14:00:00,10,Zeta,Dečić,1,1,2,['18'],['77'],4.33,3.75,1.18,2.0,1.8,2.1,1.66
+50,1268955,Montenegro Montenegrin First League,2021/2022,2021-10-03 15:00:00,10,Budućnost,Rudar,3,0,3,"['22', '59', '87']",[],1.15,3.6,4.75,2.1,1.7,2.05,1.68
+51,1268961,Montenegro Montenegrin First League,2021/2022,2021-10-15 13:00:00,11,Petrovac,Mladost Lješkopolje,2,1,3,"['81', '83']",['49'],1.35,3.25,2.7,2.3,1.6,2.06,1.69
+52,1268962,Montenegro Montenegrin First League,2021/2022,2021-10-16 11:00:00,11,Sutjeska,Zeta,2,0,2,"['17', '87']",[],1.25,4.8,8.96,1.86,1.8,2.55,1.49
+53,1268963,Montenegro Montenegrin First League,2021/2022,2021-10-16 12:00:00,11,Dečić,FK Jezero Plav,2,0,2,"['18', '40']",[],1.25,2.6,3.6,3.1,1.36,2.4,1.5
+54,1268964,Montenegro Montenegrin First League,2021/2022,2021-10-17 12:00:00,11,Iskra,Rudar,1,0,1,['29'],[],1.42,3.4,2.55,1.8,1.71,1.92,1.78
+55,1268960,Montenegro Montenegrin First League,2021/2022,2021-10-17 13:00:00,11,Mornar,Budućnost,0,3,3,[],"['4', '21', '36']",2.1,3.2,1.62,2.2,1.65,1.94,1.82
+56,1268966,Montenegro Montenegrin First League,2021/2022,2021-10-23 09:00:00,12,Rudar,Dečić,1,1,2,['49'],['43'],2.52,2.93,2.66,2.45,1.5,2.25,1.57
+57,1268967,Montenegro Montenegrin First League,2021/2022,2021-10-23 09:00:00,12,FK Jezero Plav,Sutjeska,0,2,2,[],"['23', '90+2']",5.5,3.8,1.5,1.7,2.05,2.0,1.74
+58,1268969,Montenegro Montenegrin First League,2021/2022,2021-10-23 11:00:00,12,Mladost Lješkopolje,Mornar,1,1,2,['40'],['45'],1.6,3.25,2.1,2.4,1.53,2.25,1.57
+59,1268968,Montenegro Montenegrin First League,2021/2022,2021-10-23 11:00:00,12,Zeta,Petrovac,1,1,2,['51'],['33'],4.32,3.18,1.76,2.37,1.53,1.91,1.8
+60,1268965,Montenegro Montenegrin First League,2021/2022,2021-10-23 12:00:00,12,Budućnost,Iskra,4,1,5,"['16', '59', '83', '90+3']",['29'],1.2,3.6,4.0,2.25,1.62,2.38,1.53
+61,1268974,Montenegro Montenegrin First League,2021/2022,2021-10-31 09:00:00,13,Dečić,Iskra,1,1,2,['90+3'],['44'],1.77,3.0,3.95,2.1,1.62,2.2,1.6
+62,1268973,Montenegro Montenegrin First League,2021/2022,2021-10-31 10:00:00,13,Sutjeska,Rudar,2,1,3,"['19', '90+4']",['1'],1.44,3.6,5.6,1.97,1.71,2.1,1.66
+63,1268972,Montenegro Montenegrin First League,2021/2022,2021-10-31 12:00:00,13,Petrovac,FK Jezero Plav,2,0,2,"['21', '36']",[],1.44,2.88,2.6,2.6,1.48,2.1,1.63
+64,1268970,Montenegro Montenegrin First League,2021/2022,2021-10-31 12:00:00,13,Mladost Lješkopolje,Budućnost,1,2,3,['11'],"['23', '55']",3.75,3.5,1.22,2.1,1.7,2.1,1.66
+65,1268971,Montenegro Montenegrin First League,2021/2022,2021-10-31 12:00:00,13,Mornar,Zeta,2,2,4,"['17', '82']","['41', '56']",1.17,3.6,4.5,2.51,1.44,2.5,1.47
+66,1268979,Montenegro Montenegrin First League,2021/2022,2021-11-05 11:00:00,14,Zeta,Mladost Lješkopolje,1,2,3,['48'],"['67', '69']",2.5,3.0,1.47,2.05,1.75,1.78,1.95
+67,1268975,Montenegro Montenegrin First League,2021/2022,2021-11-06 13:00:00,14,Budućnost,Dečić,1,2,3,['82'],"['56', '90']",1.2,3.5,4.0,2.05,1.75,1.95,1.75
+68,1268976,Montenegro Montenegrin First League,2021/2022,2021-11-06 13:00:00,14,Iskra,Sutjeska,0,0,0,[],[],3.2,3.6,1.3,2.3,1.6,2.15,1.62
+69,1268977,Montenegro Montenegrin First League,2021/2022,2021-11-07 10:00:00,14,Rudar,Petrovac,2,2,4,"['35', '53']","['40', '62']",2.5,3.1,2.33,1.96,1.76,1.68,2.05
+70,1268978,Montenegro Montenegrin First League,2021/2022,2021-11-07 10:00:00,14,FK Jezero Plav,Mornar,0,0,0,[],[],2.46,2.95,2.46,2.38,1.53,2.05,1.7
+71,1268981,Montenegro Montenegrin First League,2021/2022,2021-11-20 09:00:00,15,Mladost Lješkopolje,FK Jezero Plav,1,0,1,['36'],[],1.42,3.0,2.5,2.6,1.48,2.3,1.59
+72,1268983,Montenegro Montenegrin First League,2021/2022,2021-11-20 11:00:00,15,Petrovac,Iskra,0,1,1,[],['2'],2.61,3.08,2.61,2.16,1.62,1.9,1.86
+73,1268982,Montenegro Montenegrin First League,2021/2022,2021-11-20 11:00:00,15,Mornar,Rudar,0,1,1,[],['8'],2.24,3.08,3.16,2.16,1.62,2.06,1.73
+74,1268980,Montenegro Montenegrin First League,2021/2022,2021-11-20 12:00:00,15,Zeta,Budućnost,0,0,0,[],[],7.25,5.0,1.04,2.0,1.8,2.64,1.42
+75,1268984,Montenegro Montenegrin First League,2021/2022,2021-11-20 13:00:00,15,Sutjeska,Dečić,0,2,2,[],"['22', '26']",1.68,3.38,5.0,2.2,1.6,2.25,1.57
+76,1268988,Montenegro Montenegrin First League,2021/2022,2021-11-28 09:00:00,16,Rudar,Mladost Lješkopolje,0,1,1,[],['68'],1.68,2.88,2.1,2.4,1.53,2.05,1.68
+77,1268986,Montenegro Montenegrin First League,2021/2022,2021-11-28 11:00:00,16,Dečić,Petrovac,4,4,8,"['47', '51', '78', '83']","['24', '53', '67', '89']",2.0,2.9,3.6,2.4,1.51,2.15,1.63
+78,1268985,Montenegro Montenegrin First League,2021/2022,2021-11-28 12:00:00,16,Budućnost,Sutjeska,3,3,6,"['29', '45+3', '83']","['19', '21', '81']",1.4,3.4,2.75,2.03,1.78,1.95,1.77
+79,1268990,Montenegro Montenegrin First League,2021/2022,2021-12-01 09:00:00,17,FK Jezero Plav,Budućnost,1,2,3,['63'],"['2', '19']",5.95,3.52,1.59,2.12,1.72,2.25,1.57
+80,1268991,Montenegro Montenegrin First League,2021/2022,2021-12-01 10:00:00,17,Zeta,Rudar,2,0,2,"['53', '82']",[],3.61,3.41,1.84,2.0,1.81,1.91,1.8
+81,1268992,Montenegro Montenegrin First League,2021/2022,2021-12-01 11:00:00,17,Mladost Lješkopolje,Iskra,0,0,0,[],[],1.83,3.0,1.83,2.5,1.5,2.25,1.57
+82,1268993,Montenegro Montenegrin First League,2021/2022,2021-12-01 12:00:00,17,Mornar,Dečić,1,2,3,['23'],"['62', '77']",1.95,3.0,1.74,2.51,1.44,2.38,1.53
+83,1268994,Montenegro Montenegrin First League,2021/2022,2021-12-01 13:00:00,17,Petrovac,Sutjeska,3,0,3,"['18', '45', '52']",[],3.4,3.6,1.24,2.24,1.65,2.25,1.57
+84,1268996,Montenegro Montenegrin First League,2021/2022,2021-12-05 09:00:00,18,Sutjeska,Mornar,1,1,2,['29'],['3'],1.58,3.6,5.9,2.25,1.57,2.1,1.66
+85,1268999,Montenegro Montenegrin First League,2021/2022,2021-12-05 09:00:00,18,Rudar,FK Jezero Plav,2,2,4,"['26', '49']","['37', '82']",2.03,3.0,3.82,2.51,1.44,2.05,1.68
+86,1268995,Montenegro Montenegrin First League,2021/2022,2021-12-05 10:00:00,18,Budućnost,Petrovac,2,1,3,"['45+4', '53']",['33'],1.43,4.0,7.3,2.02,1.7,1.57,2.25
+87,1268997,Montenegro Montenegrin First League,2021/2022,2021-12-05 11:00:00,18,Dečić,Mladost Lješkopolje,2,2,4,"['88', '90+1']","['20', '34']",1.63,2.88,2.15,2.5,1.5,2.05,1.68
+88,1269003,Montenegro Montenegrin First League,2021/2022,2021-12-08 09:00:00,19,Sutjeska,Mladost Lješkopolje,3,0,3,"['70', '75', '77']",[],1.12,4.0,4.75,1.8,2.0,2.2,1.64
+89,1269000,Montenegro Montenegrin First League,2021/2022,2021-12-08 09:00:00,19,Rudar,Budućnost,3,1,4,"['71', '78', '90+2']",['75'],2.65,3.25,2.5,2.1,1.65,1.8,1.9
+90,1269001,Montenegro Montenegrin First League,2021/2022,2021-12-08 10:00:00,19,Iskra,FK Jezero Plav,0,1,1,[],['88'],1.93,3.3,3.85,2.17,1.62,2.2,1.64
+91,1269002,Montenegro Montenegrin First League,2021/2022,2021-12-08 11:00:00,19,Dečić,Zeta,1,0,1,['74'],[],1.33,4.7,8.6,1.89,1.89,2.25,1.58
+92,1269004,Montenegro Montenegrin First League,2021/2022,2021-12-08 12:00:00,19,Petrovac,Mornar,2,0,2,"['74', '78']",[],1.58,3.1,2.15,2.3,1.6,2.12,1.69
+93,1268989,Montenegro Montenegrin First League,2021/2022,2021-12-13 09:00:00,16,FK Jezero Plav,Zeta,2,1,3,"['49', '78']",['90+1'],2.5,3.02,2.81,2.38,1.53,2.1,1.66
+94,1268987,Montenegro Montenegrin First League,2021/2022,2021-12-13 09:00:00,16,Iskra,Mornar,0,1,1,[],['90'],1.75,3.4,4.7,2.3,1.52,2.25,1.58
+95,1268998,Montenegro Montenegrin First League,2021/2022,2021-12-17 09:00:00,18,Iskra,Zeta,3,1,4,"['11', '60', '77']",['90+1'],1.9,3.3,3.88,2.2,1.6,2.0,1.73
+96,1566604,Montenegro Montenegrin First League,2021/2022,2022-02-18 09:00:00,20,FK Jezero Plav,Dečić,4,2,6,"['5', '24', '81', '90+1']","['20', '39']",4.7,3.55,1.71,2.17,1.58,2.25,1.58
+97,1566605,Montenegro Montenegrin First League,2021/2022,2022-02-18 09:00:00,20,Rudar,Iskra,0,3,3,[],"['6', '49', '61']",2.75,2.88,2.5,2.48,1.48,2.13,1.68
+98,1566602,Montenegro Montenegrin First League,2021/2022,2022-02-18 11:00:00,20,Mladost Lješkopolje,Petrovac,2,2,4,"['11', '25']","['16', '22']",2.25,3.0,1.52,2.35,1.57,2.1,1.7
+99,1566603,Montenegro Montenegrin First League,2021/2022,2022-02-18 11:00:00,20,Zeta,Sutjeska,0,1,1,[],['82'],10.0,4.6,1.25,1.95,1.82,2.75,1.4
+100,1566601,Montenegro Montenegrin First League,2021/2022,2022-02-18 13:00:00,20,Budućnost,Mornar,2,1,3,"['57', '90+3']",['63'],1.12,3.75,4.8,2.1,1.7,2.3,1.59
+101,1566607,Montenegro Montenegrin First League,2021/2022,2022-02-24 09:30:00,21,Dečić,Rudar,1,2,3,['57'],"['67', '86']",1.58,3.45,4.4,1.85,1.86,2.0,1.72
+102,1566608,Montenegro Montenegrin First League,2021/2022,2022-02-24 09:30:00,21,Sutjeska,FK Jezero Plav,3,1,4,"['6', '51', '63']",['39'],1.41,3.4,6.7,2.8,1.36,2.85,1.36
+103,1566609,Montenegro Montenegrin First League,2021/2022,2022-02-24 11:30:00,21,Petrovac,Zeta,2,4,6,"['32', '47']","['16', '18', '45+1', '56']",1.77,3.2,3.65,1.76,1.95,2.26,1.57
+104,1566610,Montenegro Montenegrin First League,2021/2022,2022-02-24 11:30:00,21,Mornar,Mladost Lješkopolje,2,2,4,"['82', '89']","['52', '70']",1.9,3.0,1.8,2.5,1.5,2.2,1.6
+105,1566606,Montenegro Montenegrin First League,2021/2022,2022-02-24 13:30:00,21,Iskra,Budućnost,3,2,5,"['42', '45+2', '90+3']","['79', '84']",2.1,3.0,1.6,2.0,1.8,1.8,1.91
+106,1566613,Montenegro Montenegrin First League,2021/2022,2022-03-01 10:00:00,22,FK Jezero Plav,Petrovac,0,1,1,[],['12'],2.0,3.2,1.65,2.35,1.57,2.05,1.68
+107,1566614,Montenegro Montenegrin First League,2021/2022,2022-03-01 10:00:00,22,Rudar,Sutjeska,1,1,2,['45'],['26'],2.6,3.1,1.4,2.09,1.74,2.0,1.73
+108,1566611,Montenegro Montenegrin First League,2021/2022,2022-03-01 12:00:00,22,Budućnost,Mladost Lješkopolje,2,1,3,"['54', '66']",['65'],1.09,5.0,5.5,1.73,2.08,2.0,1.72
+109,1566612,Montenegro Montenegrin First League,2021/2022,2022-03-01 12:00:00,22,Zeta,Mornar,0,1,1,[],['41'],2.2,3.0,1.55,2.4,1.53,2.05,1.68
+110,1566615,Montenegro Montenegrin First League,2021/2022,2022-03-01 13:30:00,22,Iskra,Dečić,0,1,1,[],['35'],2.45,2.74,2.74,2.35,1.5,2.25,1.58
+111,1566617,Montenegro Montenegrin First League,2021/2022,2022-03-05 10:00:00,23,Sutjeska,Iskra,2,0,2,"['12', '65']",[],1.47,3.49,5.43,2.35,1.53,2.4,1.52
+112,1566618,Montenegro Montenegrin First League,2021/2022,2022-03-05 11:00:00,23,Petrovac,Rudar,1,1,2,['10'],['85'],1.88,3.42,3.8,2.2,1.6,1.88,1.85
+113,1566619,Montenegro Montenegrin First League,2021/2022,2022-03-05 13:00:00,23,Mornar,FK Jezero Plav,1,1,2,['66'],['82'],1.28,3.2,3.15,2.6,1.48,2.55,1.45
+114,1566620,Montenegro Montenegrin First League,2021/2022,2022-03-05 13:00:00,23,Mladost Lješkopolje,Zeta,1,0,1,['45+1'],[],1.3,3.3,3.0,2.1,1.7,2.1,1.68
+115,1566622,Montenegro Montenegrin First League,2021/2022,2022-03-09 10:00:00,24,FK Jezero Plav,Mladost Lješkopolje,4,0,4,"['13', '36', '58', '89']",[],1.95,2.9,1.72,2.5,1.5,2.19,1.59
+116,1566623,Montenegro Montenegrin First League,2021/2022,2022-03-09 10:00:00,24,Rudar,Mornar,0,0,0,[],[],2.2,2.87,3.2,2.4,1.48,2.15,1.67
+117,1566621,Montenegro Montenegrin First League,2021/2022,2022-03-09 12:00:00,24,Budućnost,Zeta,2,1,3,"['55', '73']",['63'],1.06,5.25,6.5,1.93,1.88,2.49,1.51
+118,1566625,Montenegro Montenegrin First League,2021/2022,2022-03-09 12:45:00,24,Dečić,Sutjeska,0,2,2,[],"['37', '78']",2.15,3.1,1.55,2.7,1.44,2.5,1.5
+119,1566624,Montenegro Montenegrin First League,2021/2022,2022-03-09 13:00:00,24,Iskra,Petrovac,2,0,2,"['41', '61']",[],1.52,3.0,2.25,2.4,1.53,2.2,1.62
+120,1566626,Montenegro Montenegrin First League,2021/2022,2022-03-13 09:00:00,25,Sutjeska,Budućnost,2,2,4,"['7', '90+3']","['16', '69']",2.2,2.9,3.25,2.06,1.68,2.08,1.71
+121,1566630,Montenegro Montenegrin First League,2021/2022,2022-03-13 10:00:00,25,Zeta,FK Jezero Plav,0,0,0,[],[],2.45,2.8,2.9,2.45,1.49,2.13,1.68
+122,1566629,Montenegro Montenegrin First League,2021/2022,2022-03-13 10:00:00,25,Mladost Lješkopolje,Rudar,2,1,3,"['45', '69']",['5'],1.45,3.0,2.45,2.4,1.53,2.16,1.66
+123,1566627,Montenegro Montenegrin First League,2021/2022,2022-03-13 11:00:00,25,Petrovac,Dečić,0,0,0,[],[],2.63,3.0,2.5,2.13,1.64,1.88,1.88
+124,1566628,Montenegro Montenegrin First League,2021/2022,2022-03-13 13:00:00,25,Mornar,Iskra,1,1,2,['4'],['72'],1.85,2.9,1.8,2.6,1.48,2.24,1.62
+125,1566616,Montenegro Montenegrin First League,2021/2022,2022-03-16 10:00:00,23,Dečić,Budućnost,0,2,2,[],"['3', '39']",2.3,3.0,1.5,2.15,1.67,1.85,1.85
+126,1566632,Montenegro Montenegrin First League,2021/2022,2022-03-20 10:00:00,26,Rudar,Zeta,0,3,3,[],"['2', '74', '79']",1.18,3.3,4.0,2.1,1.7,2.25,1.61
+127,1566635,Montenegro Montenegrin First League,2021/2022,2022-03-20 10:00:00,26,Sutjeska,Petrovac,1,1,2,['57'],['75'],1.14,4.2,4.5,1.93,1.81,2.24,1.62
+128,1566631,Montenegro Montenegrin First League,2021/2022,2022-03-20 12:00:00,26,Budućnost,FK Jezero Plav,1,2,3,['66'],"['26', '41']",1.11,4.5,5.0,1.8,2.0,2.25,1.61
+129,1566633,Montenegro Montenegrin First League,2021/2022,2022-03-20 12:00:00,26,Iskra,Mladost Lješkopolje,2,0,2,"['70', '77']",[],1.3,3.3,3.05,2.21,1.57,2.12,1.69
+130,1566634,Montenegro Montenegrin First League,2021/2022,2022-03-20 12:00:00,26,Dečić,Mornar,4,0,4,"['24', '34', '56', '58']",[],1.42,3.0,2.5,2.4,1.53,2.24,1.62
+131,1566636,Montenegro Montenegrin First League,2021/2022,2022-04-02 09:00:00,27,Petrovac,Budućnost,0,2,2,[],"['16', '66']",3.89,3.15,1.84,2.15,1.61,2.05,1.68
+132,1566640,Montenegro Montenegrin First League,2021/2022,2022-04-02 10:00:00,27,FK Jezero Plav,Rudar,3,2,5,"['5', '11', '67']","['17', '43']",2.49,2.78,2.8,2.4,1.5,2.15,1.67
+133,1566639,Montenegro Montenegrin First League,2021/2022,2022-04-02 12:00:00,27,Zeta,Iskra,3,1,4,"['30', '40', '69']",['49'],2.5,3.0,1.42,2.4,1.53,2.1,1.68
+134,1566638,Montenegro Montenegrin First League,2021/2022,2022-04-02 12:00:00,27,Mladost Lješkopolje,Dečić,3,3,6,"['57', '69', '72']","['4', '24', '87']",2.5,2.75,1.45,1.4,2.88,1.78,1.95
+135,1566637,Montenegro Montenegrin First League,2021/2022,2022-04-02 13:00:00,27,Mornar,Sutjeska,0,2,2,[],"['20', '45+1']",2.5,3.0,1.42,2.6,1.48,2.15,1.62
+136,1566644,Montenegro Montenegrin First League,2021/2022,2022-04-06 09:00:00,28,Mladost Lješkopolje,Sutjeska,0,1,1,[],['31'],2.55,2.8,1.4,2.42,1.5,2.05,1.68
+137,1566641,Montenegro Montenegrin First League,2021/2022,2022-04-06 10:00:00,28,Budućnost,Rudar,2,0,2,"['30', '49']",[],1.4,3.8,8.0,2.15,1.61,2.3,1.55
+138,1566642,Montenegro Montenegrin First League,2021/2022,2022-04-06 10:30:00,28,FK Jezero Plav,Iskra,3,1,4,"['8', '24', '72']",['83'],2.75,2.75,2.6,2.37,1.5,2.0,1.7
+139,1566643,Montenegro Montenegrin First League,2021/2022,2022-04-06 12:00:00,28,Zeta,Dečić,1,2,3,['53'],"['16', '42']",2.2,3.25,1.55,2.1,1.7,1.95,1.78
+140,1566645,Montenegro Montenegrin First League,2021/2022,2022-04-06 13:00:00,28,Mornar,Petrovac,1,1,2,['34'],['64'],1.32,3.2,2.9,2.35,1.57,2.15,1.62
+141,1566649,Montenegro Montenegrin First League,2021/2022,2022-04-10 09:00:00,29,Dečić,FK Jezero Plav,1,2,3,['22'],"['66', '75']",1.74,3.1,3.95,2.26,1.57,2.25,1.57
+142,1566648,Montenegro Montenegrin First League,2021/2022,2022-04-10 10:30:00,29,Sutjeska,Zeta,6,1,7,"['2', '17', '49', '75', '83', '90+3']",['66'],1.26,4.75,10.5,2.08,1.75,2.75,1.39
+143,1566646,Montenegro Montenegrin First League,2021/2022,2022-04-10 12:00:00,29,Mornar,Budućnost,0,2,2,[],"['61', '90+6']",2.8,3.25,1.35,2.08,1.73,2.19,1.65
+144,1566647,Montenegro Montenegrin First League,2021/2022,2022-04-10 12:00:00,29,Petrovac,Mladost Lješkopolje,1,1,2,['82'],['59'],1.47,3.1,2.48,2.5,1.5,1.93,1.79
+145,1566650,Montenegro Montenegrin First League,2021/2022,2022-04-10 12:00:00,29,Iskra,Rudar,3,1,4,"['31', '34', '63']",['85'],1.29,3.4,3.3,1.85,1.95,2.04,1.7
+146,1566653,Montenegro Montenegrin First League,2021/2022,2022-04-16 10:30:00,30,FK Jezero Plav,Sutjeska,0,2,2,[],"['36', '51']",4.97,3.14,1.67,2.19,1.61,2.05,1.68
+147,1566652,Montenegro Montenegrin First League,2021/2022,2022-04-16 10:30:00,30,Rudar,Dečić,1,0,1,['75'],[],3.13,2.88,2.07,2.19,1.68,1.75,1.95
+148,1566651,Montenegro Montenegrin First League,2021/2022,2022-04-16 12:00:00,30,Budućnost,Iskra,4,2,6,"['62', '78', '88', '90+3']","['48', '66']",1.18,3.5,3.9,2.3,1.6,2.32,1.58
+149,1566654,Montenegro Montenegrin First League,2021/2022,2022-04-16 13:00:00,30,Zeta,Petrovac,3,0,3,"['50', '64', '72']",[],1.68,2.9,2.0,2.3,1.6,1.95,1.78
+150,1566655,Montenegro Montenegrin First League,2021/2022,2022-04-16 13:00:00,30,Mladost Lješkopolje,Mornar,1,3,4,['75'],"['18', '68', '90+3']",1.52,3.0,2.25,2.25,1.62,1.82,1.88
+151,1566659,Montenegro Montenegrin First League,2021/2022,2022-04-24 10:00:00,31,Sutjeska,Rudar,3,0,3,"['40', '83', '89']",[],1.03,6.0,7.75,1.7,2.03,2.4,1.54
+152,1566658,Montenegro Montenegrin First League,2021/2022,2022-04-24 10:00:00,31,Petrovac,FK Jezero Plav,2,1,3,"['62', '81']",['84'],1.52,3.1,2.25,2.2,1.65,2.05,1.7
+153,1566660,Montenegro Montenegrin First League,2021/2022,2022-04-24 11:00:00,31,Dečić,Iskra,2,1,3,"['6', '36']",['20'],1.5,3.0,2.3,2.2,1.65,2.04,1.74
+154,1566656,Montenegro Montenegrin First League,2021/2022,2022-04-24 13:00:00,31,Mladost Lješkopolje,Budućnost,1,5,6,['69'],"['6', '36', '49', '65', '88']",3.1,3.4,1.3,2.0,1.8,1.9,1.82
+155,1566657,Montenegro Montenegrin First League,2021/2022,2022-04-24 13:00:00,31,Mornar,Zeta,1,0,1,['87'],[],1.4,3.25,2.6,2.25,1.62,2.1,1.65
+156,1566664,Montenegro Montenegrin First League,2021/2022,2022-04-30 11:00:00,32,FK Jezero Plav,Mornar,1,2,3,['37'],"['7', '17']",2.85,2.85,2.7,2.72,1.38,2.2,1.64
+157,1566663,Montenegro Montenegrin First League,2021/2022,2022-04-30 11:00:00,32,Rudar,Petrovac,1,0,1,['45'],[],2.32,2.95,2.86,2.13,1.59,0.0,0.0
+158,1566665,Montenegro Montenegrin First League,2021/2022,2022-04-30 12:00:00,32,Zeta,Mladost Lješkopolje,1,0,1,['41'],[],2.2,3.0,3.1,2.1,1.66,0.0,0.0
+159,1566662,Montenegro Montenegrin First League,2021/2022,2022-04-30 13:00:00,32,Iskra,Sutjeska,0,3,3,[],"['29', '69', '78']",2.63,3.3,1.43,2.15,1.67,1.91,1.8
+160,1566661,Montenegro Montenegrin First League,2021/2022,2022-04-30 14:00:00,32,Budućnost,Dečić,1,2,3,['25'],"['41', '68']",1.83,3.25,3.38,1.79,1.72,1.8,1.96
+161,1566669,Montenegro Montenegrin First League,2021/2022,2022-05-08 12:00:00,33,Petrovac,Iskra,0,4,4,[],"['5', '47', '53', '56']",1.78,3.4,1.88,1.83,1.98,1.62,2.15
+162,1566670,Montenegro Montenegrin First League,2021/2022,2022-05-08 12:00:00,33,Sutjeska,Dečić,1,2,3,['17'],"['21', '51']",1.73,3.75,3.8,1.95,1.85,0.0,0.0
+163,1566666,Montenegro Montenegrin First League,2021/2022,2022-05-08 13:00:00,33,Zeta,Budućnost,2,2,4,"['22', '48']","['33', '36']",4.9,3.95,1.58,1.75,1.96,1.15,4.7
+164,1566667,Montenegro Montenegrin First League,2021/2022,2022-05-08 13:00:00,33,Mladost Lješkopolje,FK Jezero Plav,0,1,1,[],['48'],2.0,3.2,1.68,2.0,1.8,1.78,1.9
+165,1566668,Montenegro Montenegrin First League,2021/2022,2022-05-08 13:00:00,33,Mornar,Rudar,2,0,2,"['18', '88']",[],1.75,3.8,1.9,2.08,1.73,1.85,1.85
+166,1566673,Montenegro Montenegrin First League,2021/2022,2022-05-14 14:00:00,34,Iskra,Mornar,1,0,1,['59'],[],2.1,3.0,3.25,1.95,1.85,1.72,2.0
+167,1566671,Montenegro Montenegrin First League,2021/2022,2022-05-14 14:00:00,34,Budućnost,Sutjeska,4,2,6,"['7', '36', '40', '74']","['60', '66']",1.01,9.5,90.0,0.0,0.0,0.0,0.0
+168,1566672,Montenegro Montenegrin First League,2021/2022,2022-05-14 14:00:00,34,Dečić,Petrovac,2,1,3,"['17', '61']",['10'],1.19,3.6,3.9,2.2,1.65,1.72,2.0
+169,1566674,Montenegro Montenegrin First League,2021/2022,2022-05-14 14:00:00,34,Rudar,Mladost Lješkopolje,1,1,2,['13'],['39'],1.68,3.0,2.0,2.5,1.5,2.1,1.65
+170,1566675,Montenegro Montenegrin First League,2021/2022,2022-05-14 14:00:00,34,FK Jezero Plav,Zeta,0,0,0,[],[],0.0,0.0,0.0,0.0,0.0,0.0,0.0
+171,1566679,Montenegro Montenegrin First League,2021/2022,2022-05-20 15:00:00,35,Mornar,Dečić,2,1,3,"['33', '49']",['69'],1.82,2.88,1.82,1.8,2.0,1.55,2.3
+172,1566678,Montenegro Montenegrin First League,2021/2022,2022-05-20 15:00:00,35,Mladost Lješkopolje,Iskra,3,2,5,"['31', '33', '90+4']","['2', '23']",1.14,4.0,4.5,1.5,2.5,2.08,1.68
+173,1566680,Montenegro Montenegrin First League,2021/2022,2022-05-20 15:00:00,35,Petrovac,Sutjeska,1,1,2,['27'],['82'],0.0,0.0,0.0,0.0,0.0,0.0,0.0
+174,1566676,Montenegro Montenegrin First League,2021/2022,2022-05-20 15:00:00,35,FK Jezero Plav,Budućnost,2,1,3,"['44', '52']",['22'],0.0,0.0,0.0,0.0,0.0,0.0,0.0
+175,1566677,Montenegro Montenegrin First League,2021/2022,2022-05-20 15:00:00,35,Zeta,Rudar,1,0,1,['57'],[],1.07,5.0,6.0,1.57,2.35,2.05,1.7
+176,1566683,Montenegro Montenegrin First League,2021/2022,2022-05-24 15:00:00,36,Dečić,Mladost Lješkopolje,1,2,3,['67'],"['17', '30']",1.88,4.0,1.75,1.46,2.5,1.57,2.24
+177,1566684,Montenegro Montenegrin First League,2021/2022,2022-05-24 15:00:00,36,Iskra,Zeta,0,2,2,[],"['4', '34']",1.7,3.3,1.95,1.84,1.93,1.74,1.97
+178,1566681,Montenegro Montenegrin First League,2021/2022,2022-05-24 15:00:00,36,Budućnost,Petrovac,6,0,6,"['1', '5', '9', '35', '75', '83']",[],1.13,5.0,4.7,1.5,2.45,1.69,2.04
+179,1566682,Montenegro Montenegrin First League,2021/2022,2022-05-24 15:00:00,36,Sutjeska,Mornar,1,3,4,['31'],"['63', '66', '82']",1.42,3.4,2.55,2.04,1.78,1.84,1.86
+180,1566685,Montenegro Montenegrin First League,2021/2022,2022-05-24 15:00:00,36,Rudar,FK Jezero Plav,1,3,4,['83'],"['47', '68', '71']",1.95,3.6,1.7,1.61,2.15,1.55,2.29

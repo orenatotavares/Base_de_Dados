@@ -1,0 +1,241 @@
+Nº,Id_Jogo,League,Season,Date,Rodada,Home,Away,FT_Goals_H,FT_Goals_A,FT_TotalGoals,Goals_H_Minutes,Goals_A_Minutes,FT_Odd_H,FT_Odd_D,FT_Odd_A,FT_Odd_Over25,FT_Odd_Under25,FT_Odd_BTTS_Yes,FT_Odd_BTTS_No
+1,1540267,Paraguay Division Intermedia,2022,2022-04-01 17:00:00,1,Deportivo Santaní,Fernando de la Mora,2,2,4,"['-1', '-1']","['-1', '-1']",2.7,2.3,3.2,2.3,1.53,2.0,1.72
+2,1540269,Paraguay Division Intermedia,2022,2022-04-01 19:15:00,1,Sportivo Luqueño,River Plate,2,1,3,"['-1', '-1']",['-1'],2.8,3.1,2.5,2.25,1.57,0.0,0.0
+3,1540265,Paraguay Division Intermedia,2022,2022-04-02 11:00:00,1,Martín Ledesma,Rubio Ñú,0,2,2,[],"['-1', '-1']",0.0,0.0,0.0,0.0,0.0,0.0,0.0
+4,1540266,Paraguay Division Intermedia,2022,2022-04-02 11:00:00,1,Atyrá,3 de Febrero,1,2,3,['-1'],"['-1', '-1']",2.38,2.8,3.0,2.21,1.56,1.94,1.77
+5,1540262,Paraguay Division Intermedia,2022,2022-04-03 11:00:00,1,Pastoreo,CA Colegiales Paraguay,2,1,3,"['-1', '-1']",['-1'],0.0,0.0,0.0,0.0,0.0,0.0,0.0
+6,1540268,Paraguay Division Intermedia,2022,2022-04-03 11:00:00,1,Sportivo Iteño,Independiente FBC,0,2,2,[],"['-1', '-1']",0.0,0.0,0.0,4.2,1.16,0.0,0.0
+7,1540263,Paraguay Division Intermedia,2022,2022-04-04 16:00:00,1,2 de Mayo,Sportivo San Lorenzo,0,2,2,[],"['-1', '-1']",3.57,4.2,1.78,1.48,2.54,0.0,0.0
+8,1540264,Paraguay Division Intermedia,2022,2022-04-04 19:15:00,1,Sportivo Trinidense,Guaraní de Trinidad,1,0,1,['-1'],[],2.04,2.91,3.31,2.25,1.57,0.0,0.0
+9,1671895,Paraguay Division Intermedia,2022,2022-04-08 17:00:00,2,Independiente FBC,Deportivo Santaní,2,0,2,"['-1', '-1']",[],2.54,2.84,2.99,2.4,1.5,2.0,1.71
+10,1671896,Paraguay Division Intermedia,2022,2022-04-08 19:15:00,2,Rubio Ñú,Sportivo Luqueño,0,1,1,[],['-1'],0.0,0.0,0.0,1.75,1.95,0.0,0.0
+11,1671897,Paraguay Division Intermedia,2022,2022-04-09 11:00:00,2,Guaraní de Trinidad,2 de Mayo,1,0,1,['-1'],[],1.95,3.0,3.7,2.25,1.57,1.95,1.76
+12,1671898,Paraguay Division Intermedia,2022,2022-04-09 11:00:00,2,Fernando de la Mora,Atyrá,0,0,0,[],[],2.2,3.0,3.1,2.2,1.61,1.8,1.86
+13,1671900,Paraguay Division Intermedia,2022,2022-04-10 11:00:00,2,Sportivo San Lorenzo,CA Colegiales Paraguay,4,1,5,"['-1', '-1', '-1', '-1']",['-1'],0.0,0.0,0.0,2.0,1.7,0.0,0.0
+14,1671899,Paraguay Division Intermedia,2022,2022-04-10 11:00:00,2,Sportivo Iteño,Pastoreo,0,5,5,[],"['-1', '-1', '-1', '-1', '-1']",2.45,3.8,2.3,0.0,0.0,0.0,0.0
+15,1671901,Paraguay Division Intermedia,2022,2022-04-11 17:00:00,2,3 de Febrero,Martín Ledesma,1,1,2,['-1'],['-1'],1.18,6.4,13.0,0.0,0.0,0.0,0.0
+16,1671902,Paraguay Division Intermedia,2022,2022-04-11 19:15:00,2,River Plate,Sportivo Trinidense,0,4,4,[],"['-1', '-1', '-1', '-1']",1.96,3.01,3.26,0.0,0.0,0.0,0.0
+17,1671903,Paraguay Division Intermedia,2022,2022-04-16 11:00:00,3,Pastoreo,Sportivo San Lorenzo,1,1,2,['-1'],['-1'],0.0,0.0,0.0,0.0,0.0,0.0,0.0
+18,1671904,Paraguay Division Intermedia,2022,2022-04-16 11:00:00,3,CA Colegiales Paraguay,Guaraní de Trinidad,1,3,4,['-1'],"['-1', '-1', '-1']",1.8,3.25,4.2,2.4,1.5,0.0,0.0
+19,1671908,Paraguay Division Intermedia,2022,2022-04-17 11:00:00,3,Martín Ledesma,Fernando de la Mora,1,1,2,['-1'],['-1'],2.7,2.95,2.7,1.88,1.89,0.0,0.0
+20,1671909,Paraguay Division Intermedia,2022,2022-04-17 11:00:00,3,Atyrá,Independiente FBC,0,0,0,[],[],3.2,3.1,2.1,2.15,1.7,1.94,1.82
+21,1671905,Paraguay Division Intermedia,2022,2022-04-18 16:00:00,3,2 de Mayo,River Plate,1,2,3,['-1'],"['-1', '-1']",0.0,0.0,0.0,0.0,0.0,0.0,0.0
+22,1671906,Paraguay Division Intermedia,2022,2022-04-18 19:15:00,3,Sportivo Trinidense,Rubio Ñú,0,0,0,[],[],1.75,3.2,4.33,2.2,1.6,1.95,1.74
+23,1671910,Paraguay Division Intermedia,2022,2022-04-19 17:00:00,3,Deportivo Santaní,Sportivo Iteño,0,1,1,[],['-1'],1.16,7.4,11.5,2.57,1.47,2.15,1.63
+24,1671907,Paraguay Division Intermedia,2022,2022-04-19 19:15:00,3,Sportivo Luqueño,3 de Febrero,1,0,1,['-1'],[],0.0,0.0,0.0,0.0,0.0,0.0,0.0
+25,1671916,Paraguay Division Intermedia,2022,2022-04-22 17:00:00,4,Rubio Ñú,2 de Mayo,1,1,2,['-1'],['-1'],2.85,2.8,2.5,2.3,1.56,1.85,1.85
+26,1671913,Paraguay Division Intermedia,2022,2022-04-22 19:15:00,4,Independiente FBC,Martín Ledesma,5,2,7,"['-1', '-1', '-1', '-1', '-1']","['-1', '-1']",1.83,3.3,4.0,2.17,1.52,0.0,0.0
+27,1671918,Paraguay Division Intermedia,2022,2022-04-23 11:00:00,4,Guaraní de Trinidad,Sportivo San Lorenzo,0,1,1,[],['-1'],2.25,2.96,3.37,2.31,1.57,1.86,1.8
+28,1671912,Paraguay Division Intermedia,2022,2022-04-23 11:00:00,4,Sportivo Iteño,Atyrá,1,1,2,['-1'],['-1'],2.75,3.0,2.65,2.3,1.53,1.91,1.8
+29,1671917,Paraguay Division Intermedia,2022,2022-04-24 11:00:00,4,River Plate,CA Colegiales Paraguay,1,2,3,['-1'],"['-1', '-1']",0.0,0.0,0.0,0.0,0.0,0.0,0.0
+30,1671914,Paraguay Division Intermedia,2022,2022-04-24 11:00:00,4,Fernando de la Mora,Sportivo Luqueño,0,0,0,[],[],7.83,4.16,1.37,2.02,1.68,0.0,0.0
+31,1671915,Paraguay Division Intermedia,2022,2022-04-25 17:00:00,4,3 de Febrero,Sportivo Trinidense,1,1,2,['-1'],['-1'],2.5,2.95,2.55,2.3,1.57,1.9,1.8
+32,1671911,Paraguay Division Intermedia,2022,2022-04-25 19:15:00,4,Deportivo Santaní,Pastoreo,0,2,2,[],"['-1', '-1']",0.0,0.0,0.0,0.0,0.0,0.0,0.0
+33,1671923,Paraguay Division Intermedia,2022,2022-04-29 17:00:00,5,Sportivo Trinidense,Fernando de la Mora,2,0,2,"['-1', '-1']",[],2.14,2.83,4.0,2.25,1.57,1.98,1.78
+34,1671924,Paraguay Division Intermedia,2022,2022-04-29 19:15:00,5,Sportivo Luqueño,Independiente FBC,3,1,4,"['-1', '-1', '-1']",['-1'],1.95,3.1,3.19,2.2,1.6,0.0,0.0
+35,1671921,Paraguay Division Intermedia,2022,2022-04-30 11:00:00,5,CA Colegiales Paraguay,Rubio Ñú,2,1,3,"['-1', '-1']",['-1'],2.35,3.85,2.45,1.5,2.35,0.0,0.0
+36,1671919,Paraguay Division Intermedia,2022,2022-04-30 11:00:00,5,Pastoreo,Guaraní de Trinidad,1,1,2,['-1'],['-1'],0.0,0.0,0.0,0.0,0.0,0.0,0.0
+37,1671925,Paraguay Division Intermedia,2022,2022-05-01 11:00:00,5,Martín Ledesma,Sportivo Iteño,3,0,3,"['-1', '-1', '-1']",[],2.5,3.5,2.65,1.6,2.2,0.0,0.0
+38,1671926,Paraguay Division Intermedia,2022,2022-05-01 11:00:00,5,Atyrá,Deportivo Santaní,0,2,2,[],"['-1', '-1']",3.35,3.0,2.22,2.27,1.59,1.95,1.81
+39,1671922,Paraguay Division Intermedia,2022,2022-05-02 16:00:00,5,2 de Mayo,3 de Febrero,0,3,3,[],"['-1', '-1', '-1']",2.32,2.97,2.65,2.25,1.57,1.91,1.8
+40,1671920,Paraguay Division Intermedia,2022,2022-05-02 19:15:00,5,Sportivo San Lorenzo,River Plate,0,0,0,[],[],1.68,3.95,4.3,2.0,1.78,0.0,0.0
+41,1671930,Paraguay Division Intermedia,2022,2022-05-06 17:00:00,6,Independiente FBC,Sportivo Trinidense,1,1,2,['-1'],['-1'],2.93,3.1,2.2,2.25,1.57,1.9,1.8
+42,1671928,Paraguay Division Intermedia,2022,2022-05-06 19:15:00,6,Deportivo Santaní,Martín Ledesma,0,1,1,[],['-1'],2.26,3.0,3.3,1.85,1.92,0.0,0.0
+43,1671927,Paraguay Division Intermedia,2022,2022-05-07 11:00:00,6,Atyrá,Pastoreo,1,2,3,['-1'],"['-1', '-1']",5.5,3.65,1.57,0.0,0.0,0.0,0.0
+44,1671931,Paraguay Division Intermedia,2022,2022-05-07 11:00:00,6,Fernando de la Mora,2 de Mayo,2,1,3,"['-1', '-1']",['-1'],1.8,3.3,4.0,2.16,1.65,1.9,1.76
+45,1671934,Paraguay Division Intermedia,2022,2022-05-08 11:00:00,6,River Plate,Guaraní de Trinidad,1,2,3,['-1'],"['-1', '-1']",100.0,7.25,1.03,1.85,1.8,0.0,0.0
+46,1671929,Paraguay Division Intermedia,2022,2022-05-08 11:00:00,6,Sportivo Iteño,Sportivo Luqueño,0,0,0,[],[],4.8,3.5,1.61,1.83,1.87,0.0,0.0
+47,1671933,Paraguay Division Intermedia,2022,2022-05-09 17:00:00,6,Rubio Ñú,Sportivo San Lorenzo,2,1,3,"['-1', '-1']",['-1'],2.15,3.0,3.02,2.21,1.56,1.86,1.83
+48,1671932,Paraguay Division Intermedia,2022,2022-05-09 19:15:00,6,3 de Febrero,CA Colegiales Paraguay,1,3,4,['-1'],"['-1', '-1', '-1']",0.0,0.0,0.0,0.0,0.0,0.0,0.0
+49,1671940,Paraguay Division Intermedia,2022,2022-05-13 17:00:00,7,Sportivo Trinidense,Sportivo Iteño,4,1,5,"['-1', '-1', '-1', '-1']",['-1'],1.57,3.55,5.1,2.08,1.68,2.0,1.77
+50,1671941,Paraguay Division Intermedia,2022,2022-05-13 19:15:00,7,Sportivo Luqueño,Deportivo Santaní,2,2,4,"['-1', '-1']","['-1', '-1']",1.48,4.2,6.0,2.12,1.67,0.0,0.0
+51,1671935,Paraguay Division Intermedia,2022,2022-05-14 11:00:00,7,Pastoreo,River Plate,1,0,1,['-1'],[],0.0,0.0,0.0,0.0,0.0,0.0,0.0
+52,1671938,Paraguay Division Intermedia,2022,2022-05-14 11:00:00,7,CA Colegiales Paraguay,Fernando de la Mora,1,3,4,['-1'],"['-1', '-1', '-1']",0.0,0.0,0.0,0.0,0.0,0.0,0.0
+53,1671936,Paraguay Division Intermedia,2022,2022-05-15 11:00:00,7,Guaraní de Trinidad,Rubio Ñú,0,2,2,[],"['-1', '-1']",2.06,2.77,3.29,2.55,1.46,2.08,1.67
+54,1671939,Paraguay Division Intermedia,2022,2022-05-15 11:00:00,7,2 de Mayo,Independiente FBC,1,2,3,['-1'],"['-1', '-1']",0.0,0.0,0.0,0.0,0.0,0.0,0.0
+55,1671942,Paraguay Division Intermedia,2022,2022-05-16 16:00:00,7,Martín Ledesma,Atyrá,1,0,1,['-1'],[],1.97,3.28,3.73,2.12,1.67,0.0,0.0
+56,1671937,Paraguay Division Intermedia,2022,2022-05-16 19:15:00,7,Sportivo San Lorenzo,3 de Febrero,3,0,3,"['-1', '-1', '-1']",[],3.45,3.2,1.93,2.3,1.57,1.92,1.78
+57,1671945,Paraguay Division Intermedia,2022,2022-05-17 16:00:00,8,Deportivo Santaní,Sportivo Trinidense,2,2,4,"['-1', '-1']","['-1', '-1']",1.89,3.37,3.83,2.2,1.6,1.9,1.8
+58,1671946,Paraguay Division Intermedia,2022,2022-05-18 11:00:00,8,Sportivo Iteño,2 de Mayo,1,1,2,['-1'],['-1'],2.8,3.1,2.5,2.12,1.72,1.75,1.95
+59,1671947,Paraguay Division Intermedia,2022,2022-05-18 11:00:00,8,Independiente FBC,CA Colegiales Paraguay,0,3,3,[],"['-1', '-1', '-1']",1.87,3.35,4.0,1.68,2.14,0.0,0.0
+60,1671950,Paraguay Division Intermedia,2022,2022-05-18 16:00:00,8,Rubio Ñú,River Plate,0,1,1,[],['-1'],1.51,3.53,4.85,2.01,1.61,0.0,0.0
+61,1671943,Paraguay Division Intermedia,2022,2022-05-19 11:00:00,8,Martín Ledesma,Pastoreo,0,0,0,[],[],2.6,2.9,2.55,2.25,1.57,0.0,0.0
+62,1671949,Paraguay Division Intermedia,2022,2022-05-19 11:00:00,8,3 de Febrero,Guaraní de Trinidad,0,1,1,[],['-1'],1.9,2.95,3.9,2.49,1.5,2.05,1.7
+63,1671944,Paraguay Division Intermedia,2022,2022-05-19 16:00:00,8,Atyrá,Sportivo Luqueño,0,1,1,[],['-1'],3.25,3.25,2.14,2.25,1.6,1.91,1.85
+64,1671948,Paraguay Division Intermedia,2022,2022-05-20 16:00:00,8,Fernando de la Mora,Sportivo San Lorenzo,0,2,2,[],"['-1', '-1']",2.1,3.0,3.4,2.1,1.67,1.9,1.8
+65,1671955,Paraguay Division Intermedia,2022,2022-05-21 11:00:00,9,CA Colegiales Paraguay,Sportivo Iteño,1,2,3,['-1'],"['-1', '-1']",2.05,3.2,3.4,1.59,2.32,0.0,0.0
+66,1671956,Paraguay Division Intermedia,2022,2022-05-21 11:00:00,9,2 de Mayo,Deportivo Santaní,1,2,3,['-1'],"['-1', '-1']",3.74,2.98,1.83,2.1,1.62,2.03,1.75
+67,1671951,Paraguay Division Intermedia,2022,2022-05-22 11:00:00,9,Pastoreo,Rubio Ñú,0,0,0,[],[],1.87,3.15,4.07,2.3,1.58,0.0,0.0
+68,1671957,Paraguay Division Intermedia,2022,2022-05-22 11:00:00,9,Sportivo Trinidense,Atyrá,1,0,1,['-1'],[],1.6,3.5,4.75,1.91,1.8,1.91,1.85
+69,1671952,Paraguay Division Intermedia,2022,2022-05-23 16:00:00,9,River Plate,3 de Febrero,0,1,1,[],['-1'],1.95,3.05,3.24,2.3,1.53,0.0,0.0
+70,1671958,Paraguay Division Intermedia,2022,2022-05-23 18:00:00,9,Sportivo Luqueño,Martín Ledesma,1,2,3,['-1'],"['-1', '-1']",1.65,3.15,4.4,0.0,0.0,0.0,0.0
+71,1671953,Paraguay Division Intermedia,2022,2022-05-24 11:00:00,9,Guaraní de Trinidad,Fernando de la Mora,1,2,3,['-1'],"['-1', '-1']",2.6,2.8,2.65,2.54,1.43,2.1,1.67
+72,1671954,Paraguay Division Intermedia,2022,2022-05-24 19:30:00,9,Sportivo San Lorenzo,Independiente FBC,2,0,2,"['-1', '-1']",[],3.1,2.9,2.2,2.3,1.57,2.02,1.71
+73,1671966,Paraguay Division Intermedia,2022,2022-05-27 18:30:00,10,3 de Febrero,Rubio Ñú,0,0,0,[],[],1.9,3.1,3.75,2.05,1.65,2.1,1.7
+74,1671959,Paraguay Division Intermedia,2022,2022-05-27 20:45:00,10,Sportivo Luqueño,Pastoreo,1,1,2,['-1'],['-1'],0.0,0.0,0.0,0.0,0.0,0.0,0.0
+75,1671960,Paraguay Division Intermedia,2022,2022-05-28 11:00:00,10,Martín Ledesma,Sportivo Trinidense,0,2,2,[],"['-1', '-1']",2.2,3.0,3.0,2.1,1.67,0.0,0.0
+76,1671961,Paraguay Division Intermedia,2022,2022-05-28 11:00:00,10,Atyrá,2 de Mayo,0,1,1,[],['-1'],2.2,2.9,3.2,2.23,1.58,1.91,1.85
+77,1671963,Paraguay Division Intermedia,2022,2022-05-29 11:00:00,10,Sportivo Iteño,Sportivo San Lorenzo,1,1,2,['-1'],['-1'],2.68,2.9,2.43,2.09,1.63,1.8,1.96
+78,1671965,Paraguay Division Intermedia,2022,2022-05-29 11:00:00,10,Fernando de la Mora,River Plate,0,0,0,[],[],1.52,3.2,4.3,2.3,1.57,0.0,0.0
+79,1671964,Paraguay Division Intermedia,2022,2022-05-30 18:00:00,10,Independiente FBC,Guaraní de Trinidad,1,1,2,['-1'],['-1'],2.15,2.8,3.3,2.48,1.45,2.23,1.62
+80,1671962,Paraguay Division Intermedia,2022,2022-05-30 20:15:00,10,Deportivo Santaní,CA Colegiales Paraguay,0,1,1,[],['-1'],0.0,0.0,0.0,0.0,0.0,0.0,0.0
+81,1671968,Paraguay Division Intermedia,2022,2022-06-03 16:00:00,11,Rubio Ñú,Fernando de la Mora,0,0,0,[],[],3.1,2.8,2.3,2.5,1.47,2.1,1.7
+82,1671971,Paraguay Division Intermedia,2022,2022-06-03 20:45:00,11,Sportivo San Lorenzo,Deportivo Santaní,1,0,1,['-1'],[],2.8,2.9,2.4,2.08,1.68,2.0,1.77
+83,1671972,Paraguay Division Intermedia,2022,2022-06-04 11:00:00,11,CA Colegiales Paraguay,Atyrá,0,0,0,[],[],1.75,3.25,4.2,2.0,1.73,0.0,0.0
+84,1671973,Paraguay Division Intermedia,2022,2022-06-04 11:00:00,11,2 de Mayo,Martín Ledesma,0,0,0,[],[],2.8,3.1,2.12,2.15,1.61,0.0,0.0
+85,1671967,Paraguay Division Intermedia,2022,2022-06-05 11:00:00,11,Pastoreo,3 de Febrero,1,0,1,['-1'],[],1.67,3.2,5.55,2.25,1.57,0.0,0.0
+86,1671970,Paraguay Division Intermedia,2022,2022-06-05 11:00:00,11,Guaraní de Trinidad,Sportivo Iteño,1,1,2,['-1'],['-1'],1.7,3.4,5.0,2.19,1.57,2.14,1.67
+87,1671969,Paraguay Division Intermedia,2022,2022-06-06 18:30:00,11,River Plate,Independiente FBC,2,0,2,"['-1', '-1']",[],3.2,2.9,2.15,2.35,1.53,0.0,0.0
+88,1671974,Paraguay Division Intermedia,2022,2022-06-06 20:45:00,11,Sportivo Trinidense,Sportivo Luqueño,2,4,6,"['-1', '-1']","['-1', '-1', '-1', '-1']",0.0,0.0,0.0,0.0,0.0,0.0,0.0
+89,1671980,Paraguay Division Intermedia,2022,2022-06-10 16:00:00,12,Sportivo Iteño,River Plate,1,4,5,['-1'],"['-1', '-1', '-1', '-1']",2.02,2.96,3.15,2.38,1.53,0.0,0.0
+90,1671976,Paraguay Division Intermedia,2022,2022-06-10 20:30:00,12,Sportivo Luqueño,2 de Mayo,2,0,2,"['-1', '-1']",[],0.0,0.0,0.0,0.0,0.0,0.0,0.0
+91,1671977,Paraguay Division Intermedia,2022,2022-06-11 11:00:00,12,Martín Ledesma,CA Colegiales Paraguay,2,0,2,"['-1', '-1']",[],0.0,0.0,0.0,0.0,0.0,0.0,0.0
+92,1671978,Paraguay Division Intermedia,2022,2022-06-11 11:00:00,12,Atyrá,Sportivo San Lorenzo,1,0,1,['-1'],[],3.25,3.1,2.23,1.9,1.8,1.94,1.77
+93,1671979,Paraguay Division Intermedia,2022,2022-06-12 11:00:00,12,Deportivo Santaní,Guaraní de Trinidad,2,4,6,"['-1', '-1']","['-1', '-1', '-1', '-1']",2.11,2.99,3.66,2.39,1.47,2.14,1.67
+94,1671982,Paraguay Division Intermedia,2022,2022-06-12 11:00:00,12,Fernando de la Mora,3 de Febrero,3,0,3,"['-1', '-1', '-1']",[],2.22,2.95,3.42,2.25,1.53,1.95,1.81
+95,1671981,Paraguay Division Intermedia,2022,2022-06-13 18:00:00,12,Independiente FBC,Rubio Ñú,2,1,3,"['-1', '-1']",['-1'],1.95,3.1,4.08,2.42,1.52,2.16,1.66
+96,1671975,Paraguay Division Intermedia,2022,2022-06-13 20:15:00,12,Sportivo Trinidense,Pastoreo,2,2,4,"['-1', '-1']","['-1', '-1']",0.0,0.0,0.0,0.0,0.0,0.0,0.0
+97,1671985,Paraguay Division Intermedia,2022,2022-06-17 18:00:00,13,Rubio Ñú,Sportivo Iteño,2,0,2,"['-1', '-1']",[],1.48,4.0,6.45,1.99,1.82,2.05,1.73
+98,1671988,Paraguay Division Intermedia,2022,2022-06-17 20:15:00,13,Sportivo San Lorenzo,Martín Ledesma,1,1,2,['-1'],['-1'],1.58,4.1,4.9,2.07,1.73,0.0,0.0
+99,1671989,Paraguay Division Intermedia,2022,2022-06-18 11:00:00,13,CA Colegiales Paraguay,Sportivo Luqueño,1,0,1,['-1'],[],3.4,3.18,2.04,1.86,1.87,0.0,0.0
+100,1671987,Paraguay Division Intermedia,2022,2022-06-18 11:00:00,13,Guaraní de Trinidad,Atyrá,2,1,3,"['-1', '-1']",['-1'],0.0,0.0,0.0,0.0,0.0,0.0,0.0
+101,1671983,Paraguay Division Intermedia,2022,2022-06-19 11:00:00,13,Pastoreo,Fernando de la Mora,1,4,5,['-1'],"['-1', '-1', '-1', '-1']",5.43,3.56,1.46,1.95,1.65,0.0,0.0
+102,1671990,Paraguay Division Intermedia,2022,2022-06-19 11:00:00,13,2 de Mayo,Sportivo Trinidense,2,3,5,"['-1', '-1']","['-1', '-1', '-1']",3.3,2.9,2.15,2.04,1.66,1.91,1.85
+103,1671986,Paraguay Division Intermedia,2022,2022-06-20 18:00:00,13,River Plate,Deportivo Santaní,2,0,2,"['-1', '-1']",[],1.93,3.27,3.9,2.14,1.66,0.0,0.0
+104,1671984,Paraguay Division Intermedia,2022,2022-06-20 20:15:00,13,3 de Febrero,Independiente FBC,2,3,5,"['-1', '-1']","['-1', '-1', '-1']",2.72,2.95,2.68,2.49,1.5,1.95,1.68
+105,1671996,Paraguay Division Intermedia,2022,2022-06-24 18:00:00,14,Deportivo Santaní,Rubio Ñú,0,4,4,[],"['-1', '-1', '-1', '-1']",2.25,3.1,3.19,2.29,1.52,2.08,1.71
+106,1671993,Paraguay Division Intermedia,2022,2022-06-24 20:15:00,14,Sportivo Luqueño,Sportivo San Lorenzo,1,2,3,['-1'],"['-1', '-1']",2.45,2.75,2.65,0.0,0.0,0.0,0.0
+107,1671991,Paraguay Division Intermedia,2022,2022-06-25 11:00:00,14,2 de Mayo,Pastoreo,2,2,4,"['-1', '-1']","['-1', '-1']",8.0,4.3,1.38,1.88,1.89,0.0,0.0
+108,1671994,Paraguay Division Intermedia,2022,2022-06-25 11:00:00,14,Martín Ledesma,Guaraní de Trinidad,1,0,1,['-1'],[],2.2,2.9,3.1,2.3,1.57,0.0,0.0
+109,1671997,Paraguay Division Intermedia,2022,2022-06-26 11:00:00,14,Sportivo Iteño,3 de Febrero,0,1,1,[],['-1'],3.1,2.9,2.15,2.05,1.7,1.85,1.91
+110,1671995,Paraguay Division Intermedia,2022,2022-06-26 11:00:00,14,Atyrá,River Plate,1,0,1,['-1'],[],2.2,2.95,3.1,2.68,1.34,0.0,0.0
+111,1671992,Paraguay Division Intermedia,2022,2022-06-27 11:00:00,14,Sportivo Trinidense,CA Colegiales Paraguay,2,0,2,"['-1', '-1']",[],1.71,3.56,3.54,1.58,2.14,0.0,0.0
+112,1671998,Paraguay Division Intermedia,2022,2022-06-27 18:00:00,14,Independiente FBC,Fernando de la Mora,2,2,4,"['-1', '-1']","['-1', '-1']",2.24,2.84,2.86,2.48,1.45,2.0,1.71
+113,1672001,Paraguay Division Intermedia,2022,2022-07-01 18:00:00,15,3 de Febrero,Deportivo Santaní,2,0,2,"['-1', '-1']",[],2.55,2.95,2.49,2.11,1.6,1.9,1.74
+114,1672002,Paraguay Division Intermedia,2022,2022-07-01 20:15:00,15,Rubio Ñú,Atyrá,1,0,1,['-1'],[],2.09,3.1,3.6,2.32,1.56,2.05,1.73
+115,1672000,Paraguay Division Intermedia,2022,2022-07-02 11:00:00,15,Fernando de la Mora,Sportivo Iteño,4,1,5,"['-1', '-1', '-1', '-1']",['-1'],1.58,3.75,5.6,1.93,1.78,2.0,1.77
+116,1672004,Paraguay Division Intermedia,2022,2022-07-02 11:00:00,15,Guaraní de Trinidad,Sportivo Luqueño,0,2,2,[],"['-1', '-1']",3.0,3.1,2.15,1.56,2.08,0.0,0.0
+117,1672006,Paraguay Division Intermedia,2022,2022-07-03 11:00:00,15,CA Colegiales Paraguay,2 de Mayo,2,2,4,"['-1', '-1']","['-1', '-1']",1.69,3.45,3.7,1.78,1.92,0.0,0.0
+118,1671999,Paraguay Division Intermedia,2022,2022-07-03 11:00:00,15,Pastoreo,Independiente FBC,0,0,0,[],[],1.97,3.5,3.5,2.0,1.78,0.0,0.0
+119,1672003,Paraguay Division Intermedia,2022,2022-07-04 15:30:00,15,River Plate,Martín Ledesma,0,1,1,[],['-1'],2.6,3.02,2.74,2.36,1.55,0.0,0.0
+120,1672005,Paraguay Division Intermedia,2022,2022-07-04 20:15:00,15,Sportivo San Lorenzo,Sportivo Trinidense,3,0,3,"['-1', '-1', '-1']",[],2.66,3.13,2.6,2.11,1.68,1.8,1.96
+121,1672011,Paraguay Division Intermedia,2022,2022-07-08 18:00:00,16,Rubio Ñú,Martín Ledesma,0,1,1,[],['-1'],2.05,2.87,3.5,2.45,1.5,0.0,0.0
+122,1672012,Paraguay Division Intermedia,2022,2022-07-08 20:15:00,16,3 de Febrero,Atyrá,0,2,2,[],"['-1', '-1']",1.84,3.3,4.35,2.17,1.56,2.08,1.71
+123,1672009,Paraguay Division Intermedia,2022,2022-07-09 11:00:00,16,Guaraní de Trinidad,Sportivo Trinidense,1,2,3,['-1'],"['-1', '-1']",2.55,2.95,2.55,2.23,1.58,1.91,1.8
+124,1672013,Paraguay Division Intermedia,2022,2022-07-09 11:00:00,16,Fernando de la Mora,Deportivo Santaní,0,1,1,[],['-1'],2.1,2.9,3.3,2.4,1.5,2.0,1.77
+125,1672010,Paraguay Division Intermedia,2022,2022-07-10 11:00:00,16,River Plate,Sportivo Luqueño,1,2,3,['-1'],"['-1', '-1']",2.88,3.3,2.15,2.3,1.58,0.0,0.0
+126,1672014,Paraguay Division Intermedia,2022,2022-07-10 11:00:00,16,Independiente FBC,Sportivo Iteño,1,0,1,['-1'],[],1.33,4.64,8.8,1.95,1.79,2.03,1.75
+127,1672007,Paraguay Division Intermedia,2022,2022-07-11 15:30:00,16,CA Colegiales Paraguay,Pastoreo,1,0,1,['-1'],[],0.0,0.0,0.0,0.0,0.0,0.0,0.0
+128,1672008,Paraguay Division Intermedia,2022,2022-07-11 20:15:00,16,Sportivo San Lorenzo,2 de Mayo,1,0,1,['-1'],[],1.45,3.8,6.0,1.87,1.83,1.98,1.74
+129,1672018,Paraguay Division Intermedia,2022,2022-07-15 15:30:00,17,Martín Ledesma,3 de Febrero,1,1,2,['-1'],['-1'],1.78,2.97,3.97,2.38,1.43,0.0,0.0
+130,1672020,Paraguay Division Intermedia,2022,2022-07-15 20:15:00,17,Sportivo Trinidense,River Plate,3,1,4,"['-1', '-1', '-1']",['-1'],1.53,3.75,5.5,1.73,2.07,0.0,0.0
+131,1672015,Paraguay Division Intermedia,2022,2022-07-16 11:00:00,17,Pastoreo,Sportivo Iteño,1,2,3,['-1'],"['-1', '-1']",1.29,4.8,11.0,1.49,2.55,0.0,0.0
+132,1672021,Paraguay Division Intermedia,2022,2022-07-16 11:00:00,17,2 de Mayo,Guaraní de Trinidad,1,0,1,['-1'],[],4.25,3.1,1.8,2.25,1.57,1.95,1.81
+133,1672022,Paraguay Division Intermedia,2022,2022-07-17 11:00:00,17,CA Colegiales Paraguay,Sportivo San Lorenzo,0,1,1,[],['-1'],3.6,3.3,1.76,1.92,1.78,0.0,0.0
+134,1672019,Paraguay Division Intermedia,2022,2022-07-17 11:00:00,17,Sportivo Luqueño,Rubio Ñú,2,1,3,"['-1', '-1']",['-1'],1.75,3.35,3.6,1.9,1.8,1.84,1.92
+135,1672017,Paraguay Division Intermedia,2022,2022-07-18 15:30:00,17,Atyrá,Fernando de la Mora,0,1,1,[],['-1'],3.6,3.0,1.95,2.3,1.53,2.04,1.74
+136,1672016,Paraguay Division Intermedia,2022,2022-07-18 20:15:00,17,Deportivo Santaní,Independiente FBC,0,1,1,[],['-1'],2.55,2.9,2.6,2.2,1.6,1.95,1.76
+137,1672029,Paraguay Division Intermedia,2022,2022-07-22 18:00:00,18,Independiente FBC,Atyrá,1,2,3,['-1'],"['-1', '-1']",1.75,3.2,4.1,2.04,1.78,1.95,1.74
+138,1672023,Paraguay Division Intermedia,2022,2022-07-22 20:15:00,18,Sportivo San Lorenzo,Pastoreo,1,2,3,['-1'],"['-1', '-1']",1.75,3.3,4.95,2.48,1.43,0.0,0.0
+139,1672025,Paraguay Division Intermedia,2022,2022-07-23 11:00:00,18,River Plate,2 de Mayo,0,1,1,[],['-1'],1.94,2.82,4.75,2.13,1.59,0.0,0.0
+140,1672030,Paraguay Division Intermedia,2022,2022-07-23 11:00:00,18,Sportivo Iteño,Deportivo Santaní,0,1,1,[],['-1'],4.0,3.25,1.93,2.01,1.66,1.89,1.83
+141,1672027,Paraguay Division Intermedia,2022,2022-07-24 11:00:00,18,3 de Febrero,Sportivo Luqueño,2,4,6,"['-1', '-1']","['-1', '-1', '-1', '-1']",3.09,2.88,2.27,2.24,1.55,0.0,0.0
+142,1672028,Paraguay Division Intermedia,2022,2022-07-24 11:00:00,18,Fernando de la Mora,Martín Ledesma,0,0,0,[],[],2.12,2.88,3.32,2.38,1.47,2.0,1.77
+143,1672024,Paraguay Division Intermedia,2022,2022-07-25 15:30:00,18,Guaraní de Trinidad,CA Colegiales Paraguay,0,0,0,[],[],2.07,2.98,3.02,1.61,2.01,0.0,0.0
+144,1672026,Paraguay Division Intermedia,2022,2022-07-25 20:15:00,18,Rubio Ñú,Sportivo Trinidense,0,2,2,[],"['-1', '-1']",2.9,3.1,2.2,2.25,1.57,1.83,1.8
+145,1672036,Paraguay Division Intermedia,2022,2022-07-29 15:30:00,19,2 de Mayo,Rubio Ñú,2,2,4,"['-1', '-1']","['-1', '-1']",3.25,3.0,2.15,2.23,1.55,1.91,1.85
+146,1672035,Paraguay Division Intermedia,2022,2022-07-29 20:30:00,19,Sportivo Trinidense,3 de Febrero,1,1,2,['-1'],['-1'],2.0,3.0,3.6,2.1,1.6,2.0,1.72
+147,1672033,Paraguay Division Intermedia,2022,2022-07-30 11:00:00,19,Martín Ledesma,Independiente FBC,0,0,0,[],[],1.92,3.08,3.27,2.17,1.52,0.0,0.0
+148,1672037,Paraguay Division Intermedia,2022,2022-07-30 15:00:00,19,CA Colegiales Paraguay,River Plate,1,0,1,['-1'],[],1.78,3.04,3.84,2.37,1.43,0.0,0.0
+149,1672031,Paraguay Division Intermedia,2022,2022-07-31 11:00:00,19,Pastoreo,Deportivo Santaní,4,0,4,"['-1', '-1', '-1', '-1']",[],1.73,3.37,5.13,2.04,1.59,0.0,0.0
+150,1672038,Paraguay Division Intermedia,2022,2022-07-31 11:00:00,19,Sportivo San Lorenzo,Guaraní de Trinidad,2,0,2,"['-1', '-1']",[],1.92,3.25,3.95,2.12,1.59,1.98,1.74
+151,1672032,Paraguay Division Intermedia,2022,2022-08-01 15:30:00,19,Atyrá,Sportivo Iteño,2,0,2,"['-1', '-1']",[],1.91,3.1,3.8,1.91,1.8,1.86,1.8
+152,1672034,Paraguay Division Intermedia,2022,2022-08-01 20:30:00,19,Sportivo Luqueño,Fernando de la Mora,2,0,2,"['-1', '-1']",[],1.93,3.15,4.15,1.81,1.82,0.0,0.0
+153,1672042,Paraguay Division Intermedia,2022,2022-08-05 18:00:00,20,3 de Febrero,2 de Mayo,0,0,0,[],[],2.6,2.7,2.8,2.09,1.61,1.9,1.76
+154,1672039,Paraguay Division Intermedia,2022,2022-08-06 11:00:00,20,Guaraní de Trinidad,Pastoreo,1,2,3,['-1'],"['-1', '-1']",3.05,2.99,2.05,2.17,1.52,0.0,0.0
+155,1672046,Paraguay Division Intermedia,2022,2022-08-06 11:00:00,20,Deportivo Santaní,Atyrá,2,3,5,"['-1', '-1']","['-1', '-1', '-1']",1.84,2.89,3.51,2.28,1.53,2.03,1.75
+156,1672040,Paraguay Division Intermedia,2022,2022-08-06 16:00:00,20,River Plate,Sportivo San Lorenzo,1,1,2,['-1'],['-1'],2.85,2.86,2.22,2.17,1.52,0.0,0.0
+157,1672043,Paraguay Division Intermedia,2022,2022-08-07 11:00:00,20,Fernando de la Mora,Sportivo Trinidense,0,2,2,[],"['-1', '-1']",2.4,3.0,2.7,2.2,1.6,1.89,1.82
+158,1672041,Paraguay Division Intermedia,2022,2022-08-07 11:00:00,20,Rubio Ñú,CA Colegiales Paraguay,1,2,3,['-1'],"['-1', '-1']",2.4,3.4,2.4,1.62,2.15,0.0,0.0
+159,1672045,Paraguay Division Intermedia,2022,2022-08-08 15:30:00,20,Sportivo Iteño,Martín Ledesma,1,1,2,['-1'],['-1'],3.56,3.14,1.82,2.08,1.56,1.9,1.75
+160,1672044,Paraguay Division Intermedia,2022,2022-08-08 20:30:00,20,Independiente FBC,Sportivo Luqueño,0,1,1,[],['-1'],2.2,2.95,2.8,1.63,1.98,0.0,0.0
+161,1672048,Paraguay Division Intermedia,2022,2022-08-12 15:45:00,21,Martín Ledesma,Deportivo Santaní,0,2,2,[],"['-1', '-1']",1.51,3.61,4.71,2.17,1.52,0.0,0.0
+162,1672050,Paraguay Division Intermedia,2022,2022-08-12 20:15:00,21,Sportivo Trinidense,Independiente FBC,2,1,3,"['-1', '-1']",['-1'],2.01,2.84,3.1,2.23,1.55,1.97,1.8
+163,1672054,Paraguay Division Intermedia,2022,2022-08-13 11:00:00,21,Guaraní de Trinidad,River Plate,1,1,2,['-1'],['-1'],2.27,3.03,2.63,1.98,1.63,0.0,0.0
+164,1672051,Paraguay Division Intermedia,2022,2022-08-13 11:00:00,21,2 de Mayo,Fernando de la Mora,3,0,3,"['-1', '-1', '-1']",[],5.7,3.4,1.55,2.08,1.67,2.0,1.77
+165,1672047,Paraguay Division Intermedia,2022,2022-08-14 11:00:00,21,Pastoreo,Atyrá,2,1,3,"['-1', '-1']",['-1'],1.68,3.28,5.6,2.41,1.53,0.0,0.0
+166,1672052,Paraguay Division Intermedia,2022,2022-08-14 11:00:00,21,CA Colegiales Paraguay,3 de Febrero,1,1,2,['-1'],['-1'],1.83,2.79,4.09,2.17,1.52,0.0,0.0
+167,1672053,Paraguay Division Intermedia,2022,2022-08-15 18:00:00,21,Sportivo San Lorenzo,Rubio Ñú,4,1,5,"['-1', '-1', '-1', '-1']",['-1'],2.75,2.87,2.45,2.3,1.53,1.98,1.78
+168,1672049,Paraguay Division Intermedia,2022,2022-08-15 20:15:00,21,Sportivo Luqueño,Sportivo Iteño,2,2,4,"['-1', '-1']","['-1', '-1']",1.29,4.75,8.5,1.97,1.73,0.0,0.0
+169,1672055,Paraguay Division Intermedia,2022,2022-08-18 18:00:00,22,River Plate,Pastoreo,1,2,3,['-1'],"['-1', '-1']",3.19,3.09,1.95,1.78,1.79,0.0,0.0
+170,1672059,Paraguay Division Intermedia,2022,2022-08-18 20:15:00,22,Independiente FBC,2 de Mayo,1,0,1,['-1'],[],1.74,3.04,3.91,1.64,2.14,1.83,1.86
+171,1672056,Paraguay Division Intermedia,2022,2022-08-19 18:00:00,22,Rubio Ñú,Guaraní de Trinidad,3,1,4,"['-1', '-1', '-1']",['-1'],2.09,2.86,3.11,2.22,1.49,0.0,0.0
+172,1672057,Paraguay Division Intermedia,2022,2022-08-19 20:15:00,22,3 de Febrero,Sportivo San Lorenzo,2,1,3,"['-1', '-1']",['-1'],3.15,3.3,1.99,1.98,1.84,1.74,1.95
+173,1672058,Paraguay Division Intermedia,2022,2022-08-20 11:00:00,22,Fernando de la Mora,CA Colegiales Paraguay,5,1,6,"['-1', '-1', '-1', '-1', '-1']",['-1'],2.32,3.25,2.94,1.6,2.1,0.0,0.0
+174,1672062,Paraguay Division Intermedia,2022,2022-08-20 11:00:00,22,Atyrá,Martín Ledesma,2,0,2,"['-1', '-1']",[],2.35,3.25,2.87,1.65,2.03,0.0,0.0
+175,1672060,Paraguay Division Intermedia,2022,2022-08-21 11:00:00,22,Sportivo Iteño,Sportivo Trinidense,1,3,4,['-1'],"['-1', '-1', '-1']",6.0,3.75,1.5,1.92,1.72,2.08,1.71
+176,1672061,Paraguay Division Intermedia,2022,2022-08-21 11:00:00,22,Deportivo Santaní,Sportivo Luqueño,0,1,1,[],['-1'],4.89,3.54,1.51,1.84,1.73,0.0,0.0
+177,1672063,Paraguay Division Intermedia,2022,2022-08-23 15:15:00,23,Pastoreo,Martín Ledesma,1,0,1,['-1'],[],2.01,3.09,3.05,2.13,1.54,0.0,0.0
+178,1672067,Paraguay Division Intermedia,2022,2022-08-23 15:15:00,23,CA Colegiales Paraguay,Independiente FBC,3,0,3,"['-1', '-1', '-1']",[],2.44,3.02,2.44,1.91,1.68,0.0,0.0
+179,1672066,Paraguay Division Intermedia,2022,2022-08-24 15:15:00,23,2 de Mayo,Sportivo Iteño,3,1,4,"['-1', '-1', '-1']",['-1'],1.76,3.25,3.95,1.96,1.69,1.95,1.81
+180,1672070,Paraguay Division Intermedia,2022,2022-08-24 18:00:00,23,River Plate,Rubio Ñú,0,2,2,[],"['-1', '-1']",3.1,2.98,2.03,2.17,1.64,0.0,0.0
+181,1672065,Paraguay Division Intermedia,2022,2022-08-25 18:00:00,23,Sportivo Trinidense,Deportivo Santaní,2,0,2,"['-1', '-1']",[],1.93,3.38,3.62,1.91,1.8,1.8,1.9
+182,1672068,Paraguay Division Intermedia,2022,2022-08-25 20:15:00,23,Sportivo San Lorenzo,Fernando de la Mora,1,3,4,['-1'],"['-1', '-1', '-1']",1.94,3.24,3.74,2.2,1.6,2.0,1.77
+183,1672069,Paraguay Division Intermedia,2022,2022-08-26 15:15:00,23,Guaraní de Trinidad,3 de Febrero,1,1,2,['-1'],['-1'],2.35,2.8,2.9,2.48,1.49,2.01,1.72
+184,1672064,Paraguay Division Intermedia,2022,2022-08-26 20:15:00,23,Sportivo Luqueño,Atyrá,2,1,3,"['-1', '-1']",['-1'],1.61,3.1,5.5,0.0,0.0,0.0,0.0
+185,1672071,Paraguay Division Intermedia,2022,2022-08-27 11:00:00,24,Rubio Ñú,Pastoreo,0,4,4,[],"['-1', '-1', '-1', '-1']",0.0,0.0,0.0,0.0,0.0,0.0,0.0
+186,1672075,Paraguay Division Intermedia,2022,2022-08-27 11:00:00,24,Sportivo Iteño,CA Colegiales Paraguay,3,3,6,"['-1', '-1', '-1']","['-1', '-1', '-1']",0.0,0.0,0.0,0.0,0.0,0.0,0.0
+187,1672076,Paraguay Division Intermedia,2022,2022-08-28 11:00:00,24,Deportivo Santaní,2 de Mayo,3,1,4,"['-1', '-1', '-1']",['-1'],2.08,3.16,3.4,2.25,1.6,1.95,1.76
+188,1672077,Paraguay Division Intermedia,2022,2022-08-29 15:15:00,24,Atyrá,Sportivo Trinidense,0,0,0,[],[],4.5,3.25,1.7,2.1,1.67,1.86,1.83
+189,1672072,Paraguay Division Intermedia,2022,2022-08-29 20:15:00,24,3 de Febrero,River Plate,0,1,1,[],['-1'],2.01,2.92,3.23,2.27,1.47,0.0,0.0
+190,1672073,Paraguay Division Intermedia,2022,2022-08-30 15:15:00,24,Fernando de la Mora,Guaraní de Trinidad,3,1,4,"['-1', '-1', '-1']",['-1'],2.03,2.86,3.24,2.35,1.53,2.04,1.74
+191,1672074,Paraguay Division Intermedia,2022,2022-08-30 18:00:00,24,Independiente FBC,Sportivo San Lorenzo,1,1,2,['-1'],['-1'],2.88,2.76,2.17,2.3,1.53,1.98,1.78
+192,1672078,Paraguay Division Intermedia,2022,2022-08-30 20:15:00,24,Martín Ledesma,Sportivo Luqueño,0,1,1,[],['-1'],3.81,2.93,1.83,2.27,1.47,0.0,0.0
+193,1672081,Paraguay Division Intermedia,2022,2022-09-02 15:15:00,25,2 de Mayo,Atyrá,0,2,2,[],"['-1', '-1']",2.38,3.0,3.05,2.28,1.56,1.86,1.83
+194,1672086,Paraguay Division Intermedia,2022,2022-09-02 20:15:00,25,Rubio Ñú,3 de Febrero,1,1,2,['-1'],['-1'],2.45,2.8,2.9,2.45,1.5,2.0,1.71
+195,1672083,Paraguay Division Intermedia,2022,2022-09-03 11:00:00,25,Sportivo San Lorenzo,Sportivo Iteño,5,2,7,"['-1', '-1', '-1', '-1', '-1']","['-1', '-1']",1.3,4.8,8.5,1.74,1.94,2.35,1.56
+196,1672085,Paraguay Division Intermedia,2022,2022-09-03 11:00:00,25,River Plate,Fernando de la Mora,1,1,2,['-1'],['-1'],3.2,3.13,2.13,2.2,1.62,0.0,0.0
+197,1672082,Paraguay Division Intermedia,2022,2022-09-04 11:00:00,25,CA Colegiales Paraguay,Deportivo Santaní,0,0,0,[],[],1.58,3.72,5.05,1.96,1.79,0.0,0.0
+198,1672084,Paraguay Division Intermedia,2022,2022-09-04 11:00:00,25,Guaraní de Trinidad,Independiente FBC,2,1,3,"['-1', '-1']",['-1'],2.55,3.17,2.55,2.26,1.59,0.0,0.0
+199,1672079,Paraguay Division Intermedia,2022,2022-09-05 15:15:00,25,Pastoreo,Sportivo Luqueño,1,1,2,['-1'],['-1'],2.31,3.15,3.03,2.08,1.56,0.0,0.0
+200,1672080,Paraguay Division Intermedia,2022,2022-09-05 20:15:00,25,Sportivo Trinidense,Martín Ledesma,3,1,4,"['-1', '-1', '-1']",['-1'],1.08,9.74,23.0,0.0,0.0,0.0,0.0
+201,1672089,Paraguay Division Intermedia,2022,2022-09-09 18:00:00,26,Independiente FBC,River Plate,1,0,1,['-1'],[],1.69,3.2,4.04,2.08,1.56,0.0,0.0
+202,1672087,Paraguay Division Intermedia,2022,2022-09-09 20:15:00,26,3 de Febrero,Pastoreo,1,1,2,['-1'],['-1'],3.65,3.15,1.88,2.23,1.64,0.0,0.0
+203,1672090,Paraguay Division Intermedia,2022,2022-09-10 11:00:00,26,Sportivo Iteño,Guaraní de Trinidad,3,1,4,"['-1', '-1', '-1']",['-1'],4.7,3.3,1.78,1.94,1.73,2.05,1.69
+204,1672092,Paraguay Division Intermedia,2022,2022-09-10 11:00:00,26,Atyrá,CA Colegiales Paraguay,2,1,3,"['-1', '-1']",['-1'],4.0,3.2,1.83,0.0,0.0,0.0,0.0
+205,1672093,Paraguay Division Intermedia,2022,2022-09-11 11:00:00,26,Martín Ledesma,2 de Mayo,2,1,3,"['-1', '-1']",['-1'],0.0,0.0,0.0,0.0,0.0,0.0,0.0
+206,1672088,Paraguay Division Intermedia,2022,2022-09-11 11:00:00,26,Fernando de la Mora,Rubio Ñú,0,2,2,[],"['-1', '-1']",1.68,3.3,4.7,2.25,1.57,2.1,1.7
+207,1672091,Paraguay Division Intermedia,2022,2022-09-12 18:00:00,26,Deportivo Santaní,Sportivo San Lorenzo,1,0,1,['-1'],[],3.49,3.1,1.92,2.09,1.63,1.95,1.81
+208,1672094,Paraguay Division Intermedia,2022,2022-09-12 20:15:00,26,Sportivo Luqueño,Sportivo Trinidense,0,0,0,[],[],0.0,0.0,0.0,0.0,0.0,0.0,0.0
+209,1672097,Paraguay Division Intermedia,2022,2022-09-16 15:15:00,27,CA Colegiales Paraguay,Martín Ledesma,0,1,1,[],['-1'],2.22,2.92,2.8,2.26,1.62,1.95,1.81
+210,1672100,Paraguay Division Intermedia,2022,2022-09-16 20:15:00,27,River Plate,Sportivo Iteño,4,1,5,"['-1', '-1', '-1', '-1']",['-1'],0.0,0.0,0.0,0.0,0.0,0.0,0.0
+211,1672096,Paraguay Division Intermedia,2022,2022-09-17 11:00:00,27,2 de Mayo,Sportivo Luqueño,3,0,3,"['-1', '-1', '-1']",[],4.71,3.61,1.51,1.88,1.7,0.0,0.0
+212,1672095,Paraguay Division Intermedia,2022,2022-09-17 11:00:00,27,Pastoreo,Sportivo Trinidense,1,3,4,['-1'],"['-1', '-1', '-1']",2.23,2.95,2.76,1.78,1.79,0.0,0.0
+213,1672098,Paraguay Division Intermedia,2022,2022-09-18 11:00:00,27,Sportivo San Lorenzo,Atyrá,3,0,3,"['-1', '-1', '-1']",[],1.71,3.36,4.35,2.0,1.67,1.97,1.8
+214,1672099,Paraguay Division Intermedia,2022,2022-09-18 11:00:00,27,Guaraní de Trinidad,Deportivo Santaní,0,2,2,[],"['-1', '-1']",2.61,2.94,2.62,2.15,1.58,2.0,1.77
+215,1672101,Paraguay Division Intermedia,2022,2022-09-19 18:00:00,27,Rubio Ñú,Independiente FBC,1,0,1,['-1'],[],2.85,2.8,2.5,2.5,1.47,2.1,1.7
+216,1672102,Paraguay Division Intermedia,2022,2022-09-19 20:15:00,27,3 de Febrero,Fernando de la Mora,2,1,3,"['-1', '-1']",['-1'],2.45,2.8,2.95,2.5,1.47,2.0,1.71
+217,1672104,Paraguay Division Intermedia,2022,2022-09-23 18:00:00,28,Independiente FBC,3 de Febrero,2,0,2,"['-1', '-1']",[],2.2,2.95,3.0,2.39,1.47,2.04,1.69
+218,1672107,Paraguay Division Intermedia,2022,2022-09-24 11:00:00,28,Atyrá,Guaraní de Trinidad,0,0,0,[],[],2.76,2.92,2.66,2.53,1.42,2.07,1.67
+219,1672106,Paraguay Division Intermedia,2022,2022-09-24 11:00:00,28,Deportivo Santaní,River Plate,3,0,3,"['-1', '-1', '-1']",[],2.32,2.85,2.71,2.08,1.56,0.0,0.0
+220,1672105,Paraguay Division Intermedia,2022,2022-09-24 11:00:00,28,Sportivo Iteño,Rubio Ñú,1,5,6,['-1'],"['-1', '-1', '-1', '-1', '-1']",3.65,3.05,2.07,2.16,1.57,1.94,1.77
+221,1672108,Paraguay Division Intermedia,2022,2022-09-25 11:00:00,28,Martín Ledesma,Sportivo San Lorenzo,3,0,3,"['-1', '-1', '-1']",[],2.76,2.95,2.23,2.17,1.52,0.0,0.0
+222,1672109,Paraguay Division Intermedia,2022,2022-09-25 11:00:00,28,Sportivo Luqueño,CA Colegiales Paraguay,1,0,1,['-1'],[],1.42,3.81,5.4,1.7,1.89,0.0,0.0
+223,1672110,Paraguay Division Intermedia,2022,2022-09-25 11:00:00,28,Sportivo Trinidense,2 de Mayo,1,1,2,['-1'],['-1'],1.46,3.49,4.94,1.88,1.73,2.0,1.77
+224,1672103,Paraguay Division Intermedia,2022,2022-09-26 15:15:00,28,Fernando de la Mora,Pastoreo,2,0,2,"['-1', '-1']",[],1.87,3.22,3.27,1.63,1.98,1.61,2.26
+225,1672115,Paraguay Division Intermedia,2022,2022-09-29 18:30:00,29,River Plate,Atyrá,0,1,1,[],['-1'],2.42,2.76,2.67,2.85,1.34,0.0,0.0
+226,1672117,Paraguay Division Intermedia,2022,2022-09-29 18:30:00,29,3 de Febrero,Sportivo Iteño,2,0,2,"['-1', '-1']",[],1.55,3.8,5.5,1.9,1.9,1.95,1.81
+227,1672116,Paraguay Division Intermedia,2022,2022-09-30 15:30:00,29,Rubio Ñú,Deportivo Santaní,2,2,4,"['-1', '-1']","['-1', '-1']",2.25,2.9,3.1,2.38,1.52,1.95,1.81
+228,1672114,Paraguay Division Intermedia,2022,2022-09-30 15:30:00,29,Guaraní de Trinidad,Martín Ledesma,2,1,3,"['-1', '-1']",['-1'],3.44,2.86,1.96,2.01,1.61,0.0,0.0
+229,1672112,Paraguay Division Intermedia,2022,2022-10-02 10:00:00,29,CA Colegiales Paraguay,Sportivo Trinidense,0,1,1,[],['-1'],4.03,3.34,1.66,1.79,1.78,0.0,0.0
+230,1672113,Paraguay Division Intermedia,2022,2022-10-02 10:00:00,29,Sportivo San Lorenzo,Sportivo Luqueño,2,0,2,"['-1', '-1']",[],1.74,3.23,3.75,1.79,1.78,0.0,0.0
+231,1672118,Paraguay Division Intermedia,2022,2022-10-03 14:30:00,29,Fernando de la Mora,Independiente FBC,3,1,4,"['-1', '-1', '-1']",['-1'],2.25,2.8,3.2,2.43,1.5,2.06,1.73
+232,1672111,Paraguay Division Intermedia,2022,2022-10-03 14:30:00,29,Pastoreo,2 de Mayo,1,0,1,['-1'],[],1.31,4.14,6.77,1.7,1.89,0.0,0.0
+233,1672121,Paraguay Division Intermedia,2022,2022-10-07 19:00:00,30,Deportivo Santaní,3 de Febrero,1,1,2,['-1'],['-1'],3.96,3.42,1.83,2.01,1.77,1.91,1.85
+234,1672124,Paraguay Division Intermedia,2022,2022-10-07 19:00:00,30,Sportivo Luqueño,Guaraní de Trinidad,2,1,3,"['-1', '-1']",['-1'],2.07,3.1,3.54,2.1,1.66,1.95,1.77
+235,1672125,Paraguay Division Intermedia,2022,2022-10-08 10:00:00,30,Sportivo Trinidense,Sportivo San Lorenzo,2,0,2,"['-1', '-1']",[],2.15,2.95,3.3,2.04,1.64,1.84,1.87
+236,1672126,Paraguay Division Intermedia,2022,2022-10-08 10:00:00,30,2 de Mayo,CA Colegiales Paraguay,3,0,3,"['-1', '-1', '-1']",[],0.0,0.0,0.0,0.0,0.0,0.0,0.0
+237,1672120,Paraguay Division Intermedia,2022,2022-10-09 10:00:00,30,Sportivo Iteño,Fernando de la Mora,0,6,6,[],"['-1', '-1', '-1', '-1', '-1', '-1']",11.5,4.9,1.25,1.86,1.91,2.5,1.47
+238,1672122,Paraguay Division Intermedia,2022,2022-10-09 10:00:00,30,Atyrá,Rubio Ñú,0,2,2,[],"['-1', '-1']",2.38,2.97,3.0,2.72,1.38,2.06,1.73
+239,1672123,Paraguay Division Intermedia,2022,2022-10-10 15:30:00,30,Martín Ledesma,River Plate,3,2,5,"['-1', '-1', '-1']","['-1', '-1']",1.87,3.8,3.53,2.18,1.63,0.0,0.0
+240,1672119,Paraguay Division Intermedia,2022,2022-10-10 19:00:00,30,Independiente FBC,Pastoreo,1,1,2,['-1'],['-1'],0.0,0.0,0.0,0.0,0.0,0.0,0.0

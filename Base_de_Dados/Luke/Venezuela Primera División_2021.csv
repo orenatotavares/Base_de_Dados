@@ -1,0 +1,304 @@
+Nº,Id_Jogo,League,Season,Date,Rodada,Home,Away,FT_Goals_H,FT_Goals_A,FT_TotalGoals,Goals_H_Minutes,Goals_A_Minutes,FT_Odd_H,FT_Odd_D,FT_Odd_A,FT_Odd_Over25,FT_Odd_Under25,FT_Odd_BTTS_Yes,FT_Odd_BTTS_No
+1,1195115,Venezuela Primera División,2021,2021-04-11 20:30:00,1,Deportivo La Guaira,Aragua,0,0,0,[],[],1.75,3.2,4.6,1.6,2.3,0.0,0.0
+2,1195112,Venezuela Primera División,2021,2021-04-15 19:00:00,1,Deportivo Táchira,Hermanos Colmenares,2,1,3,"['45+2', '62']",['6'],1.36,4.1,7.5,1.75,1.95,2.05,1.7
+3,1195119,Venezuela Primera División,2021,2021-04-15 21:15:00,1,Monagas,Mineros de Guayana,2,0,2,"['58', '75']",[],2.95,3.1,2.25,2.0,1.72,1.8,1.91
+4,1195120,Venezuela Primera División,2021,2021-04-16 17:00:00,1,Atlético Venezuela,Metropolitanos,3,2,5,"['24', '40', '42']","['4', '75']",2.25,3.1,3.0,2.32,1.55,2.0,1.76
+5,1195113,Venezuela Primera División,2021,2021-04-16 20:15:00,1,Estudiantes Mérida,Trujillanos,4,0,4,"['17', '59', '80', '89']",[],2.25,3.2,2.9,1.93,1.88,1.82,1.92
+6,1195118,Venezuela Primera División,2021,2021-04-17 17:00:00,1,Caracas,UCV,2,0,2,"['29', '81']",[],1.45,3.8,7.0,1.73,2.05,2.13,1.67
+7,1195117,Venezuela Primera División,2021,2021-04-17 19:30:00,1,Deportivo Lara,Yaracuyanos,1,2,3,['36'],"['6', '18']",1.5,3.6,7.0,1.65,2.2,2.14,1.66
+8,1195116,Venezuela Primera División,2021,2021-04-18 18:00:00,1,Gran Valencia,Carabobo,1,0,1,['58'],[],2.25,3.1,3.1,1.65,2.2,1.89,1.85
+9,1195114,Venezuela Primera División,2021,2021-04-18 20:00:00,1,Zamora,Portuguesa,0,0,0,[],[],1.77,3.3,3.85,1.87,1.71,1.8,1.83
+10,1211268,Venezuela Primera División,2021,2021-04-22 17:00:00,2,LALA,Caracas,1,0,1,['34'],[],4.4,3.4,1.64,2.0,1.7,2.08,1.7
+11,1211271,Venezuela Primera División,2021,2021-04-22 19:15:00,2,Hermanos Colmenares,Estudiantes Mérida,4,2,6,"['45+1', '66', '81', '83']","['49', '78']",3.95,3.1,1.8,1.95,1.67,1.87,1.77
+12,1211269,Venezuela Primera División,2021,2021-04-22 21:30:00,2,Carabobo,Deportivo Lara,1,1,2,['30'],['59'],3.5,3.4,1.8,2.0,1.62,2.0,1.67
+13,1211270,Venezuela Primera División,2021,2021-04-23 17:00:00,2,Mineros de Guayana,Atlético Venezuela,1,0,1,['45+1'],[],2.3,3.25,2.9,1.83,1.93,1.74,2.02
+14,1211272,Venezuela Primera División,2021,2021-04-23 20:00:00,2,Trujillanos,Zamora,0,4,4,[],"['12', '19', '26', '63']",5.75,3.2,1.54,1.8,1.8,1.74,1.87
+15,1211273,Venezuela Primera División,2021,2021-04-24 17:00:00,2,Zulia,Deportivo Táchira,5,0,5,"['4', '7', '35', '43', '66']",[],2.96,3.26,2.35,2.03,1.78,1.81,1.93
+16,1211274,Venezuela Primera División,2021,2021-04-24 19:15:00,2,Academia Puerto Cabello,Deportivo La Guaira,0,0,0,[],[],2.8,2.65,2.55,2.35,1.45,2.05,1.65
+17,1211276,Venezuela Primera División,2021,2021-04-25 17:00:00,2,Aragua,Gran Valencia,0,2,2,[],"['49', '79']",1.61,3.45,4.5,1.95,1.67,1.95,1.69
+18,1211275,Venezuela Primera División,2021,2021-04-25 19:15:00,2,UCV,Monagas,0,2,2,[],"['26', '44']",2.8,3.1,2.2,2.05,1.61,1.91,1.71
+19,1211277,Venezuela Primera División,2021,2021-04-29 17:00:00,3,Estudiantes Mérida,Zulia,1,0,1,['72'],[],1.91,3.2,3.2,1.96,1.74,1.79,1.96
+20,1211278,Venezuela Primera División,2021,2021-04-29 19:15:00,3,Monagas,LALA,1,1,2,['74'],['79'],1.69,3.2,4.05,2.25,1.57,2.01,1.75
+21,1211279,Venezuela Primera División,2021,2021-04-29 21:30:00,3,Gran Valencia,Academia Puerto Cabello,0,0,0,[],[],3.13,3.2,2.2,1.67,2.15,1.94,1.81
+22,1225497,Venezuela Primera División,2021,2021-04-30 17:00:00,3,Atlético Venezuela,UCV,1,1,2,['53'],['26'],2.15,3.1,3.2,2.25,1.62,2.0,1.75
+23,1225498,Venezuela Primera División,2021,2021-04-30 20:00:00,3,Zamora,Hermanos Colmenares,2,2,4,"['53', '86']","['79', '90+4']",1.85,3.5,3.5,2.05,1.75,1.87,1.87
+24,1211282,Venezuela Primera División,2021,2021-05-01 18:00:00,3,Metropolitanos,Caracas,1,3,4,['34'],"['16', '25', '60']",4.16,3.62,1.82,1.97,1.73,1.83,1.8
+25,1211284,Venezuela Primera División,2021,2021-05-01 20:15:00,3,Portuguesa,Deportivo Táchira,0,3,3,[],"['42', '45+2', '48']",2.88,3.0,2.3,2.19,1.6,1.91,1.71
+26,1211285,Venezuela Primera División,2021,2021-05-02 18:00:00,3,Yaracuyanos,Deportivo La Guaira,0,2,2,[],"['38', '42']",3.24,3.05,2.33,2.55,1.46,2.19,1.63
+27,1211283,Venezuela Primera División,2021,2021-05-02 21:30:00,3,Deportivo Lara,Aragua,4,1,5,"['13', '19', '65', '72']",['82'],1.67,3.4,4.75,2.3,1.6,0.0,0.0
+28,1211286,Venezuela Primera División,2021,2021-05-06 17:00:00,4,Zulia,Zamora,3,3,6,"['15', '19', '27']","['45', '51', '75']",2.5,3.2,2.5,2.17,1.62,1.83,1.8
+29,1211288,Venezuela Primera División,2021,2021-05-06 20:00:00,4,Academia Puerto Cabello,Deportivo Lara,0,3,3,[],"['36', '73', '85']",2.65,3.05,2.35,2.1,1.57,1.95,1.71
+30,1211287,Venezuela Primera División,2021,2021-05-07 18:00:00,4,Caracas,Mineros de Guayana,3,0,3,"['34', '50', '53']",[],1.32,4.15,7.0,1.91,1.71,2.45,1.48
+31,1211290,Venezuela Primera División,2021,2021-05-08 17:00:00,4,LALA,Atlético Venezuela,2,2,4,"['70', '77']","['29', '50']",2.8,3.0,2.35,2.05,1.67,1.83,1.91
+32,1211291,Venezuela Primera División,2021,2021-05-08 19:15:00,4,Gran Valencia,Yaracuyanos,1,0,1,['2'],[],2.5,2.9,2.7,2.2,1.6,1.88,1.86
+33,1211292,Venezuela Primera División,2021,2021-05-08 21:30:00,4,Deportivo Táchira,Trujillanos,2,0,2,"['1', '40']",[],1.27,5.6,10.0,1.55,2.3,2.05,1.72
+34,1211293,Venezuela Primera División,2021,2021-05-09 17:00:00,4,Deportivo La Guaira,Carabobo,4,2,6,"['15', '17', '24', '45+1']","['2', '52']",1.53,3.55,5.75,2.15,1.62,2.21,1.62
+35,1211294,Venezuela Primera División,2021,2021-05-09 19:15:00,4,Estudiantes Mérida,Portuguesa,0,2,2,[],"['51', '90+6']",1.63,3.3,5.25,1.9,1.82,1.89,1.85
+36,1211295,Venezuela Primera División,2021,2021-05-13 18:00:00,5,Yaracuyanos,Carabobo,1,2,3,['69'],"['25', '47']",1.53,3.3,5.75,1.91,1.71,1.95,1.69
+37,1211297,Venezuela Primera División,2021,2021-05-13 20:15:00,5,Portuguesa,Trujillanos,5,0,5,"['30', '37', '45', '54', '80']",[],1.3,4.15,8.0,1.35,2.7,1.51,2.25
+38,1211300,Venezuela Primera División,2021,2021-05-14 17:00:00,5,Caracas,Monagas,2,0,2,"['42', '60']",[],1.73,3.4,4.2,2.07,1.68,1.95,1.71
+39,1211298,Venezuela Primera División,2021,2021-05-14 19:15:00,5,Hermanos Colmenares,Zulia,0,0,0,[],[],1.95,3.1,3.45,1.83,1.77,1.71,1.95
+40,1211296,Venezuela Primera División,2021,2021-05-14 21:30:00,5,UCV,LALA,2,0,2,"['85', '90+2']",[],1.71,3.45,3.65,1.91,1.71,1.87,1.77
+41,1211301,Venezuela Primera División,2021,2021-05-15 18:00:00,5,Deportivo La Guaira,Gran Valencia,0,0,0,[],[],1.82,3.32,4.66,2.05,1.67,3.0,1.29
+42,1211302,Venezuela Primera División,2021,2021-05-15 20:15:00,5,Deportivo Táchira,Estudiantes Mérida,1,0,1,['38'],[],2.0,2.8,3.7,1.91,1.71,1.71,1.91
+43,1211299,Venezuela Primera División,2021,2021-05-16 17:00:00,5,Aragua,Academia Puerto Cabello,0,0,0,[],[],3.18,3.25,2.05,2.16,1.62,1.87,1.74
+44,1211303,Venezuela Primera División,2021,2021-05-16 20:00:00,5,Metropolitanos,Mineros de Guayana,3,0,3,"['7', '77', '79']",[],2.2,2.7,3.3,1.95,1.67,1.74,1.87
+45,1211307,Venezuela Primera División,2021,2021-05-20 17:00:00,6,Atlético Venezuela,Caracas,0,4,4,[],"['31', '77', '86', '90+1']",4.2,3.5,1.75,1.8,1.89,1.74,1.87
+46,1211305,Venezuela Primera División,2021,2021-05-20 19:15:00,6,Mineros de Guayana,LALA,3,0,3,"['34', '54', '78']",[],2.6,3.0,2.45,1.87,1.71,1.71,1.91
+47,1211308,Venezuela Primera División,2021,2021-05-20 21:30:00,6,Portuguesa,Hermanos Colmenares,0,0,0,[],[],2.05,3.35,2.95,2.0,1.8,1.77,1.95
+48,1211306,Venezuela Primera División,2021,2021-05-21 18:00:00,6,Trujillanos,Zulia,1,2,3,['27'],"['11', '25']",10.25,6.25,1.14,1.31,2.9,1.8,1.83
+49,1211304,Venezuela Primera División,2021,2021-05-21 20:15:00,6,Carabobo,Academia Puerto Cabello,2,2,4,"['48', '85']","['30', '76']",4.15,3.5,1.65,1.95,1.67,2.0,1.67
+50,1211310,Venezuela Primera División,2021,2021-05-22 19:15:00,6,Zamora,Deportivo Táchira,2,1,3,"['9', '72']",['81'],2.05,3.1,3.15,2.05,1.61,1.91,1.71
+51,1211309,Venezuela Primera División,2021,2021-05-22 21:30:00,6,Deportivo Lara,Deportivo La Guaira,1,2,3,['72'],"['50', '58']",1.8,3.15,3.9,1.91,1.71,1.8,1.83
+52,1211311,Venezuela Primera División,2021,2021-05-23 18:00:00,6,Yaracuyanos,Aragua,0,1,1,[],['10'],2.5,3.1,2.45,2.1,1.57,1.95,1.69
+53,1211312,Venezuela Primera División,2021,2021-05-23 20:15:00,6,Metropolitanos,UCV,3,2,5,"['17', '52', '63']","['17', '28']",1.71,3.5,3.8,2.0,1.62,2.0,1.67
+54,1211313,Venezuela Primera División,2021,2021-05-27 18:00:00,7,Trujillanos,Hermanos Colmenares,0,2,2,[],"['66', '90+5']",10.25,6.0,1.15,1.39,2.55,2.05,1.62
+55,1211315,Venezuela Primera División,2021,2021-05-27 20:15:00,7,Monagas,Atlético Venezuela,0,0,0,[],[],1.74,3.45,3.7,1.67,1.95,1.65,2.05
+56,1211316,Venezuela Primera División,2021,2021-05-28 17:00:00,7,Zulia,Portuguesa,1,2,3,['34'],"['20', '55']",2.15,3.0,3.2,2.1,1.66,1.87,1.77
+57,1211314,Venezuela Primera División,2021,2021-05-28 20:15:00,7,Gran Valencia,Deportivo Lara,3,3,6,"['16', '27', '56']","['45', '49', '62']",3.3,3.0,2.0,2.1,1.59,1.95,1.71
+58,1211318,Venezuela Primera División,2021,2021-05-29 18:00:00,7,Mineros de Guayana,UCV,3,1,4,"['19', '45+1', '90+7']",['36'],1.87,3.1,3.6,1.87,1.71,1.8,1.83
+59,1211317,Venezuela Primera División,2021,2021-05-29 20:15:00,7,Academia Puerto Cabello,Yaracuyanos,1,2,3,['83'],"['46', '51']",1.59,3.1,5.5,2.25,1.49,2.25,1.51
+60,1211320,Venezuela Primera División,2021,2021-05-30 17:00:00,7,Estudiantes Mérida,Zamora,1,0,1,['53'],[],2.8,3.25,2.25,2.0,1.73,1.77,1.87
+61,1211321,Venezuela Primera División,2021,2021-05-30 19:15:00,7,LALA,Metropolitanos,1,5,6,['50'],"['20', '24', '51', '58', '85']",2.4,3.35,2.4,1.74,1.83,1.69,1.95
+62,1211319,Venezuela Primera División,2021,2021-05-30 21:30:00,7,Carabobo,Aragua,3,1,4,"['32', '51', '85']",['64'],2.75,2.95,2.35,2.05,1.61,1.87,1.77
+63,1211330,Venezuela Primera División,2021,2021-06-02 17:00:00,8,Metropolitanos,Atlético Venezuela,1,1,2,['22'],['90+2'],2.15,2.85,3.2,2.25,1.5,2.0,1.65
+64,1211328,Venezuela Primera División,2021,2021-06-03 12:15:00,8,UCV,Caracas,2,3,5,"['45+2', '69']","['13', '42', '52']",5.75,3.45,1.49,1.83,1.77,1.87,1.77
+65,1211329,Venezuela Primera División,2021,2021-06-03 19:15:00,8,Mineros de Guayana,Monagas,2,1,3,"['13', '45+2']",['71'],3.1,3.15,2.05,1.95,1.69,1.91,1.71
+66,1211326,Venezuela Primera División,2021,2021-06-03 21:30:00,8,Trujillanos,Estudiantes Mérida,0,7,7,[],"['8', '24', '30', '36', '48', '62', '87']",7.25,5.5,1.24,1.49,2.25,2.0,1.67
+67,1211322,Venezuela Primera División,2021,2021-06-04 17:00:00,8,Aragua,Deportivo La Guaira,2,0,2,"['25', '73']",[],4.0,3.3,1.69,2.19,1.6,2.1,1.61
+68,1211327,Venezuela Primera División,2021,2021-06-04 20:00:00,8,Portuguesa,Zamora,2,1,3,"['63', '67']",['42'],4.05,3.15,1.77,1.91,1.71,1.8,1.83
+69,1211323,Venezuela Primera División,2021,2021-06-05 18:00:00,8,Carabobo,Gran Valencia,2,3,5,"['74', '89']","['27', '47', '56']",2.25,3.1,2.8,2.0,1.62,1.83,1.8
+70,1211325,Venezuela Primera División,2021,2021-06-05 20:15:00,8,Hermanos Colmenares,Deportivo Táchira,2,2,4,"['56', '89']","['65', '85']",2.95,2.95,2.25,2.05,1.61,1.87,1.77
+71,1211324,Venezuela Primera División,2021,2021-06-06 19:15:00,8,Yaracuyanos,Deportivo Lara,1,0,1,['20'],[],3.25,2.85,2.2,2.25,1.57,2.3,1.5
+72,1211289,Venezuela Primera División,2021,2021-06-09 18:00:00,4,Monagas,Metropolitanos,3,1,4,"['10', '34', '56']",['80'],2.2,3.1,2.85,2.15,1.54,2.05,1.62
+73,1211337,Venezuela Primera División,2021,2021-06-10 18:00:00,9,Caracas,LALA,1,2,3,['37'],"['41', '79']",1.1,6.75,14.0,1.44,2.4,2.45,1.43
+74,1211333,Venezuela Primera División,2021,2021-06-10 20:15:00,9,Deportivo Lara,Carabobo,0,0,0,[],[],1.31,4.2,6.75,1.65,2.0,1.8,1.8
+75,1211339,Venezuela Primera División,2021,2021-06-11 17:00:00,9,Atlético Venezuela,Mineros de Guayana,1,0,1,['49'],[],2.5,3.25,2.6,1.8,1.95,1.5,2.25
+76,1211336,Venezuela Primera División,2021,2021-06-11 19:15:00,9,Zamora,Trujillanos,6,0,6,"['22', '35', '44', '50', '77', '88']",[],1.07,7.5,16.0,1.25,3.25,2.15,1.56
+77,1211332,Venezuela Primera División,2021,2021-06-11 21:30:00,9,Gran Valencia,Aragua,2,2,4,"['29', '90+2']","['66', '70']",2.3,3.0,2.8,2.57,1.44,2.14,1.66
+78,1211331,Venezuela Primera División,2021,2021-06-12 18:00:00,9,Deportivo La Guaira,Academia Puerto Cabello,0,1,1,[],['21'],1.65,3.4,4.4,1.77,1.83,1.74,1.87
+79,1211334,Venezuela Primera División,2021,2021-06-12 20:15:00,9,Deportivo Táchira,Zulia,4,1,5,"['4', '80', '82', '89']",['45+1'],1.44,3.5,6.0,1.8,1.95,1.8,1.8
+80,1211335,Venezuela Primera División,2021,2021-06-13 16:00:00,9,Estudiantes Mérida,Hermanos Colmenares,6,2,8,"['3', '51', '59', '69', '75', '89']","['23', '34']",2.05,3.2,3.4,1.92,1.81,1.8,1.83
+81,1211338,Venezuela Primera División,2021,2021-06-13 20:30:00,9,Monagas,UCV,4,0,4,"['21', '58', '80', '84']",[],1.71,3.05,4.5,2.0,1.62,1.91,1.71
+82,1211340,Venezuela Primera División,2021,2021-06-16 19:15:00,10,Deportivo La Guaira,Yaracuyanos,1,1,2,['84'],['53'],1.54,3.4,5.5,1.87,1.74,1.91,1.71
+83,1211346,Venezuela Primera División,2021,2021-06-17 20:15:00,10,LALA,Monagas,0,3,3,[],"['40', '64', '90+3']",4.25,3.45,1.65,1.8,1.8,1.8,1.83
+84,1211341,Venezuela Primera División,2021,2021-06-17 22:30:00,10,Academia Puerto Cabello,Gran Valencia,1,1,2,['59'],['19'],2.3,2.65,3.1,2.35,1.45,2.15,1.57
+85,1211344,Venezuela Primera División,2021,2021-06-18 17:00:00,10,Zulia,Estudiantes Mérida,1,2,3,['27'],"['14', '39']",2.7,3.25,2.3,1.8,2.0,1.59,2.1
+86,1211347,Venezuela Primera División,2021,2021-06-18 20:00:00,10,UCV,Atlético Venezuela,2,2,4,"['38', '67']","['45+2', '64']",2.7,2.85,2.45,1.95,1.67,1.74,1.91
+87,1211342,Venezuela Primera División,2021,2021-06-19 17:00:00,10,Aragua,Deportivo Lara,0,0,0,[],[],3.75,3.1,1.91,2.1,1.67,1.91,1.71
+88,1211348,Venezuela Primera División,2021,2021-06-19 20:00:00,10,Caracas,Metropolitanos,1,1,2,['56'],['3'],1.32,4.5,6.25,1.77,1.83,2.05,1.62
+89,1211343,Venezuela Primera División,2021,2021-06-20 16:00:00,10,Deportivo Táchira,Portuguesa,1,0,1,['90+1'],[],1.75,3.4,4.27,2.11,1.65,2.01,1.75
+90,1211345,Venezuela Primera División,2021,2021-06-20 21:30:00,10,Hermanos Colmenares,Zamora,3,2,5,"['52', '54', '75']","['37', '65']",3.65,3.0,1.91,1.9,1.9,1.72,2.05
+91,1211356,Venezuela Primera División,2021,2021-06-24 19:15:00,11,Metropolitanos,Monagas,2,4,6,"['29', '61']","['23', '32', '69', '77']",2.15,3.2,2.8,1.71,1.91,1.62,2.05
+92,1211351,Venezuela Primera División,2021,2021-06-24 21:30:00,11,Deportivo Lara,Academia Puerto Cabello,2,2,4,"['32', '36']","['16', '24']",1.91,3.2,3.4,2.05,1.61,1.95,1.69
+93,1211349,Venezuela Primera División,2021,2021-06-25 18:00:00,11,Carabobo,Deportivo La Guaira,1,1,2,['55'],['39'],3.05,3.25,2.05,1.91,1.71,1.8,1.83
+94,1211352,Venezuela Primera División,2021,2021-06-25 20:15:00,11,Trujillanos,Deportivo Táchira,0,3,3,[],"['23', '57', '61']",12.0,9.25,1.07,1.17,4.05,2.05,1.62
+95,1211357,Venezuela Primera División,2021,2021-06-26 12:00:00,11,Atlético Venezuela,LALA,4,2,6,"['9', '41', '65', '82']","['51', '86']",1.95,3.2,3.5,2.1,1.65,1.95,1.71
+96,1211353,Venezuela Primera División,2021,2021-06-26 17:45:00,11,Portuguesa,Estudiantes Mérida,3,0,3,"['28', '76', '90+4']",[],2.6,3.25,2.3,1.8,1.8,1.71,1.95
+97,1211355,Venezuela Primera División,2021,2021-06-26 20:00:00,11,Mineros de Guayana,Caracas,2,2,4,"['53', '87']","['61', '79']",3.5,3.6,1.77,1.71,1.91,1.71,1.91
+98,1211350,Venezuela Primera División,2021,2021-06-26 22:00:00,11,Yaracuyanos,Gran Valencia,1,1,2,['52'],['90+3'],2.35,2.75,2.9,2.35,1.45,2.1,1.59
+99,1211354,Venezuela Primera División,2021,2021-06-27 20:30:00,11,Zamora,Zulia,2,1,3,"['43', '72']",['83'],1.34,4.0,6.0,1.67,1.95,1.74,1.91
+100,1211366,Venezuela Primera División,2021,2021-07-01 18:00:00,12,LALA,UCV,0,2,2,[],"['19', '50']",2.0,2.9,3.6,1.57,2.1,1.45,2.4
+101,1211361,Venezuela Primera División,2021,2021-07-01 20:15:00,12,Estudiantes Mérida,Deportivo Táchira,1,1,2,['49'],['31'],2.15,3.1,2.9,1.82,2.03,1.71,1.91
+102,1211365,Venezuela Primera División,2021,2021-07-02 18:00:00,12,Mineros de Guayana,Metropolitanos,1,0,1,['84'],[],1.95,3.6,3.0,1.56,2.1,1.54,2.2
+103,1211360,Venezuela Primera División,2021,2021-07-02 20:15:00,12,Academia Puerto Cabello,Aragua,1,0,1,['73'],[],2.15,2.6,3.5,2.65,1.36,2.3,1.49
+104,1211363,Venezuela Primera División,2021,2021-07-03 17:00:00,12,Zulia,Hermanos Colmenares,2,2,4,"['24', '56']","['67', '72']",2.25,3.25,2.75,1.8,2.0,1.65,2.05
+105,1211358,Venezuela Primera División,2021,2021-07-03 20:00:00,12,Gran Valencia,Deportivo La Guaira,0,0,0,[],[],2.95,2.65,2.45,2.3,1.47,2.05,1.62
+106,1211362,Venezuela Primera División,2021,2021-07-04 17:00:00,12,Trujillanos,Portuguesa,0,2,2,[],"['28', '87']",15.0,10.0,1.07,1.11,5.55,1.91,1.8
+107,1211359,Venezuela Primera División,2021,2021-07-04 19:15:00,12,Carabobo,Yaracuyanos,0,1,1,[],['85'],1.72,3.6,4.2,1.95,1.78,0.0,0.0
+108,1211364,Venezuela Primera División,2021,2021-07-04 21:30:00,12,Monagas,Caracas,2,2,4,"['23', '90+8']","['41', '64']",2.6,3.1,2.4,1.8,1.77,1.69,1.95
+109,1211374,Venezuela Primera División,2021,2021-07-08 17:00:00,13,UCV,Metropolitanos,0,0,0,[],[],3.35,3.38,2.02,2.04,1.69,1.71,1.91
+110,1211375,Venezuela Primera División,2021,2021-07-08 19:15:00,13,LALA,Mineros de Guayana,1,2,3,['66'],"['13', '80']",2.75,3.05,2.3,1.83,1.77,1.69,1.95
+111,1211369,Venezuela Primera División,2021,2021-07-08 21:30:00,13,Academia Puerto Cabello,Carabobo,0,0,0,[],[],1.91,2.75,4.15,2.35,1.57,1.89,1.85
+112,1211372,Venezuela Primera División,2021,2021-07-09 17:00:00,13,Zulia,Trujillanos,2,1,3,"['81', '84']",['90+5'],1.07,11.0,15.0,1.34,3.0,2.55,1.39
+113,1211367,Venezuela Primera División,2021,2021-07-09 20:00:00,13,Deportivo La Guaira,Deportivo Lara,4,1,5,"['29', '46', '64', '90+3']",['61'],2.55,2.7,2.7,2.05,1.61,1.8,1.83
+114,1211373,Venezuela Primera División,2021,2021-07-10 18:00:00,13,Caracas,Atlético Venezuela,3,1,4,"['6', '33', '42']",['82'],1.69,3.2,4.35,2.05,1.61,1.95,1.67
+115,1211371,Venezuela Primera División,2021,2021-07-11 19:15:00,13,Hermanos Colmenares,Portuguesa,1,3,4,['3'],"['58', '73', '90+1']",2.75,2.9,2.4,1.83,1.74,1.67,2.0
+116,1211370,Venezuela Primera División,2021,2021-07-11 21:30:00,13,Deportivo Táchira,Zamora,3,0,3,"['45+1', '70', '90+4']",[],2.2,3.05,2.9,2.05,1.75,1.67,2.0
+117,1211368,Venezuela Primera División,2021,2021-07-12 18:00:00,13,Aragua,Yaracuyanos,1,1,2,['75'],['45+1'],2.2,3.05,2.95,2.55,1.45,2.16,1.65
+118,1211382,Venezuela Primera División,2021,2021-07-15 17:00:00,14,UCV,Mineros de Guayana,1,0,1,['87'],[],3.3,3.35,1.91,1.8,1.8,1.77,1.87
+119,1211381,Venezuela Primera División,2021,2021-07-15 19:15:00,14,Portuguesa,Zulia,0,1,1,[],['11'],1.67,3.5,4.1,1.71,1.91,1.71,1.91
+120,1211379,Venezuela Primera División,2021,2021-07-15 21:30:00,14,Hermanos Colmenares,Trujillanos,6,0,6,"['25', '35', '48', '51', '65', '82']",[],1.13,6.5,10.5,1.36,2.65,1.87,1.74
+121,1211377,Venezuela Primera División,2021,2021-07-16 19:30:00,14,Deportivo Lara,Gran Valencia,5,1,6,"['45+2', '75', '79', '90', '90+4']",['28'],1.5,3.65,5.5,2.0,1.62,2.1,1.57
+122,1211380,Venezuela Primera División,2021,2021-07-16 21:45:00,14,Zamora,Estudiantes Mérida,0,1,1,[],['38'],2.0,2.7,4.0,2.15,1.54,1.91,1.71
+123,1211383,Venezuela Primera División,2021,2021-07-17 17:00:00,14,Atlético Venezuela,Monagas,1,2,3,['80'],"['22', '64']",2.75,3.15,2.25,1.65,2.0,1.53,2.2
+124,1211378,Venezuela Primera División,2021,2021-07-17 20:00:00,14,Yaracuyanos,Academia Puerto Cabello,0,1,1,[],['57'],3.35,2.75,2.15,2.4,1.43,2.15,1.57
+125,1211376,Venezuela Primera División,2021,2021-07-18 17:00:00,14,Aragua,Carabobo,2,0,2,"['38', '86']",[],2.5,3.0,2.55,2.0,1.62,1.83,1.8
+126,1211384,Venezuela Primera División,2021,2021-07-18 20:00:00,14,Metropolitanos,LALA,1,0,1,['17'],[],1.43,4.1,5.25,1.53,2.2,1.61,2.05
+127,1306769,Venezuela Primera División,2021,2021-07-22 18:00:00,15,Deportivo La Guaira,Aragua,5,0,5,"['10', '12', '20', '39', '72']",[],1.83,2.9,4.15,2.1,1.59,1.91,1.71
+128,1306162,Venezuela Primera División,2021,2021-07-22 20:15:00,15,Estudiantes Mérida,Trujillanos,4,2,6,"['4', '23', '45', '73']","['38', '62']",1.01,13.0,22.0,1.19,3.9,3.0,1.29
+129,1306770,Venezuela Primera División,2021,2021-07-23 17:00:00,15,Atlético Venezuela,Metropolitanos,4,1,5,"['41', '53', '56', '79']",['78'],2.2,3.1,3.1,2.0,1.73,1.83,1.77
+130,1306771,Venezuela Primera División,2021,2021-07-23 20:00:00,15,Monagas,Mineros de Guayana,1,1,2,['13'],['51'],1.6,3.9,4.75,1.7,2.05,1.67,2.0
+131,1306772,Venezuela Primera División,2021,2021-07-24 18:00:00,15,Zamora,Portuguesa,1,4,5,['88'],"['30', '45', '59', '62']",1.75,3.3,4.2,1.85,1.85,1.71,1.91
+132,1306773,Venezuela Primera División,2021,2021-07-24 20:00:00,15,Caracas,UCV,2,1,3,"['46', '76']",['13'],1.33,4.33,8.0,1.7,2.05,2.05,1.62
+133,1306774,Venezuela Primera División,2021,2021-07-25 18:00:00,15,Gran Valencia,Carabobo,1,1,2,['40'],['11'],2.07,2.84,3.52,2.15,1.61,1.87,1.74
+134,1306775,Venezuela Primera División,2021,2021-07-25 20:00:00,15,Deportivo Lara,Yaracuyanos,1,1,2,['80'],['86'],1.73,3.22,4.29,2.07,1.67,1.95,1.69
+135,1306776,Venezuela Primera División,2021,2021-07-26 20:00:00,15,Deportivo Táchira,Hermanos Colmenares,1,1,2,['26'],['76'],1.62,3.6,4.15,1.53,2.4,1.61,2.23
+136,1327270,Venezuela Primera División,2021,2021-07-28 20:00:00,16,Academia Puerto Cabello,Deportivo La Guaira,0,2,2,[],"['64', '69']",0.0,0.0,0.0,0.0,0.0,0.0,0.0
+137,1327271,Venezuela Primera División,2021,2021-07-29 17:00:00,16,LALA,Caracas,0,2,2,[],"['70', '86']",4.33,3.8,1.67,1.75,2.13,1.62,2.05
+138,1327272,Venezuela Primera División,2021,2021-07-29 19:00:00,16,Trujillanos,Zamora,0,5,5,[],"['21', '43', '62', '69', '73']",17.0,7.0,1.1,1.32,3.09,0.0,0.0
+139,1327273,Venezuela Primera División,2021,2021-07-30 18:00:00,16,Mineros de Guayana,Atlético Venezuela,1,2,3,['32'],"['73', '90+1']",1.76,3.3,3.6,1.89,1.83,1.8,1.8
+140,1327274,Venezuela Primera División,2021,2021-07-30 20:00:00,16,Carabobo,Deportivo Lara,2,0,2,"['4', '72']",[],2.9,3.2,2.06,2.09,1.66,1.87,1.74
+141,1327275,Venezuela Primera División,2021,2021-07-31 17:00:00,16,Zulia,Deportivo Táchira,1,2,3,['57'],"['32', '52']",2.6,3.1,2.4,1.69,1.95,1.57,2.15
+142,1327276,Venezuela Primera División,2021,2021-07-31 19:00:00,16,UCV,Monagas,3,0,3,"['13', '33', '51']",[],3.2,3.2,2.05,1.85,1.85,1.67,2.0
+143,1327277,Venezuela Primera División,2021,2021-08-01 17:00:00,16,Aragua,Gran Valencia,1,0,1,['44'],[],2.5,2.7,2.8,2.2,1.51,1.95,1.69
+144,1327278,Venezuela Primera División,2021,2021-08-01 20:00:00,16,Hermanos Colmenares,Estudiantes Mérida,1,1,2,['27'],['18'],2.38,3.57,2.73,1.7,2.03,1.69,1.95
+145,1327802,Venezuela Primera División,2021,2021-08-04 20:00:00,17,Metropolitanos,Caracas,1,1,2,['90+3'],['9'],3.9,3.35,1.74,1.86,1.84,1.74,1.8
+146,1327796,Venezuela Primera División,2021,2021-08-05 18:00:00,17,Estudiantes Mérida,Zulia,2,1,3,"['8', '45+2']",['77'],1.62,3.7,4.5,1.65,2.1,1.61,2.0
+147,1327797,Venezuela Primera División,2021,2021-08-05 20:00:00,17,Monagas,LALA,3,0,3,"['34', '43', '79']",[],1.25,5.5,8.0,1.53,2.35,1.91,1.67
+148,1327799,Venezuela Primera División,2021,2021-08-06 17:00:00,17,Atlético Venezuela,UCV,1,0,1,['54'],[],2.15,2.85,3.0,1.8,1.77,1.62,1.95
+149,1327800,Venezuela Primera División,2021,2021-08-06 20:00:00,17,Zamora,Hermanos Colmenares,1,1,2,['37'],['88'],2.2,3.0,3.3,1.78,2.0,1.61,2.0
+150,1327798,Venezuela Primera División,2021,2021-08-07 18:00:00,17,Gran Valencia,Academia Puerto Cabello,1,0,1,['90'],[],3.05,2.7,2.15,2.35,1.43,2.05,1.57
+151,1327801,Venezuela Primera División,2021,2021-08-07 20:00:00,17,Portuguesa,Deportivo Táchira,2,0,2,"['16', '90+3']",[],2.8,3.1,2.3,1.95,1.75,1.71,1.87
+152,1327804,Venezuela Primera División,2021,2021-08-08 20:00:00,17,Deportivo Lara,Aragua,1,1,2,['8'],['57'],1.95,3.1,3.78,2.39,1.51,2.15,1.51
+153,1327803,Venezuela Primera División,2021,2021-08-09 18:00:00,17,Yaracuyanos,Deportivo La Guaira,3,2,5,"['6', '80', '90+5']","['23', '71']",3.25,3.15,2.0,2.17,1.62,1.95,1.62
+154,1327807,Venezuela Primera División,2021,2021-08-12 17:00:00,18,Zulia,Zamora,1,1,2,['38'],['65'],2.9,3.35,1.95,1.67,1.91,1.62,1.95
+155,1327813,Venezuela Primera División,2021,2021-08-12 20:00:00,18,Academia Puerto Cabello,Deportivo Lara,1,3,4,['86'],"['20', '38', '73']",2.3,2.88,3.25,2.65,1.42,2.0,1.59
+156,1327809,Venezuela Primera División,2021,2021-08-13 18:00:00,18,Monagas,Metropolitanos,0,0,0,[],[],2.3,3.05,2.55,1.74,1.8,1.62,1.95
+157,1327812,Venezuela Primera División,2021,2021-08-13 20:15:00,18,Gran Valencia,Yaracuyanos,1,0,1,['22'],[],2.35,2.5,2.95,2.1,1.53,1.8,1.74
+158,1327808,Venezuela Primera División,2021,2021-08-14 17:00:00,18,Caracas,Mineros de Guayana,2,0,2,"['60', '90+2']",[],1.45,3.75,5.25,1.69,1.87,1.74,1.8
+159,1327805,Venezuela Primera División,2021,2021-08-14 20:00:00,18,Deportivo Táchira,Trujillanos,3,0,3,"['45+1', '77', '90+2']",[],1.04,13.0,26.0,1.17,3.9,2.05,1.57
+160,1327811,Venezuela Primera División,2021,2021-08-15 16:00:00,18,Deportivo La Guaira,Carabobo,0,2,2,[],"['86', '90+4']",1.51,3.4,5.25,1.8,1.77,1.83,1.71
+161,1327810,Venezuela Primera División,2021,2021-08-15 18:15:00,18,LALA,Atlético Venezuela,1,1,2,['81'],['43'],3.35,3.1,1.87,1.77,1.77,1.71,1.87
+162,1327806,Venezuela Primera División,2021,2021-08-15 20:30:00,18,Estudiantes Mérida,Portuguesa,1,0,1,['8'],[],2.1,3.05,2.8,1.74,1.8,1.62,1.95
+163,1327819,Venezuela Primera División,2021,2021-08-19 16:00:00,19,Metropolitanos,Mineros de Guayana,3,0,3,"['18', '66', '90']",[],1.91,3.05,3.35,1.77,1.8,1.67,1.91
+164,1327821,Venezuela Primera División,2021,2021-08-19 18:15:00,19,Yaracuyanos,Carabobo,1,1,2,['5'],['64'],2.2,2.8,2.9,2.0,1.59,1.8,1.74
+165,1327814,Venezuela Primera División,2021,2021-08-19 20:30:00,19,Deportivo Táchira,Estudiantes Mérida,1,2,3,['70'],"['15', '33']",1.62,3.45,4.05,1.83,1.74,1.83,1.71
+166,1327822,Venezuela Primera División,2021,2021-08-20 17:00:00,19,Aragua,Academia Puerto Cabello,1,1,2,['35'],['57'],2.7,2.4,2.65,2.7,1.33,2.2,1.49
+167,1327818,Venezuela Primera División,2021,2021-08-20 19:15:00,19,UCV,LALA,1,0,1,['65'],[],1.36,4.15,6.25,1.71,1.83,1.87,1.69
+168,1327820,Venezuela Primera División,2021,2021-08-21 17:00:00,19,Deportivo La Guaira,Gran Valencia,3,1,4,"['62', '62', '90+2']",['52'],1.59,3.3,4.6,1.91,1.69,1.87,1.69
+169,1327816,Venezuela Primera División,2021,2021-08-21 19:15:00,19,Hermanos Colmenares,Zulia,0,2,2,[],"['89', '90+5']",2.05,3.15,2.9,1.67,1.91,1.59,2.05
+170,1327817,Venezuela Primera División,2021,2021-08-22 17:00:00,19,Caracas,Monagas,4,2,6,"['25', '41', '59', '63']","['23', '50']",2.05,3.2,2.8,1.73,2.08,1.73,2.06
+171,1327815,Venezuela Primera División,2021,2021-08-22 19:15:00,19,Portuguesa,Trujillanos,1,0,1,['65'],[],1.08,11.0,13.0,1.22,4.2,1.83,1.91
+172,1327828,Venezuela Primera División,2021,2021-08-26 17:00:00,20,Mineros de Guayana,LALA,2,0,2,"['37', '59']",[],1.67,3.85,3.35,1.65,1.95,1.69,1.87
+173,1327830,Venezuela Primera División,2021,2021-08-26 19:15:00,20,Yaracuyanos,Aragua,0,2,2,[],"['17', '44']",2.2,2.75,2.95,2.3,1.44,2.05,1.57
+174,1327824,Venezuela Primera División,2021,2021-08-27 19:15:00,20,Portuguesa,Hermanos Colmenares,1,1,2,['24'],['50'],1.8,3.1,3.55,1.71,1.83,1.65,1.95
+175,1327831,Venezuela Primera División,2021,2021-08-27 21:30:00,20,Carabobo,Academia Puerto Cabello,1,0,1,['38'],[],2.42,3.08,3.05,2.25,1.57,1.87,1.71
+176,1327826,Venezuela Primera División,2021,2021-08-28 17:00:00,20,Atlético Venezuela,Caracas,0,2,2,[],"['56', '68']",3.15,2.85,2.05,1.87,1.71,1.69,1.91
+177,1327825,Venezuela Primera División,2021,2021-08-28 19:15:00,20,Trujillanos,Zulia,0,3,3,[],"['43', '48', '61']",17.0,7.75,1.1,1.56,2.1,2.8,1.31
+178,1327829,Venezuela Primera División,2021,2021-08-28 21:30:00,20,Deportivo Lara,Deportivo La Guaira,2,2,4,"['4', '90+4']","['22', '60']",2.35,2.63,3.4,2.02,1.83,1.91,1.67
+179,1327827,Venezuela Primera División,2021,2021-08-29 19:15:00,20,Metropolitanos,UCV,1,1,2,['39'],['23'],1.91,3.0,3.35,1.74,1.83,1.65,1.95
+180,1327823,Venezuela Primera División,2021,2021-08-29 21:30:00,20,Zamora,Deportivo Táchira,0,1,1,[],['7'],2.25,3.35,2.8,1.89,1.81,1.65,1.91
+181,1327832,Venezuela Primera División,2021,2021-09-01 18:15:00,21,Trujillanos,Hermanos Colmenares,0,2,2,[],"['13', '57']",9.88,6.42,1.17,1.52,2.37,2.2,1.6
+182,1327838,Venezuela Primera División,2021,2021-09-01 20:30:00,21,Carabobo,Aragua,2,0,2,"['20', '90+3']",[],2.4,2.75,2.6,2.1,1.54,1.87,1.71
+183,1327834,Venezuela Primera División,2021,2021-09-03 17:00:00,21,Zulia,Portuguesa,0,0,0,[],[],2.15,2.9,2.8,1.67,1.91,1.54,2.1
+184,1327835,Venezuela Primera División,2021,2021-09-03 19:15:00,21,Mineros de Guayana,UCV,1,1,2,['42'],['79'],2.1,2.95,2.85,1.69,1.87,1.57,2.05
+185,1327840,Venezuela Primera División,2021,2021-09-03 21:30:00,21,Academia Puerto Cabello,Yaracuyanos,1,0,1,['86'],[],1.85,3.0,4.06,2.37,1.49,2.1,1.54
+186,1327837,Venezuela Primera División,2021,2021-09-04 17:00:00,21,LALA,Metropolitanos,1,3,4,['37'],"['53', '55', '74']",3.5,3.0,1.83,1.83,1.71,1.74,1.83
+187,1327839,Venezuela Primera División,2021,2021-09-04 19:15:00,21,Gran Valencia,Deportivo Lara,0,5,5,[],"['25', '29', '37', '59', '88']",2.45,2.55,2.8,2.2,1.5,1.87,1.71
+188,1327833,Venezuela Primera División,2021,2021-09-04 21:30:00,21,Estudiantes Mérida,Zamora,0,0,0,[],[],2.33,3.2,2.64,1.91,1.8,1.5,2.2
+189,1327836,Venezuela Primera División,2021,2021-09-05 19:15:00,21,Monagas,Atlético Venezuela,1,1,2,['4'],['78'],2.1,3.3,2.6,1.49,2.2,0.0,0.0
+190,1327844,Venezuela Primera División,2021,2021-09-08 18:15:00,22,UCV,Caracas,1,1,2,['23'],['85'],4.05,3.0,1.74,1.81,2.05,1.71,2.06
+191,1327841,Venezuela Primera División,2021,2021-09-08 20:30:00,22,Hermanos Colmenares,Deportivo Táchira,1,1,2,['16'],['36'],2.76,3.06,2.13,1.83,1.83,1.49,2.25
+192,1327845,Venezuela Primera División,2021,2021-09-09 17:00:00,22,Mineros de Guayana,Monagas,0,2,2,[],"['38', '58']",2.8,2.45,2.5,2.0,1.61,1.69,1.87
+193,1327842,Venezuela Primera División,2021,2021-09-10 19:15:00,22,Trujillanos,Estudiantes Mérida,1,1,2,['7'],['22'],26.0,10.0,1.05,1.25,3.42,2.25,1.57
+194,1327848,Venezuela Primera División,2021,2021-09-10 21:30:00,22,Carabobo,Gran Valencia,1,0,1,['4'],[],2.2,2.9,2.85,2.1,1.54,1.91,1.67
+195,1327847,Venezuela Primera División,2021,2021-09-11 17:00:00,22,Aragua,Deportivo La Guaira,0,1,1,[],['49'],2.85,2.65,2.3,2.15,1.51,1.87,1.69
+196,1327843,Venezuela Primera División,2021,2021-09-11 19:15:00,22,Portuguesa,Zamora,0,1,1,[],['36'],2.65,2.8,2.35,1.83,1.74,1.65,1.95
+197,1327846,Venezuela Primera División,2021,2021-09-12 19:15:00,22,Metropolitanos,Atlético Venezuela,2,1,3,"['2', '48']",['24'],1.87,3.5,2.95,1.56,2.05,1.48,2.25
+198,1327849,Venezuela Primera División,2021,2021-09-12 21:30:00,22,Yaracuyanos,Deportivo Lara,1,3,4,['19'],"['11', '55', '74']",4.4,3.1,1.74,1.91,1.81,1.77,1.8
+199,1327853,Venezuela Primera División,2021,2021-09-16 17:00:00,23,Caracas,LALA,5,2,7,"['18', '25', '33', '87', '90']","['31', '37']",1.26,4.9,7.5,1.47,2.25,1.77,1.77
+200,1327854,Venezuela Primera División,2021,2021-09-16 19:15:00,23,Monagas,UCV,2,1,3,"['38', '78']",['56'],2.65,3.5,2.0,1.61,2.0,1.57,2.05
+201,1327850,Venezuela Primera División,2021,2021-09-16 21:30:00,23,Deportivo Táchira,Zulia,3,0,3,"['51', '64', '71']",[],1.73,3.5,4.0,1.65,2.05,1.65,1.95
+202,1327855,Venezuela Primera División,2021,2021-09-17 17:00:00,23,Atlético Venezuela,Mineros de Guayana,2,1,3,"['29', '59']",['35'],2.2,3.1,2.6,1.71,1.87,1.61,2.0
+203,1327852,Venezuela Primera División,2021,2021-09-17 20:00:00,23,Zamora,Trujillanos,2,1,3,"['18', '45+3']",['15'],1.08,9.5,18.0,1.29,2.9,2.3,1.45
+204,1327856,Venezuela Primera División,2021,2021-09-18 17:00:00,23,Deportivo La Guaira,Academia Puerto Cabello,0,0,0,[],[],1.65,2.9,5.0,2.4,1.43,2.3,1.44
+205,1327857,Venezuela Primera División,2021,2021-09-18 19:15:00,23,Gran Valencia,Aragua,0,1,1,[],['23'],2.3,2.55,3.0,1.77,1.8,1.56,2.1
+206,1327851,Venezuela Primera División,2021,2021-09-19 19:15:00,23,Estudiantes Mérida,Hermanos Colmenares,1,2,3,['85'],"['17', '82']",1.53,3.75,4.45,1.6,2.2,1.42,2.4
+207,1327858,Venezuela Primera División,2021,2021-09-19 21:30:00,23,Deportivo Lara,Carabobo,2,1,3,"['18', '45+1']",['36'],1.75,3.11,4.05,1.93,1.73,1.71,1.83
+208,1327864,Venezuela Primera División,2021,2021-09-23 17:00:00,24,LALA,Monagas,0,2,2,[],"['54', '82']",3.75,3.4,1.67,1.67,1.91,1.67,1.91
+209,1327867,Venezuela Primera División,2021,2021-09-23 19:15:00,24,Academia Puerto Cabello,Gran Valencia,4,1,5,"['11', '54', '55', '72']",['69'],1.38,3.75,6.75,2.15,1.51,2.45,1.39
+210,1327860,Venezuela Primera División,2021,2021-09-23 21:30:00,24,Deportivo Táchira,Portuguesa,4,1,5,"['14', '18', '70', '79']",['74'],1.91,3.4,3.25,1.78,1.94,1.77,1.8
+211,1327865,Venezuela Primera División,2021,2021-09-24 17:00:00,24,Aragua,Deportivo Lara,0,0,0,[],[],2.85,2.9,2.15,1.97,1.74,1.86,1.89
+212,1327862,Venezuela Primera División,2021,2021-09-24 19:15:00,24,UCV,Atlético Venezuela,4,0,4,"['29', '81', '89', '90']",[],2.05,2.9,3.05,1.85,1.95,1.67,2.14
+213,1327859,Venezuela Primera División,2021,2021-09-25 17:00:00,24,Zulia,Estudiantes Mérida,1,2,3,['60'],"['3', '37']",2.35,3.2,2.35,1.7,2.11,1.64,2.2
+214,1327863,Venezuela Primera División,2021,2021-09-25 19:15:00,24,Caracas,Metropolitanos,1,3,4,['23'],"['16', '41', '80']",1.74,3.4,3.45,1.75,2.05,1.67,2.14
+215,1327866,Venezuela Primera División,2021,2021-09-26 19:15:00,24,Deportivo La Guaira,Yaracuyanos,1,0,1,['53'],[],1.57,3.35,4.55,1.7,2.1,1.73,2.06
+216,1327861,Venezuela Primera División,2021,2021-09-26 21:30:00,24,Hermanos Colmenares,Zamora,1,1,2,['90+7'],['15'],2.6,3.2,2.2,2.38,1.55,1.67,2.15
+217,1327873,Venezuela Primera División,2021,2021-09-30 17:00:00,25,Mineros de Guayana,Caracas,1,1,2,['14'],['80'],3.95,3.6,1.82,1.72,2.01,1.68,2.05
+218,1327871,Venezuela Primera División,2021,2021-09-30 19:15:00,25,Metropolitanos,Monagas,1,2,3,['74'],"['17', '39']",2.65,3.3,2.5,1.68,2.05,1.55,2.3
+219,1327876,Venezuela Primera División,2021,2021-09-30 21:30:00,25,Deportivo Lara,Academia Puerto Cabello,1,3,4,['32'],"['15', '40', '59']",1.87,3.3,4.1,2.07,1.67,1.9,1.8
+220,1327872,Venezuela Primera División,2021,2021-10-01 17:00:00,25,Atlético Venezuela,LALA,3,1,4,"['41', '71', '77']",['23'],1.71,3.84,4.54,1.83,2.02,1.77,1.98
+221,1327875,Venezuela Primera División,2021,2021-10-01 19:15:00,25,Yaracuyanos,Gran Valencia,0,2,2,[],"['4', '57']",2.3,3.22,3.13,2.05,1.75,1.93,1.83
+222,1327868,Venezuela Primera División,2021,2021-10-02 19:15:00,25,Zamora,Zulia,2,1,3,"['9', '55']",['39'],1.67,3.5,4.5,1.83,1.98,1.77,2.0
+223,1327874,Venezuela Primera División,2021,2021-10-02 21:30:00,25,Carabobo,Deportivo La Guaira,1,2,3,['72'],"['29', '45']",2.94,2.9,2.3,2.21,1.56,2.0,1.72
+224,1327869,Venezuela Primera División,2021,2021-10-03 19:15:00,25,Trujillanos,Deportivo Táchira,0,7,7,[],"['23', '31', '45', '56', '58', '78', '85']",21.0,11.0,1.05,1.36,2.9,2.13,1.64
+225,1327870,Venezuela Primera División,2021,2021-10-03 21:30:00,25,Portuguesa,Estudiantes Mérida,0,0,0,[],[],2.9,2.95,2.3,1.95,1.75,1.77,1.94
+226,1327881,Venezuela Primera División,2021,2021-10-05 17:00:00,26,LALA,UCV,0,1,1,[],['11'],0.0,0.0,0.0,0.0,0.0,0.0,0.0
+227,1327880,Venezuela Primera División,2021,2021-10-06 17:00:00,26,Mineros de Guayana,Metropolitanos,0,0,0,[],[],0.0,0.0,0.0,0.0,0.0,0.0,0.0
+228,1327884,Venezuela Primera División,2021,2021-10-06 20:30:00,26,Academia Puerto Cabello,Aragua,1,1,2,['81'],['65'],2.1,2.99,3.29,1.89,1.8,1.88,1.86
+229,1327878,Venezuela Primera División,2021,2021-10-08 17:00:00,26,Zulia,Hermanos Colmenares,3,3,6,"['2', '70', '85']","['17', '61', '75']",2.2,3.3,2.8,1.58,2.25,1.5,2.45
+230,1327877,Venezuela Primera División,2021,2021-10-08 19:15:00,26,Trujillanos,Portuguesa,1,2,3,['75'],"['5', '47']",13.0,11.0,1.08,1.36,3.1,0.0,0.0
+231,1327885,Venezuela Primera División,2021,2021-10-08 19:15:00,26,Gran Valencia,Deportivo La Guaira,2,1,3,"['21', '53']",['67'],5.5,3.3,1.62,2.55,1.45,2.15,1.63
+232,1327882,Venezuela Primera División,2021,2021-10-08 21:30:00,26,Monagas,Caracas,1,3,4,['69'],"['48', '58', '89']",2.3,3.3,2.8,1.76,1.96,1.65,2.18
+233,1327883,Venezuela Primera División,2021,2021-10-09 19:15:00,26,Carabobo,Yaracuyanos,2,0,2,"['15', '87']",[],2.05,2.7,3.39,2.14,1.64,2.05,1.7
+234,1327879,Venezuela Primera División,2021,2021-10-09 21:30:00,26,Estudiantes Mérida,Deportivo Táchira,0,2,2,[],"['33', '66']",2.2,3.1,2.9,1.71,2.02,1.65,2.1
+235,1327891,Venezuela Primera División,2021,2021-10-14 17:00:00,27,LALA,Mineros de Guayana,0,3,3,[],"['50', '63', '90+1']",3.8,3.2,1.95,2.0,1.78,1.9,1.83
+236,1327889,Venezuela Primera División,2021,2021-10-14 18:00:00,27,Caracas,Atlético Venezuela,0,3,3,[],"['13', '38', '78']",1.94,3.64,3.58,1.6,2.2,1.48,2.5
+237,1327888,Venezuela Primera División,2021,2021-10-15 17:00:00,27,Zulia,Trujillanos,2,0,2,"['82', '84']",[],1.1,8.0,12.0,1.38,2.81,2.18,1.61
+238,1327890,Venezuela Primera División,2021,2021-10-15 19:15:00,27,UCV,Metropolitanos,1,1,2,['47'],['42'],2.65,2.75,2.7,1.72,2.01,1.58,2.25
+239,1327887,Venezuela Primera División,2021,2021-10-15 21:30:00,27,Deportivo Táchira,Zamora,1,2,3,['54'],"['77', '78']",2.8,3.05,2.4,1.71,2.03,1.6,2.2
+240,1327893,Venezuela Primera División,2021,2021-10-16 17:00:00,27,Aragua,Yaracuyanos,3,0,3,"['10', '43', '88']",[],1.61,3.25,5.1,2.55,1.47,2.04,1.74
+241,1327892,Venezuela Primera División,2021,2021-10-16 19:15:00,27,Deportivo La Guaira,Deportivo Lara,0,2,2,[],"['13', '67']",1.87,3.15,3.55,2.3,1.56,1.96,1.8
+242,1327886,Venezuela Primera División,2021,2021-10-16 21:30:00,27,Hermanos Colmenares,Portuguesa,2,1,3,"['5', '73']",['71'],3.3,2.95,2.05,1.67,2.08,1.7,2.1
+243,1327894,Venezuela Primera División,2021,2021-10-17 19:15:00,27,Academia Puerto Cabello,Carabobo,3,0,3,"['17', '38', '63']",[],2.39,2.95,2.76,1.86,1.8,2.02,1.74
+244,1327898,Venezuela Primera División,2021,2021-10-21 12:00:00,28,UCV,Mineros de Guayana,4,1,5,"['15', '17', '49', '62']",['55'],0.0,0.0,0.0,0.0,0.0,0.0,0.0
+245,1327895,Venezuela Primera División,2021,2021-10-21 17:00:00,28,Hermanos Colmenares,Trujillanos,2,1,3,"['16', '73']",['54'],1.07,8.54,20.92,1.4,2.75,2.5,1.45
+246,1327899,Venezuela Primera División,2021,2021-10-21 17:00:00,28,Atlético Venezuela,Monagas,2,4,6,"['41', '81']","['3', '17', '32', '45+1']",2.6,3.0,2.48,1.8,1.92,1.62,2.2
+247,1327900,Venezuela Primera División,2021,2021-10-21 17:00:00,28,Metropolitanos,LALA,6,0,6,"['19', '21', '24', '27', '36', '42']",[],1.47,4.2,5.5,1.62,2.15,1.9,1.8
+248,1327896,Venezuela Primera División,2021,2021-10-21 21:00:00,28,Zamora,Estudiantes Mérida,0,0,0,[],[],2.1,3.0,3.15,1.81,1.91,1.6,2.2
+249,1327897,Venezuela Primera División,2021,2021-10-21 21:00:00,28,Portuguesa,Zulia,1,1,2,['62'],['2'],1.78,3.35,3.8,1.72,2.0,1.69,2.09
+250,1327901,Venezuela Primera División,2021,2021-10-22 17:00:00,28,Aragua,Carabobo,2,1,3,"['50', '80']",['48'],2.38,2.85,2.85,2.5,1.47,2.1,1.68
+251,1327903,Venezuela Primera División,2021,2021-10-22 17:00:00,28,Yaracuyanos,Academia Puerto Cabello,0,1,1,[],['64'],5.1,3.55,1.55,2.38,1.52,2.4,1.5
+252,1327902,Venezuela Primera División,2021,2021-10-22 19:00:00,28,Deportivo Lara,Gran Valencia,1,1,2,['86'],['75'],1.66,3.5,4.31,1.87,1.79,1.88,1.85
+253,1441968,Venezuela Primera División,2021,2021-10-30 18:15:00,1,Portuguesa,Aragua,1,1,2,['8'],['11'],2.46,3.0,3.07,2.2,1.6,2.19,1.63
+254,1441969,Venezuela Primera División,2021,2021-10-30 20:30:00,1,Academia Puerto Cabello,Hermanos Colmenares,2,2,4,"['73', '80']","['61', '90+2']",2.15,2.88,3.2,2.05,1.68,1.83,1.87
+255,1441970,Venezuela Primera División,2021,2021-10-31 16:00:00,1,Caracas,Deportivo La Guaira,4,0,4,"['20', '28', '45+1', '65']",[],1.95,3.0,4.2,1.86,1.8,1.87,1.83
+256,1441971,Venezuela Primera División,2021,2021-10-31 18:30:00,1,Deportivo Táchira,Monagas,3,1,4,"['8', '39', '63']",['4'],2.2,3.4,2.9,1.76,2.11,1.62,2.21
+257,1441972,Venezuela Primera División,2021,2021-10-31 20:30:00,1,Deportivo Lara,Estudiantes Mérida,4,0,4,"['31', '36', '61', '73']",[],2.3,3.2,2.9,1.71,1.95,1.66,2.0
+258,1441973,Venezuela Primera División,2021,2021-11-02 17:00:00,2,Aragua,Academia Puerto Cabello,2,2,4,"['45+3', '53']","['20', '46']",2.9,2.7,2.5,2.48,1.45,2.2,1.6
+259,1441974,Venezuela Primera División,2021,2021-11-02 20:30:00,2,Metropolitanos,Portuguesa,1,0,1,['58'],[],2.4,3.0,2.7,2.0,1.73,1.88,1.88
+260,1441976,Venezuela Primera División,2021,2021-11-03 16:00:00,2,Deportivo La Guaira,Deportivo Táchira,0,0,0,[],[],2.15,3.25,2.95,1.83,1.87,1.68,2.05
+261,1441977,Venezuela Primera División,2021,2021-11-03 18:15:00,2,Estudiantes Mérida,Caracas,1,1,2,['11'],['29'],2.55,3.2,2.45,1.8,1.9,1.67,2.12
+262,1441978,Venezuela Primera División,2021,2021-11-03 20:30:00,2,Monagas,Deportivo Lara,1,0,1,['49'],[],2.15,3.4,2.8,1.97,1.74,1.68,2.05
+263,1441981,Venezuela Primera División,2021,2021-11-06 18:15:00,3,Hermanos Colmenares,Aragua,1,0,1,['76'],[],2.85,2.7,2.6,1.93,1.84,1.7,2.03
+264,1441980,Venezuela Primera División,2021,2021-11-06 20:30:00,3,Academia Puerto Cabello,Metropolitanos,1,2,3,['48'],"['45+2', '77']",2.5,3.1,2.6,2.02,1.72,1.8,1.95
+265,1441982,Venezuela Primera División,2021,2021-11-07 16:00:00,3,Estudiantes Mérida,Monagas,2,2,4,"['39', '53']","['60', '65']",2.35,3.17,2.67,1.91,1.8,1.77,1.98
+266,1441983,Venezuela Primera División,2021,2021-11-07 18:30:00,3,Caracas,Deportivo Táchira,2,0,2,"['81', '88']",[],2.12,3.16,3.06,2.2,1.6,1.75,2.01
+267,1441984,Venezuela Primera División,2021,2021-11-07 21:00:00,3,Deportivo Lara,Deportivo La Guaira,1,1,2,['43'],['56'],2.16,3.15,3.15,2.48,1.48,1.88,1.86
+268,1441986,Venezuela Primera División,2021,2021-11-09 18:15:00,4,Portuguesa,Academia Puerto Cabello,2,0,2,"['47', '90+2']",[],2.1,2.55,2.45,1.73,1.6,1.72,2.0
+269,1441987,Venezuela Primera División,2021,2021-11-09 20:30:00,4,Metropolitanos,Hermanos Colmenares,1,0,1,['65'],[],2.38,3.5,2.76,1.88,1.81,1.66,2.1
+270,1441990,Venezuela Primera División,2021,2021-11-10 16:15:00,4,Deportivo Táchira,Deportivo Lara,0,0,0,[],[],2.23,3.14,2.48,1.97,1.76,1.67,2.12
+271,1441989,Venezuela Primera División,2021,2021-11-10 18:30:00,4,Monagas,Caracas,1,0,1,['32'],[],2.78,2.94,2.12,1.74,1.84,1.7,2.08
+272,1441988,Venezuela Primera División,2021,2021-11-10 20:50:00,4,Deportivo La Guaira,Estudiantes Mérida,2,1,3,"['72', '80']",['42'],2.57,3.3,2.65,2.0,1.7,1.8,1.95
+273,1441991,Venezuela Primera División,2021,2021-11-13 16:45:00,5,Aragua,Metropolitanos,0,2,2,[],"['67', '90']",2.92,3.2,2.15,2.05,1.65,1.92,1.82
+274,1441992,Venezuela Primera División,2021,2021-11-13 21:30:00,5,Hermanos Colmenares,Portuguesa,3,1,4,"['1', '45+4', '75']",['74'],2.35,3.1,2.69,1.88,1.78,1.77,1.98
+275,1441994,Venezuela Primera División,2021,2021-11-14 16:00:00,5,Estudiantes Mérida,Deportivo Táchira,1,2,3,['64'],"['51', '78']",2.75,3.3,2.3,1.91,1.8,1.68,2.11
+276,1441995,Venezuela Primera División,2021,2021-11-14 18:30:00,5,Monagas,Deportivo La Guaira,1,0,1,['78'],[],2.25,3.05,3.0,2.15,1.61,1.78,1.97
+277,1441996,Venezuela Primera División,2021,2021-11-14 20:30:00,5,Deportivo Lara,Caracas,0,0,0,[],[],2.48,3.0,2.41,1.91,1.75,1.77,1.98
+278,1441997,Venezuela Primera División,2021,2021-11-18 16:15:00,6,Aragua,Portuguesa,1,1,2,['6'],['28'],2.88,2.9,2.5,2.3,1.6,1.83,1.86
+279,1441999,Venezuela Primera División,2021,2021-11-18 20:30:00,6,Hermanos Colmenares,Academia Puerto Cabello,3,1,4,"['3', '20', '53']",['35'],3.4,3.4,2.0,1.75,2.05,1.71,2.0
+280,1442000,Venezuela Primera División,2021,2021-11-19 16:15:00,6,Estudiantes Mérida,Deportivo Lara,1,0,1,['59'],[],2.57,2.87,2.42,1.85,1.87,1.71,2.0
+281,1442001,Venezuela Primera División,2021,2021-11-19 18:30:00,6,Deportivo La Guaira,Caracas,0,5,5,[],"['9', '13', '24', '44', '90+1']",2.51,2.85,2.49,2.0,1.73,1.79,1.98
+282,1442002,Venezuela Primera División,2021,2021-11-19 21:30:00,6,Monagas,Deportivo Táchira,1,1,2,['30'],['36'],2.58,2.99,2.33,1.76,1.88,1.58,2.1
+283,1442004,Venezuela Primera División,2021,2021-11-23 18:15:00,7,Portuguesa,Metropolitanos,1,1,2,['60'],['78'],2.45,3.0,2.88,2.1,1.7,1.69,2.09
+284,1442005,Venezuela Primera División,2021,2021-11-23 20:30:00,7,Academia Puerto Cabello,Aragua,2,3,5,"['7', '83']","['56', '84', '88']",3.1,3.1,2.25,2.3,1.6,1.9,1.84
+285,1442007,Venezuela Primera División,2021,2021-11-24 16:15:00,7,Caracas,Estudiantes Mérida,4,1,5,"['8', '17', '47', '80']",['19'],2.15,3.2,3.1,1.85,1.95,1.66,2.1
+286,1442006,Venezuela Primera División,2021,2021-11-24 18:30:00,7,Deportivo Táchira,Deportivo La Guaira,4,2,6,"['40', '45+2', '51', '90+2']","['31', '65']",2.25,2.88,3.0,1.97,1.76,1.86,1.83
+287,1442008,Venezuela Primera División,2021,2021-11-24 20:50:00,7,Deportivo Lara,Monagas,1,3,4,['40'],"['35', '52', '82']",2.05,3.1,3.25,1.85,1.81,1.62,2.15
+288,1442009,Venezuela Primera División,2021,2021-11-27 17:00:00,8,Aragua,Hermanos Colmenares,1,0,1,['45+1'],[],2.63,2.76,2.68,1.89,1.72,1.75,1.95
+289,1442011,Venezuela Primera División,2021,2021-11-27 20:30:00,8,Metropolitanos,Academia Puerto Cabello,1,2,3,['54'],"['45', '73']",1.7,3.42,4.27,1.91,1.82,1.8,1.9
+290,1442013,Venezuela Primera División,2021,2021-11-28 16:00:00,8,Deportivo Táchira,Caracas,1,0,1,['50'],[],2.41,3.07,2.67,1.84,1.88,1.8,1.9
+291,1442012,Venezuela Primera División,2021,2021-11-28 18:30:00,8,Deportivo La Guaira,Deportivo Lara,0,0,0,[],[],2.39,2.89,2.85,2.32,1.54,1.8,1.9
+292,1442014,Venezuela Primera División,2021,2021-11-28 20:50:00,8,Monagas,Estudiantes Mérida,4,1,5,"['1', '3', '18', '63']",['4'],2.08,3.13,3.19,1.86,1.86,1.71,2.0
+293,1442016,Venezuela Primera División,2021,2021-11-30 18:15:00,9,Hermanos Colmenares,Metropolitanos,4,0,4,"['8', '18', '52', '65']",[],2.33,3.4,2.4,1.61,2.15,1.58,2.29
+294,1442017,Venezuela Primera División,2021,2021-11-30 20:30:00,9,Academia Puerto Cabello,Portuguesa,0,0,0,[],[],2.27,2.82,2.66,1.84,1.89,1.71,2.0
+295,1442018,Venezuela Primera División,2021,2021-12-01 16:00:00,9,Estudiantes Mérida,Deportivo La Guaira,4,1,5,"['14', '44', '57', '79']",['8'],2.99,2.99,2.24,2.1,1.65,1.76,1.95
+296,1442019,Venezuela Primera División,2021,2021-12-01 18:15:00,9,Caracas,Monagas,2,0,2,"['14', '17']",[],1.83,3.25,3.7,1.86,1.85,1.68,2.05
+297,1442020,Venezuela Primera División,2021,2021-12-01 20:50:00,9,Deportivo Lara,Deportivo Táchira,2,1,3,"['36', '50']",['82'],2.9,3.0,2.25,1.91,1.8,1.62,2.15
+298,1442022,Venezuela Primera División,2021,2021-12-04 18:15:00,10,Portuguesa,Hermanos Colmenares,3,0,3,"['40', '52', '90+5']",[],2.55,2.95,2.55,1.95,1.75,1.75,1.95
+299,1442023,Venezuela Primera División,2021,2021-12-04 18:30:00,10,Metropolitanos,Aragua,2,2,4,"['70', '90+1']","['4', '28']",2.25,3.0,3.2,2.15,1.67,1.85,1.85
+300,1442024,Venezuela Primera División,2021,2021-12-05 16:00:00,10,Caracas,Deportivo Lara,2,1,3,"['45', '65']",['73'],2.4,2.2,4.02,2.3,1.52,1.79,1.96
+301,1442025,Venezuela Primera División,2021,2021-12-05 18:30:00,10,Deportivo Táchira,Estudiantes Mérida,2,0,2,"['19', '40']",[],1.55,3.95,4.51,1.65,2.05,1.72,2.05
+302,1442026,Venezuela Primera División,2021,2021-12-05 20:50:00,10,Deportivo La Guaira,Monagas,2,0,2,"['7', '80']",[],3.6,3.35,1.85,2.0,1.8,1.73,2.04
+303,1482795,Venezuela Primera División,2021,2021-12-11 19:30:00,0,Deportivo Táchira,Caracas,0,0,0,[],[],2.1,3.2,3.02,1.98,1.7,1.82,1.92

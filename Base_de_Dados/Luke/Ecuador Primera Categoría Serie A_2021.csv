@@ -1,0 +1,243 @@
+Nº,Id_Jogo,League,Season,Date,Rodada,Home,Away,FT_Goals_H,FT_Goals_A,FT_TotalGoals,Goals_H_Minutes,Goals_A_Minutes,FT_Odd_H,FT_Odd_D,FT_Odd_A,FT_Odd_Over25,FT_Odd_Under25,FT_Odd_BTTS_Yes,FT_Odd_BTTS_No
+1,1189482,Ecuador Primera Categoría Serie A,2021,2021-02-19 18:30:00,1,CD Universidad Católica,CD Olmedo,3,0,3,"['-1', '-1', '-1']",[],1.2,5.0,13.0,0.0,0.0,0.0,0.0
+2,1189483,Ecuador Primera Categoría Serie A,2021,2021-02-19 21:00:00,1,LDU Quito,9 de Octubre,4,2,6,"['30', '33', '64', '88']","['55', '62']",1.22,5.0,11.0,1.6,2.3,2.0,1.73
+3,1189484,Ecuador Primera Categoría Serie A,2021,2021-02-20 16:00:00,1,Mushuc Runa SC,SD Aucas,1,3,4,['56'],"['20', '60', '90+3']",2.49,3.21,2.31,1.6,2.25,1.48,2.4
+4,1189485,Ecuador Primera Categoría Serie A,2021,2021-02-20 18:30:00,1,Guayaquil City FC,Macará,3,1,4,"['3', '36', '88']",['90+1'],2.25,3.05,3.0,1.95,1.71,1.71,1.95
+5,1189486,Ecuador Primera Categoría Serie A,2021,2021-02-20 21:00:00,1,Manta FC,Barcelona,2,3,5,"['11', '28']","['65', '82', '86']",5.75,3.55,1.53,1.95,1.71,2.0,1.69
+6,1189487,Ecuador Primera Categoría Serie A,2021,2021-02-21 15:00:00,1,Orense SC,CSD Independiente del Valle,2,0,2,"['43', '72']",[],2.97,3.52,2.22,1.82,1.94,1.77,1.91
+7,1189488,Ecuador Primera Categoría Serie A,2021,2021-02-21 17:30:00,1,Técnico Universitario,Delfin SC,0,1,1,[],['76'],2.1,3.2,3.2,2.0,1.67,1.91,1.77
+8,1189489,Ecuador Primera Categoría Serie A,2021,2021-02-21 20:00:00,1,CS Emelec,Deportivo Cuenca,4,1,5,"['20', '42', '46', '87']",['30'],1.32,4.55,7.0,1.65,2.0,1.95,1.71
+9,1189490,Ecuador Primera Categoría Serie A,2021,2021-02-26 21:00:00,2,Deportivo Cuenca,Guayaquil City FC,3,0,3,"['19', '62', '79']",[],1.95,3.15,3.55,1.69,2.0,1.59,2.15
+10,1189491,Ecuador Primera Categoría Serie A,2021,2021-02-27 16:00:00,2,CD Universidad Católica,Manta FC,3,3,6,"['1', '3', '16']","['53', '65', '80']",1.22,5.5,10.5,1.54,2.4,2.0,1.69
+11,1189492,Ecuador Primera Categoría Serie A,2021,2021-02-27 18:30:00,2,Macará,CSD Independiente del Valle,3,1,4,"['11', '48', '90+2']",['62'],3.05,3.0,2.25,1.74,1.91,1.59,2.15
+12,1189493,Ecuador Primera Categoría Serie A,2021,2021-02-27 21:00:00,2,SD Aucas,CS Emelec,2,3,5,"['23', '56']","['43', '62', '78']",2.2,3.3,2.9,1.51,2.3,1.44,2.5
+13,1189494,Ecuador Primera Categoría Serie A,2021,2021-02-28 15:00:00,2,9 de Octubre,Mushuc Runa SC,1,2,3,['90+6'],"['26', '40']",2.4,2.65,3.2,2.0,1.7,1.74,1.95
+14,1189495,Ecuador Primera Categoría Serie A,2021,2021-02-28 17:30:00,2,CD Olmedo,LDU Quito,0,0,0,[],[],7.0,4.7,1.33,1.49,2.35,1.71,1.95
+15,1189496,Ecuador Primera Categoría Serie A,2021,2021-02-28 20:00:00,2,Barcelona,Técnico Universitario,3,0,3,"['3', '76', '90+1']",[],1.29,4.35,9.5,1.74,1.91,0.0,0.0
+16,1189497,Ecuador Primera Categoría Serie A,2021,2021-03-01 21:00:00,2,Delfin SC,Orense SC,1,1,2,['76'],['13'],1.91,3.2,3.8,1.95,1.71,1.87,1.8
+17,1189503,Ecuador Primera Categoría Serie A,2021,2021-03-05 21:00:00,3,CSD Independiente del Valle,Mushuc Runa SC,2,0,2,"['87', '90+4']",[],1.5,4.1,4.8,1.62,2.15,1.71,2.0
+18,1189501,Ecuador Primera Categoría Serie A,2021,2021-03-06 17:00:00,3,Orense SC,SD Aucas,2,2,4,"['45+5', '76']","['38', '61']",2.48,3.39,2.73,1.84,1.9,1.62,2.23
+19,1189500,Ecuador Primera Categoría Serie A,2021,2021-03-06 19:30:00,3,LDU Quito,CD Universidad Católica,2,1,3,"['15', '75']",['66'],1.64,4.08,4.8,1.71,2.06,1.62,2.15
+20,1189504,Ecuador Primera Categoría Serie A,2021,2021-03-06 22:00:00,3,CS Emelec,Delfin SC,1,0,1,['50'],[],1.71,3.85,4.53,1.78,1.97,1.8,1.96
+21,1189502,Ecuador Primera Categoría Serie A,2021,2021-03-07 15:00:00,3,CD Olmedo,Macará,0,2,2,[],"['56', '89']",3.15,3.3,2.0,1.98,1.82,1.75,1.95
+22,1189505,Ecuador Primera Categoría Serie A,2021,2021-03-07 17:30:00,3,Manta FC,Deportivo Cuenca,1,0,1,['25'],[],2.15,3.4,2.9,1.59,2.15,1.51,2.3
+23,1189498,Ecuador Primera Categoría Serie A,2021,2021-03-07 20:00:00,3,Guayaquil City FC,Barcelona,0,3,3,[],"['27', '45+2', '89']",6.75,4.05,1.36,1.83,1.8,2.05,1.65
+24,1189499,Ecuador Primera Categoría Serie A,2021,2021-03-08 21:00:00,3,Técnico Universitario,9 de Octubre,0,0,0,[],[],1.7,3.3,5.0,2.17,1.69,2.05,1.67
+25,1189506,Ecuador Primera Categoría Serie A,2021,2021-03-11 21:00:00,4,Macará,CS Emelec,1,1,2,['75'],['64'],1.83,3.4,3.6,1.98,1.83,1.8,1.87
+26,1189508,Ecuador Primera Categoría Serie A,2021,2021-03-12 21:00:00,4,Deportivo Cuenca,LDU Quito,2,2,4,"['7', '76']","['69', '86']",3.73,3.43,1.92,1.71,2.05,1.67,2.05
+27,1189510,Ecuador Primera Categoría Serie A,2021,2021-03-13 17:00:00,4,CD Universidad Católica,Técnico Universitario,1,1,2,['80'],['17'],1.58,3.9,4.35,1.64,2.18,1.71,2.0
+28,1189507,Ecuador Primera Categoría Serie A,2021,2021-03-13 19:30:00,4,Delfin SC,Guayaquil City FC,1,1,2,['90+4'],['61'],1.67,3.35,4.65,1.83,1.83,1.8,1.87
+29,1189509,Ecuador Primera Categoría Serie A,2021,2021-03-13 22:00:00,4,SD Aucas,CSD Independiente del Valle,3,4,7,"['45', '68', '86']","['12', '39', '58', '64']",2.05,3.65,2.9,1.48,2.4,1.43,2.5
+30,1189511,Ecuador Primera Categoría Serie A,2021,2021-03-14 15:00:00,4,Mushuc Runa SC,Manta FC,4,2,6,"['32', '36', '54', '58']","['50', '77']",2.2,3.4,2.8,1.7,2.1,1.71,1.95
+31,1189512,Ecuador Primera Categoría Serie A,2021,2021-03-14 17:30:00,4,9 de Octubre,CD Olmedo,2,0,2,"['7', '72']",[],1.67,3.8,4.78,1.88,1.88,1.87,1.8
+32,1189513,Ecuador Primera Categoría Serie A,2021,2021-03-14 20:00:00,4,Barcelona,Orense SC,2,0,2,"['27', '45+1']",[],1.27,5.4,10.0,1.67,2.14,2.35,1.5
+33,1189520,Ecuador Primera Categoría Serie A,2021,2021-03-19 21:00:00,5,Técnico Universitario,CD Olmedo,0,0,0,[],[],1.79,3.25,3.9,2.1,1.65,2.15,1.59
+34,1189518,Ecuador Primera Categoría Serie A,2021,2021-03-20 15:00:00,5,Mushuc Runa SC,Macará,0,0,0,[],[],3.14,3.26,2.25,1.84,1.9,1.67,2.05
+35,1189519,Ecuador Primera Categoría Serie A,2021,2021-03-20 17:30:00,5,CSD Independiente del Valle,Delfin SC,2,0,2,"['7', '88']",[],1.41,4.45,8.0,1.61,2.15,1.87,1.8
+36,1189514,Ecuador Primera Categoría Serie A,2021,2021-03-20 20:30:00,5,LDU Quito,Barcelona,2,2,4,"['20', '53']","['45+1', '52']",1.97,3.18,4.25,1.95,1.75,1.87,1.8
+37,1189517,Ecuador Primera Categoría Serie A,2021,2021-03-21 15:00:00,5,Manta FC,SD Aucas,1,1,2,['5'],['20'],2.61,3.06,2.28,2.02,1.75,1.5,2.35
+38,1189516,Ecuador Primera Categoría Serie A,2021,2021-03-21 17:30:00,5,Guayaquil City FC,CD Universidad Católica,1,2,3,['33'],"['58', '62']",3.1,3.3,2.15,1.72,2.06,1.71,1.95
+39,1189515,Ecuador Primera Categoría Serie A,2021,2021-03-21 20:00:00,5,CS Emelec,9 de Octubre,0,1,1,[],['90+2'],1.36,4.15,7.25,1.71,1.95,1.91,1.74
+40,1189521,Ecuador Primera Categoría Serie A,2021,2021-03-22 21:00:00,5,Deportivo Cuenca,Orense SC,1,0,1,['54'],[],1.95,3.3,3.45,1.91,1.74,1.83,1.83
+41,1189535,Ecuador Primera Categoría Serie A,2021,2021-03-31 17:00:00,7,SD Aucas,Delfin SC,3,3,6,"['44', '78', '84']","['2', '62', '90+5']",1.76,3.86,4.1,1.68,2.1,1.65,2.1
+42,1189537,Ecuador Primera Categoría Serie A,2021,2021-03-31 19:30:00,7,Guayaquil City FC,Orense SC,4,1,5,"['35', '67', '75', '90+3']",['71'],2.19,3.36,3.17,2.08,1.7,1.77,1.91
+43,1189541,Ecuador Primera Categoría Serie A,2021,2021-03-31 22:00:00,8,Técnico Universitario,CSD Independiente del Valle,0,2,2,[],"['61', '89']",5.1,4.1,1.58,1.87,1.87,1.83,1.83
+44,1189526,Ecuador Primera Categoría Serie A,2021,2021-04-01 19:30:00,6,CD Universidad Católica,Macará,1,1,2,['15'],['60'],1.98,3.61,3.53,1.82,2.03,1.57,2.2
+45,1189522,Ecuador Primera Categoría Serie A,2021,2021-04-01 22:00:00,6,CD Olmedo,CS Emelec,2,3,5,"['19', '90+3']","['25', '50', '85']",4.65,3.57,1.75,2.14,1.73,1.87,1.8
+46,1189529,Ecuador Primera Categoría Serie A,2021,2021-04-03 14:15:00,6,Delfin SC,Deportivo Cuenca,1,1,2,['21'],['81'],1.72,3.3,3.78,1.98,1.8,1.83,1.91
+47,1189527,Ecuador Primera Categoría Serie A,2021,2021-04-03 16:30:00,6,LDU Quito,Mushuc Runa SC,0,0,0,[],[],1.42,4.6,6.8,1.59,2.27,1.87,1.87
+48,1189525,Ecuador Primera Categoría Serie A,2021,2021-04-03 19:00:00,6,Barcelona,CSD Independiente del Valle,2,2,4,"['60', '73']","['25', '42']",2.04,3.54,3.36,1.79,1.96,1.67,2.13
+49,1189528,Ecuador Primera Categoría Serie A,2021,2021-04-04 14:15:00,6,Orense SC,Manta FC,0,1,1,[],['15'],1.97,3.24,3.35,1.81,1.86,1.73,2.05
+50,1189524,Ecuador Primera Categoría Serie A,2021,2021-04-04 16:30:00,6,9 de Octubre,SD Aucas,1,3,4,['8'],"['53', '84', '88']",2.8,3.3,2.5,2.15,1.67,1.54,2.38
+51,1189523,Ecuador Primera Categoría Serie A,2021,2021-04-04 19:00:00,6,Técnico Universitario,Guayaquil City FC,3,0,3,"['19', '59', '62']",[],1.8,3.5,4.6,1.67,2.15,2.0,1.77
+52,1189536,Ecuador Primera Categoría Serie A,2021,2021-04-08 16:30:00,7,Mushuc Runa SC,CD Olmedo,4,0,4,"['20', '22', '45', '78']",[],1.57,3.7,5.5,1.98,1.76,1.91,1.8
+53,1189530,Ecuador Primera Categoría Serie A,2021,2021-04-08 19:00:00,7,Deportivo Cuenca,Barcelona,1,0,1,['35'],[],4.0,3.3,1.85,1.79,1.94,1.8,1.91
+54,1189534,Ecuador Primera Categoría Serie A,2021,2021-04-09 19:00:00,7,Manta FC,Técnico Universitario,0,2,2,[],"['31', '75']",2.3,3.0,3.0,1.98,1.74,1.83,1.83
+55,1189531,Ecuador Primera Categoría Serie A,2021,2021-04-10 16:30:00,7,Macará,9 de Octubre,3,2,5,"['14', '34', '90+3']","['63', '74']",1.52,3.85,4.95,1.88,1.92,1.87,1.87
+56,1189532,Ecuador Primera Categoría Serie A,2021,2021-04-10 19:00:00,7,CS Emelec,LDU Quito,1,1,2,['79'],['60'],2.17,3.16,2.97,1.73,2.0,1.55,2.35
+57,1189543,Ecuador Primera Categoría Serie A,2021,2021-04-12 16:30:00,8,Orense SC,Mushuc Runa SC,0,2,2,[],"['1', '83']",2.75,3.15,2.51,1.82,1.92,1.67,2.1
+58,1189540,Ecuador Primera Categoría Serie A,2021,2021-04-12 19:00:00,8,Barcelona,SD Aucas,2,0,2,"['8', '17']",[],1.63,3.63,5.2,1.64,2.18,1.8,1.91
+59,1189539,Ecuador Primera Categoría Serie A,2021,2021-04-13 16:30:00,8,9 de Octubre,Guayaquil City FC,4,0,4,"['16', '32', '43', '86']",[],2.05,3.17,2.7,1.76,1.84,1.68,2.07
+60,1189545,Ecuador Primera Categoría Serie A,2021,2021-04-13 19:00:00,8,CD Olmedo,Deportivo Cuenca,2,2,4,"['3', '6']","['45', '67']",2.85,3.25,2.3,1.95,1.75,1.8,1.91
+61,1189542,Ecuador Primera Categoría Serie A,2021,2021-04-14 14:15:00,8,Delfin SC,Macará,2,0,2,"['38', '90+1']",[],2.15,3.0,3.25,1.95,1.83,1.77,1.94
+62,1189544,Ecuador Primera Categoría Serie A,2021,2021-04-14 16:30:00,8,LDU Quito,Manta FC,1,0,1,['90+1'],[],1.22,5.4,8.6,2.4,1.55,1.96,1.81
+63,1189538,Ecuador Primera Categoría Serie A,2021,2021-04-14 19:00:00,8,CD Universidad Católica,CS Emelec,2,3,5,"['35', '76']","['7', '10', '58']",2.2,3.4,2.7,1.91,1.83,1.72,2.0
+64,1189546,Ecuador Primera Categoría Serie A,2021,2021-04-16 21:00:00,9,Mushuc Runa SC,Barcelona,2,2,4,"['1', '8']","['45+1', '71']",3.6,3.2,1.95,1.93,1.83,1.77,1.94
+65,1189553,Ecuador Primera Categoría Serie A,2021,2021-04-17 17:00:00,9,Macará,Orense SC,1,0,1,['68'],[],1.73,3.5,5.0,1.8,1.95,1.93,1.83
+66,1189552,Ecuador Primera Categoría Serie A,2021,2021-04-17 19:30:00,9,SD Aucas,CD Olmedo,1,3,4,['86'],"['33', '56', '68']",1.51,4.05,4.15,0.0,0.0,0.0,0.0
+67,1189548,Ecuador Primera Categoría Serie A,2021,2021-04-17 22:00:00,9,Guayaquil City FC,LDU Quito,2,2,4,"['16', '33']","['38', '68']",6.0,4.0,1.55,2.0,1.78,1.72,2.07
+68,1189549,Ecuador Primera Categoría Serie A,2021,2021-04-18 15:00:00,9,Deportivo Cuenca,CD Universidad Católica,0,1,1,[],['71'],3.1,3.54,2.07,1.87,1.87,1.61,2.15
+69,1189547,Ecuador Primera Categoría Serie A,2021,2021-04-18 17:30:00,9,CSD Independiente del Valle,9 de Octubre,2,1,3,"['37', '90']",['40'],1.4,4.58,6.47,1.75,1.95,1.8,1.87
+70,1189550,Ecuador Primera Categoría Serie A,2021,2021-04-18 20:00:00,9,CS Emelec,Técnico Universitario,2,0,2,"['35', '57']",[],1.41,3.7,7.5,2.05,1.65,2.25,1.54
+71,1189551,Ecuador Primera Categoría Serie A,2021,2021-04-19 21:00:00,9,Manta FC,Delfin SC,1,2,3,['23'],"['6', '74']",3.9,3.05,1.91,2.1,1.62,1.95,1.74
+72,1189556,Ecuador Primera Categoría Serie A,2021,2021-05-01 15:00:00,10,CD Universidad Católica,SD Aucas,1,1,2,['90+1'],['49'],1.74,3.7,3.8,1.56,2.2,1.56,2.2
+73,1189561,Ecuador Primera Categoría Serie A,2021,2021-05-01 17:30:00,10,9 de Octubre,Deportivo Cuenca,2,1,3,"['11', '14']",['45'],2.15,3.15,3.05,1.83,1.8,1.71,1.95
+74,1189558,Ecuador Primera Categoría Serie A,2021,2021-05-01 20:00:00,10,LDU Quito,Macará,2,1,3,"['41', '90+2']",['73'],1.62,3.6,5.0,1.87,1.87,1.91,1.8
+75,1189560,Ecuador Primera Categoría Serie A,2021,2021-05-01 22:30:00,10,Barcelona,Delfin SC,2,1,3,"['44', '90+6']",['54'],1.58,3.75,5.29,2.03,1.75,2.1,1.62
+76,1189559,Ecuador Primera Categoría Serie A,2021,2021-05-02 15:00:00,10,Técnico Universitario,Mushuc Runa SC,1,3,4,['52'],"['7', '42', '67']",2.3,3.1,2.9,2.0,1.8,1.76,1.95
+77,1189554,Ecuador Primera Categoría Serie A,2021,2021-05-02 17:30:00,10,Orense SC,CS Emelec,2,3,5,"['41', '68']","['24', '29', '37']",3.3,3.2,2.05,2.0,1.8,1.8,1.9
+78,1189557,Ecuador Primera Categoría Serie A,2021,2021-05-02 20:00:00,10,Manta FC,CSD Independiente del Valle,2,1,3,"['13', '42']",['52'],4.39,3.92,1.72,1.68,2.1,1.65,2.1
+79,1189555,Ecuador Primera Categoría Serie A,2021,2021-05-03 21:00:00,10,CD Olmedo,Guayaquil City FC,0,0,0,[],[],1.95,3.45,3.3,1.77,1.91,1.71,2.0
+80,1189569,Ecuador Primera Categoría Serie A,2021,2021-05-07 21:00:00,11,Macará,Deportivo Cuenca,1,0,1,['9'],[],2.0,3.5,3.15,1.95,1.71,1.91,1.77
+81,1189563,Ecuador Primera Categoría Serie A,2021,2021-05-08 15:00:00,11,Orense SC,9 de Octubre,3,1,4,"['53', '60', '66']",['29'],2.0,2.95,3.13,1.87,1.68,1.71,1.95
+82,1189564,Ecuador Primera Categoría Serie A,2021,2021-05-08 17:30:00,11,CSD Independiente del Valle,LDU Quito,3,1,4,"['21', '33', '48']",['24'],1.92,3.2,3.06,1.72,1.82,1.69,2.0
+83,1189565,Ecuador Primera Categoría Serie A,2021,2021-05-09 15:00:00,11,Mushuc Runa SC,CD Universidad Católica,2,6,8,"['58', '82']","['6', '9', '28', '35', '53', '64']",2.8,3.35,2.25,2.01,1.66,1.69,2.0
+84,1189568,Ecuador Primera Categoría Serie A,2021,2021-05-09 17:30:00,11,Delfin SC,CD Olmedo,2,4,6,"['61', '90+2']","['24', '27', '31', '63']",1.42,4.15,6.0,1.83,1.89,1.87,1.77
+85,1189566,Ecuador Primera Categoría Serie A,2021,2021-05-09 20:00:00,11,SD Aucas,Técnico Universitario,0,2,2,[],"['51', '80']",1.83,3.05,4.6,1.69,1.98,1.57,2.15
+86,1189567,Ecuador Primera Categoría Serie A,2021,2021-05-10 21:00:00,11,Guayaquil City FC,Manta FC,0,3,3,[],"['52', '72', '84']",2.3,3.1,3.25,1.83,1.93,1.69,1.95
+87,1189575,Ecuador Primera Categoría Serie A,2021,2021-05-14 21:00:00,12,Deportivo Cuenca,Mushuc Runa SC,1,2,3,['81'],"['31', '71']",2.0,3.5,3.1,1.62,2.05,1.59,2.15
+88,1189573,Ecuador Primera Categoría Serie A,2021,2021-05-15 16:00:00,12,CD Olmedo,CSD Independiente del Valle,1,3,4,['44'],"['55', '62', '89']",4.28,3.9,1.72,1.58,2.23,1.69,2.0
+89,1189576,Ecuador Primera Categoría Serie A,2021,2021-05-15 18:30:00,12,CD Universidad Católica,Delfin SC,0,1,1,[],['69'],1.61,3.7,4.7,1.74,1.91,1.77,1.91
+90,1189571,Ecuador Primera Categoría Serie A,2021,2021-05-15 21:00:00,12,CS Emelec,Guayaquil City FC,1,0,1,['86'],[],1.27,5.25,8.0,1.56,2.2,1.95,1.74
+91,1189574,Ecuador Primera Categoría Serie A,2021,2021-05-16 16:00:00,12,Manta FC,Macará,1,1,2,['72'],['11'],2.64,3.2,2.45,1.85,1.85,1.69,2.0
+92,1189572,Ecuador Primera Categoría Serie A,2021,2021-05-16 18:30:00,12,LDU Quito,SD Aucas,1,3,4,['13'],"['11', '32', '43']",1.67,3.75,4.2,1.71,1.95,1.74,1.95
+93,1189570,Ecuador Primera Categoría Serie A,2021,2021-05-16 21:00:00,12,9 de Octubre,Barcelona,0,1,1,[],['48'],5.5,4.3,1.44,1.48,2.4,1.61,2.15
+94,1189577,Ecuador Primera Categoría Serie A,2021,2021-05-17 21:00:00,12,Técnico Universitario,Orense SC,1,2,3,['89'],"['65', '86']",2.05,2.9,3.8,2.35,1.49,2.1,1.62
+95,1189583,Ecuador Primera Categoría Serie A,2021,2021-05-21 21:00:00,13,9 de Octubre,Manta FC,2,0,2,"['27', '90+5']",[],1.91,3.4,3.5,1.71,1.95,1.62,2.1
+96,1189581,Ecuador Primera Categoría Serie A,2021,2021-05-22 15:00:00,13,Orense SC,CD Universidad Católica,0,3,3,[],"['21', '31', '59']",2.65,3.3,2.4,1.69,2.0,1.57,2.2
+97,1189579,Ecuador Primera Categoría Serie A,2021,2021-05-22 17:30:00,13,CSD Independiente del Valle,Guayaquil City FC,3,0,3,"['8', '37', '69']",[],1.15,6.75,11.0,1.42,2.55,2.05,1.65
+98,1189578,Ecuador Primera Categoría Serie A,2021,2021-05-22 20:00:00,13,Mushuc Runa SC,CS Emelec,1,2,3,['48'],"['45', '55']",2.55,3.35,2.45,1.8,1.83,1.71,2.0
+99,1189585,Ecuador Primera Categoría Serie A,2021,2021-05-23 16:00:00,13,SD Aucas,Deportivo Cuenca,2,0,2,"['27', '39']",[],1.9,3.55,3.42,1.53,2.34,1.39,2.65
+100,1189580,Ecuador Primera Categoría Serie A,2021,2021-05-23 18:30:00,13,Delfin SC,LDU Quito,1,1,2,['45'],['38'],2.35,3.05,2.85,1.74,1.91,1.61,2.15
+101,1189584,Ecuador Primera Categoría Serie A,2021,2021-05-23 21:00:00,13,Barcelona,CD Olmedo,4,0,4,"['28', '60', '85', '90+2']",[],1.16,6.5,12.0,1.57,2.15,2.5,1.43
+102,1189582,Ecuador Primera Categoría Serie A,2021,2021-05-24 21:00:00,13,Macará,Técnico Universitario,1,1,2,['46'],['27'],2.2,3.25,3.0,2.16,1.66,1.91,1.83
+103,1189592,Ecuador Primera Categoría Serie A,2021,2021-05-28 21:00:00,14,CD Olmedo,Manta FC,1,1,2,['9'],['82'],1.91,3.35,3.55,1.8,1.83,1.74,1.95
+104,1189587,Ecuador Primera Categoría Serie A,2021,2021-05-29 16:00:00,14,Delfin SC,9 de Octubre,2,2,4,"['20', '89']","['44', '60']",1.81,3.64,4.1,1.9,1.84,1.77,1.91
+105,1189591,Ecuador Primera Categoría Serie A,2021,2021-05-29 18:30:00,14,Guayaquil City FC,Mushuc Runa SC,0,0,0,[],[],2.65,3.4,2.3,1.62,2.05,1.5,2.35
+106,1189590,Ecuador Primera Categoría Serie A,2021,2021-05-29 21:00:00,14,Deportivo Cuenca,Técnico Universitario,1,0,1,['4'],[],0.0,0.0,0.0,2.35,1.57,0.0,0.0
+107,1189588,Ecuador Primera Categoría Serie A,2021,2021-05-30 15:30:00,14,Macará,SD Aucas,1,0,1,['88'],[],2.5,3.1,2.63,1.8,1.91,1.67,2.05
+108,1189593,Ecuador Primera Categoría Serie A,2021,2021-05-30 18:00:00,14,LDU Quito,Orense SC,2,1,3,"['43', '55']",['76'],1.29,5.0,7.5,1.6,2.3,1.95,1.71
+109,1189586,Ecuador Primera Categoría Serie A,2021,2021-05-30 21:00:00,14,CD Universidad Católica,Barcelona,2,0,2,"['26', '59']",[],2.3,3.35,2.7,1.71,1.95,1.62,2.1
+110,1189589,Ecuador Primera Categoría Serie A,2021,2021-05-30 21:00:00,14,CS Emelec,CSD Independiente del Valle,0,0,0,[],[],2.2,3.2,3.0,1.69,1.95,1.71,2.0
+111,1189562,Ecuador Primera Categoría Serie A,2021,2021-07-10 19:00:00,11,Barcelona,CS Emelec,1,1,2,['61'],['21'],1.74,3.4,4.15,1.85,1.85,1.83,1.83
+112,1189533,Ecuador Primera Categoría Serie A,2021,2021-07-10 19:00:00,7,CSD Independiente del Valle,CD Universidad Católica,2,3,5,"['49', '90']","['70', '72', '90+1']",1.83,3.45,3.75,1.57,2.15,1.53,2.3
+113,1189596,Ecuador Primera Categoría Serie A,2021,2021-07-16 21:00:00,15,Técnico Universitario,LDU Quito,0,1,1,[],['29'],3.75,3.25,1.87,2.1,1.62,1.95,1.71
+114,1189599,Ecuador Primera Categoría Serie A,2021,2021-07-17 14:30:00,15,Mushuc Runa SC,Delfin SC,6,1,7,"['25', '30', '34', '39', '67', '78']",['71'],2.0,3.15,3.45,1.83,1.8,1.71,1.95
+115,1189600,Ecuador Primera Categoría Serie A,2021,2021-07-17 17:00:00,15,Orense SC,CD Olmedo,0,0,0,[],[],1.95,3.7,3.2,1.76,1.99,1.83,1.83
+116,1189595,Ecuador Primera Categoría Serie A,2021,2021-07-17 19:30:00,15,SD Aucas,Guayaquil City FC,3,0,3,"['6', '19', '64']",[],1.43,4.0,7.0,1.25,3.56,1.69,2.0
+117,1189601,Ecuador Primera Categoría Serie A,2021,2021-07-17 22:00:00,15,CSD Independiente del Valle,Deportivo Cuenca,0,0,0,[],[],1.3,4.65,8.0,1.83,1.8,2.25,1.54
+118,1189594,Ecuador Primera Categoría Serie A,2021,2021-07-18 17:30:00,15,Manta FC,CS Emelec,0,4,4,[],"['5', '43', '66', '84']",4.65,4.05,1.54,1.74,1.91,1.87,1.8
+119,1189598,Ecuador Primera Categoría Serie A,2021,2021-07-18 17:30:00,15,Barcelona,Macará,3,0,3,"['37', '56', '72']",[],1.53,3.65,5.75,1.91,1.74,1.95,1.74
+120,1189597,Ecuador Primera Categoría Serie A,2021,2021-07-19 21:00:00,15,9 de Octubre,CD Universidad Católica,1,0,1,['78'],[],2.8,3.15,2.3,1.77,1.87,1.65,2.05
+121,1189604,Ecuador Primera Categoría Serie A,2021,2021-07-23 21:00:00,16,SD Aucas,Mushuc Runa SC,1,1,2,['71'],['67'],1.83,3.5,3.9,1.58,2.29,1.39,2.65
+122,1189608,Ecuador Primera Categoría Serie A,2021,2021-07-24 17:00:00,16,CD Olmedo,CD Universidad Católica,0,3,3,[],"['10', '45+2', '66']",4.05,3.8,1.67,1.65,2.05,1.69,2.0
+123,1189606,Ecuador Primera Categoría Serie A,2021,2021-07-24 19:30:00,16,Macará,Guayaquil City FC,0,2,2,[],"['22', '90+7']",1.57,3.7,5.0,1.73,2.0,1.83,1.83
+124,1189609,Ecuador Primera Categoría Serie A,2021,2021-07-24 22:00:00,16,Deportivo Cuenca,CS Emelec,0,1,1,[],['63'],3.5,2.95,2.1,2.1,1.61,1.91,1.77
+125,1189605,Ecuador Primera Categoría Serie A,2021,2021-07-25 16:00:00,16,CSD Independiente del Valle,Orense SC,3,2,5,"['29', '32', '90']","['1', '78']",1.33,4.75,7.0,1.61,2.1,1.83,1.83
+126,1189603,Ecuador Primera Categoría Serie A,2021,2021-07-25 18:30:00,16,9 de Octubre,LDU Quito,4,1,5,"['32', '53', '57', '80']",['84'],3.69,3.23,1.79,1.72,1.9,1.77,1.91
+127,1189602,Ecuador Primera Categoría Serie A,2021,2021-07-25 21:00:00,16,Barcelona,Manta FC,2,0,2,"['80', '90+4']",[],1.19,6.0,9.5,1.57,2.15,2.45,1.47
+128,1189607,Ecuador Primera Categoría Serie A,2021,2021-07-26 21:00:00,16,Delfin SC,Técnico Universitario,1,1,2,['38'],['25'],1.91,3.1,3.9,2.25,1.53,2.1,1.62
+129,1189616,Ecuador Primera Categoría Serie A,2021,2021-07-30 21:00:00,17,Manta FC,CD Universidad Católica,0,1,1,[],['10'],4.05,3.6,1.71,1.83,1.8,1.87,1.8
+130,1189615,Ecuador Primera Categoría Serie A,2021,2021-07-31 16:00:00,17,Mushuc Runa SC,9 de Octubre,1,2,3,['90+6'],"['17', '62']",1.91,3.35,3.55,1.65,2.05,1.59,2.15
+131,1189611,Ecuador Primera Categoría Serie A,2021,2021-07-31 18:30:00,17,Guayaquil City FC,Deportivo Cuenca,2,1,3,"['12', '73']",['26'],2.1,3.1,3.1,1.95,1.75,1.74,1.95
+132,1189614,Ecuador Primera Categoría Serie A,2021,2021-07-31 21:00:00,17,Técnico Universitario,Barcelona,1,2,3,['48'],"['70', '87']",4.1,3.45,1.74,1.91,1.74,1.87,1.8
+133,1189617,Ecuador Primera Categoría Serie A,2021,2021-08-01 16:00:00,17,Orense SC,Delfin SC,2,2,4,"['30', '90+5']","['8', '25']",2.25,3.25,2.9,1.83,1.8,1.74,1.95
+134,1189613,Ecuador Primera Categoría Serie A,2021,2021-08-01 18:30:00,17,CSD Independiente del Valle,Macará,4,0,4,"['10', '18', '70', '89']",[],1.53,4.1,5.93,1.78,1.93,1.69,2.0
+135,1189610,Ecuador Primera Categoría Serie A,2021,2021-08-01 21:00:00,17,CS Emelec,SD Aucas,2,2,4,"['4', '28']","['2', '81']",1.57,3.65,5.0,1.67,2.0,1.71,2.0
+136,1189612,Ecuador Primera Categoría Serie A,2021,2021-08-02 21:00:00,17,LDU Quito,CD Olmedo,4,0,4,"['20', '64', '68', '90+3']",[],1.17,6.75,13.0,1.45,2.4,2.2,1.56
+137,1189625,Ecuador Primera Categoría Serie A,2021,2021-08-06 21:00:00,18,Deportivo Cuenca,Manta FC,1,0,1,['56'],[],1.5,3.6,5.75,2.2,1.54,2.35,1.48
+138,1189623,Ecuador Primera Categoría Serie A,2021,2021-08-07 17:00:00,18,Mushuc Runa SC,CSD Independiente del Valle,0,2,2,[],"['15', '82']",3.5,3.6,1.77,1.42,2.55,1.43,2.5
+139,1189620,Ecuador Primera Categoría Serie A,2021,2021-08-07 19:30:00,18,CD Universidad Católica,LDU Quito,2,2,4,"['24', '41']","['29', '90+1']",2.15,3.05,3.0,1.74,1.91,1.62,2.1
+140,1189618,Ecuador Primera Categoría Serie A,2021,2021-08-07 22:00:00,18,Barcelona,Guayaquil City FC,2,1,3,"['31', '36']",['25'],1.24,5.5,10.0,1.56,2.2,2.05,1.62
+141,1189621,Ecuador Primera Categoría Serie A,2021,2021-08-08 16:00:00,18,SD Aucas,Orense SC,0,0,0,[],[],1.51,3.9,5.0,1.45,2.45,1.54,2.2
+142,1189619,Ecuador Primera Categoría Serie A,2021,2021-08-08 18:30:00,18,9 de Octubre,Técnico Universitario,0,1,1,[],['68'],1.61,3.6,4.65,2.05,1.65,2.1,1.61
+143,1189624,Ecuador Primera Categoría Serie A,2021,2021-08-08 21:00:00,18,Delfin SC,CS Emelec,1,2,3,['84'],"['54', '74']",3.05,3.0,2.15,1.8,1.87,1.62,2.05
+144,1189622,Ecuador Primera Categoría Serie A,2021,2021-08-09 21:00:00,18,Macará,CD Olmedo,3,2,5,"['6', '23', '59']","['12', '44']",1.49,3.9,5.2,1.84,1.92,1.8,1.8
+145,1189630,Ecuador Primera Categoría Serie A,2021,2021-08-13 21:00:00,19,Técnico Universitario,CD Universidad Católica,1,1,2,['8'],['28'],3.4,3.64,1.99,1.8,2.16,1.59,2.1
+146,1189629,Ecuador Primera Categoría Serie A,2021,2021-08-14 17:00:00,19,CSD Independiente del Valle,SD Aucas,1,0,1,['40'],[],1.56,3.95,4.4,1.54,2.25,1.61,2.1
+147,1189627,Ecuador Primera Categoría Serie A,2021,2021-08-14 19:30:00,19,Guayaquil City FC,Delfin SC,2,1,3,"['24', '44']",['73'],3.15,3.0,2.1,1.87,1.77,1.71,1.95
+148,1189626,Ecuador Primera Categoría Serie A,2021,2021-08-14 22:00:00,19,CS Emelec,Macará,3,0,3,"['34', '59', '86']",[],1.68,3.5,5.0,1.77,1.98,1.8,1.83
+149,1189631,Ecuador Primera Categoría Serie A,2021,2021-08-15 15:00:00,19,Manta FC,Mushuc Runa SC,0,0,0,[],[],2.6,2.95,2.45,1.83,1.8,1.67,2.0
+150,1189633,Ecuador Primera Categoría Serie A,2021,2021-08-15 17:30:00,19,Orense SC,Barcelona,1,0,1,['73'],[],3.25,3.2,1.95,1.8,1.83,1.71,1.95
+151,1189628,Ecuador Primera Categoría Serie A,2021,2021-08-15 20:00:00,19,LDU Quito,Deportivo Cuenca,3,3,6,"['13', '16', '71']","['38', '42', '66']",1.46,4.34,6.3,1.82,2.13,1.95,1.69
+152,1189632,Ecuador Primera Categoría Serie A,2021,2021-08-16 21:00:00,19,CD Olmedo,9 de Octubre,1,2,3,['13'],"['53', '89']",2.9,3.05,2.2,1.83,1.83,1.69,2.0
+153,1189638,Ecuador Primera Categoría Serie A,2021,2021-08-20 21:00:00,20,Macará,Mushuc Runa SC,1,1,2,['5'],['18'],2.65,2.9,2.65,1.86,1.94,1.77,1.87
+154,1189640,Ecuador Primera Categoría Serie A,2021,2021-08-21 17:00:00,20,CD Olmedo,Técnico Universitario,0,0,0,[],[],2.95,3.0,2.2,2.05,1.65,1.91,1.74
+155,1189636,Ecuador Primera Categoría Serie A,2021,2021-08-21 19:30:00,20,CD Universidad Católica,Guayaquil City FC,1,1,2,['23'],['69'],1.25,5.5,8.75,1.53,2.25,2.1,1.62
+156,1189635,Ecuador Primera Categoría Serie A,2021,2021-08-21 22:00:00,20,9 de Octubre,CS Emelec,2,2,4,"['34', '73']","['81', '90+5']",2.79,3.31,2.33,1.85,1.89,1.74,1.91
+157,1189641,Ecuador Primera Categoría Serie A,2021,2021-08-22 16:00:00,20,Orense SC,Deportivo Cuenca,1,1,2,['90+3'],['56'],1.87,3.2,3.65,1.95,1.71,1.83,1.8
+158,1189637,Ecuador Primera Categoría Serie A,2021,2021-08-22 18:30:00,20,SD Aucas,Manta FC,3,0,3,"['14', '52', '58']",[],1.32,4.4,7.75,1.69,1.95,2.1,1.62
+159,1189639,Ecuador Primera Categoría Serie A,2021,2021-08-22 21:00:00,20,Delfin SC,CSD Independiente del Valle,0,0,0,[],[],4.0,3.4,1.8,1.72,2.0,1.74,1.91
+160,1189634,Ecuador Primera Categoría Serie A,2021,2021-08-23 21:00:00,20,Barcelona,LDU Quito,0,2,2,[],"['29', '90+3']",1.65,3.55,4.35,1.95,1.71,2.0,1.69
+161,1189642,Ecuador Primera Categoría Serie A,2021,2021-08-27 21:00:00,21,CS Emelec,CD Olmedo,4,0,4,"['2', '18', '39', '52']",[],1.12,7.25,18.0,1.62,2.1,3.05,1.3
+162,1189644,Ecuador Primera Categoría Serie A,2021,2021-08-28 17:00:00,21,SD Aucas,9 de Octubre,1,1,2,['21'],['76'],1.74,3.65,3.6,1.57,2.15,1.57,2.15
+163,1189648,Ecuador Primera Categoría Serie A,2021,2021-08-28 19:30:00,21,Manta FC,Orense SC,0,0,0,[],[],2.8,2.9,2.35,2.0,1.67,1.8,1.83
+164,1189647,Ecuador Primera Categoría Serie A,2021,2021-08-28 22:00:00,21,Mushuc Runa SC,LDU Quito,1,3,4,['42'],"['6', '20', '66']",3.25,3.15,2.0,1.71,1.95,1.62,2.05
+165,1189643,Ecuador Primera Categoría Serie A,2021,2021-08-29 16:00:00,21,Guayaquil City FC,Técnico Universitario,1,0,1,['24'],[],2.3,3.0,2.8,2.05,1.62,1.87,1.77
+166,1189646,Ecuador Primera Categoría Serie A,2021,2021-08-29 18:30:00,21,Macará,CD Universidad Católica,1,2,3,['69'],"['78', '81']",3.3,3.15,2.0,1.83,1.83,1.71,1.95
+167,1189645,Ecuador Primera Categoría Serie A,2021,2021-08-29 21:00:00,21,CSD Independiente del Valle,Barcelona,1,0,1,['90+3'],[],2.0,3.3,3.48,1.87,1.83,1.71,1.95
+168,1189649,Ecuador Primera Categoría Serie A,2021,2021-08-30 21:00:00,21,Deportivo Cuenca,Delfin SC,2,3,5,"['62', '83']","['30', '59', '80']",1.65,3.65,4.15,1.91,1.71,1.95,1.71
+169,1189653,Ecuador Primera Categoría Serie A,2021,2021-09-13 21:00:00,22,CD Universidad Católica,CSD Independiente del Valle,1,3,4,['30'],"['22', '27', '39']",2.45,3.15,2.5,1.69,1.95,1.59,2.1
+170,1189650,Ecuador Primera Categoría Serie A,2021,2021-09-17 21:00:00,22,Barcelona,Deportivo Cuenca,3,2,5,"['27', '76', '90+5']","['54', '62']",1.3,4.6,8.0,1.87,1.77,2.45,1.44
+171,1189657,Ecuador Primera Categoría Serie A,2021,2021-09-18 17:00:00,22,Orense SC,Guayaquil City FC,2,0,2,"['63', '90+2']",[],1.74,3.3,4.05,1.87,1.77,1.83,1.8
+172,1189655,Ecuador Primera Categoría Serie A,2021,2021-09-18 19:30:00,22,Delfin SC,SD Aucas,1,2,3,['43'],"['59', '90+2']",2.3,3.15,2.7,1.8,1.83,1.67,2.0
+173,1189651,Ecuador Primera Categoría Serie A,2021,2021-09-18 22:00:00,22,9 de Octubre,Macará,1,1,2,['30'],['90'],1.62,3.6,4.35,1.87,1.77,1.91,1.74
+174,1189656,Ecuador Primera Categoría Serie A,2021,2021-09-19 16:00:00,22,CD Olmedo,Mushuc Runa SC,2,5,7,"['22', '43']","['4', '28', '33', '49', '76']",3.75,3.6,1.8,1.68,2.1,1.83,1.8
+175,1189654,Ecuador Primera Categoría Serie A,2021,2021-09-19 18:30:00,22,Técnico Universitario,Manta FC,0,0,0,[],[],1.61,3.5,4.65,2.05,1.62,2.1,1.61
+176,1189652,Ecuador Primera Categoría Serie A,2021,2021-09-19 21:00:00,22,LDU Quito,CS Emelec,3,2,5,"['20', '37', '63']","['3', '31']",2.16,3.16,2.77,1.7,2.0,1.59,2.15
+177,1189661,Ecuador Primera Categoría Serie A,2021,2021-09-24 21:00:00,23,CSD Independiente del Valle,Técnico Universitario,1,1,2,['51'],['79'],1.29,4.8,8.25,1.83,1.8,2.35,1.49
+178,1189663,Ecuador Primera Categoría Serie A,2021,2021-09-25 17:00:00,23,Mushuc Runa SC,Orense SC,0,0,0,[],[],1.65,3.7,4.4,1.84,1.94,1.68,2.11
+179,1189659,Ecuador Primera Categoría Serie A,2021,2021-09-25 19:30:00,23,Guayaquil City FC,9 de Octubre,0,1,1,[],['44'],2.75,3.1,2.4,1.85,1.99,1.63,2.19
+180,1189664,Ecuador Primera Categoría Serie A,2021,2021-09-25 22:00:00,23,Manta FC,LDU Quito,2,2,4,"['73', '87']","['22', '75']",3.4,3.5,1.95,1.84,2.1,1.73,2.04
+181,1189665,Ecuador Primera Categoría Serie A,2021,2021-09-26 16:00:00,23,Deportivo Cuenca,CD Olmedo,5,0,5,"['21', '33', '52', '79', '83']",[],1.37,4.8,7.7,1.77,1.98,1.89,1.86
+182,1189662,Ecuador Primera Categoría Serie A,2021,2021-09-26 18:30:00,23,Macará,Delfin SC,2,3,5,"['70', '90']","['14', '44', '45+1']",1.95,3.35,3.45,1.88,1.83,1.72,2.0
+183,1189658,Ecuador Primera Categoría Serie A,2021,2021-09-26 21:00:00,23,CS Emelec,CD Universidad Católica,2,2,4,"['27', '90+3']","['35', '36']",1.83,3.5,3.75,2.15,1.67,1.45,2.55
+184,1189669,Ecuador Primera Categoría Serie A,2021,2021-10-01 21:00:00,24,CD Universidad Católica,Deportivo Cuenca,3,2,5,"['3', '4', '58']","['75', '90+2']",1.45,4.2,5.6,1.57,2.33,1.73,2.0
+185,1189673,Ecuador Primera Categoría Serie A,2021,2021-10-02 17:00:00,24,Orense SC,Macará,2,1,3,"['3', '90+4']",['26'],1.8,3.25,4.2,2.0,1.73,1.73,2.0
+186,1189667,Ecuador Primera Categoría Serie A,2021,2021-10-02 19:30:00,24,9 de Octubre,CSD Independiente del Valle,1,0,1,['90+3'],[],3.0,3.13,2.25,1.91,1.8,1.73,2.0
+187,1189668,Ecuador Primera Categoría Serie A,2021,2021-10-02 22:00:00,24,LDU Quito,Guayaquil City FC,3,1,4,"['8', '16', '38']",['49'],1.28,5.2,7.91,1.55,2.29,2.0,1.8
+188,1189672,Ecuador Primera Categoría Serie A,2021,2021-10-03 16:00:00,24,CD Olmedo,SD Aucas,1,4,5,['7'],"['31', '45+2', '58', '66']",4.78,3.74,1.68,1.65,2.16,1.8,1.91
+189,1189666,Ecuador Primera Categoría Serie A,2021,2021-10-03 18:30:00,24,Barcelona,Mushuc Runa SC,4,0,4,"['3', '45+2', '66', '89']",[],1.34,4.84,8.3,1.69,2.1,2.1,1.73
+190,1189670,Ecuador Primera Categoría Serie A,2021,2021-10-03 21:00:00,24,Técnico Universitario,CS Emelec,1,0,1,['67'],[],4.44,3.52,1.78,2.09,1.69,2.0,1.73
+191,1189671,Ecuador Primera Categoría Serie A,2021,2021-10-04 21:00:00,24,Delfin SC,Manta FC,2,1,3,"['18', '20']",['42'],1.83,3.56,4.3,2.15,1.61,1.83,1.83
+192,1189674,Ecuador Primera Categoría Serie A,2021,2021-10-15 21:00:00,25,CS Emelec,Orense SC,1,0,1,['84'],[],1.57,3.9,4.8,1.61,2.23,1.62,2.2
+193,1189675,Ecuador Primera Categoría Serie A,2021,2021-10-16 17:00:00,25,Guayaquil City FC,CD Olmedo,4,2,6,"['34', '36', '61', '81']","['17', '42']",1.23,5.2,9.4,1.57,2.28,2.2,1.62
+194,1189676,Ecuador Primera Categoría Serie A,2021,2021-10-16 19:30:00,25,SD Aucas,CD Universidad Católica,1,2,3,['11'],"['59', '66']",2.34,3.15,2.7,1.93,1.88,1.73,2.0
+195,1189678,Ecuador Primera Categoría Serie A,2021,2021-10-16 22:00:00,25,Macará,LDU Quito,2,1,3,"['60', '68']",['76'],4.1,3.45,1.74,1.8,1.95,1.73,2.0
+196,1189679,Ecuador Primera Categoría Serie A,2021,2021-10-17 16:00:00,25,Mushuc Runa SC,Técnico Universitario,0,1,1,[],['64'],2.07,3.05,2.86,1.81,1.88,1.83,1.91
+197,1189681,Ecuador Primera Categoría Serie A,2021,2021-10-17 18:30:00,25,Deportivo Cuenca,9 de Octubre,3,1,4,"['30', '38', '86']",['67'],2.74,3.09,2.12,1.84,1.84,1.8,1.91
+198,1189680,Ecuador Primera Categoría Serie A,2021,2021-10-17 21:00:00,25,Delfin SC,Barcelona,4,1,5,"['45+1', '48', '87', '90+5']",['26'],3.29,3.28,2.07,1.83,1.85,1.73,2.0
+199,1189677,Ecuador Primera Categoría Serie A,2021,2021-10-18 21:00:00,25,CSD Independiente del Valle,Manta FC,1,1,2,['23'],['76'],1.18,6.5,18.0,1.67,2.15,2.25,1.61
+200,1189686,Ecuador Primera Categoría Serie A,2021,2021-10-22 21:00:00,26,Técnico Universitario,SD Aucas,1,1,2,['10'],['90+3'],2.95,3.2,2.23,1.8,1.96,1.71,2.15
+201,1189685,Ecuador Primera Categoría Serie A,2021,2021-10-23 17:00:00,26,CD Universidad Católica,Mushuc Runa SC,0,1,1,[],['40'],1.53,4.24,5.55,1.67,2.1,1.8,2.0
+202,1189683,Ecuador Primera Categoría Serie A,2021,2021-10-23 19:30:00,26,9 de Octubre,Orense SC,3,1,4,"['16', '58', '67']",['28'],1.78,3.74,4.14,2.01,1.83,1.74,2.1
+203,1189684,Ecuador Primera Categoría Serie A,2021,2021-10-23 22:00:00,26,LDU Quito,CSD Independiente del Valle,0,2,2,[],"['55', '58']",2.26,3.6,2.86,1.67,2.1,1.56,2.3
+204,1189688,Ecuador Primera Categoría Serie A,2021,2021-10-24 15:30:00,26,CD Olmedo,Delfin SC,1,3,4,['65'],"['55', '77', '81']",9.4,5.9,1.26,1.55,2.3,1.69,2.09
+205,1189687,Ecuador Primera Categoría Serie A,2021,2021-10-24 18:00:00,26,Manta FC,Guayaquil City FC,1,1,2,['63'],['85'],2.46,3.32,2.75,2.07,1.86,1.77,1.98
+206,1189682,Ecuador Primera Categoría Serie A,2021,2021-10-24 20:30:00,26,CS Emelec,Barcelona,2,1,3,"['18', '69']",['23'],2.54,3.3,2.68,2.11,1.83,1.83,1.91
+207,1189689,Ecuador Primera Categoría Serie A,2021,2021-10-25 21:00:00,26,Deportivo Cuenca,Macará,1,1,2,['45+2'],['22'],1.87,3.7,3.78,1.93,1.83,1.79,1.96
+208,1189660,Ecuador Primera Categoría Serie A,2021,2021-10-27 21:00:00,23,SD Aucas,Barcelona,1,0,1,['90+2'],[],2.35,3.3,2.6,1.65,2.1,1.57,2.25
+209,1189696,Ecuador Primera Categoría Serie A,2021,2021-10-29 21:00:00,27,Delfin SC,CD Universidad Católica,0,2,2,[],"['14', '87']",2.5,3.65,2.28,1.6,2.3,1.5,2.55
+210,1189697,Ecuador Primera Categoría Serie A,2021,2021-10-30 17:00:00,27,Orense SC,Técnico Universitario,0,0,0,[],[],2.1,3.13,3.72,2.29,1.55,2.0,1.8
+211,1189694,Ecuador Primera Categoría Serie A,2021,2021-10-30 19:30:00,27,Macará,Manta FC,1,2,3,['27'],"['23', '49']",1.65,3.76,5.0,2.05,1.88,1.95,1.86
+212,1189691,Ecuador Primera Categoría Serie A,2021,2021-10-30 22:00:00,27,Guayaquil City FC,CS Emelec,0,1,1,[],['57'],3.49,3.81,1.92,1.86,2.07,1.7,2.08
+213,1189695,Ecuador Primera Categoría Serie A,2021,2021-10-31 16:00:00,27,Mushuc Runa SC,Deportivo Cuenca,1,0,1,['36'],[],2.2,3.3,3.0,1.78,2.17,1.58,2.3
+214,1189693,Ecuador Primera Categoría Serie A,2021,2021-10-31 18:30:00,27,CSD Independiente del Valle,CD Olmedo,5,0,5,"['16', '26', '47', '53', '69']",[],1.06,8.5,29.0,1.3,3.19,2.63,1.44
+215,1189692,Ecuador Primera Categoría Serie A,2021,2021-10-31 21:00:00,27,SD Aucas,LDU Quito,1,0,1,['20'],[],2.3,3.4,2.75,1.57,2.25,1.52,2.5
+216,1189690,Ecuador Primera Categoría Serie A,2021,2021-11-01 21:00:00,27,Barcelona,9 de Octubre,1,3,4,['35'],"['45+1', '64', '81']",1.44,4.2,6.5,1.8,1.91,1.92,1.82
+217,1189698,Ecuador Primera Categoría Serie A,2021,2021-11-05 21:00:00,28,CS Emelec,Mushuc Runa SC,2,0,2,"['25', '83']",[],1.35,4.7,7.0,1.6,2.19,1.83,1.83
+218,1189701,Ecuador Primera Categoría Serie A,2021,2021-11-06 17:00:00,28,CD Universidad Católica,Orense SC,1,0,1,['69'],[],1.65,3.4,5.0,1.93,1.88,1.86,1.9
+219,1189705,Ecuador Primera Categoría Serie A,2021,2021-11-06 19:30:00,28,Deportivo Cuenca,SD Aucas,2,1,3,"['3', '28']",['69'],2.38,3.5,2.7,1.65,2.11,1.53,2.4
+220,1189704,Ecuador Primera Categoría Serie A,2021,2021-11-06 22:00:00,28,CD Olmedo,Barcelona,0,2,2,[],"['4', '86']",7.5,5.0,1.33,1.42,2.65,1.83,1.9
+221,1189702,Ecuador Primera Categoría Serie A,2021,2021-11-07 16:00:00,28,Técnico Universitario,Macará,2,0,2,"['27', '62']",[],2.09,3.32,3.44,2.24,1.74,1.87,1.87
+222,1189700,Ecuador Primera Categoría Serie A,2021,2021-11-07 18:30:00,28,LDU Quito,Delfin SC,1,1,2,['59'],['75'],1.46,4.44,6.3,1.76,2.22,1.85,1.91
+223,1189699,Ecuador Primera Categoría Serie A,2021,2021-11-07 21:00:00,28,Guayaquil City FC,CSD Independiente del Valle,0,2,2,[],"['37', '66']",6.0,4.2,1.44,1.85,1.85,1.73,2.0
+224,1189703,Ecuador Primera Categoría Serie A,2021,2021-11-08 21:00:00,28,Manta FC,9 de Octubre,1,3,4,['21'],"['50', '71', '78']",3.3,3.25,2.05,1.98,1.78,1.83,1.9
+225,1189708,Ecuador Primera Categoría Serie A,2021,2021-11-19 21:00:00,29,SD Aucas,Macará,2,4,6,"['31', '45+3']","['13', '32', '41', '90+2']",1.57,4.31,5.52,1.57,2.25,1.71,2.1
+226,1189709,Ecuador Primera Categoría Serie A,2021,2021-11-20 22:00:00,29,CSD Independiente del Valle,CS Emelec,3,2,5,"['31', '52', '57']","['6', '74']",1.91,3.6,3.35,1.81,2.14,1.66,2.14
+227,1189706,Ecuador Primera Categoría Serie A,2021,2021-11-20 22:00:00,29,Barcelona,CD Universidad Católica,1,1,2,['18'],['70'],2.01,3.5,3.15,1.82,2.13,1.67,2.13
+228,1189707,Ecuador Primera Categoría Serie A,2021,2021-11-20 22:00:00,29,9 de Octubre,Delfin SC,1,0,1,['79'],[],1.55,3.9,5.0,1.92,2.0,1.59,2.27
+229,1189711,Ecuador Primera Categoría Serie A,2021,2021-11-21 17:30:00,29,Mushuc Runa SC,Guayaquil City FC,1,0,1,['50'],[],1.71,3.65,4.15,1.9,1.94,1.86,1.88
+230,1189712,Ecuador Primera Categoría Serie A,2021,2021-11-21 17:30:00,29,Manta FC,CD Olmedo,3,0,3,"['14', '81', '84']",[],1.27,5.1,8.2,1.58,2.23,2.06,1.73
+231,1189713,Ecuador Primera Categoría Serie A,2021,2021-11-21 17:30:00,29,Orense SC,LDU Quito,1,1,2,['65'],['57'],2.45,3.4,2.51,1.94,1.9,1.65,2.16
+232,1189710,Ecuador Primera Categoría Serie A,2021,2021-11-22 21:00:00,29,Técnico Universitario,Deportivo Cuenca,3,1,4,"['36', '44', '68']",['59'],2.1,3.05,3.3,2.05,1.7,1.91,1.83
+233,1189716,Ecuador Primera Categoría Serie A,2021,2021-11-26 21:00:00,30,LDU Quito,Técnico Universitario,1,0,1,['75'],[],1.87,3.68,3.8,1.81,1.99,1.83,1.91
+234,1189720,Ecuador Primera Categoría Serie A,2021,2021-11-27 22:00:00,30,CD Olmedo,Orense SC,0,2,2,[],"['67', '76']",9.64,4.81,1.24,1.77,2.01,2.1,1.67
+235,1189714,Ecuador Primera Categoría Serie A,2021,2021-11-27 22:00:00,30,CS Emelec,Manta FC,4,0,4,"['61', '67', '76', '85']",[],1.41,4.02,6.46,1.8,1.8,1.83,1.91
+236,1189715,Ecuador Primera Categoría Serie A,2021,2021-11-27 22:00:00,30,Guayaquil City FC,SD Aucas,1,0,1,['14'],[],2.71,3.41,2.21,1.62,2.15,1.67,2.1
+237,1189719,Ecuador Primera Categoría Serie A,2021,2021-11-27 22:00:00,30,Delfin SC,Mushuc Runa SC,3,0,3,"['36', '39', '68']",[],1.23,5.03,9.53,1.72,1.9,2.0,1.73
+238,1189721,Ecuador Primera Categoría Serie A,2021,2021-11-27 22:00:00,30,Deportivo Cuenca,CSD Independiente del Valle,1,1,2,['45+1'],['66'],5.72,3.67,1.5,1.79,1.9,1.67,2.1
+239,1189717,Ecuador Primera Categoría Serie A,2021,2021-11-28 21:00:00,30,CD Universidad Católica,9 de Octubre,3,0,3,"['2', '38', '48']",[],1.83,3.45,3.57,1.79,1.94,1.73,2.0
+240,1189718,Ecuador Primera Categoría Serie A,2021,2021-11-28 21:00:00,30,Macará,Barcelona,1,1,2,['56'],['86'],5.41,3.65,1.52,1.81,1.91,1.91,1.83
+241,1466469,Ecuador Primera Categoría Serie A,2021,2021-12-05 22:00:00,0,CSD Independiente del Valle,CS Emelec,3,1,4,"['22', '53', '74']",['90+9'],1.74,3.64,3.35,1.75,2.02,1.64,2.17
+242,1466470,Ecuador Primera Categoría Serie A,2021,2021-12-12 21:00:00,0,CS Emelec,CSD Independiente del Valle,1,1,2,['45+8'],['8'],2.2,3.3,2.75,1.78,1.97,1.67,2.1

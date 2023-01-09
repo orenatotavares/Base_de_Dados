@@ -1,0 +1,294 @@
+Nº,Id_Jogo,League,Season,Date,Rodada,Home,Away,FT_Goals_H,FT_Goals_A,FT_TotalGoals,Goals_H_Minutes,Goals_A_Minutes,FT_Odd_H,FT_Odd_D,FT_Odd_A,FT_Odd_Over25,FT_Odd_Under25,FT_Odd_BTTS_Yes,FT_Odd_BTTS_No
+1,2567930,England EFL League One,2022/2023,2022-07-30 11:00:00,1,Accrington Stanley,Charlton Athletic,2,2,4,"['69', '90+6']","['36', '90+4']",2.62,3.37,2.62,1.88,1.91,1.7,2.05
+2,2567941,England EFL League One,2022/2023,2022-07-30 11:00:00,1,Wycombe Wanderers,Burton Albion,3,0,3,"['7', '16', '30']",[],1.89,3.57,3.92,1.94,1.85,1.8,1.95
+3,2567940,England EFL League One,2022/2023,2022-07-30 11:00:00,1,Sheffield Wednesday,Portsmouth,3,3,6,"['8', '52', '81']","['50', '57', '64']",1.9,3.58,3.87,1.88,1.9,1.91,1.91
+4,2567939,England EFL League One,2022/2023,2022-07-30 11:00:00,1,Port Vale,Fleetwood Town,2,1,3,"['30', '32']",['6'],2.22,3.26,3.29,1.88,1.91,1.8,1.95
+5,2567937,England EFL League One,2022/2023,2022-07-30 11:00:00,1,Morecambe,Shrewsbury Town,0,0,0,[],[],3.1,3.35,2.27,2.0,1.79,1.75,2.0
+6,2567936,England EFL League One,2022/2023,2022-07-30 11:00:00,1,Lincoln City,Exeter City,1,1,2,['49'],['14'],1.91,3.25,3.6,1.85,1.85,1.75,2.0
+7,2567938,England EFL League One,2022/2023,2022-07-30 11:00:00,1,Plymouth Argyle,Barnsley,1,0,1,['45'],[],2.22,3.26,3.29,1.88,1.91,1.75,2.0
+8,2567934,England EFL League One,2022/2023,2022-07-30 11:00:00,1,Derby County,Oxford United,1,0,1,['80'],[],2.17,3.3,3.37,1.88,1.9,1.7,2.05
+9,2567933,England EFL League One,2022/2023,2022-07-30 11:00:00,1,Cheltenham Town,Peterborough United,2,3,5,"['30', '39']","['59', '66', '72']",3.14,3.49,2.2,1.88,1.9,1.62,2.2
+10,2567932,England EFL League One,2022/2023,2022-07-30 11:00:00,1,Cambridge United,Milton Keynes Dons,1,0,1,['17'],[],3.14,3.49,2.2,1.88,1.9,1.8,1.95
+11,2567931,England EFL League One,2022/2023,2022-07-30 11:00:00,1,Bristol Rovers,Forest Green Rovers,1,2,3,['71'],"['55', '89']",2.19,3.49,3.15,1.88,1.9,1.7,2.05
+12,2567935,England EFL League One,2022/2023,2022-07-30 11:00:00,1,Ipswich Town,Bolton Wanderers,1,1,2,['38'],['25'],1.89,3.63,3.85,1.88,1.9,1.8,1.95
+13,2567949,England EFL League One,2022/2023,2022-08-06 11:00:00,2,Milton Keynes Dons,Sheffield Wednesday,0,1,1,[],['22'],2.62,3.25,2.62,2.0,1.72,1.8,1.95
+14,2567953,England EFL League One,2022/2023,2022-08-06 11:00:00,2,Shrewsbury Town,Accrington Stanley,0,1,1,[],['77'],2.43,3.3,2.81,2.0,1.72,1.8,1.95
+15,2567952,England EFL League One,2022/2023,2022-08-06 11:00:00,2,Portsmouth,Lincoln City,0,0,0,[],[],1.83,3.35,4.43,1.95,1.76,1.8,1.95
+16,2567951,England EFL League One,2022/2023,2022-08-06 11:00:00,2,Peterborough United,Morecambe,3,0,3,"['9', '43', '72']",[],1.59,3.93,5.4,1.79,1.92,1.8,1.95
+17,2567950,England EFL League One,2022/2023,2022-08-06 11:00:00,2,Oxford United,Cambridge United,1,0,1,['90+3'],[],1.84,3.47,4.22,1.96,1.76,1.91,1.91
+18,2567948,England EFL League One,2022/2023,2022-08-06 11:00:00,2,Forest Green Rovers,Ipswich Town,1,2,3,['64'],"['37', '45+4']",3.72,3.37,1.99,1.95,1.76,1.8,1.95
+19,2567944,England EFL League One,2022/2023,2022-08-06 11:00:00,2,Burton Albion,Bristol Rovers,0,4,4,[],"['4', '12', '40', '44']",2.28,3.17,3.17,2.0,1.72,1.8,1.95
+20,2567946,England EFL League One,2022/2023,2022-08-06 11:00:00,2,Exeter City,Port Vale,4,0,4,"['24', '38', '72', '75']",[],2.48,3.22,2.82,2.06,1.68,1.8,1.95
+21,2567945,England EFL League One,2022/2023,2022-08-06 11:00:00,2,Charlton Athletic,Derby County,1,0,1,['62'],[],2.83,3.25,2.45,2.03,1.7,1.8,1.95
+22,2567943,England EFL League One,2022/2023,2022-08-06 11:00:00,2,Bolton Wanderers,Wycombe Wanderers,3,0,3,"['15', '41', '66']",[],2.18,3.27,3.27,2.06,1.68,1.91,1.91
+23,2567942,England EFL League One,2022/2023,2022-08-06 11:00:00,2,Barnsley,Cheltenham Town,1,0,1,['66'],[],1.84,3.47,4.22,2.0,1.72,1.95,1.8
+24,2567947,England EFL League One,2022/2023,2022-08-06 11:00:00,2,Fleetwood Town,Plymouth Argyle,2,1,3,"['28', '88']",['23'],2.83,3.27,2.43,1.95,1.76,1.8,1.95
+25,2567955,England EFL League One,2022/2023,2022-08-13 08:30:00,3,Bristol Rovers,Oxford United,1,0,1,['34'],[],2.44,3.15,2.68,1.94,1.94,1.7,2.05
+26,2567961,England EFL League One,2022/2023,2022-08-13 11:00:00,3,Morecambe,Fleetwood Town,1,1,2,['32'],['83'],2.29,3.15,2.87,2.04,1.84,1.8,1.95
+27,2567965,England EFL League One,2022/2023,2022-08-13 11:00:00,3,Wycombe Wanderers,Shrewsbury Town,1,2,3,['51'],"['60', '89']",1.89,3.25,3.8,2.0,1.66,1.93,1.77
+28,2567964,England EFL League One,2022/2023,2022-08-13 11:00:00,3,Sheffield Wednesday,Charlton Athletic,1,0,1,['81'],[],1.82,3.35,3.95,2.13,1.76,2.05,1.7
+29,2567963,England EFL League One,2022/2023,2022-08-13 11:00:00,3,Port Vale,Bolton Wanderers,0,0,0,[],[],2.55,3.05,2.63,2.04,1.84,1.77,1.93
+30,2567960,England EFL League One,2022/2023,2022-08-13 11:00:00,3,Lincoln City,Forest Green Rovers,1,1,2,['63'],['73'],2.5,3.05,2.68,2.04,1.84,1.75,2.0
+31,2567962,England EFL League One,2022/2023,2022-08-13 11:00:00,3,Plymouth Argyle,Peterborough United,2,0,2,"['30', '65']",[],2.28,3.2,2.86,2.04,1.84,1.75,1.95
+32,2567958,England EFL League One,2022/2023,2022-08-13 11:00:00,3,Derby County,Barnsley,2,1,3,"['8', '35']",['64'],1.88,3.25,3.85,2.11,1.6,2.0,1.75
+33,2567959,England EFL League One,2022/2023,2022-08-13 11:00:00,3,Ipswich Town,Milton Keynes Dons,3,0,3,"['5', '28', '60']",[],2.02,3.35,3.25,2.0,1.88,1.85,1.85
+34,2567957,England EFL League One,2022/2023,2022-08-13 11:00:00,3,Cheltenham Town,Portsmouth,0,2,2,[],"['30', '56']",2.73,3.1,2.44,2.08,1.8,1.8,1.95
+35,2567956,England EFL League One,2022/2023,2022-08-13 11:00:00,3,Cambridge United,Exeter City,2,1,3,"['60', '88']",['39'],2.22,3.2,2.97,2.04,1.84,1.78,2.0
+36,2567954,England EFL League One,2022/2023,2022-08-13 11:00:00,3,Accrington Stanley,Burton Albion,4,4,8,"['52', '57', '90', '90+6']","['10', '17', '50', '81']",1.99,3.35,3.35,1.97,1.91,1.75,1.95
+37,2567976,England EFL League One,2022/2023,2022-08-16 15:45:00,4,Portsmouth,Cambridge United,4,1,5,"['45+2', '60', '70', '77']",['30'],1.61,3.99,5.11,1.95,1.8,1.91,1.91
+38,2567975,England EFL League One,2022/2023,2022-08-16 15:45:00,4,Peterborough United,Sheffield Wednesday,2,0,2,"['65', '75']",[],2.23,3.54,3.02,2.01,1.79,1.91,1.91
+39,2567974,England EFL League One,2022/2023,2022-08-16 15:45:00,4,Oxford United,Lincoln City,1,2,3,['69'],"['21', '45+1']",1.67,3.82,4.85,1.83,1.95,1.91,1.91
+40,2567973,England EFL League One,2022/2023,2022-08-16 15:45:00,4,Milton Keynes Dons,Port Vale,2,1,3,"['34', '85']",['90+3'],1.8,3.75,4.7,1.99,1.8,1.88,1.82
+41,2567971,England EFL League One,2022/2023,2022-08-16 15:45:00,4,Fleetwood Town,Cheltenham Town,0,0,0,[],[],2.28,3.31,3.12,1.85,1.93,1.71,2.0
+42,2567977,England EFL League One,2022/2023,2022-08-16 15:45:00,4,Shrewsbury Town,Derby County,0,0,0,[],[],3.39,3.36,2.27,2.05,1.73,1.95,1.8
+43,2567969,England EFL League One,2022/2023,2022-08-16 15:45:00,4,Charlton Athletic,Plymouth Argyle,5,1,6,"['11', '41', '45+3', '76', '84']",['71'],2.24,3.61,3.23,1.87,1.92,1.78,1.93
+44,2567968,England EFL League One,2022/2023,2022-08-16 15:45:00,4,Burton Albion,Ipswich Town,0,1,1,[],['60'],4.38,3.75,1.85,1.94,1.83,1.85,1.85
+45,2567967,England EFL League One,2022/2023,2022-08-16 15:45:00,4,Bolton Wanderers,Morecambe,1,0,1,['39'],[],1.62,3.9,5.14,1.83,1.95,1.8,1.95
+46,2567966,England EFL League One,2022/2023,2022-08-16 15:45:00,4,Barnsley,Bristol Rovers,3,0,3,"['3', '13', '56']",[],1.81,3.7,4.69,2.1,1.68,1.93,1.78
+47,2567970,England EFL League One,2022/2023,2022-08-16 15:45:00,4,Exeter City,Wycombe Wanderers,3,1,4,"['22', '38', '74']",['50'],3.03,3.38,2.46,1.99,1.8,1.82,1.88
+48,2567983,England EFL League One,2022/2023,2022-08-20 11:00:00,5,Fleetwood Town,Derby County,0,0,0,[],[],3.65,3.25,2.15,2.12,1.72,1.91,1.91
+49,2567988,England EFL League One,2022/2023,2022-08-20 11:00:00,5,Portsmouth,Bristol Rovers,3,1,4,"['32', '82', '90+2']",['61'],1.73,3.7,5.0,1.89,1.92,1.91,1.91
+50,2567987,England EFL League One,2022/2023,2022-08-20 11:00:00,5,Peterborough United,Lincoln City,4,0,4,"['21', '29', '43', '50']",[],1.7,4.0,4.75,1.71,2.14,1.75,2.0
+51,2567986,England EFL League One,2022/2023,2022-08-20 11:00:00,5,Oxford United,Morecambe,1,1,2,['56'],['48'],1.54,4.35,5.8,1.7,2.16,1.8,1.95
+52,2567985,England EFL League One,2022/2023,2022-08-20 11:00:00,5,Milton Keynes Dons,Accrington Stanley,1,1,2,['30'],['78'],2.15,3.4,3.5,1.84,1.97,1.7,2.05
+53,2567984,England EFL League One,2022/2023,2022-08-20 11:00:00,5,Forest Green Rovers,Plymouth Argyle,0,3,3,[],"['18', '27', '61']",2.65,3.4,2.65,2.0,1.8,1.8,1.95
+54,2567981,England EFL League One,2022/2023,2022-08-20 11:00:00,5,Charlton Athletic,Cambridge United,1,1,2,['41'],['60'],1.73,3.65,5.0,2.0,1.8,1.95,1.8
+55,2567989,England EFL League One,2022/2023,2022-08-20 11:00:00,5,Shrewsbury Town,Ipswich Town,0,3,3,[],"['22', '52', '90+2']",4.0,3.35,2.0,2.35,1.58,2.05,1.7
+56,2567980,England EFL League One,2022/2023,2022-08-20 11:00:00,5,Burton Albion,Port Vale,0,2,2,[],"['49', '90+1']",2.8,3.35,2.55,2.02,1.79,1.75,2.0
+57,2567979,England EFL League One,2022/2023,2022-08-20 11:00:00,5,Bolton Wanderers,Sheffield Wednesday,0,2,2,[],"['36', '38']",2.6,3.4,2.7,2.05,1.77,1.75,2.0
+58,2567978,England EFL League One,2022/2023,2022-08-20 11:00:00,5,Barnsley,Wycombe Wanderers,0,3,3,[],"['37', '72', '83']",2.25,3.25,3.35,2.07,1.76,1.8,1.95
+59,2567982,England EFL League One,2022/2023,2022-08-20 11:00:00,5,Exeter City,Cheltenham Town,0,1,1,[],['56'],1.65,4.1,5.0,1.79,2.02,1.75,2.0
+60,2567998,England EFL League One,2022/2023,2022-08-27 11:00:00,6,Plymouth Argyle,Bolton Wanderers,2,0,2,"['34', '88']",[],2.35,3.25,2.95,2.01,1.78,1.75,1.95
+61,2567999,England EFL League One,2022/2023,2022-08-27 11:00:00,6,Port Vale,Portsmouth,0,1,1,[],['25'],2.8,3.25,2.47,1.89,1.89,1.7,2.1
+62,2568001,England EFL League One,2022/2023,2022-08-27 11:00:00,6,Wycombe Wanderers,Charlton Athletic,1,1,2,['14'],['15'],2.25,3.25,3.15,1.94,1.83,1.75,2.05
+63,2567997,England EFL League One,2022/2023,2022-08-27 11:00:00,6,Morecambe,Milton Keynes Dons,0,4,4,[],"['16', '36', '62', '67']",3.55,3.25,2.07,2.0,1.78,1.8,1.95
+64,2568000,England EFL League One,2022/2023,2022-08-27 11:00:00,6,Sheffield Wednesday,Forest Green Rovers,5,0,5,"['12', '19', '31', '45+1', '56']",[],1.65,3.75,5.0,2.01,1.78,1.93,1.77
+65,2567996,England EFL League One,2022/2023,2022-08-27 11:00:00,6,Lincoln City,Fleetwood Town,2,2,4,"['6', '14']","['32', '90+3']",2.09,3.35,3.45,1.94,1.84,1.73,2.0
+66,2567993,England EFL League One,2022/2023,2022-08-27 11:00:00,6,Cheltenham Town,Oxford United,1,2,3,['63'],"['66', '86']",3.0,3.25,2.33,1.89,1.88,1.68,2.1
+67,2567994,England EFL League One,2022/2023,2022-08-27 11:00:00,6,Derby County,Peterborough United,2,1,3,"['88', '90+2']",['69'],1.89,3.6,3.8,1.84,1.94,1.75,2.05
+68,2567990,England EFL League One,2022/2023,2022-08-27 11:00:00,6,Accrington Stanley,Exeter City,0,0,0,[],[],2.44,3.35,2.75,1.67,2.1,1.58,2.25
+69,2567991,England EFL League One,2022/2023,2022-08-27 11:00:00,6,Bristol Rovers,Shrewsbury Town,1,1,2,['68'],['79'],2.43,3.15,2.9,1.92,1.85,1.78,2.0
+70,2567995,England EFL League One,2022/2023,2022-08-27 11:00:00,6,Ipswich Town,Barnsley,2,2,4,"['27', '70']","['33', '75']",1.72,3.65,4.7,2.0,1.78,1.95,1.75
+71,2567992,England EFL League One,2022/2023,2022-08-27 11:00:00,6,Cambridge United,Burton Albion,4,3,7,"['34', '53', '69', '79']","['1', '41', '67']",2.24,3.45,3.0,1.79,1.99,1.68,2.15
+72,2568012,England EFL League One,2022/2023,2022-09-03 11:00:00,7,Portsmouth,Peterborough United,2,1,3,"['38', '70']",['5'],2.08,3.35,3.1,2.07,1.71,1.75,2.0
+73,2568013,England EFL League One,2022/2023,2022-09-03 11:00:00,7,Sheffield Wednesday,Barnsley,0,2,2,[],"['34', '74']",1.67,3.53,4.27,1.95,1.8,1.93,1.77
+74,2568011,England EFL League One,2022/2023,2022-09-03 11:00:00,7,Port Vale,Cheltenham Town,2,2,4,"['37', '40']","['24', '90+2']",2.06,3.2,3.15,2.07,1.71,1.85,1.85
+75,2568009,England EFL League One,2022/2023,2022-09-03 11:00:00,7,Forest Green Rovers,Shrewsbury Town,0,2,2,[],"['10', '48']",2.43,3.16,2.58,2.07,1.71,1.83,1.87
+76,2568008,England EFL League One,2022/2023,2022-09-03 11:00:00,7,Fleetwood Town,Wycombe Wanderers,1,1,2,['67'],['39'],2.58,3.35,2.43,1.95,1.8,1.8,1.9
+77,2568007,England EFL League One,2022/2023,2022-09-03 11:00:00,7,Exeter City,Milton Keynes Dons,1,0,1,['66'],[],2.21,3.24,2.82,1.95,1.8,1.85,1.85
+78,2568010,England EFL League One,2022/2023,2022-09-03 11:00:00,7,Oxford United,Burton Albion,2,1,3,"['48', '71']",['77'],1.7,3.75,4.05,1.8,1.95,1.75,1.95
+79,2568005,England EFL League One,2022/2023,2022-09-03 11:00:00,7,Cambridge United,Lincoln City,2,0,2,"['24', '27']",[],2.42,3.35,2.57,1.99,1.81,1.75,1.95
+80,2568004,England EFL League One,2022/2023,2022-09-03 11:00:00,7,Bristol Rovers,Morecambe,2,2,4,"['29', '80']","['12', '53']",2.01,3.4,3.2,1.95,1.85,1.83,1.95
+81,2568003,England EFL League One,2022/2023,2022-09-03 11:00:00,7,Bolton Wanderers,Charlton Athletic,3,1,4,"['9', '41', '76']",['4'],2.13,3.35,3.0,2.01,1.79,1.78,1.93
+82,2568002,England EFL League One,2022/2023,2022-09-03 11:00:00,7,Accrington Stanley,Ipswich Town,0,2,2,[],"['76', '87']",3.4,3.4,1.95,2.0,1.8,1.87,1.83
+83,2568006,England EFL League One,2022/2023,2022-09-03 11:00:00,7,Derby County,Plymouth Argyle,2,3,5,"['26', '38']","['56', '77', '90']",1.76,3.46,3.9,1.95,1.8,1.9,1.8
+84,2567972,England EFL League One,2022/2023,2022-09-06 15:45:00,4,Forest Green Rovers,Accrington Stanley,2,1,3,"['37', '81']",['76'],2.38,3.5,2.9,1.78,1.95,1.85,1.85
+85,2568028,England EFL League One,2022/2023,2022-09-13 15:45:00,9,Charlton Athletic,Forest Green Rovers,1,1,2,['9'],['45'],1.83,3.7,4.03,1.8,1.93,1.75,1.93
+86,2568029,England EFL League One,2022/2023,2022-09-13 15:45:00,9,Cheltenham Town,Cambridge United,2,1,3,"['59', '83']",['28'],2.47,3.44,2.71,1.9,1.83,1.71,1.98
+87,2568030,England EFL League One,2022/2023,2022-09-13 15:45:00,9,Ipswich Town,Bristol Rovers,2,0,2,"['24', '55']",[],1.43,4.47,6.95,1.73,2.0,1.98,1.73
+88,2568031,England EFL League One,2022/2023,2022-09-13 15:45:00,9,Lincoln City,Derby County,2,0,2,"['12', '68']",[],3.67,3.47,1.98,2.1,1.67,1.85,1.83
+89,2568034,England EFL League One,2022/2023,2022-09-13 15:45:00,9,Peterborough United,Fleetwood Town,0,1,1,[],['23'],1.66,3.9,4.87,1.73,2.0,1.75,2.0
+90,2568033,England EFL League One,2022/2023,2022-09-13 15:45:00,9,Morecambe,Sheffield Wednesday,0,3,3,[],"['70', '78', '83']",6.03,4.23,1.51,1.83,1.9,1.91,1.8
+91,2568035,England EFL League One,2022/2023,2022-09-13 15:45:00,9,Plymouth Argyle,Oxford United,1,0,1,['70'],[],2.19,3.48,3.12,1.85,1.87,1.75,2.0
+92,2568036,England EFL League One,2022/2023,2022-09-13 15:45:00,9,Shrewsbury Town,Exeter City,3,2,5,"['21', '34', '90+3']","['17', '20']",2.79,3.29,2.48,2.3,1.57,1.8,1.95
+93,2568027,England EFL League One,2022/2023,2022-09-13 15:45:00,9,Burton Albion,Portsmouth,0,2,2,[],"['59', '86']",3.9,3.71,1.86,1.75,2.0,1.73,2.0
+94,2568032,England EFL League One,2022/2023,2022-09-13 15:45:00,9,Milton Keynes Dons,Bolton Wanderers,0,2,2,[],"['31', '60']",2.59,3.23,2.7,2.15,1.65,1.85,1.83
+95,2568037,England EFL League One,2022/2023,2022-09-13 15:45:00,9,Wycombe Wanderers,Accrington Stanley,1,0,1,['21'],[],1.92,3.7,3.64,1.75,2.0,1.75,2.0
+96,2568026,England EFL League One,2022/2023,2022-09-13 15:45:00,9,Barnsley,Port Vale,1,1,2,['43'],['83'],2.06,3.33,3.56,2.15,1.65,1.88,1.8
+97,2568041,England EFL League One,2022/2023,2022-09-17 11:00:00,10,Cambridge United,Barnsley,0,3,3,[],"['24', '76', '90+1']",2.5,3.4,2.6,1.97,1.83,1.8,1.95
+98,2568049,England EFL League One,2022/2023,2022-09-17 11:00:00,10,Sheffield Wednesday,Ipswich Town,2,2,4,"['75', '89']","['4', '71']",2.45,3.25,2.75,2.1,1.67,1.8,1.95
+99,2568048,England EFL League One,2022/2023,2022-09-17 11:00:00,10,Portsmouth,Plymouth Argyle,2,2,4,"['41', '90+4']","['74', '79']",1.9,3.7,3.6,1.7,2.0,1.7,2.05
+100,2568047,England EFL League One,2022/2023,2022-09-17 11:00:00,10,Port Vale,Shrewsbury Town,2,1,3,"['9', '90+1']",['19'],2.25,3.3,3.0,2.1,1.67,2.0,1.75
+101,2568046,England EFL League One,2022/2023,2022-09-17 11:00:00,10,Oxford United,Milton Keynes Dons,1,2,3,['89'],"['44', '84']",2.1,3.4,3.25,1.97,1.83,1.75,2.0
+102,2568045,England EFL League One,2022/2023,2022-09-17 11:00:00,10,Forest Green Rovers,Morecambe,1,2,3,['30'],"['44', '90+3']",2.0,3.5,3.4,1.97,1.83,1.8,1.95
+103,2568044,England EFL League One,2022/2023,2022-09-17 11:00:00,10,Fleetwood Town,Charlton Athletic,1,1,2,['30'],['77'],2.8,3.3,2.4,1.91,1.8,1.75,2.0
+104,2568043,England EFL League One,2022/2023,2022-09-17 11:00:00,10,Exeter City,Burton Albion,0,2,2,[],"['63', '69']",1.66,3.75,4.8,1.88,1.92,1.91,1.91
+105,2568038,England EFL League One,2022/2023,2022-09-17 11:00:00,10,Accrington Stanley,Cheltenham Town,1,0,1,['1'],[],1.88,3.6,3.75,1.67,2.1,1.8,1.95
+106,2568039,England EFL League One,2022/2023,2022-09-17 11:00:00,10,Bolton Wanderers,Peterborough United,1,0,1,['86'],[],2.2,3.4,3.0,1.86,1.94,1.67,2.1
+107,2568040,England EFL League One,2022/2023,2022-09-17 11:00:00,10,Bristol Rovers,Lincoln City,3,6,9,"['18', '59', '65']","['7', '14', '45+1', '51', '56', '61']",2.3,3.2,3.1,1.97,1.83,1.75,2.0
+108,2568042,England EFL League One,2022/2023,2022-09-17 11:00:00,10,Derby County,Wycombe Wanderers,2,1,3,"['72', '86']",['15'],1.75,3.75,4.2,1.92,1.88,1.91,1.91
+109,2568053,England EFL League One,2022/2023,2022-09-24 08:30:00,11,Forest Green Rovers,Exeter City,0,4,4,[],"['6', '26', '41', '83']",2.85,3.25,2.4,2.1,1.67,1.8,1.95
+110,2568060,England EFL League One,2022/2023,2022-09-24 11:00:00,11,Sheffield Wednesday,Wycombe Wanderers,3,1,4,"['1', '32', '90+6']",['10'],1.62,3.8,5.25,1.87,1.85,1.95,1.8
+111,2568051,England EFL League One,2022/2023,2022-09-24 11:00:00,11,Bristol Rovers,Accrington Stanley,0,1,1,[],['54'],2.75,3.3,2.45,1.73,2.05,1.67,2.1
+112,2568050,England EFL League One,2022/2023,2022-09-24 11:00:00,11,Barnsley,Charlton Athletic,3,1,4,"['10', '54', '76']",['85'],2.25,3.2,3.2,1.91,1.8,1.8,1.95
+113,2568057,England EFL League One,2022/2023,2022-09-24 11:00:00,11,Peterborough United,Port Vale,3,0,3,"['26', '36', '73']",[],1.9,3.5,3.8,1.85,1.87,1.8,1.95
+114,2568055,England EFL League One,2022/2023,2022-09-24 11:00:00,11,Morecambe,Cambridge United,1,2,3,['12'],"['32', '87']",2.8,3.3,2.4,2.05,1.7,1.8,1.95
+115,2568061,England EFL League One,2022/2023,2022-09-24 11:00:00,11,Shrewsbury Town,Burton Albion,2,1,3,"['13', '66']",['57'],1.95,3.4,3.75,2.1,1.67,1.95,1.8
+116,2568058,England EFL League One,2022/2023,2022-09-25 08:30:00,11,Plymouth Argyle,Ipswich Town,2,1,3,"['69', '75']",['39'],2.88,3.28,2.12,1.91,1.69,1.75,2.0
+117,2568073,England EFL League One,2022/2023,2022-10-01 11:00:00,12,Wycombe Wanderers,Plymouth Argyle,0,1,1,[],['8'],2.88,3.1,2.5,1.84,1.76,1.73,2.0
+118,2568072,England EFL League One,2022/2023,2022-10-01 11:00:00,12,Port Vale,Sheffield Wednesday,0,1,1,[],['63'],3.0,3.3,2.3,1.8,1.8,1.7,2.05
+119,2568071,England EFL League One,2022/2023,2022-10-01 11:00:00,12,Milton Keynes Dons,Peterborough United,2,3,5,"['90', '90+1']","['3', '36', '54']",2.6,3.25,2.62,1.93,1.78,1.73,2.0
+120,2568070,England EFL League One,2022/2023,2022-10-01 11:00:00,12,Ipswich Town,Portsmouth,3,2,5,"['25', '74', '80']","['32', '79']",2.4,3.25,2.88,1.82,1.78,1.8,1.95
+121,2568069,England EFL League One,2022/2023,2022-10-01 11:00:00,12,Fleetwood Town,Barnsley,0,1,1,[],['90'],3.0,3.2,2.38,2.03,1.7,1.85,1.9
+122,2568068,England EFL League One,2022/2023,2022-10-01 11:00:00,12,Exeter City,Bristol Rovers,2,2,4,"['72', '81']","['62', '90+2']",1.8,3.5,4.4,1.8,2.05,1.83,1.95
+123,2568067,England EFL League One,2022/2023,2022-10-01 11:00:00,12,Cheltenham Town,Shrewsbury Town,2,0,2,"['45', '46']",[],2.88,3.2,2.45,2.12,1.64,1.91,1.8
+124,2568066,England EFL League One,2022/2023,2022-10-01 11:00:00,12,Charlton Athletic,Oxford United,1,1,2,['55'],['11'],2.38,3.2,3.0,1.79,1.81,1.73,2.0
+125,2568065,England EFL League One,2022/2023,2022-10-01 11:00:00,12,Cambridge United,Derby County,0,2,2,[],"['45', '83']",2.62,3.25,2.6,1.87,1.73,1.8,1.91
+126,2568064,England EFL League One,2022/2023,2022-10-01 11:00:00,12,Burton Albion,Forest Green Rovers,3,2,5,"['6', '82', '90+2']","['52', '69']",2.5,3.2,2.75,1.87,1.73,1.87,1.9
+127,2568063,England EFL League One,2022/2023,2022-10-01 11:00:00,12,Bolton Wanderers,Lincoln City,2,0,2,"['40', '84']",[],1.75,3.6,4.5,1.79,1.81,1.85,1.85
+128,2568062,England EFL League One,2022/2023,2022-10-01 11:00:00,12,Accrington Stanley,Morecambe,3,1,4,"['58', '81', '85']",['77'],1.91,3.5,4.0,1.75,1.85,1.8,1.91
+129,2568023,England EFL League One,2022/2023,2022-10-04 15:45:00,8,Plymouth Argyle,Sheffield Wednesday,2,1,3,"['3', '90+1']",['7'],2.7,3.25,2.6,2.03,1.83,1.71,2.0
+130,2568018,England EFL League One,2022/2023,2022-10-04 15:45:00,8,Ipswich Town,Cambridge United,3,0,3,"['72', '75', '86']",[],1.4,4.5,8.0,1.95,1.9,2.05,1.7
+131,2568017,England EFL League One,2022/2023,2022-10-04 15:45:00,8,Cheltenham Town,Bolton Wanderers,1,0,1,['87'],[],3.75,3.3,2.0,1.98,1.88,1.83,1.87
+132,2568015,England EFL League One,2022/2023,2022-10-04 15:45:00,8,Burton Albion,Fleetwood Town,0,1,1,[],['34'],2.1,3.25,3.5,2.05,1.75,1.83,1.87
+133,2568083,England EFL League One,2022/2023,2022-10-08 11:00:00,14,Portsmouth,Fleetwood Town,1,1,2,['7'],['15'],1.59,3.95,5.32,1.8,1.9,1.95,1.82
+134,2568082,England EFL League One,2022/2023,2022-10-08 11:00:00,14,Plymouth Argyle,Accrington Stanley,3,0,3,"['24', '63', '90+3']",[],1.76,3.8,4.19,1.72,2.0,1.67,2.1
+135,2568081,England EFL League One,2022/2023,2022-10-08 11:00:00,14,Peterborough United,Burton Albion,1,1,2,['47'],['75'],1.52,4.35,5.49,1.57,2.25,1.73,2.0
+136,2568080,England EFL League One,2022/2023,2022-10-08 11:00:00,14,Oxford United,Wycombe Wanderers,0,1,1,[],['33'],2.2,3.35,3.16,1.85,1.85,1.7,2.05
+137,2568079,England EFL League One,2022/2023,2022-10-08 11:00:00,14,Morecambe,Ipswich Town,1,2,3,['34'],"['54', '65']",7.49,4.5,1.4,1.78,1.93,1.95,1.75
+138,2568078,England EFL League One,2022/2023,2022-10-08 11:00:00,14,Lincoln City,Charlton Athletic,0,0,0,[],[],2.68,3.4,2.48,1.83,1.87,1.73,2.0
+139,2568077,England EFL League One,2022/2023,2022-10-08 11:00:00,14,Forest Green Rovers,Bolton Wanderers,1,0,1,['32'],[],4.23,3.6,1.8,1.9,1.8,1.83,1.93
+140,2568076,England EFL League One,2022/2023,2022-10-08 11:00:00,14,Derby County,Port Vale,1,2,3,['5'],"['55', '66']",1.68,3.7,4.89,1.98,1.74,1.95,1.75
+141,2568075,England EFL League One,2022/2023,2022-10-08 11:00:00,14,Bristol Rovers,Cambridge United,2,1,3,"['17', '56']",['35'],2.48,3.4,2.68,1.72,2.0,1.6,2.28
+142,2568074,England EFL League One,2022/2023,2022-10-08 11:00:00,14,Barnsley,Exeter City,0,2,2,[],"['1', '48']",2.15,3.4,3.22,1.88,1.82,1.73,2.0
+143,2568085,England EFL League One,2022/2023,2022-10-08 11:00:00,14,Shrewsbury Town,Milton Keynes Dons,2,1,3,"['24', '45+2']",['54'],2.39,3.15,2.99,2.19,1.6,1.91,1.8
+144,2568084,England EFL League One,2022/2023,2022-10-08 11:00:00,14,Sheffield Wednesday,Cheltenham Town,3,0,3,"['3', '83', '85']",[],1.42,4.55,6.85,1.7,2.03,1.8,1.91
+145,2568020,England EFL League One,2022/2023,2022-10-11 15:45:00,8,Milton Keynes Dons,Bristol Rovers,0,1,1,[],['76'],2.05,3.5,3.3,1.84,1.93,1.93,1.78
+146,2568022,England EFL League One,2022/2023,2022-10-11 15:45:00,8,Peterborough United,Forest Green Rovers,4,1,5,"['30', '39', '46', '58']",['35'],1.47,4.2,6.5,1.63,2.15,1.83,1.87
+147,2568016,England EFL League One,2022/2023,2022-10-11 15:45:00,8,Charlton Athletic,Exeter City,4,2,6,"['20', '24', '84', '90+1']","['37', '90+5']",2.3,3.4,2.9,1.91,1.86,1.8,1.9
+148,2568088,England EFL League One,2022/2023,2022-10-15 11:00:00,15,Burton Albion,Morecambe,1,1,2,['30'],['77'],1.8,3.45,3.65,1.75,1.91,1.72,2.05
+149,2568091,England EFL League One,2022/2023,2022-10-15 11:00:00,15,Cheltenham Town,Bristol Rovers,1,4,5,['54'],"['15', '23', '42', '45+2']",2.23,3.3,3.05,1.88,1.76,1.78,2.0
+150,2568092,England EFL League One,2022/2023,2022-10-15 11:00:00,15,Exeter City,Oxford United,2,4,6,"['65', '90+2']","['12', '31', '44', '54']",2.0,3.25,3.15,1.89,1.76,1.8,1.95
+151,2568093,England EFL League One,2022/2023,2022-10-15 11:00:00,15,Fleetwood Town,Shrewsbury Town,0,1,1,[],['30'],2.2,2.95,2.95,2.15,1.58,1.95,1.8
+152,2568094,England EFL League One,2022/2023,2022-10-15 11:00:00,15,Ipswich Town,Lincoln City,0,1,1,[],['24'],1.37,4.15,7.0,1.78,1.87,2.15,1.66
+153,2568095,England EFL League One,2022/2023,2022-10-15 11:00:00,15,Milton Keynes Dons,Plymouth Argyle,1,4,5,['49'],"['9', '25', '37', '59']",2.5,3.0,2.5,1.78,1.86,1.68,2.1
+154,2568096,England EFL League One,2022/2023,2022-10-15 11:00:00,15,Port Vale,Forest Green Rovers,2,2,4,"['78', '88']","['14', '37']",2.05,2.95,3.3,1.86,1.79,1.8,1.95
+155,2568097,England EFL League One,2022/2023,2022-10-15 11:00:00,15,Wycombe Wanderers,Peterborough United,3,1,4,"['45', '74', '90+5']",['22'],2.4,3.05,2.65,1.86,1.79,1.75,2.0
+156,2568087,England EFL League One,2022/2023,2022-10-15 11:00:00,15,Bolton Wanderers,Barnsley,0,0,0,[],[],2.0,3.2,3.15,1.91,1.75,1.83,1.95
+157,2568089,England EFL League One,2022/2023,2022-10-15 11:00:00,15,Cambridge United,Sheffield Wednesday,0,2,2,[],"['6', '77']",3.4,3.4,2.04,1.74,1.9,1.8,2.0
+158,2568086,England EFL League One,2022/2023,2022-10-15 11:00:00,15,Accrington Stanley,Derby County,0,3,3,[],"['15', '39', '90+8']",2.45,3.0,2.55,1.98,1.68,1.75,2.05
+159,2568090,England EFL League One,2022/2023,2022-10-17 16:00:00,15,Charlton Athletic,Portsmouth,3,0,3,"['17', '31', '67']",[],2.52,3.5,2.85,1.88,1.91,1.75,2.0
+160,2568104,England EFL League One,2022/2023,2022-10-21 16:00:00,16,Ipswich Town,Derby County,1,0,1,['67'],[],1.71,3.55,4.25,2.01,1.79,1.9,1.78
+161,2568105,England EFL League One,2022/2023,2022-10-22 09:00:00,16,Lincoln City,Sheffield Wednesday,1,1,2,['46'],['7'],3.72,3.44,2.11,2.03,1.83,1.83,1.85
+162,2568108,England EFL League One,2022/2023,2022-10-22 11:00:00,16,Oxford United,Peterborough United,1,2,3,['52'],"['7', '31']",2.79,3.5,2.56,1.8,1.9,1.75,1.95
+163,2568107,England EFL League One,2022/2023,2022-10-22 11:00:00,16,Morecambe,Barnsley,1,0,1,['39'],[],3.74,3.54,2.07,2.03,1.83,1.87,1.87
+164,2568106,England EFL League One,2022/2023,2022-10-22 11:00:00,16,Milton Keynes Dons,Wycombe Wanderers,0,1,1,[],['40'],2.51,3.46,2.89,1.9,1.8,1.77,1.93
+165,2568103,England EFL League One,2022/2023,2022-10-22 11:00:00,16,Forest Green Rovers,Portsmouth,0,1,1,[],['17'],3.7,3.72,2.03,1.85,1.85,1.75,2.05
+166,2568102,England EFL League One,2022/2023,2022-10-22 11:00:00,16,Exeter City,Fleetwood Town,2,1,3,"['30', '90+3']",['28'],1.97,3.6,4.06,2.0,1.85,1.87,1.82
+167,2568101,England EFL League One,2022/2023,2022-10-22 11:00:00,16,Cambridge United,Port Vale,0,1,1,[],['79'],2.54,3.44,2.85,2.1,1.78,1.78,1.9
+168,2568100,England EFL League One,2022/2023,2022-10-22 11:00:00,16,Burton Albion,Cheltenham Town,1,0,1,['77'],[],2.26,3.52,3.28,1.95,1.9,1.75,1.95
+169,2568099,England EFL League One,2022/2023,2022-10-22 11:00:00,16,Bristol Rovers,Plymouth Argyle,2,2,4,"['47', '57']","['14', '45+2']",2.94,3.54,2.44,1.9,1.95,1.71,2.0
+170,2568098,England EFL League One,2022/2023,2022-10-22 11:00:00,16,Accrington Stanley,Bolton Wanderers,2,3,5,"['8', '48']","['56', '71', '75']",2.98,3.62,2.37,1.9,1.95,1.66,2.05
+171,2568109,England EFL League One,2022/2023,2022-10-22 11:00:00,16,Shrewsbury Town,Charlton Athletic,0,1,1,[],['69'],2.44,3.46,2.99,2.1,1.78,1.8,1.88
+172,2568118,England EFL League One,2022/2023,2022-10-25 15:45:00,13,Port Vale,Ipswich Town,2,3,5,"['45+6', '47']","['34', '38', '51']",4.0,3.5,1.77,2.01,1.79,1.68,2.07
+173,2568117,England EFL League One,2022/2023,2022-10-25 15:45:00,13,Plymouth Argyle,Shrewsbury Town,2,1,3,"['70', '83']",['30'],1.73,3.55,4.15,1.99,1.81,1.91,1.81
+174,2568116,England EFL League One,2022/2023,2022-10-25 15:45:00,13,Peterborough United,Accrington Stanley,3,1,4,"['33', '51', '59']",['25'],1.7,3.8,4.0,1.67,2.1,1.65,2.1
+175,2568115,England EFL League One,2022/2023,2022-10-25 15:45:00,13,Fleetwood Town,Forest Green Rovers,1,1,2,['70'],['23'],1.95,3.4,3.4,2.01,1.79,1.81,1.91
+176,2568114,England EFL League One,2022/2023,2022-10-25 15:45:00,13,Derby County,Exeter City,0,0,0,[],[],1.86,3.55,3.6,1.88,1.92,1.63,2.16
+177,2568113,England EFL League One,2022/2023,2022-10-25 15:45:00,13,Cheltenham Town,Morecambe,1,0,1,['35'],[],1.98,3.4,3.35,1.99,1.81,1.83,1.89
+178,2568111,England EFL League One,2022/2023,2022-10-25 15:45:00,13,Bolton Wanderers,Burton Albion,2,1,3,"['87', '90+8']",['73'],1.75,3.7,3.9,1.8,1.93,1.72,2.02
+179,2568112,England EFL League One,2022/2023,2022-10-25 15:45:00,13,Charlton Athletic,Milton Keynes Dons,0,2,2,[],"['66', '78']",1.74,3.55,4.1,1.99,1.81,1.75,1.93
+180,2568119,England EFL League One,2022/2023,2022-10-25 15:45:00,13,Portsmouth,Oxford United,1,1,2,['78'],['16'],1.95,3.5,3.35,1.88,1.92,1.8,1.95
+181,2568121,England EFL League One,2022/2023,2022-10-25 15:45:00,13,Wycombe Wanderers,Cambridge United,2,3,5,"['35', '90+7']","['6', '45+1', '77']",1.79,3.65,3.75,1.73,2.0,1.75,2.0
+182,2568110,England EFL League One,2022/2023,2022-10-25 15:45:00,13,Barnsley,Lincoln City,0,1,1,[],['45+4'],1.8,3.5,3.9,1.99,1.81,2.02,1.72
+183,2568120,England EFL League One,2022/2023,2022-10-26 16:00:00,13,Sheffield Wednesday,Bristol Rovers,1,1,2,['45+3'],['60'],1.48,4.5,6.4,1.7,2.15,1.8,1.95
+184,2568124,England EFL League One,2022/2023,2022-10-29 11:00:00,17,Charlton Athletic,Ipswich Town,4,4,8,"['63', '76', '90+6', '90+9']","['45+3', '52', '90+1', '90+4']",3.5,3.3,2.1,2.0,1.85,1.8,1.95
+185,2568125,England EFL League One,2022/2023,2022-10-29 11:00:00,17,Cheltenham Town,Milton Keynes Dons,0,0,0,[],[],2.6,3.3,2.62,2.1,1.78,1.8,1.95
+186,2568127,England EFL League One,2022/2023,2022-10-29 11:00:00,17,Fleetwood Town,Accrington Stanley,3,0,3,"['50', '54', '59']",[],2.38,3.2,3.0,2.3,1.55,1.95,1.8
+187,2568128,England EFL League One,2022/2023,2022-10-29 11:00:00,17,Peterborough United,Cambridge United,1,0,1,['18'],[],1.57,3.9,5.5,1.6,2.2,1.75,2.0
+188,2568130,England EFL League One,2022/2023,2022-10-29 11:00:00,17,Port Vale,Lincoln City,1,0,1,['68'],[],2.0,3.3,3.75,2.0,1.7,1.95,1.8
+189,2568131,England EFL League One,2022/2023,2022-10-29 11:00:00,17,Portsmouth,Shrewsbury Town,1,1,2,['29'],['26'],1.7,3.5,5.0,2.05,1.8,2.0,1.75
+190,2568132,England EFL League One,2022/2023,2022-10-29 11:00:00,17,Sheffield Wednesday,Burton Albion,4,2,6,"['22', '26', '53', '75']","['76', '82']",1.5,4.0,6.5,1.7,2.0,1.95,1.8
+191,2568133,England EFL League One,2022/2023,2022-10-29 11:00:00,17,Wycombe Wanderers,Morecambe,1,1,2,['20'],['82'],1.57,3.8,5.8,1.95,1.9,2.0,1.75
+192,2568126,England EFL League One,2022/2023,2022-10-29 11:00:00,17,Derby County,Bristol Rovers,4,2,6,"['5', '12', '24', '40']","['35', '45+3']",1.65,3.7,5.5,1.85,2.0,1.91,1.91
+193,2568123,England EFL League One,2022/2023,2022-10-29 11:00:00,17,Bolton Wanderers,Oxford United,1,3,4,['73'],"['25', '53', '79']",2.1,3.3,3.4,2.1,1.65,1.95,1.8
+194,2568122,England EFL League One,2022/2023,2022-10-29 11:00:00,17,Barnsley,Forest Green Rovers,2,0,2,"['15', '83']",[],1.73,3.6,4.6,1.9,1.95,1.91,1.91
+195,2568129,England EFL League One,2022/2023,2022-10-31 17:00:00,17,Plymouth Argyle,Exeter City,4,2,6,"['27', '58', '70', '84']","['25', '52']",1.86,3.4,3.45,1.79,1.94,1.67,2.1
+196,2568019,England EFL League One,2022/2023,2022-11-01 16:45:00,8,Lincoln City,Accrington Stanley,1,1,2,['60'],['85'],2.45,3.1,3.0,1.87,1.73,1.75,1.95
+197,2568056,England EFL League One,2022/2023,2022-11-01 16:45:00,11,Oxford United,Fleetwood Town,1,1,2,['50'],['2'],1.91,3.2,4.2,1.91,1.69,1.8,1.95
+198,2568021,England EFL League One,2022/2023,2022-11-01 16:45:00,8,Morecambe,Derby County,1,1,2,['45+2'],['59'],4.0,3.3,1.95,1.82,1.78,1.9,1.85
+199,2568025,England EFL League One,2022/2023,2022-11-01 16:45:00,8,Wycombe Wanderers,Port Vale,2,2,4,"['4', '61']","['45+7', '77']",2.25,3.1,3.3,2.1,1.65,1.9,1.82
+200,2568024,England EFL League One,2022/2023,2022-11-09 16:45:00,8,Shrewsbury Town,Oxford United,1,1,2,['65'],['15'],2.7,3.2,2.38,2.07,1.75,1.87,1.83
+201,2568135,England EFL League One,2022/2023,2022-11-12 12:00:00,18,Bristol Rovers,Fleetwood Town,2,2,4,"['57', '80']","['14', '90+9']",2.23,3.4,3.22,2.05,1.77,1.78,2.0
+202,2568142,England EFL League One,2022/2023,2022-11-12 12:00:00,18,Milton Keynes Dons,Derby County,1,3,4,['41'],"['43', '53', '79']",3.3,3.4,2.18,2.05,1.77,1.7,2.0
+203,2568141,England EFL League One,2022/2023,2022-11-12 12:00:00,18,Lincoln City,Plymouth Argyle,1,1,2,['45+1'],['31'],3.3,3.4,2.18,2.05,1.77,1.67,2.1
+204,2568140,England EFL League One,2022/2023,2022-11-12 12:00:00,18,Ipswich Town,Cheltenham Town,1,1,2,['8'],['34'],1.34,5.0,9.2,1.83,1.97,2.3,1.6
+205,2568139,England EFL League One,2022/2023,2022-11-12 12:00:00,18,Forest Green Rovers,Wycombe Wanderers,0,2,2,[],"['14', '27']",3.18,3.52,2.21,1.88,1.92,1.7,2.1
+206,2568138,England EFL League One,2022/2023,2022-11-12 12:00:00,18,Exeter City,Peterborough United,3,2,5,"['27', '86', '90+1']","['40', '81']",2.84,3.48,2.42,1.88,1.92,1.6,2.2
+207,2568137,England EFL League One,2022/2023,2022-11-12 12:00:00,18,Cambridge United,Bolton Wanderers,0,0,0,[],[],3.3,3.4,2.18,2.05,1.77,1.83,1.95
+208,2568145,England EFL League One,2022/2023,2022-11-12 12:00:00,18,Shrewsbury Town,Barnsley,0,1,1,[],['10'],2.18,3.36,3.34,2.1,1.74,1.8,1.95
+209,2568134,England EFL League One,2022/2023,2022-11-12 12:00:00,18,Accrington Stanley,Sheffield Wednesday,0,1,1,[],['24'],4.08,3.56,1.9,2.05,1.77,1.7,2.1
+210,2568143,England EFL League One,2022/2023,2022-11-12 12:00:00,18,Morecambe,Portsmouth,1,1,2,['36'],['67'],3.98,3.54,1.92,2.05,1.77,1.8,1.95
+211,2568136,England EFL League One,2022/2023,2022-11-12 12:00:00,18,Burton Albion,Charlton Athletic,3,3,6,"['38', '45', '58']","['26', '36', '75']",3.02,3.5,2.3,1.88,1.92,1.69,2.17
+212,2568144,England EFL League One,2022/2023,2022-11-12 12:00:00,18,Oxford United,Port Vale,4,0,4,"['10', '27', '62', '66']",[],2.31,3.4,3.06,2.02,1.79,1.75,2.02
+213,2568156,England EFL League One,2022/2023,2022-11-18 17:00:00,19,Portsmouth,Derby County,0,0,0,[],[],2.06,3.25,3.3,1.93,1.72,1.8,1.91
+214,2568151,England EFL League One,2022/2023,2022-11-19 09:00:00,19,Exeter City,Ipswich Town,0,2,2,[],"['11', '68']",3.75,3.6,1.95,1.95,1.83,1.8,1.95
+215,2568153,England EFL League One,2022/2023,2022-11-19 12:00:00,19,Lincoln City,Morecambe,2,1,3,"['17', '67']",['81'],2.0,3.5,3.6,2.05,1.75,1.8,1.95
+216,2568155,England EFL League One,2022/2023,2022-11-19 12:00:00,19,Port Vale,Charlton Athletic,1,0,1,['57'],[],2.4,3.3,2.95,2.0,1.78,1.8,1.95
+217,2568157,England EFL League One,2022/2023,2022-11-19 12:00:00,19,Sheffield Wednesday,Shrewsbury Town,1,0,1,['39'],[],1.55,4.33,5.5,1.7,2.1,2.0,1.75
+218,2568154,England EFL League One,2022/2023,2022-11-19 12:00:00,19,Oxford United,Forest Green Rovers,1,1,2,['19'],['60'],1.72,3.75,4.75,1.87,1.9,1.8,1.95
+219,2568150,England EFL League One,2022/2023,2022-11-19 12:00:00,19,Cheltenham Town,Wycombe Wanderers,1,0,1,['26'],[],3.3,3.3,2.2,2.05,1.75,1.8,1.95
+220,2568152,England EFL League One,2022/2023,2022-11-19 12:00:00,19,Fleetwood Town,Bolton Wanderers,1,2,3,['16'],"['85', '90+5']",3.2,3.4,2.2,2.0,1.78,1.75,2.0
+221,2568148,England EFL League One,2022/2023,2022-11-19 12:00:00,19,Burton Albion,Plymouth Argyle,2,2,4,"['41', '90+7']","['64', '73']",3.0,3.4,2.3,1.75,2.05,1.62,2.2
+222,2568147,England EFL League One,2022/2023,2022-11-19 12:00:00,19,Bristol Rovers,Peterborough United,1,0,1,['53'],[],3.2,3.4,2.2,1.9,1.87,1.62,2.2
+223,2568146,England EFL League One,2022/2023,2022-11-19 12:00:00,19,Barnsley,Milton Keynes Dons,3,1,4,"['18', '50', '68']",['40'],1.78,3.75,4.33,1.78,2.0,1.95,1.8
+224,2568149,England EFL League One,2022/2023,2022-11-19 12:00:00,19,Cambridge United,Accrington Stanley,0,1,1,[],['45+2'],2.2,3.4,3.2,2.05,1.75,1.7,2.05
+225,2568167,England EFL League One,2022/2023,2022-12-02 16:45:00,20,Plymouth Argyle,Port Vale,0,2,2,[],"['65', '71']",2.13,3.65,3.42,1.7,1.9,1.72,2.1
+226,2568166,England EFL League One,2022/2023,2022-12-02 16:45:00,20,Peterborough United,Barnsley,1,2,3,['21'],"['11', '61']",2.16,3.6,3.4,1.73,1.87,1.71,1.98
+227,2568163,England EFL League One,2022/2023,2022-12-02 16:45:00,20,Ipswich Town,Fleetwood Town,1,1,2,['2'],['90+6'],1.3,4.7,7.6,1.81,1.92,2.1,1.72
+228,2568160,England EFL League One,2022/2023,2022-12-02 16:45:00,20,Charlton Athletic,Cheltenham Town,0,1,1,[],['84'],1.7,3.7,4.1,1.79,1.81,1.8,1.88
+229,2568159,England EFL League One,2022/2023,2022-12-02 16:45:00,20,Bolton Wanderers,Bristol Rovers,1,1,2,['90+4'],['2'],1.69,3.8,4.0,1.73,2.02,1.73,1.98
+230,2568165,England EFL League One,2022/2023,2022-12-02 16:45:00,20,Morecambe,Exeter City,1,1,2,['34'],['36'],3.1,3.5,2.03,1.78,1.82,1.72,2.05
+231,2568161,England EFL League One,2022/2023,2022-12-03 09:30:00,20,Derby County,Sheffield Wednesday,0,0,0,[],[],2.95,3.25,2.36,2.0,1.73,1.95,1.8
+232,2568164,England EFL League One,2022/2023,2022-12-03 09:30:00,20,Milton Keynes Dons,Burton Albion,1,1,2,['84'],['29'],2.21,3.35,3.15,2.03,1.79,1.75,2.0
+233,2568168,England EFL League One,2022/2023,2022-12-03 09:30:00,20,Shrewsbury Town,Lincoln City,2,0,2,"['45', '60']",[],2.27,3.25,3.1,2.25,1.6,1.91,1.91
+234,2568162,England EFL League One,2022/2023,2022-12-03 10:00:00,20,Forest Green Rovers,Cambridge United,2,1,3,"['37', '90+3']",['89'],2.55,3.2,2.7,2.0,1.73,1.91,1.91
+235,2568158,England EFL League One,2022/2023,2022-12-03 12:00:00,20,Accrington Stanley,Oxford United,1,1,2,['84'],['58'],2.8,3.4,2.41,1.84,1.98,1.67,2.1
+236,2568169,England EFL League One,2022/2023,2022-12-04 09:30:00,20,Wycombe Wanderers,Portsmouth,2,0,2,"['14', '88']",[],2.3,3.0,2.8,1.83,1.9,1.7,2.05
+237,2568181,England EFL League One,2022/2023,2022-12-10 09:30:00,21,Shrewsbury Town,Bolton Wanderers,3,2,5,"['2', '79', '90+2']","['13', '71']",3.07,3.28,2.49,2.04,1.64,1.9,1.87
+238,2568176,England EFL League One,2022/2023,2022-12-10 09:30:00,21,Ipswich Town,Peterborough United,2,1,3,"['21', '58']",['31'],1.59,4.15,5.05,1.75,1.89,1.87,1.82
+239,2568175,England EFL League One,2022/2023,2022-12-10 11:00:00,21,Forest Green Rovers,Cheltenham Town,1,0,1,['75'],[],2.35,3.45,3.14,1.92,1.87,1.81,1.95
+240,2568172,England EFL League One,2022/2023,2022-12-10 11:00:00,21,Burton Albion,Derby County,1,1,2,['79'],['23'],3.12,3.54,2.32,1.83,1.94,1.75,2.0
+241,2568178,England EFL League One,2022/2023,2022-12-10 12:00:00,21,Milton Keynes Dons,Fleetwood Town,1,2,3,['52'],"['72', '90']",2.05,3.36,3.61,2.03,1.65,1.9,1.85
+242,2568177,England EFL League One,2022/2023,2022-12-10 12:00:00,21,Lincoln City,Wycombe Wanderers,0,0,0,[],[],2.84,3.25,2.5,2.02,1.78,1.83,1.95
+243,2568174,England EFL League One,2022/2023,2022-12-10 12:00:00,21,Exeter City,Sheffield Wednesday,1,1,2,['56'],['90+4'],3.52,3.57,2.13,1.82,1.96,1.83,1.95
+244,2568171,England EFL League One,2022/2023,2022-12-10 12:00:00,21,Bristol Rovers,Port Vale,1,0,1,['87'],[],2.54,3.34,2.94,1.94,1.85,1.75,2.0
+245,2568173,England EFL League One,2022/2023,2022-12-10 12:00:00,21,Cambridge United,Plymouth Argyle,0,0,0,[],[],3.11,3.56,2.18,1.75,1.89,1.68,2.15
+246,2568182,England EFL League One,2022/2023,2022-12-17 12:00:00,22,Barnsley,Burton Albion,2,0,2,"['36', '73']",[],1.7,3.9,4.8,1.81,1.92,1.85,1.91
+247,2568183,England EFL League One,2022/2023,2022-12-17 12:00:00,22,Bolton Wanderers,Exeter City,2,0,2,"['8', '26']",[],2.0,3.4,3.75,1.86,1.86,1.8,1.97
+248,2568184,England EFL League One,2022/2023,2022-12-17 12:00:00,22,Charlton Athletic,Bristol Rovers,1,2,3,['20'],"['61', '72']",2.0,3.4,3.75,1.82,1.92,1.72,2.07
+249,2568186,England EFL League One,2022/2023,2022-12-17 12:00:00,22,Derby County,Forest Green Rovers,4,0,4,"['5', '21', '69', '87']",[],1.45,4.6,6.5,1.75,2.0,1.92,1.84
+250,2568193,England EFL League One,2022/2023,2022-12-17 12:00:00,22,Wycombe Wanderers,Ipswich Town,1,0,1,['40'],[],3.65,3.35,1.88,1.96,1.92,1.78,1.99
+251,2568192,England EFL League One,2022/2023,2022-12-17 12:00:00,22,Sheffield Wednesday,Oxford United,0,0,0,[],[],1.69,3.65,4.2,1.83,1.81,1.77,2.01
+252,2568191,England EFL League One,2022/2023,2022-12-17 12:00:00,22,Portsmouth,Milton Keynes Dons,0,2,2,[],"['34', '64']",1.96,3.25,3.5,2.08,1.8,1.84,1.92
+253,2568189,England EFL League One,2022/2023,2022-12-17 12:00:00,22,Plymouth Argyle,Morecambe,2,1,3,"['69', '84']",['90+1'],1.53,4.2,4.9,1.72,1.93,1.79,1.98
+254,2568501,England EFL League One,2022/2023,2022-12-26 12:00:00,23,Cheltenham Town,Plymouth Argyle,0,1,1,[],['78'],3.15,3.45,2.02,1.89,1.91,1.7,2.05
+255,2568672,England EFL League One,2022/2023,2022-12-26 12:00:00,23,Ipswich Town,Oxford United,3,0,3,"['39', '45', '81']",[],1.46,4.2,5.6,1.75,1.98,1.91,1.91
+256,2568783,England EFL League One,2022/2023,2022-12-26 12:00:00,23,Port Vale,Morecambe,1,0,1,['40'],[],1.62,3.7,4.75,2.02,1.72,2.1,1.67
+257,2568446,England EFL League One,2022/2023,2022-12-26 12:00:00,23,Charlton Athletic,Peterborough United,1,1,2,['49'],['65'],2.6,3.4,2.36,1.92,1.88,1.7,2.05
+258,2568727,England EFL League One,2022/2023,2022-12-26 12:00:00,23,Milton Keynes Dons,Forest Green Rovers,1,0,1,['58'],[],1.83,3.45,3.8,1.99,1.81,1.91,1.91
+259,2568614,England EFL League One,2022/2023,2022-12-26 12:00:00,23,Fleetwood Town,Sheffield Wednesday,1,2,3,['8'],"['16', '73']",4.0,3.5,1.77,2.04,1.76,1.95,1.8
+260,2568557,England EFL League One,2022/2023,2022-12-26 12:00:00,23,Exeter City,Portsmouth,0,0,0,[],[],2.55,3.4,2.41,1.92,1.88,1.75,2.0
+261,2568390,England EFL League One,2022/2023,2022-12-26 12:00:00,23,Cambridge United,Shrewsbury Town,2,1,3,"['67', '76']",['64'],2.59,3.25,2.46,2.08,1.68,1.95,1.8
+262,2568836,England EFL League One,2022/2023,2022-12-26 12:00:00,23,Wycombe Wanderers,Bristol Rovers,2,1,3,"['22', '48']",['4'],1.83,3.45,3.8,2.01,1.79,1.8,1.95
+263,2568219,England EFL League One,2022/2023,2022-12-26 12:00:00,23,Accrington Stanley,Barnsley,1,1,2,['62'],['8'],3.05,3.4,2.09,1.99,1.81,1.8,1.95
+264,2568330,England EFL League One,2022/2023,2022-12-26 12:00:00,23,Burton Albion,Lincoln City,3,0,3,"['5', '14', '27']",[],2.3,3.35,2.72,2.01,1.79,1.8,1.95
+265,2568271,England EFL League One,2022/2023,2022-12-27 12:00:00,23,Bolton Wanderers,Derby County,0,0,0,[],[],2.2,3.3,3.2,2.01,1.79,1.8,1.95
+266,2569017,England EFL League One,2022/2023,2022-12-29 16:45:00,24,Shrewsbury Town,Cheltenham Town,0,1,1,[],['38'],2.02,3.25,3.35,2.06,1.63,1.95,1.8
+267,2569016,England EFL League One,2022/2023,2022-12-29 16:45:00,24,Sheffield Wednesday,Port Vale,2,0,2,"['30', '70']",[],1.78,3.4,4.1,2.06,1.63,2.0,1.75
+268,2569015,England EFL League One,2022/2023,2022-12-29 16:45:00,24,Portsmouth,Ipswich Town,2,2,4,"['4', '60']","['11', '87']",3.2,3.2,2.12,1.95,1.7,1.8,1.95
+269,2569014,England EFL League One,2022/2023,2022-12-29 16:45:00,24,Plymouth Argyle,Wycombe Wanderers,1,0,1,['33'],[],2.12,3.25,3.15,1.8,1.84,1.7,2.05
+270,2569013,England EFL League One,2022/2023,2022-12-29 16:45:00,24,Peterborough United,Milton Keynes Dons,2,0,2,"['38', '48']",[],1.78,3.4,4.1,1.95,1.7,1.95,1.8
+271,2569012,England EFL League One,2022/2023,2022-12-29 16:45:00,24,Oxford United,Charlton Athletic,3,1,4,"['20', '24', '82']",['67'],1.93,3.3,3.6,1.95,1.7,1.91,1.91
+272,2568894,England EFL League One,2022/2023,2022-12-29 16:45:00,24,Barnsley,Fleetwood Town,2,1,3,"['64', '86']",['77'],1.68,3.55,4.5,1.95,1.7,2.0,1.75
+273,2568949,England EFL League One,2022/2023,2022-12-29 16:45:00,24,Bristol Rovers,Exeter City,3,4,7,"['57', '64', '74']","['13', '45+2', '85', '90+2']",2.4,3.2,2.7,1.8,1.84,1.7,2.05
+274,2569011,England EFL League One,2022/2023,2022-12-29 16:45:00,24,Morecambe,Accrington Stanley,2,0,2,"['34', '43']",[],2.85,3.1,2.35,1.95,1.7,1.8,1.95
+275,2569009,England EFL League One,2022/2023,2022-12-29 16:45:00,24,Forest Green Rovers,Burton Albion,1,2,3,['90+3'],"['45+2', '89']",2.4,3.15,2.74,1.95,1.7,1.8,1.95
+276,2569010,England EFL League One,2022/2023,2022-12-30 16:45:00,24,Lincoln City,Bolton Wanderers,1,1,2,['10'],['58'],2.86,3.14,2.24,1.97,1.72,1.8,1.95
+277,2569006,England EFL League One,2022/2023,2022-12-30 16:45:00,24,Derby County,Cambridge United,1,0,1,['57'],[],1.48,3.81,5.71,1.97,1.72,2.1,1.67
+278,2569190,England EFL League One,2022/2023,2023-01-01 12:00:00,25,Peterborough United,Wycombe Wanderers,0,3,3,[],"['15', '67', '75']",1.91,3.4,4.0,1.95,1.7,1.91,1.91
+279,2569236,England EFL League One,2022/2023,2023-01-01 12:00:00,25,Plymouth Argyle,Milton Keynes Dons,3,1,4,"['4', '37', '53']",['19'],1.7,3.5,4.8,1.95,1.7,1.8,1.95
+280,2569289,England EFL League One,2022/2023,2023-01-01 12:00:00,25,Portsmouth,Charlton Athletic,1,3,4,['45+3'],"['23', '48', '90+4']",1.91,3.4,3.6,1.95,1.7,1.8,1.95
+281,2569391,England EFL League One,2022/2023,2023-01-01 12:00:00,25,Shrewsbury Town,Fleetwood Town,0,3,3,[],"['25', '28', '89']",2.1,3.3,3.5,2.06,1.63,1.95,1.8
+282,2569019,England EFL League One,2022/2023,2023-01-01 12:00:00,25,Bristol Rovers,Cheltenham Town,2,1,3,"['25', '39']",['48'],1.83,3.5,4.0,1.77,1.87,1.7,2.05
+283,2569021,England EFL League One,2022/2023,2023-01-01 12:00:00,25,Forest Green Rovers,Port Vale,1,3,4,['2'],"['86', '90+8', '90+12']",3.3,3.4,2.1,1.8,1.84,1.75,2.0
+284,2569096,England EFL League One,2022/2023,2023-01-01 12:00:00,25,Morecambe,Burton Albion,5,0,5,"['32', '45+1', '51', '55', '83']",[],2.75,3.5,2.4,1.73,1.91,1.7,2.05
+285,2569146,England EFL League One,2022/2023,2023-01-01 12:00:00,25,Oxford United,Exeter City,0,1,1,[],['79'],2.1,3.4,3.3,1.95,1.7,1.95,1.8
+286,2569339,England EFL League One,2022/2023,2023-01-02 12:00:00,25,Sheffield Wednesday,Cambridge United,5,0,5,"['7', '21', '51', '70', '80']",[],1.32,5.58,9.85,1.6,2.25,1.95,1.8
+287,2569018,England EFL League One,2022/2023,2023-01-02 12:00:00,25,Barnsley,Bolton Wanderers,0,3,3,[],"['12', '41', '76']",2.25,3.37,3.43,2.15,1.61,1.95,1.8
+288,2569020,England EFL League One,2022/2023,2023-01-02 12:00:00,25,Derby County,Accrington Stanley,4,0,4,"['7', '16', '45+2', '46']",[],1.59,4.02,5.27,1.82,1.97,1.95,1.8
+289,2569046,England EFL League One,2022/2023,2023-01-02 12:00:00,25,Lincoln City,Ipswich Town,1,1,2,['64'],['81'],5.19,3.8,1.64,1.8,1.99,1.75,2.0
+290,2569632,England EFL League One,2022/2023,2023-01-07 12:00:00,26,Charlton Athletic,Lincoln City,2,1,3,"['35', '42']",['76'],1.83,3.4,3.85,1.95,1.7,1.87,1.87
+291,2569590,England EFL League One,2022/2023,2023-01-07 12:00:00,26,Cambridge United,Bristol Rovers,1,2,3,['5'],"['22', '29']",2.75,3.2,2.37,1.95,1.7,1.83,1.95
+292,2570043,England EFL League One,2022/2023,2023-01-07 12:00:00,43,Morecambe,Cheltenham Town,2,1,3,"['20', '47']",['39'],2.32,3.1,2.9,1.83,1.81,1.85,1.9
+293,2569975,England EFL League One,2022/2023,2023-01-07 12:00:00,38,Bolton Wanderers,Plymouth Argyle,0,0,0,[],[],2.27,3.2,2.9,1.7,1.95,1.75,2.05

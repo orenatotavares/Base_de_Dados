@@ -1,0 +1,154 @@
+Nº,Id_Jogo,League,Season,Date,Rodada,Home,Away,FT_Goals_H,FT_Goals_A,FT_TotalGoals,Goals_H_Minutes,Goals_A_Minutes,FT_Odd_H,FT_Odd_D,FT_Odd_A,FT_Odd_Over25,FT_Odd_Under25,FT_Odd_BTTS_Yes,FT_Odd_BTTS_No
+1,2839322,Bosnia and Herzegovina First League RS,2022/2023,2022-08-06 12:30:00,1,Modriča,Podrinje Janja,4,1,5,"['-1', '-1', '-1', '-1']",['-1'],1.22,6.0,10.0,1.29,3.6,1.51,2.48
+2,2839324,Bosnia and Herzegovina First League RS,2022/2023,2022-08-06 12:30:00,1,Kozara Gradiška,Sloboda Mrkonjić Grad,0,0,0,[],[],0.0,0.0,0.0,0.0,0.0,0.0,0.0
+3,2839325,Bosnia and Herzegovina First League RS,2022/2023,2022-08-06 12:30:00,1,Krupa na Vrbasu,Rudar Prijedor,4,0,4,"['4', '8', '30', '52']",[],1.67,4.0,3.8,1.95,1.85,1.86,1.9
+4,2839326,Bosnia and Herzegovina First League RS,2022/2023,2022-08-06 12:30:00,1,Laktasi,Željezničar Banja Luka,1,1,2,['-1'],['-1'],1.5,3.97,4.91,1.73,2.08,0.0,0.0
+5,2839327,Bosnia and Herzegovina First League RS,2022/2023,2022-08-06 12:30:00,1,Tekstilac Derventa,Drina Zvornik,0,0,0,[],[],2.3,3.25,2.7,2.05,1.75,1.88,1.88
+6,2839328,Bosnia and Herzegovina First League RS,2022/2023,2022-08-06 15:00:00,1,Sutjeska Foča,Ljubić Prnjavor,3,1,4,"['3', '59', '75']",['87'],1.4,4.33,6.0,1.65,2.2,1.85,1.91
+7,2839321,Bosnia and Herzegovina First League RS,2022/2023,2022-08-07 12:30:00,1,Sloboda Novi Grad,Slavija,1,1,2,['-1'],['-1'],1.19,5.21,9.77,1.83,1.87,0.0,0.0
+8,2839323,Bosnia and Herzegovina First League RS,2022/2023,2022-08-07 12:30:00,1,Omarska,Zvijezda '09 Brgule,0,1,1,[],['69'],3.2,4.0,1.8,1.8,2.0,1.8,1.96
+9,2839332,Bosnia and Herzegovina First League RS,2022/2023,2022-08-12 12:30:00,2,Drina Zvornik,Sutjeska Foča,0,2,2,[],"['79', '83']",1.65,3.8,4.2,1.6,2.3,1.57,2.34
+10,2839338,Bosnia and Herzegovina First League RS,2022/2023,2022-08-13 12:30:00,2,Sloboda Novi Grad,Modriča,3,0,3,"['-1', '-1', '-1']",[],1.04,10.1,20.54,1.8,1.86,0.0,0.0
+11,2839337,Bosnia and Herzegovina First League RS,2022/2023,2022-08-13 12:30:00,2,Podrinje Janja,Omarska,5,1,6,"['-1', '-1', '-1', '-1', '-1']",['-1'],1.77,3.34,3.89,1.59,2.13,0.0,0.0
+12,2839336,Bosnia and Herzegovina First League RS,2022/2023,2022-08-13 12:30:00,2,Zvijezda '09 Brgule,Kozara Gradiška,1,1,2,['8'],['9007'],1.22,5.5,9.5,1.7,2.1,2.82,1.41
+13,2839334,Bosnia and Herzegovina First League RS,2022/2023,2022-08-13 12:30:00,2,Rudar Prijedor,Laktasi,2,1,3,"['-1', '-1']",['-1'],1.75,3.54,3.78,1.56,2.18,0.0,0.0
+14,2839331,Bosnia and Herzegovina First League RS,2022/2023,2022-08-13 12:30:00,2,Ljubić Prnjavor,Famos Vojkovići,2,0,2,"['54', '58']",[],1.43,4.21,5.44,1.6,2.14,0.0,0.0
+15,2839333,Bosnia and Herzegovina First League RS,2022/2023,2022-08-13 12:30:00,2,Željezničar Banja Luka,Tekstilac Derventa,2,0,2,"['26', '9002']",[],2.05,3.4,3.0,1.95,1.85,1.73,2.05
+16,2839335,Bosnia and Herzegovina First League RS,2022/2023,2022-08-14 12:30:00,2,Sloboda Mrkonjić Grad,Krupa na Vrbasu,1,2,3,['-1'],"['-1', '-1']",7.0,4.33,1.36,1.95,1.85,0.0,0.0
+17,2839345,Bosnia and Herzegovina First League RS,2022/2023,2022-08-16 15:00:00,3,Sutjeska Foča,Željezničar Banja Luka,2,1,3,"['-1', '-1']",['-1'],1.16,5.73,9.89,1.56,2.18,1.79,1.98
+18,2839343,Bosnia and Herzegovina First League RS,2022/2023,2022-08-17 12:00:00,3,Laktasi,Sloboda Mrkonjić Grad,4,0,4,"['26', '28', '63', '70']",[],1.95,3.5,3.4,1.8,2.0,0.0,0.0
+19,2839346,Bosnia and Herzegovina First League RS,2022/2023,2022-08-17 12:00:00,3,Famos Vojkovići,Drina Zvornik,1,0,1,['39'],[],2.7,3.3,2.4,1.9,1.9,0.0,0.0
+20,2839344,Bosnia and Herzegovina First League RS,2022/2023,2022-08-17 12:00:00,3,Tekstilac Derventa,Rudar Prijedor,0,2,2,[],"['66', '69']",2.8,3.25,2.3,2.2,1.65,2.0,1.77
+21,2839342,Bosnia and Herzegovina First League RS,2022/2023,2022-08-17 12:00:00,3,Krupa na Vrbasu,Zvijezda '09 Brgule,3,1,4,"['12', '22', '44']",['1'],1.5,3.75,6.0,2.0,1.8,2.1,1.66
+22,2839339,Bosnia and Herzegovina First League RS,2022/2023,2022-08-17 12:00:00,3,Modriča,Slavija,0,1,1,[],['-1'],1.81,5.41,2.42,1.87,1.78,2.2,1.58
+23,2839340,Bosnia and Herzegovina First League RS,2022/2023,2022-08-17 12:00:00,3,Omarska,Sloboda Novi Grad,1,3,4,['-1'],"['-1', '-1', '-1']",5.25,3.75,1.57,1.68,1.98,0.0,0.0
+24,2839341,Bosnia and Herzegovina First League RS,2022/2023,2022-08-17 12:00:00,3,Kozara Gradiška,Podrinje Janja,0,1,1,[],['-1'],1.32,4.1,6.79,1.8,1.87,2.1,1.64
+25,2839347,Bosnia and Herzegovina First League RS,2022/2023,2022-08-17 15:00:00,3,Radnik Bijeljina,Ljubić Prnjavor,2,0,2,"['-1', '-1']",[],1.4,4.75,5.8,2.35,1.47,1.71,1.95
+26,2839348,Bosnia and Herzegovina First League RS,2022/2023,2022-08-20 12:00:00,4,Slavija,Ljubić Prnjavor,4,0,4,"['-1', '-1', '-1', '-1']",[],1.6,3.49,3.82,1.68,2.14,0.0,0.0
+27,2839350,Bosnia and Herzegovina First League RS,2022/2023,2022-08-20 12:00:00,4,Željezničar Banja Luka,Famos Vojkovići,2,1,3,"['41', '44']",['25'],1.67,3.6,4.2,2.0,1.8,0.0,0.0
+28,2839351,Bosnia and Herzegovina First League RS,2022/2023,2022-08-20 12:00:00,4,Rudar Prijedor,Sutjeska Foča,1,1,2,['-1'],['-1'],1.97,3.45,3.5,1.61,2.28,0.0,0.0
+29,2839353,Bosnia and Herzegovina First League RS,2022/2023,2022-08-20 12:00:00,4,Zvijezda '09 Brgule,Laktasi,2,1,3,"['-1', '-1']",['-1'],0.0,0.0,0.0,0.0,0.0,0.0,0.0
+30,2839352,Bosnia and Herzegovina First League RS,2022/2023,2022-08-21 12:00:00,4,Sloboda Mrkonjić Grad,Tekstilac Derventa,1,1,2,['4'],['70'],1.65,3.6,4.33,2.0,1.8,0.0,0.0
+31,2839354,Bosnia and Herzegovina First League RS,2022/2023,2022-08-21 12:00:00,4,Podrinje Janja,Krupa na Vrbasu,0,4,4,[],"['9', '59', '61', '84']",6.5,4.0,1.4,1.85,1.95,2.05,1.68
+32,2839355,Bosnia and Herzegovina First League RS,2022/2023,2022-08-21 12:00:00,4,Sloboda Novi Grad,Kozara Gradiška,3,0,3,"['-1', '-1', '-1']",[],1.17,5.74,11.17,1.54,2.22,0.0,0.0
+33,2839356,Bosnia and Herzegovina First League RS,2022/2023,2022-08-21 15:30:00,4,Modriča,Omarska,0,1,1,[],['4501'],1.65,3.5,4.5,2.08,1.73,1.98,1.7
+34,2839349,Bosnia and Herzegovina First League RS,2022/2023,2022-08-23 12:00:00,4,Drina Zvornik,Radnik Bijeljina,0,1,1,[],['-1'],2.1,3.5,2.88,2.05,1.75,1.78,1.85
+35,2839361,Bosnia and Herzegovina First League RS,2022/2023,2022-08-27 12:00:00,5,Tekstilac Derventa,Zvijezda '09 Brgule,0,2,2,[],"['-1', '-1']",2.85,3.7,2.1,0.0,0.0,0.0,0.0
+36,2839363,Bosnia and Herzegovina First League RS,2022/2023,2022-08-27 12:00:00,5,Famos Vojkovići,Rudar Prijedor,0,2,2,[],"['-1', '-1']",1.77,3.45,4.1,1.98,1.63,0.0,0.0
+37,2839365,Bosnia and Herzegovina First League RS,2022/2023,2022-08-27 12:00:00,5,Ljubić Prnjavor,Drina Zvornik,3,2,5,"['-1', '-1', '-1']","['-1', '-1']",1.33,5.25,6.75,1.79,1.78,0.0,0.0
+38,2839360,Bosnia and Herzegovina First League RS,2022/2023,2022-08-27 12:00:00,5,Laktasi,Podrinje Janja,3,1,4,"['-1', '-1', '-1']",['-1'],1.53,4.3,4.9,1.68,2.14,0.0,0.0
+39,2839358,Bosnia and Herzegovina First League RS,2022/2023,2022-08-27 12:00:00,5,Kozara Gradiška,Modriča,3,0,3,"['-1', '-1', '-1']",[],1.47,4.0,6.0,1.78,1.79,0.0,0.0
+40,2839359,Bosnia and Herzegovina First League RS,2022/2023,2022-08-27 12:00:00,5,Krupa na Vrbasu,Sloboda Novi Grad,0,1,1,[],['65'],1.83,3.5,3.5,2.05,1.75,0.0,0.0
+41,2839362,Bosnia and Herzegovina First League RS,2022/2023,2022-08-27 14:00:00,5,Sutjeska Foča,Sloboda Mrkonjić Grad,3,2,5,"['-1', '-1', '-1']","['-1', '-1']",1.35,4.8,8.1,0.0,0.0,0.0,0.0
+42,2839364,Bosnia and Herzegovina First League RS,2022/2023,2022-08-27 15:00:00,5,Radnik Bijeljina,Željezničar Banja Luka,4,1,5,"['5', '46', '64', '68']",['53'],1.23,4.37,7.79,1.79,1.81,2.35,1.52
+43,2839357,Bosnia and Herzegovina First League RS,2022/2023,2022-08-28 12:00:00,5,Omarska,Slavija,2,2,4,"['57', '76']","['9', '50']",4.0,3.5,1.8,1.9,1.9,1.8,1.88
+44,2839329,Bosnia and Herzegovina First League RS,2022/2023,2022-08-31 12:00:00,1,Famos Vojkovići,Radnik Bijeljina,2,0,2,"['-1', '-1']",[],0.0,0.0,0.0,0.0,0.0,0.0,0.0
+45,2839367,Bosnia and Herzegovina First League RS,2022/2023,2022-09-02 11:30:00,6,Željezničar Banja Luka,Ljubić Prnjavor,4,1,5,"['7', '63', '69', '87']",['35'],1.71,3.65,4.5,1.6,2.2,1.78,1.9
+46,2839370,Bosnia and Herzegovina First League RS,2022/2023,2022-09-02 11:30:00,6,Zvijezda '09 Brgule,Sutjeska Foča,3,1,4,"['9', '38', '74']",['77'],1.98,3.3,3.65,1.67,2.1,0.0,0.0
+47,2839372,Bosnia and Herzegovina First League RS,2022/2023,2022-09-03 11:30:00,6,Sloboda Novi Grad,Laktasi,0,1,1,[],['69'],1.63,3.8,4.4,1.69,1.97,0.0,0.0
+48,2839371,Bosnia and Herzegovina First League RS,2022/2023,2022-09-03 11:30:00,6,Podrinje Janja,Tekstilac Derventa,2,0,2,"['44', '90']",[],2.05,3.45,3.1,2.11,1.6,2.02,1.76
+49,2839368,Bosnia and Herzegovina First League RS,2022/2023,2022-09-03 11:30:00,6,Rudar Prijedor,Radnik Bijeljina,1,1,2,['-1'],['-1'],0.0,0.0,0.0,0.0,0.0,0.0,0.0
+50,2839366,Bosnia and Herzegovina First League RS,2022/2023,2022-09-03 11:30:00,6,Slavija,Drina Zvornik,1,0,1,['53'],[],1.5,3.95,5.5,1.73,1.91,1.89,1.87
+51,2839373,Bosnia and Herzegovina First League RS,2022/2023,2022-09-03 15:00:00,6,Modriča,Krupa na Vrbasu,0,7,7,[],"['-1', '-1', '-1', '-1', '-1', '-1', '-1']",2.85,3.75,2.16,1.56,2.19,1.84,1.92
+52,2839374,Bosnia and Herzegovina First League RS,2022/2023,2022-09-04 11:30:00,6,Omarska,Kozara Gradiška,1,2,3,['2'],"['79', '82']",1.73,4.05,3.95,1.87,1.77,1.9,1.75
+53,2839369,Bosnia and Herzegovina First League RS,2022/2023,2022-09-04 11:30:00,6,Sloboda Mrkonjić Grad,Famos Vojkovići,3,1,4,"['29', '36', '62']",['66'],1.97,3.6,3.4,1.95,1.7,0.0,0.0
+54,2839380,Bosnia and Herzegovina First League RS,2022/2023,2022-09-10 11:00:00,7,Famos Vojkovići,Zvijezda '09 Brgule,1,0,1,['-1'],[],0.0,0.0,0.0,0.0,0.0,0.0,0.0
+55,2839383,Bosnia and Herzegovina First League RS,2022/2023,2022-09-10 11:00:00,7,Drina Zvornik,Željezničar Banja Luka,4,1,5,"['3', '10', '23', '63']",['27'],2.5,3.0,2.6,1.7,2.1,1.46,2.55
+56,2839382,Bosnia and Herzegovina First League RS,2022/2023,2022-09-10 11:00:00,7,Ljubić Prnjavor,Rudar Prijedor,0,0,0,[],[],0.0,0.0,0.0,0.0,0.0,0.0,0.0
+57,2839377,Bosnia and Herzegovina First League RS,2022/2023,2022-09-10 11:00:00,7,Laktasi,Modriča,7,0,7,"['-1', '-1', '-1', '-1', '-1', '-1', '-1']",[],1.82,3.5,3.68,1.7,2.1,0.0,0.0
+58,2839375,Bosnia and Herzegovina First League RS,2022/2023,2022-09-10 11:00:00,7,Kozara Gradiška,Slavija,0,3,3,[],"['-1', '-1', '-1']",0.0,0.0,0.0,0.0,0.0,0.0,0.0
+59,2839376,Bosnia and Herzegovina First League RS,2022/2023,2022-09-10 11:00:00,7,Krupa na Vrbasu,Omarska,6,0,6,"['10', '13', '17', '73', '76', '90']",[],1.1,9.0,16.0,1.4,2.88,2.1,1.63
+60,2839378,Bosnia and Herzegovina First League RS,2022/2023,2022-09-10 11:00:00,7,Tekstilac Derventa,Sloboda Novi Grad,1,1,2,['72'],['9005'],3.26,3.3,2.02,1.95,1.75,0.0,0.0
+61,2839379,Bosnia and Herzegovina First League RS,2022/2023,2022-09-10 14:00:00,7,Sutjeska Foča,Podrinje Janja,3,0,3,"['10', '79', '9005']",[],1.25,5.25,9.0,1.57,2.35,1.77,2.0
+62,2839381,Bosnia and Herzegovina First League RS,2022/2023,2022-09-10 14:00:00,7,Radnik Bijeljina,Sloboda Mrkonjić Grad,3,1,4,"['4501', '56', '59']",['66'],1.2,6.0,9.5,1.53,2.4,0.0,0.0
+63,2839390,Bosnia and Herzegovina First League RS,2022/2023,2022-09-17 11:00:00,8,Modriča,Tekstilac Derventa,0,3,3,[],"['-1', '-1', '-1']",1.42,3.93,6.22,2.18,1.56,0.0,0.0
+64,2839392,Bosnia and Herzegovina First League RS,2022/2023,2022-09-17 11:00:00,8,Kozara Gradiška,Krupa na Vrbasu,2,2,4,"['37', '40']","['18', '66']",6.0,4.33,1.4,1.67,2.15,1.77,2.0
+65,2839384,Bosnia and Herzegovina First League RS,2022/2023,2022-09-17 11:00:00,8,Slavija,Željezničar Banja Luka,1,0,1,['80'],[],1.4,4.0,6.5,1.48,2.6,1.56,2.36
+66,2839385,Bosnia and Herzegovina First League RS,2022/2023,2022-09-17 11:00:00,8,Rudar Prijedor,Drina Zvornik,3,1,4,"['-1', '-1', '-1']",['-1'],1.29,4.52,7.94,2.11,1.71,0.0,0.0
+67,2839387,Bosnia and Herzegovina First League RS,2022/2023,2022-09-17 11:00:00,8,Zvijezda '09 Brgule,Radnik Bijeljina,3,0,3,"['-1', '-1', '-1']",[],1.75,3.37,3.99,2.02,1.65,0.0,0.0
+68,2839388,Bosnia and Herzegovina First League RS,2022/2023,2022-09-17 11:00:00,8,Podrinje Janja,Famos Vojkovići,0,1,1,[],['75'],1.57,4.0,4.33,2.0,1.8,0.0,0.0
+69,2839389,Bosnia and Herzegovina First League RS,2022/2023,2022-09-17 11:00:00,8,Sloboda Novi Grad,Sutjeska Foča,2,0,2,"['-1', '-1']",[],1.45,3.88,5.83,2.02,1.65,0.0,0.0
+70,2839386,Bosnia and Herzegovina First League RS,2022/2023,2022-09-18 11:00:00,8,Sloboda Mrkonjić Grad,Ljubić Prnjavor,2,1,3,"['36', '83']",['11'],2.25,3.74,2.5,1.53,2.4,0.0,0.0
+71,2839391,Bosnia and Herzegovina First League RS,2022/2023,2022-09-18 11:00:00,8,Omarska,Laktasi,4,8,12,"['-1', '-1', '-1', '-1']","['-1', '-1', '-1', '-1', '-1', '-1', '-1', '-1']",4.54,4.0,1.59,1.62,2.25,0.0,0.0
+72,2839398,Bosnia and Herzegovina First League RS,2022/2023,2022-09-23 13:00:00,9,Radnik Bijeljina,Podrinje Janja,2,0,2,"['7', '20']",[],1.25,4.75,9.0,1.53,2.4,0.0,0.0
+73,2839399,Bosnia and Herzegovina First League RS,2022/2023,2022-09-24 11:00:00,9,Ljubić Prnjavor,Zvijezda '09 Brgule,0,3,3,[],"['-1', '-1', '-1']",3.7,3.95,1.79,1.88,1.89,0.0,0.0
+74,2839400,Bosnia and Herzegovina First League RS,2022/2023,2022-09-24 11:00:00,9,Drina Zvornik,Sloboda Mrkonjić Grad,4,1,5,"['10', '49', '76', '83']",['21'],1.44,4.2,6.0,2.05,1.75,0.0,0.0
+75,2839397,Bosnia and Herzegovina First League RS,2022/2023,2022-09-24 11:00:00,9,Famos Vojkovići,Sloboda Novi Grad,0,1,1,[],['-1'],3.5,3.25,1.93,1.78,1.79,0.0,0.0
+76,2839401,Bosnia and Herzegovina First League RS,2022/2023,2022-09-24 11:00:00,9,Željezničar Banja Luka,Rudar Prijedor,1,0,1,['32'],[],2.1,3.5,2.8,1.8,2.0,0.0,0.0
+77,2839395,Bosnia and Herzegovina First League RS,2022/2023,2022-09-24 11:00:00,9,Tekstilac Derventa,Omarska,3,1,4,"['-1', '-1', '-1']",['-1'],1.58,4.0,5.0,2.11,1.71,0.0,0.0
+78,2839394,Bosnia and Herzegovina First League RS,2022/2023,2022-09-24 11:00:00,9,Laktasi,Kozara Gradiška,2,0,2,"['-1', '-1']",[],1.38,4.4,6.4,1.56,2.08,0.0,0.0
+79,2839393,Bosnia and Herzegovina First League RS,2022/2023,2022-09-24 11:00:00,9,Krupa na Vrbasu,Slavija,3,1,4,"['10', '16', '27']",['19'],1.57,3.8,4.75,1.9,1.9,0.0,0.0
+80,2839396,Bosnia and Herzegovina First League RS,2022/2023,2022-09-24 13:00:00,9,Sutjeska Foča,Modriča,3,0,3,"['15', '68', '74']",[],1.06,13.0,29.0,1.25,4.0,0.0,0.0
+81,2839330,Bosnia and Herzegovina First League RS,2022/2023,2022-09-28 10:30:00,2,Slavija,Radnik Bijeljina,0,0,0,[],[],1.81,3.5,4.15,1.91,1.73,1.87,1.88
+82,2839410,Bosnia and Herzegovina First League RS,2022/2023,2022-10-01 10:30:00,10,Krupa na Vrbasu,Laktasi,3,1,4,"['-1', '-1', '-1']",['-1'],1.45,4.7,5.0,1.36,3.1,0.0,0.0
+83,2839409,Bosnia and Herzegovina First League RS,2022/2023,2022-10-01 10:30:00,10,Kozara Gradiška,Tekstilac Derventa,1,0,1,['-1'],[],0.0,0.0,0.0,0.0,0.0,0.0,0.0
+84,2839408,Bosnia and Herzegovina First League RS,2022/2023,2022-10-01 10:30:00,10,Omarska,Sutjeska Foča,2,1,3,"['-1', '-1']",['-1'],3.46,3.97,1.73,1.72,1.92,0.0,0.0
+85,2839407,Bosnia and Herzegovina First League RS,2022/2023,2022-10-01 10:30:00,10,Modriča,Famos Vojkovići,0,0,0,[],[],2.52,3.75,2.19,1.64,2.23,0.0,0.0
+86,2839405,Bosnia and Herzegovina First League RS,2022/2023,2022-10-01 10:30:00,10,Podrinje Janja,Ljubić Prnjavor,1,2,3,['73'],"['52', '68']",2.3,3.7,2.5,1.6,2.3,1.52,2.46
+87,2839404,Bosnia and Herzegovina First League RS,2022/2023,2022-10-01 10:30:00,10,Zvijezda '09 Brgule,Drina Zvornik,5,1,6,"['41', '50', '69', '77', '89']",['63'],1.55,4.2,4.6,1.5,2.5,1.56,2.36
+88,2839403,Bosnia and Herzegovina First League RS,2022/2023,2022-10-01 10:30:00,10,Sloboda Mrkonjić Grad,Željezničar Banja Luka,0,1,1,[],['-1'],4.0,3.2,1.92,2.16,1.57,0.0,0.0
+89,2839402,Bosnia and Herzegovina First League RS,2022/2023,2022-10-01 10:30:00,10,Slavija,Rudar Prijedor,3,2,5,"['-1', '-1', '-1']","['-1', '-1']",1.91,3.84,2.97,2.13,1.59,0.0,0.0
+90,2839416,Bosnia and Herzegovina First League RS,2022/2023,2022-10-05 10:00:00,11,Ljubić Prnjavor,Sloboda Novi Grad,0,1,1,[],['-1'],4.0,3.35,1.88,1.98,1.8,0.0,0.0
+91,2839417,Bosnia and Herzegovina First League RS,2022/2023,2022-10-05 10:00:00,11,Drina Zvornik,Podrinje Janja,2,1,3,"['-1', '-1']",['-1'],1.92,4.0,3.2,1.57,2.17,1.8,1.88
+92,2839418,Bosnia and Herzegovina First League RS,2022/2023,2022-10-05 10:00:00,11,Željezničar Banja Luka,Zvijezda '09 Brgule,1,0,1,['4503'],[],7.0,4.2,1.36,1.73,2.08,1.93,1.77
+93,2839414,Bosnia and Herzegovina First League RS,2022/2023,2022-10-05 10:00:00,11,Famos Vojkovići,Omarska,1,1,2,['66'],['30'],1.4,5.0,5.0,1.53,2.4,0.0,0.0
+94,2839419,Bosnia and Herzegovina First League RS,2022/2023,2022-10-05 10:00:00,11,Rudar Prijedor,Sloboda Mrkonjić Grad,0,3,3,[],"['-1', '-1', '-1']",2.04,3.25,3.55,1.89,1.89,0.0,0.0
+95,2839412,Bosnia and Herzegovina First League RS,2022/2023,2022-10-05 10:00:00,11,Tekstilac Derventa,Krupa na Vrbasu,0,2,2,[],"['-1', '-1']",4.0,3.6,1.81,1.79,1.99,0.0,0.0
+96,2839411,Bosnia and Herzegovina First League RS,2022/2023,2022-10-05 10:00:00,11,Laktasi,Slavija,2,0,2,"['9', '42']",[],1.4,4.5,5.75,1.53,2.4,0.0,0.0
+97,2839415,Bosnia and Herzegovina First League RS,2022/2023,2022-10-05 12:00:00,11,Radnik Bijeljina,Modriča,3,0,3,"['6', '20', '76']",[],1.06,11.0,41.0,1.36,3.1,2.2,1.64
+98,2839413,Bosnia and Herzegovina First League RS,2022/2023,2022-10-05 12:30:00,11,Sutjeska Foča,Kozara Gradiška,3,2,5,"['18', '40', '87']","['1', '59']",1.4,4.75,5.25,1.7,2.1,1.81,1.95
+99,2839427,Bosnia and Herzegovina First League RS,2022/2023,2022-10-08 10:00:00,12,Krupa na Vrbasu,Sutjeska Foča,5,1,6,"['-1', '-1', '-1', '-1', '-1']",['-1'],1.17,6.5,11.0,1.36,3.1,1.59,2.29
+100,2839426,Bosnia and Herzegovina First League RS,2022/2023,2022-10-08 10:00:00,12,Kozara Gradiška,Famos Vojkovići,1,0,1,['22'],[],1.67,3.6,4.2,2.2,1.65,0.0,0.0
+101,2839424,Bosnia and Herzegovina First League RS,2022/2023,2022-10-08 10:00:00,12,Modriča,Ljubić Prnjavor,3,0,3,"['-1', '-1', '-1']",[],2.01,3.62,2.89,1.81,1.82,0.0,0.0
+102,2839423,Bosnia and Herzegovina First League RS,2022/2023,2022-10-08 10:00:00,12,Sloboda Novi Grad,Drina Zvornik,3,0,3,"['-1', '-1', '-1']",[],1.21,5.46,8.82,1.63,2.05,0.0,0.0
+103,2839428,Bosnia and Herzegovina First League RS,2022/2023,2022-10-08 10:00:00,12,Laktasi,Tekstilac Derventa,2,1,3,"['30', '80']",['61'],1.18,6.0,11.0,1.4,2.88,0.0,0.0
+104,2839421,Bosnia and Herzegovina First League RS,2022/2023,2022-10-08 10:00:00,12,Zvijezda '09 Brgule,Rudar Prijedor,2,2,4,"['-1', '-1']","['-1', '-1']",1.35,4.54,6.2,1.59,2.13,0.0,0.0
+105,2839420,Bosnia and Herzegovina First League RS,2022/2023,2022-10-08 10:00:00,12,Slavija,Sloboda Mrkonjić Grad,5,0,5,"['-1', '-1', '-1', '-1', '-1']",[],1.33,4.33,7.42,1.92,1.72,0.0,0.0
+106,2839422,Bosnia and Herzegovina First League RS,2022/2023,2022-10-08 10:00:00,12,Podrinje Janja,Željezničar Banja Luka,2,0,2,"['44', '84']",[],3.0,3.5,2.05,1.7,2.1,1.58,2.32
+107,2839425,Bosnia and Herzegovina First League RS,2022/2023,2022-10-09 10:00:00,12,Omarska,Radnik Bijeljina,1,1,2,['-1'],['-1'],3.4,3.1,2.0,1.7,2.1,1.55,2.38
+108,2839406,Bosnia and Herzegovina First League RS,2022/2023,2022-10-12 10:00:00,10,Sloboda Novi Grad,Radnik Bijeljina,2,0,2,"['-1', '-1']",[],1.49,3.68,5.58,2.21,1.65,0.0,0.0
+109,2839437,Bosnia and Herzegovina First League RS,2022/2023,2022-10-14 09:30:00,13,Sloboda Mrkonjić Grad,Zvijezda '09 Brgule,0,3,3,[],"['-1', '-1', '-1']",4.0,3.45,1.73,1.64,2.23,0.0,0.0
+110,2839429,Bosnia and Herzegovina First League RS,2022/2023,2022-10-15 09:30:00,13,Tekstilac Derventa,Slavija,1,1,2,['-1'],['-1'],3.1,3.2,2.11,1.98,1.68,0.0,0.0
+111,2839431,Bosnia and Herzegovina First League RS,2022/2023,2022-10-15 09:30:00,13,Famos Vojkovići,Krupa na Vrbasu,0,1,1,[],['52'],9.0,5.5,1.25,1.6,2.3,0.0,0.0
+112,2839433,Bosnia and Herzegovina First League RS,2022/2023,2022-10-15 09:30:00,13,Ljubić Prnjavor,Omarska,2,0,2,"['-1', '-1']",[],1.83,3.25,3.9,1.59,2.12,0.0,0.0
+113,2839434,Bosnia and Herzegovina First League RS,2022/2023,2022-10-15 09:30:00,13,Drina Zvornik,Modriča,2,1,3,"['-1', '-1']",['-1'],1.14,7.0,15.0,1.44,2.7,2.31,1.58
+114,2839435,Bosnia and Herzegovina First League RS,2022/2023,2022-10-15 09:30:00,13,Željezničar Banja Luka,Sloboda Novi Grad,0,6,6,[],"['38', '68', '71', '72', '76', '84']",5.5,3.6,1.53,2.0,1.8,0.0,0.0
+115,2839436,Bosnia and Herzegovina First League RS,2022/2023,2022-10-15 09:30:00,13,Rudar Prijedor,Podrinje Janja,2,0,2,"['4', '4501']",[],1.67,4.0,4.0,1.75,2.05,1.65,2.18
+116,2839430,Bosnia and Herzegovina First League RS,2022/2023,2022-10-15 11:30:00,13,Sutjeska Foča,Laktasi,3,1,4,"['-1', '-1', '-1']",['-1'],2.37,3.2,2.65,0.0,0.0,0.0,0.0
+117,2839432,Bosnia and Herzegovina First League RS,2022/2023,2022-10-16 11:30:00,13,Radnik Bijeljina,Kozara Gradiška,2,0,2,"['41', '49']",[],1.22,4.75,11.0,1.53,2.4,2.02,1.76
+118,2839445,Bosnia and Herzegovina First League RS,2022/2023,2022-10-22 09:30:00,14,Laktasi,Famos Vojkovići,5,0,5,"['-1', '-1', '-1', '-1', '-1']",[],1.14,7.0,13.0,1.44,2.7,0.0,0.0
+119,2839446,Bosnia and Herzegovina First League RS,2022/2023,2022-10-22 09:30:00,14,Tekstilac Derventa,Sutjeska Foča,1,1,2,['-1'],['-1'],1.82,3.64,3.38,2.02,1.65,0.0,0.0
+120,2839444,Bosnia and Herzegovina First League RS,2022/2023,2022-10-22 09:30:00,14,Krupa na Vrbasu,Radnik Bijeljina,4,1,5,"['24', '29', '36', '88']",['78'],1.2,5.25,11.0,1.8,2.0,2.37,1.56
+121,2839443,Bosnia and Herzegovina First League RS,2022/2023,2022-10-22 09:30:00,14,Kozara Gradiška,Ljubić Prnjavor,0,1,1,[],['-1'],1.36,4.0,7.41,1.98,1.68,0.0,0.0
+122,2839439,Bosnia and Herzegovina First League RS,2022/2023,2022-10-22 09:30:00,14,Podrinje Janja,Sloboda Mrkonjić Grad,2,2,4,"['54', '68']","['28', '62']",1.53,4.0,4.75,1.62,2.25,0.0,0.0
+123,2839440,Bosnia and Herzegovina First League RS,2022/2023,2022-10-22 09:30:00,14,Sloboda Novi Grad,Rudar Prijedor,2,1,3,"['-1', '-1']",['-1'],1.37,4.21,6.49,1.59,2.13,0.0,0.0
+124,2839438,Bosnia and Herzegovina First League RS,2022/2023,2022-10-22 09:30:00,14,Slavija,Zvijezda '09 Brgule,1,1,2,['82'],['69'],1.8,3.5,3.6,1.85,1.95,1.73,2.05
+125,2839441,Bosnia and Herzegovina First League RS,2022/2023,2022-10-23 09:30:00,14,Modriča,Željezničar Banja Luka,1,0,1,['-1'],[],4.0,3.35,1.87,1.71,2.11,0.0,0.0
+126,2839442,Bosnia and Herzegovina First League RS,2022/2023,2022-10-23 09:30:00,14,Omarska,Drina Zvornik,3,0,3,"['32', '59', '81']",[],2.3,3.6,2.5,1.6,2.3,1.52,2.35
+127,2839448,Bosnia and Herzegovina First League RS,2022/2023,2022-10-29 09:00:00,15,Famos Vojkovići,Tekstilac Derventa,1,2,3,['-1'],"['-1', '-1']",1.87,3.3,3.65,2.55,1.49,0.0,0.0
+128,2839449,Bosnia and Herzegovina First League RS,2022/2023,2022-10-29 09:00:00,15,Radnik Bijeljina,Laktasi,0,2,2,[],"['12', '20']",1.5,4.0,5.0,1.57,2.35,1.65,2.1
+129,2839450,Bosnia and Herzegovina First League RS,2022/2023,2022-10-29 09:00:00,15,Ljubić Prnjavor,Krupa na Vrbasu,0,2,2,[],"['40', '66']",7.0,4.5,1.33,1.5,2.5,0.0,0.0
+130,2839451,Bosnia and Herzegovina First League RS,2022/2023,2022-10-29 09:00:00,15,Drina Zvornik,Kozara Gradiška,2,1,3,"['-1', '-1']",['-1'],2.21,3.1,3.0,1.97,1.81,0.0,0.0
+131,2839453,Bosnia and Herzegovina First League RS,2022/2023,2022-10-29 09:00:00,15,Rudar Prijedor,Modriča,5,0,5,"['-1', '-1', '-1', '-1', '-1']",[],1.2,6.0,9.0,1.5,2.5,1.8,1.88
+132,2839455,Bosnia and Herzegovina First League RS,2022/2023,2022-10-29 09:00:00,15,Zvijezda '09 Brgule,Podrinje Janja,6,0,6,"['-1', '-1', '-1', '-1', '-1', '-1']",[],1.17,6.0,15.0,1.57,2.35,2.1,1.65
+133,2839447,Bosnia and Herzegovina First League RS,2022/2023,2022-10-29 11:30:00,15,Sutjeska Foča,Slavija,2,1,3,"['-1', '-1']",['-1'],2.4,3.05,2.75,1.59,2.12,0.0,0.0
+134,2839452,Bosnia and Herzegovina First League RS,2022/2023,2022-10-30 10:00:00,15,Željezničar Banja Luka,Omarska,1,2,3,['-1'],"['-1', '-1']",0.0,0.0,0.0,0.0,0.0,0.0,0.0
+135,2839454,Bosnia and Herzegovina First League RS,2022/2023,2022-10-30 10:00:00,15,Sloboda Mrkonjić Grad,Sloboda Novi Grad,0,2,2,[],"['55', '82']",4.5,3.5,1.67,1.67,2.15,0.0,0.0
+136,2839463,Bosnia and Herzegovina First League RS,2022/2023,2022-11-05 09:30:00,16,Tekstilac Derventa,Radnik Bijeljina,1,2,3,['46'],"['13', '16']",2.0,3.4,3.1,1.95,1.85,1.75,2.03
+137,2839461,Bosnia and Herzegovina First League RS,2022/2023,2022-11-05 09:30:00,16,Krupa na Vrbasu,Drina Zvornik,3,1,4,"['34', '78', '9002']",['56'],1.07,11.0,21.0,1.25,4.0,2.19,1.64
+138,2839460,Bosnia and Herzegovina First League RS,2022/2023,2022-11-05 09:30:00,16,Kozara Gradiška,Željezničar Banja Luka,3,3,6,"['-1', '-1', '-1']","['-1', '-1', '-1']",1.49,3.76,5.41,1.79,1.85,0.0,0.0
+139,2839462,Bosnia and Herzegovina First League RS,2022/2023,2022-11-05 09:30:00,16,Laktasi,Ljubić Prnjavor,2,1,3,"['-1', '-1']",['-1'],1.17,5.91,10.57,1.4,2.59,0.0,0.0
+140,2839458,Bosnia and Herzegovina First League RS,2022/2023,2022-11-05 09:30:00,16,Modriča,Sloboda Mrkonjić Grad,3,1,4,"['-1', '-1', '-1']",['-1'],1.54,3.66,5.05,2.02,1.65,0.0,0.0
+141,2839457,Bosnia and Herzegovina First League RS,2022/2023,2022-11-05 09:30:00,16,Sloboda Novi Grad,Zvijezda '09 Brgule,0,0,0,[],[],1.59,3.58,4.75,2.02,1.65,0.0,0.0
+142,2839456,Bosnia and Herzegovina First League RS,2022/2023,2022-11-05 09:30:00,16,Slavija,Podrinje Janja,2,1,3,"['84', '87']",['23'],1.1,9.0,11.0,1.5,2.5,2.45,1.47
+143,2839464,Bosnia and Herzegovina First League RS,2022/2023,2022-11-05 11:00:00,16,Sutjeska Foča,Famos Vojkovići,5,3,8,"['-1', '-1', '-1', '-1', '-1']","['-1', '-1', '-1']",1.12,6.5,13.35,1.54,2.22,0.0,0.0
+144,2839459,Bosnia and Herzegovina First League RS,2022/2023,2022-11-06 09:30:00,16,Omarska,Rudar Prijedor,1,0,1,['78'],[],2.3,3.5,2.63,1.5,2.5,1.43,2.74
+145,2839466,Bosnia and Herzegovina First League RS,2022/2023,2022-11-11 12:00:00,17,Radnik Bijeljina,Sutjeska Foča,2,0,2,"['18', '27']",[],1.25,5.75,9.0,1.33,3.4,0.0,0.0
+146,2839473,Bosnia and Herzegovina First League RS,2022/2023,2022-11-12 09:00:00,17,Podrinje Janja,Sloboda Novi Grad,0,1,1,[],['41'],5.5,4.5,1.4,1.9,1.9,0.0,0.0
+147,2839465,Bosnia and Herzegovina First League RS,2022/2023,2022-11-12 09:00:00,17,Famos Vojkovići,Slavija,2,2,4,"['-1', '-1']","['-1', '-1']",3.0,3.3,2.11,1.92,1.72,0.0,0.0
+148,2839467,Bosnia and Herzegovina First League RS,2022/2023,2022-11-12 09:00:00,17,Ljubić Prnjavor,Tekstilac Derventa,2,0,2,"['69', '79']",[],1.57,3.75,4.75,2.0,1.8,1.96,1.8
+149,2839468,Bosnia and Herzegovina First League RS,2022/2023,2022-11-12 09:00:00,17,Drina Zvornik,Laktasi,0,2,2,[],"['-1', '-1']",4.0,3.75,1.69,1.59,2.13,0.0,0.0
+150,2839469,Bosnia and Herzegovina First League RS,2022/2023,2022-11-12 09:00:00,17,Željezničar Banja Luka,Krupa na Vrbasu,1,3,4,['70'],"['10', '65', '74']",8.0,5.0,1.29,1.7,2.1,1.99,1.78
+151,2839470,Bosnia and Herzegovina First League RS,2022/2023,2022-11-12 09:00:00,17,Rudar Prijedor,Kozara Gradiška,1,0,1,['52'],[],1.53,3.8,5.0,1.9,1.9,1.95,1.81
+152,2839472,Bosnia and Herzegovina First League RS,2022/2023,2022-11-12 09:00:00,17,Zvijezda '09 Brgule,Modriča,3,0,3,"['-1', '-1', '-1']",[],1.17,7.0,13.0,1.4,2.88,2.25,1.61
+153,2839471,Bosnia and Herzegovina First League RS,2022/2023,2022-11-13 09:00:00,17,Sloboda Mrkonjić Grad,Omarska,6,1,7,"['25', '28', '51', '73', '82', '87']",['26'],1.65,3.5,4.5,1.7,2.1,0.0,0.0

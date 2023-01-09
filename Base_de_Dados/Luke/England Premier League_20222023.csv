@@ -1,0 +1,177 @@
+Nº,Id_Jogo,League,Season,Date,Rodada,Home,Away,FT_Goals_H,FT_Goals_A,FT_TotalGoals,Goals_H_Minutes,Goals_A_Minutes,FT_Odd_H,FT_Odd_D,FT_Odd_A,FT_Odd_Over25,FT_Odd_Under25,FT_Odd_BTTS_Yes,FT_Odd_BTTS_No
+1,2782037,England Premier League,2022/2023,2022-08-05 16:00:00,1,Crystal Palace,Arsenal,0,2,2,[],"['20', '85']",3.29,3.49,2.09,1.9,1.84,1.8,1.95
+2,2782038,England Premier League,2022/2023,2022-08-06 08:30:00,1,Fulham,Liverpool,2,2,4,"['32', '72']","['64', '80']",9.05,5.4,1.34,1.66,2.09,1.91,1.91
+3,2782039,England Premier League,2022/2023,2022-08-06 11:00:00,1,AFC Bournemouth,Aston Villa,2,0,2,"['2', '80']",[],3.1,3.53,2.3,1.95,1.76,1.8,1.95
+4,2782040,England Premier League,2022/2023,2022-08-06 11:00:00,1,Leeds United,Wolverhampton Wanderers,2,1,3,"['24', '74']",['6'],2.3,3.58,3.07,2.03,1.7,1.8,1.95
+5,2782041,England Premier League,2022/2023,2022-08-06 11:00:00,1,Newcastle United,Nottingham Forest,2,0,2,"['58', '78']",[],1.68,3.76,4.97,1.94,1.85,2.0,1.75
+6,2782042,England Premier League,2022/2023,2022-08-06 11:00:00,1,Tottenham Hotspur,Southampton,4,1,5,"['21', '31', '61', '63']",['12'],1.58,4.42,5.6,1.63,2.14,1.95,1.8
+7,2782043,England Premier League,2022/2023,2022-08-06 13:30:00,1,Everton,Chelsea,0,1,1,[],['45+9'],5.45,4.05,1.64,1.86,1.88,1.91,1.91
+8,2782044,England Premier League,2022/2023,2022-08-07 10:00:00,1,Leicester City,Brentford,2,2,4,"['33', '46']","['62', '86']",1.95,3.6,3.6,1.79,2.02,1.67,2.1
+9,2782045,England Premier League,2022/2023,2022-08-07 10:00:00,1,Manchester United,Brighton & Hove Albion,1,2,3,['68'],"['30', '39']",1.62,4.2,5.25,1.91,1.91,1.95,1.8
+10,2782046,England Premier League,2022/2023,2022-08-07 12:30:00,1,West Ham United,Manchester City,0,2,2,[],"['36', '65']",8.5,5.25,1.36,1.68,2.07,1.8,1.95
+11,2782047,England Premier League,2022/2023,2022-08-13 08:30:00,2,Aston Villa,Everton,2,1,3,"['31', '86']",['87'],1.91,3.26,3.4,1.95,1.95,1.8,1.95
+12,2782052,England Premier League,2022/2023,2022-08-13 11:00:00,2,Wolverhampton Wanderers,Fulham,0,0,0,[],[],1.96,3.26,3.26,2.02,1.65,1.8,1.95
+13,2782051,England Premier League,2022/2023,2022-08-13 11:00:00,2,Southampton,Leeds United,2,2,4,"['72', '81']","['46', '60']",2.11,3.16,2.97,1.84,2.02,1.62,2.2
+14,2782048,England Premier League,2022/2023,2022-08-13 11:00:00,2,Arsenal,Leicester City,4,2,6,"['23', '35', '55', '75']","['53', '74']",1.68,3.5,4.07,1.86,2.0,1.8,1.95
+15,2782049,England Premier League,2022/2023,2022-08-13 11:00:00,2,Brighton & Hove Albion,Newcastle United,0,0,0,[],[],2.38,3.4,3.0,2.1,1.73,1.91,1.91
+16,2782050,England Premier League,2022/2023,2022-08-13 11:00:00,2,Manchester City,AFC Bournemouth,4,0,4,"['19', '31', '37', '79']",[],1.12,5.99,22.12,1.36,2.73,3.0,1.36
+17,2782053,England Premier League,2022/2023,2022-08-13 13:30:00,2,Brentford,Manchester United,4,0,4,"['10', '18', '30', '35']",[],3.82,3.5,2.03,1.8,1.95,1.67,2.1
+18,2782054,England Premier League,2022/2023,2022-08-14 10:00:00,2,Nottingham Forest,West Ham United,1,0,1,['45+2'],[],4.33,3.4,1.91,1.9,1.88,1.8,1.95
+19,2782055,England Premier League,2022/2023,2022-08-14 12:30:00,2,Chelsea,Tottenham Hotspur,2,2,4,"['19', '77']","['68', '90+6']",2.32,3.54,3.3,1.75,1.95,1.7,2.05
+20,2782056,England Premier League,2022/2023,2022-08-15 16:00:00,2,Liverpool,Crystal Palace,1,1,2,['61'],['32'],1.22,6.5,15.0,1.6,2.42,2.2,1.62
+21,2782057,England Premier League,2022/2023,2022-08-20 08:30:00,3,Tottenham Hotspur,Wolverhampton Wanderers,1,0,1,['64'],[],1.42,5.0,8.0,1.7,2.14,2.0,1.75
+22,2782061,England Premier League,2022/2023,2022-08-20 11:00:00,3,Leicester City,Southampton,1,2,3,['54'],"['68', '84']",1.86,4.1,4.1,1.63,2.28,1.62,2.2
+23,2782060,England Premier League,2022/2023,2022-08-20 11:00:00,3,Fulham,Brentford,3,2,5,"['1', '20', '90']","['44', '71']",2.5,3.5,2.95,1.94,1.86,1.7,2.05
+24,2782059,England Premier League,2022/2023,2022-08-20 11:00:00,3,Everton,Nottingham Forest,1,1,2,['88'],['81'],2.0,3.55,4.2,2.07,1.75,1.8,1.95
+25,2782058,England Premier League,2022/2023,2022-08-20 11:00:00,3,Crystal Palace,Aston Villa,3,1,4,"['7', '58', '71']",['5'],2.48,3.35,3.05,2.2,1.67,1.8,1.95
+26,2782062,England Premier League,2022/2023,2022-08-20 13:30:00,3,AFC Bournemouth,Arsenal,0,3,3,[],"['5', '11', '54']",5.75,3.9,1.6,1.8,1.91,2.0,1.75
+27,2782063,England Premier League,2022/2023,2022-08-21 10:00:00,3,Leeds United,Chelsea,3,0,3,"['33', '37', '69']",[],5.5,4.2,1.57,1.84,2.06,1.8,1.95
+28,2782064,England Premier League,2022/2023,2022-08-21 10:00:00,3,West Ham United,Brighton & Hove Albion,0,2,2,[],"['22', '66']",2.15,3.3,3.3,1.99,1.73,1.75,2.0
+29,2782065,England Premier League,2022/2023,2022-08-21 12:30:00,3,Newcastle United,Manchester City,3,3,6,"['28', '39', '54']","['5', '61', '64']",7.0,5.0,1.37,1.58,2.29,1.91,1.91
+30,2782066,England Premier League,2022/2023,2022-08-22 16:00:00,3,Manchester United,Liverpool,2,1,3,"['16', '53']",['81'],5.23,4.46,1.64,1.5,2.4,1.57,2.25
+31,2782067,England Premier League,2022/2023,2022-08-27 08:30:00,4,Southampton,Manchester United,0,1,1,[],['55'],3.45,3.65,2.07,1.67,2.15,1.57,2.25
+32,2782072,England Premier League,2022/2023,2022-08-27 11:00:00,4,Manchester City,Crystal Palace,4,2,6,"['53', '62', '70', '81']","['4', '21']",1.13,8.8,19.0,1.37,2.94,2.05,1.7
+33,2782070,England Premier League,2022/2023,2022-08-27 11:00:00,4,Chelsea,Leicester City,2,1,3,"['47', '63']",['66'],1.39,5.0,7.6,1.61,2.2,1.91,1.91
+34,2782071,England Premier League,2022/2023,2022-08-27 11:00:00,4,Liverpool,AFC Bournemouth,9,0,9,"['3', '6', '28', '31', '45', '46', '62', '80', '85']",[],1.11,9.4,23.0,1.35,3.04,2.5,1.5
+35,2782068,England Premier League,2022/2023,2022-08-27 11:00:00,4,Brentford,Everton,1,1,2,['84'],['24'],2.0,3.5,3.8,2.02,1.81,1.8,1.95
+36,2782069,England Premier League,2022/2023,2022-08-27 11:00:00,4,Brighton & Hove Albion,Leeds United,1,0,1,['66'],[],1.86,3.7,4.1,1.85,1.96,1.75,2.0
+37,2782073,England Premier League,2022/2023,2022-08-27 13:30:00,4,Arsenal,Fulham,2,1,3,"['64', '86']",['56'],1.33,5.4,8.6,1.57,2.25,1.8,1.95
+38,2782074,England Premier League,2022/2023,2022-08-28 10:00:00,4,Aston Villa,West Ham United,0,1,1,[],['74'],2.3,3.35,3.1,1.73,1.99,1.67,2.1
+39,2782075,England Premier League,2022/2023,2022-08-28 10:00:00,4,Wolverhampton Wanderers,Newcastle United,1,1,2,['38'],['90'],2.75,3.2,2.65,2.04,1.86,1.8,1.95
+40,2782076,England Premier League,2022/2023,2022-08-28 12:30:00,4,Nottingham Forest,Tottenham Hotspur,0,2,2,[],"['5', '81']",5.0,3.8,1.7,1.73,2.0,1.91,1.91
+41,2782077,England Premier League,2022/2023,2022-08-30 15:30:00,5,Crystal Palace,Brentford,1,1,2,['59'],['88'],2.4,3.4,2.87,2.11,1.85,1.78,1.93
+42,2782078,England Premier League,2022/2023,2022-08-30 15:30:00,5,Fulham,Brighton & Hove Albion,2,1,3,"['48', '55']",['60'],2.65,3.5,2.5,2.03,1.8,1.78,1.93
+43,2782079,England Premier League,2022/2023,2022-08-30 15:45:00,5,Southampton,Chelsea,2,1,3,"['28', '45+1']",['23'],5.0,4.33,1.6,1.61,2.2,1.71,2.08
+44,2782080,England Premier League,2022/2023,2022-08-30 16:00:00,5,Leeds United,Everton,1,1,2,['55'],['17'],1.93,3.7,3.75,2.0,1.82,1.7,2.05
+45,2782083,England Premier League,2022/2023,2022-08-31 15:30:00,5,Manchester City,Nottingham Forest,6,0,6,"['12', '23', '38', '50', '65', '87']",[],1.08,13.0,26.0,1.3,3.7,2.5,1.5
+46,2782081,England Premier League,2022/2023,2022-08-31 15:30:00,5,AFC Bournemouth,Wolverhampton Wanderers,0,0,0,[],[],3.6,3.4,2.15,2.1,1.74,1.91,1.91
+47,2782082,England Premier League,2022/2023,2022-08-31 15:30:00,5,Arsenal,Aston Villa,2,1,3,"['30', '77']",['74'],1.46,4.6,7.3,1.67,2.2,1.95,1.8
+48,2782084,England Premier League,2022/2023,2022-08-31 15:45:00,5,West Ham United,Tottenham Hotspur,1,1,2,['55'],['34'],3.7,3.8,1.99,1.68,2.2,1.67,2.1
+49,2782085,England Premier League,2022/2023,2022-08-31 16:00:00,5,Liverpool,Newcastle United,2,1,3,"['61', '90+8']",['38'],1.28,6.2,10.0,1.55,2.29,1.8,1.95
+50,2782086,England Premier League,2022/2023,2022-09-01 16:00:00,5,Leicester City,Manchester United,0,1,1,[],['23'],3.3,3.7,2.0,1.65,2.25,1.53,2.38
+51,2782087,England Premier League,2022/2023,2022-09-03 08:30:00,6,Everton,Liverpool,0,0,0,[],[],8.2,5.2,1.37,1.55,2.43,1.73,2.0
+52,2782092,England Premier League,2022/2023,2022-09-03 11:00:00,6,Wolverhampton Wanderers,Southampton,1,0,1,['45+1'],[],2.11,3.55,3.5,2.02,1.84,1.8,1.91
+53,2782088,England Premier League,2022/2023,2022-09-03 11:00:00,6,Brentford,Leeds United,5,2,7,"['30', '43', '58', '80', '90+1']","['45+1', '79']",2.06,3.75,3.45,1.75,2.08,1.62,2.2
+54,2782089,England Premier League,2022/2023,2022-09-03 11:00:00,6,Newcastle United,Crystal Palace,0,0,0,[],[],2.05,3.5,3.75,1.91,1.83,1.85,1.85
+55,2782090,England Premier League,2022/2023,2022-09-03 11:00:00,6,Nottingham Forest,AFC Bournemouth,2,3,5,"['33', '45+2']","['51', '63', '87']",2.1,3.3,3.5,1.96,1.79,1.85,1.85
+56,2782091,England Premier League,2022/2023,2022-09-03 11:00:00,6,Tottenham Hotspur,Fulham,2,1,3,"['40', '75']",['83'],1.4,5.0,7.7,1.67,2.2,1.85,1.85
+57,2782095,England Premier League,2022/2023,2022-09-03 11:00:00,6,Chelsea,West Ham United,2,1,3,"['76', '88']",['62'],1.47,4.65,6.5,1.67,2.2,1.85,1.85
+58,2782093,England Premier League,2022/2023,2022-09-03 13:30:00,6,Aston Villa,Manchester City,1,1,2,['74'],['50'],7.3,5.3,1.4,1.5,2.55,1.8,1.95
+59,2782094,England Premier League,2022/2023,2022-09-04 10:00:00,6,Brighton & Hove Albion,Leicester City,5,2,7,"['10', '15', '64', '71', '90+7']","['1', '33']",1.83,3.4,4.38,1.86,1.88,1.75,2.0
+60,2782096,England Premier League,2022/2023,2022-09-04 12:30:00,6,Manchester United,Arsenal,3,1,4,"['35', '66', '75']",['60'],1.99,3.58,3.49,1.67,2.2,1.57,2.25
+61,2782107,England Premier League,2022/2023,2022-09-16 16:00:00,8,Aston Villa,Southampton,1,0,1,['41'],[],2.0,3.75,3.4,1.91,1.95,1.7,2.05
+62,2782108,England Premier League,2022/2023,2022-09-16 16:00:00,8,Nottingham Forest,Fulham,2,3,5,"['11', '77']","['54', '57', '60']",2.45,3.5,2.7,1.98,1.88,1.7,2.05
+63,2782109,England Premier League,2022/2023,2022-09-17 08:30:00,8,Wolverhampton Wanderers,Manchester City,0,3,3,[],"['1', '16', '69']",8.7,5.6,1.34,1.57,2.31,1.91,1.91
+64,2782112,England Premier League,2022/2023,2022-09-17 11:00:00,8,Newcastle United,AFC Bournemouth,1,1,2,['67'],['62'],1.47,4.6,6.9,1.81,2.0,1.95,1.8
+65,2782113,England Premier League,2022/2023,2022-09-17 13:30:00,8,Tottenham Hotspur,Leicester City,6,2,8,"['8', '21', '47', '73', '84', '86']","['6', '41']",1.51,4.85,5.8,1.58,2.38,1.7,2.05
+66,2782114,England Premier League,2022/2023,2022-09-18 08:00:00,8,Brentford,Arsenal,0,3,3,[],"['17', '28', '49']",4.13,3.69,1.8,1.62,2.3,1.67,2.1
+67,2782111,England Premier League,2022/2023,2022-09-18 10:15:00,8,Everton,West Ham United,1,0,1,['53'],[],2.86,3.2,2.46,2.02,1.79,1.8,1.95
+68,2782118,England Premier League,2022/2023,2022-10-01 08:30:00,9,Arsenal,Tottenham Hotspur,3,1,4,"['20', '49', '67']",['31'],2.05,3.7,3.3,1.81,2.16,1.62,2.2
+69,2782123,England Premier League,2022/2023,2022-10-01 11:00:00,9,Liverpool,Brighton & Hove Albion,3,3,6,"['33', '54', '63']","['4', '17', '83']",1.33,4.8,9.5,1.6,2.35,1.91,1.91
+70,2782119,England Premier League,2022/2023,2022-10-01 11:00:00,9,Crystal Palace,Chelsea,1,2,3,['7'],"['38', '90']",4.4,3.5,1.83,2.1,1.86,1.91,1.91
+71,2782120,England Premier League,2022/2023,2022-10-01 11:00:00,9,Fulham,Newcastle United,1,4,5,['88'],"['11', '33', '43', '57']",3.0,3.4,2.3,1.98,1.96,1.7,2.05
+72,2782125,England Premier League,2022/2023,2022-10-01 11:00:00,9,Southampton,Everton,1,2,3,['49'],"['52', '54']",2.15,3.4,3.3,2.04,1.78,1.75,2.0
+73,2782117,England Premier League,2022/2023,2022-10-01 11:00:00,9,AFC Bournemouth,Brentford,0,0,0,[],[],3.4,3.3,2.15,2.14,1.83,1.8,1.95
+74,2782126,England Premier League,2022/2023,2022-10-01 13:30:00,9,West Ham United,Wolverhampton Wanderers,2,0,2,"['29', '54']",[],1.97,3.51,3.89,1.89,1.91,1.95,1.8
+75,2782124,England Premier League,2022/2023,2022-10-02 10:00:00,9,Manchester City,Manchester United,6,3,9,"['8', '34', '37', '44', '64', '73']","['56', '84', '90+1']",1.33,5.2,8.0,1.49,2.75,1.7,2.05
+76,2782121,England Premier League,2022/2023,2022-10-02 12:30:00,9,Leeds United,Aston Villa,0,0,0,[],[],2.6,3.6,2.6,1.67,2.2,1.62,2.2
+77,2782122,England Premier League,2022/2023,2022-10-03 16:00:00,9,Leicester City,Nottingham Forest,4,0,4,"['25', '27', '35', '73']",[],1.78,3.85,4.35,1.68,2.2,1.67,2.1
+78,2782127,England Premier League,2022/2023,2022-10-08 11:00:00,10,AFC Bournemouth,Leicester City,2,1,3,"['68', '71']",['10'],3.44,3.55,2.14,1.76,1.99,1.67,2.1
+79,2782133,England Premier League,2022/2023,2022-10-08 11:00:00,10,Manchester City,Southampton,4,0,4,"['20', '32', '49', '65']",[],1.13,9.6,19.66,1.26,3.63,2.0,1.75
+80,2782134,England Premier League,2022/2023,2022-10-08 11:00:00,10,Newcastle United,Brentford,5,1,6,"['21', '28', '56', '82', '90']",['54'],1.79,3.85,4.51,1.8,1.95,1.7,2.05
+81,2782130,England Premier League,2022/2023,2022-10-08 11:00:00,10,Chelsea,Wolverhampton Wanderers,3,0,3,"['45+3', '54', '89']",[],1.4,4.85,8.37,1.84,1.9,2.2,1.62
+82,2782129,England Premier League,2022/2023,2022-10-08 13:30:00,10,Brighton & Hove Albion,Tottenham Hotspur,0,1,1,[],['22'],3.25,3.45,2.12,1.78,2.0,1.7,2.05
+83,2782131,England Premier League,2022/2023,2022-10-09 10:00:00,10,Crystal Palace,Leeds United,2,1,3,"['24', '76']",['10'],1.95,3.9,4.04,1.86,2.04,1.7,2.05
+84,2782136,England Premier League,2022/2023,2022-10-09 10:00:00,10,West Ham United,Fulham,3,1,4,"['29', '62', '90+1']",['5'],1.93,3.88,4.16,1.75,2.05,1.75,2.0
+85,2782128,England Premier League,2022/2023,2022-10-09 12:30:00,10,Arsenal,Liverpool,3,2,5,"['1', '45+5', '76']","['34', '53']",2.65,3.7,2.5,1.6,2.35,1.53,2.38
+86,2782132,England Premier League,2022/2023,2022-10-09 15:00:00,10,Everton,Manchester United,1,2,3,['5'],"['15', '44']",4.15,3.8,1.83,1.85,1.95,1.7,2.05
+87,2782135,England Premier League,2022/2023,2022-10-10 16:00:00,10,Nottingham Forest,Aston Villa,1,1,2,['15'],['22'],3.55,3.5,1.99,1.88,1.93,1.8,1.95
+88,2782138,England Premier League,2022/2023,2022-10-14 16:00:00,11,Brentford,Brighton & Hove Albion,2,0,2,"['27', '64']",[],2.98,3.4,2.48,2.05,1.81,1.75,2.0
+89,2782141,England Premier League,2022/2023,2022-10-15 08:30:00,11,Leicester City,Crystal Palace,0,0,0,[],[],2.1,3.35,3.3,1.78,1.94,1.67,2.1
+90,2782146,England Premier League,2022/2023,2022-10-15 11:00:00,11,Wolverhampton Wanderers,Nottingham Forest,1,0,1,['56'],[],1.74,3.5,4.5,1.99,1.71,1.95,1.8
+91,2782139,England Premier League,2022/2023,2022-10-15 11:00:00,11,Fulham,AFC Bournemouth,2,2,4,"['22', '52']","['2', '29']",1.74,3.8,4.05,1.8,1.93,1.8,1.95
+92,2782145,England Premier League,2022/2023,2022-10-15 13:30:00,11,Tottenham Hotspur,Everton,2,0,2,"['59', '86']",[],1.28,5.5,9.75,1.73,1.95,1.95,1.8
+93,2782144,England Premier League,2022/2023,2022-10-16 10:00:00,11,Southampton,West Ham United,1,1,2,['20'],['64'],2.75,3.3,2.5,1.8,1.91,1.7,2.05
+94,2782143,England Premier League,2022/2023,2022-10-16 10:00:00,11,Manchester United,Newcastle United,0,0,0,[],[],1.95,3.6,3.6,1.67,2.15,1.62,2.2
+95,2782137,England Premier League,2022/2023,2022-10-16 10:00:00,11,Aston Villa,Chelsea,0,2,2,[],"['6', '65']",4.0,3.6,1.85,1.8,1.95,1.8,1.95
+96,2782140,England Premier League,2022/2023,2022-10-16 10:00:00,11,Leeds United,Arsenal,0,1,1,[],['35'],4.75,3.9,1.67,1.6,2.25,1.7,2.05
+97,2782142,England Premier League,2022/2023,2022-10-16 12:30:00,11,Liverpool,Manchester City,1,0,1,['76'],[],3.7,3.9,1.83,1.46,2.48,1.5,2.5
+98,2782150,England Premier League,2022/2023,2022-10-18 15:30:00,12,Brighton & Hove Albion,Nottingham Forest,0,0,0,[],[],1.53,4.58,6.9,1.82,2.05,1.93,1.77
+99,2782153,England Premier League,2022/2023,2022-10-18 16:15:00,12,Crystal Palace,Wolverhampton Wanderers,2,1,3,"['47', '70']",['31'],2.21,3.5,3.6,2.15,1.75,1.88,1.8
+100,2782154,England Premier League,2022/2023,2022-10-19 15:30:00,12,Newcastle United,Everton,1,0,1,['30'],[],1.6,3.8,5.5,1.87,1.9,1.91,1.91
+101,2782155,England Premier League,2022/2023,2022-10-19 15:30:00,12,Liverpool,West Ham United,1,0,1,['22'],[],1.4,4.75,7.0,1.53,2.45,1.7,2.05
+102,2782149,England Premier League,2022/2023,2022-10-19 15:30:00,12,Brentford,Chelsea,0,0,0,[],[],4.75,3.6,1.73,1.85,1.93,1.8,1.95
+103,2782147,England Premier League,2022/2023,2022-10-19 15:30:00,12,AFC Bournemouth,Southampton,0,1,1,[],['9'],2.75,3.1,2.6,2.15,1.67,1.75,2.0
+104,2782156,England Premier League,2022/2023,2022-10-19 16:15:00,12,Manchester United,Tottenham Hotspur,2,0,2,"['47', '69']",[],2.25,3.5,3.0,1.61,2.2,1.57,2.25
+105,2782151,England Premier League,2022/2023,2022-10-20 15:30:00,12,Fulham,Aston Villa,3,0,3,"['36', '68', '84']",[],2.57,3.5,2.74,1.89,1.82,1.7,2.05
+106,2782152,England Premier League,2022/2023,2022-10-20 16:15:00,12,Leicester City,Leeds United,2,0,2,"['16', '35']",[],2.03,3.7,3.6,1.76,1.96,1.62,2.2
+107,2782172,England Premier League,2022/2023,2022-10-22 08:30:00,13,Nottingham Forest,Liverpool,1,0,1,['55'],[],12.5,6.85,1.26,1.5,2.55,1.75,1.95
+108,2782171,England Premier League,2022/2023,2022-10-22 11:00:00,13,Manchester City,Brighton & Hove Albion,3,1,4,"['22', '43', '75']",['53'],1.2,6.45,11.98,1.41,2.61,1.9,1.77
+109,2782159,England Premier League,2022/2023,2022-10-22 11:00:00,13,Everton,Crystal Palace,3,0,3,"['11', '63', '84']",[],2.64,3.36,2.95,2.04,1.86,1.78,1.9
+110,2782158,England Premier League,2022/2023,2022-10-22 13:30:00,13,Chelsea,Manchester United,1,1,2,['87'],['90+4'],2.2,3.45,3.35,1.86,1.94,1.68,2.05
+111,2782170,England Premier League,2022/2023,2022-10-23 10:00:00,13,Leeds United,Fulham,2,3,5,"['20', '90+1']","['26', '74', '84']",2.1,3.5,3.5,1.77,2.06,1.67,2.1
+112,2782173,England Premier League,2022/2023,2022-10-23 10:00:00,13,Southampton,Arsenal,1,1,2,['65'],['11'],5.75,4.2,1.58,1.6,2.35,1.75,2.0
+113,2782176,England Premier League,2022/2023,2022-10-23 10:00:00,13,Wolverhampton Wanderers,Leicester City,0,4,4,[],"['8', '19', '65', '79']",2.15,3.4,3.45,1.88,1.92,1.7,2.05
+114,2782157,England Premier League,2022/2023,2022-10-23 10:00:00,13,Aston Villa,Brentford,4,0,4,"['2', '7', '14', '59']",[],2.05,3.65,3.5,1.85,1.95,1.62,2.2
+115,2782174,England Premier League,2022/2023,2022-10-23 12:30:00,13,Tottenham Hotspur,Newcastle United,1,2,3,['54'],"['31', '40']",1.87,3.75,3.8,1.7,2.03,1.67,2.1
+116,2782175,England Premier League,2022/2023,2022-10-24 16:00:00,13,West Ham United,AFC Bournemouth,2,0,2,"['45', '90+2']",[],1.55,4.6,6.1,1.75,2.15,1.8,1.95
+117,2782183,England Premier League,2022/2023,2022-10-29 08:30:00,14,Leicester City,Manchester City,0,1,1,[],['49'],10.0,6.0,1.25,1.36,3.1,1.8,1.95
+118,2782177,England Premier League,2022/2023,2022-10-29 11:00:00,14,AFC Bournemouth,Tottenham Hotspur,2,3,5,"['22', '49']","['57', '73', '90+2']",5.5,4.0,1.6,1.75,2.05,1.8,1.95
+119,2782179,England Premier League,2022/2023,2022-10-29 11:00:00,14,Brentford,Wolverhampton Wanderers,1,1,2,['50'],['52'],2.2,3.4,3.2,2.08,1.8,1.75,2.0
+120,2782180,England Premier League,2022/2023,2022-10-29 11:00:00,14,Brighton & Hove Albion,Chelsea,4,1,5,"['5', '14', '42', '90+2']",['48'],3.0,3.4,2.3,1.88,2.0,1.75,2.0
+121,2782186,England Premier League,2022/2023,2022-10-29 11:00:00,14,Newcastle United,Aston Villa,4,0,4,"['45+6', '56', '59', '67']",[],1.8,3.6,4.33,1.98,1.9,1.8,1.95
+122,2782181,England Premier League,2022/2023,2022-10-29 11:00:00,14,Crystal Palace,Southampton,1,0,1,['38'],[],1.95,3.5,3.9,1.98,1.9,1.91,1.91
+123,2782182,England Premier League,2022/2023,2022-10-29 13:30:00,14,Fulham,Everton,0,0,0,[],[],2.08,1.4,2.73,1.76,1.96,1.67,2.1
+124,2782184,England Premier League,2022/2023,2022-10-29 15:45:00,14,Liverpool,Leeds United,1,2,3,['14'],"['4', '89']",1.27,5.6,7.2,1.31,3.06,1.62,2.2
+125,2782178,England Premier League,2022/2023,2022-10-30 11:00:00,14,Arsenal,Nottingham Forest,5,0,5,"['5', '49', '52', '57', '78']",[],1.2,7.5,16.0,1.45,2.7,2.05,1.7
+126,2782185,England Premier League,2022/2023,2022-10-30 13:15:00,14,Manchester United,West Ham United,1,0,1,['38'],[],1.71,4.11,5.06,1.85,2.07,1.75,2.0
+127,2782192,England Premier League,2022/2023,2022-11-05 12:00:00,15,Nottingham Forest,Brentford,2,2,4,"['20', '90+6']","['45+3', '75']",2.85,3.35,2.38,1.94,1.96,1.7,2.05
+128,2782196,England Premier League,2022/2023,2022-11-05 12:00:00,15,Wolverhampton Wanderers,Brighton & Hove Albion,2,3,5,"['12', '35']","['10', '44', '83']",2.95,3.3,2.33,2.02,1.88,1.8,1.95
+129,2782190,England Premier League,2022/2023,2022-11-05 12:00:00,15,Leeds United,AFC Bournemouth,4,3,7,"['3', '60', '68', '84']","['7', '19', '48']",1.87,3.65,3.8,1.75,2.05,1.7,2.05
+130,2782191,England Premier League,2022/2023,2022-11-05 12:00:00,15,Manchester City,Fulham,2,1,3,"['16', '90+5']",['28'],1.13,8.2,15.0,1.28,3.55,1.95,1.8
+131,2782189,England Premier League,2022/2023,2022-11-05 14:30:00,15,Everton,Leicester City,0,2,2,[],"['45', '86']",2.31,3.42,3.03,1.94,1.86,1.75,2.0
+132,2782188,England Premier League,2022/2023,2022-11-06 09:00:00,15,Chelsea,Arsenal,0,1,1,[],['63'],2.49,3.31,2.75,1.84,1.9,1.67,2.1
+133,2782187,England Premier League,2022/2023,2022-11-06 11:00:00,15,Aston Villa,Manchester United,3,1,4,"['7', '11', '49']",['45'],3.29,3.49,2.09,1.81,1.93,1.7,2.05
+134,2782193,England Premier League,2022/2023,2022-11-06 11:00:00,15,Southampton,Newcastle United,1,4,5,['89'],"['35', '58', '62', '90+1']",3.39,3.39,2.09,1.79,1.95,1.75,2.0
+135,2782195,England Premier League,2022/2023,2022-11-06 11:00:00,15,West Ham United,Crystal Palace,1,2,3,['20'],"['41', '90+4']",1.92,3.51,3.83,1.96,1.79,1.95,1.8
+136,2782194,England Premier League,2022/2023,2022-11-06 13:30:00,15,Tottenham Hotspur,Liverpool,1,2,3,['70'],"['11', '40']",2.95,3.6,2.22,1.67,2.15,1.53,2.38
+137,2782201,England Premier League,2022/2023,2022-11-12 09:30:00,16,Manchester City,Brentford,1,2,3,['45+1'],"['16', '90+8']",1.14,8.5,17.0,1.26,3.35,2.05,1.7
+138,2782200,England Premier League,2022/2023,2022-11-12 12:00:00,16,Liverpool,Southampton,3,1,4,"['6', '21', '42']",['9'],1.27,6.15,9.6,1.4,2.9,1.8,1.95
+139,2782197,England Premier League,2022/2023,2022-11-12 12:00:00,16,AFC Bournemouth,Everton,3,0,3,"['18', '25', '69']",[],3.08,3.04,2.26,2.0,1.9,1.8,1.95
+140,2782204,England Premier League,2022/2023,2022-11-12 12:00:00,16,West Ham United,Leicester City,0,2,2,[],"['8', '78']",1.88,3.74,3.92,1.82,1.98,1.75,2.0
+141,2782203,England Premier League,2022/2023,2022-11-12 12:00:00,16,Tottenham Hotspur,Leeds United,4,3,7,"['25', '51', '81', '83']","['10', '43', '76']",1.57,4.36,5.4,1.6,2.25,1.67,2.1
+142,2782202,England Premier League,2022/2023,2022-11-12 12:00:00,16,Nottingham Forest,Crystal Palace,1,0,1,['54'],[],3.24,3.38,2.23,2.09,1.74,1.91,1.91
+143,2782432,England Premier League,2022/2023,2022-11-12 14:30:00,16,Newcastle United,Chelsea,1,0,1,['67'],[],2.2,3.3,3.2,1.95,1.83,1.7,2.05
+144,2782205,England Premier League,2022/2023,2022-11-12 16:45:00,16,Wolverhampton Wanderers,Arsenal,0,2,2,[],"['54', '75']",6.0,3.9,1.55,1.85,1.93,1.8,1.95
+145,2782198,England Premier League,2022/2023,2022-11-13 11:00:00,16,Brighton & Hove Albion,Aston Villa,1,2,3,['1'],"['20', '54']",1.85,3.5,4.2,1.97,1.93,1.8,1.95
+146,2782199,England Premier League,2022/2023,2022-11-13 13:30:00,16,Fulham,Manchester United,1,2,3,['61'],"['14', '90+3']",4.28,4.24,1.83,1.62,2.12,1.57,2.25
+147,2782208,England Premier League,2022/2023,2022-12-26 09:30:00,17,Brentford,Tottenham Hotspur,2,2,4,"['15', '54']","['65', '71']",4.05,3.75,1.92,1.91,1.95,1.67,2.1
+148,2782215,England Premier League,2022/2023,2022-12-26 12:00:00,17,Southampton,Brighton & Hove Albion,1,3,4,['73'],"['14', '35', '56']",3.45,3.65,2.09,1.95,1.93,1.75,2.0
+149,2782213,England Premier League,2022/2023,2022-12-26 12:00:00,17,Leicester City,Newcastle United,0,3,3,[],"['3', '7', '32']",3.25,3.7,2.18,1.85,2.03,1.67,2.1
+150,2782210,England Premier League,2022/2023,2022-12-26 12:00:00,17,Crystal Palace,Fulham,0,3,3,[],"['31', '71', '80']",2.05,3.7,3.5,1.98,1.9,1.75,2.0
+151,2782211,England Premier League,2022/2023,2022-12-26 12:00:00,17,Everton,Wolverhampton Wanderers,1,2,3,['7'],"['22', '90+5']",2.37,3.4,3.1,2.15,1.71,1.91,1.91
+152,2782207,England Premier League,2022/2023,2022-12-26 14:30:00,17,Aston Villa,Liverpool,1,3,4,['59'],"['5', '37', '81']",4.75,4.1,1.7,1.61,2.33,1.62,2.2
+153,2782206,England Premier League,2022/2023,2022-12-26 17:00:00,17,Arsenal,West Ham United,3,1,4,"['53', '58', '69']",['27'],1.54,4.35,6.3,1.85,2.03,1.91,1.91
+154,2782209,England Premier League,2022/2023,2022-12-27 14:30:00,17,Chelsea,AFC Bournemouth,2,0,2,"['16', '24']",[],1.29,5.0,10.0,1.58,2.4,2.05,1.7
+155,2782214,England Premier League,2022/2023,2022-12-27 17:00:00,17,Manchester United,Nottingham Forest,3,0,3,"['19', '22', '87']",[],1.25,5.0,11.0,1.58,2.4,2.0,1.75
+156,2782212,England Premier League,2022/2023,2022-12-28 17:00:00,17,Leeds United,Manchester City,1,3,4,['73'],"['45+1', '51', '64']",9.5,6.0,1.29,1.44,2.75,1.8,1.95
+157,2782224,England Premier League,2022/2023,2022-12-30 16:45:00,18,West Ham United,Brentford,0,2,2,[],"['18', '43']",2.05,3.55,3.6,1.8,1.9,1.8,1.95
+158,2782219,England Premier League,2022/2023,2022-12-30 17:00:00,18,Liverpool,Leicester City,2,1,3,"['38', '45']",['4'],1.36,4.96,7.68,1.46,2.48,1.91,1.91
+159,2782225,England Premier League,2022/2023,2022-12-31 09:30:00,18,Wolverhampton Wanderers,Manchester United,0,1,1,[],['76'],4.0,3.4,1.91,1.95,1.8,1.8,1.95
+160,2782216,England Premier League,2022/2023,2022-12-31 12:00:00,18,AFC Bournemouth,Crystal Palace,0,2,2,[],"['19', '36']",2.95,3.25,2.55,2.2,1.71,1.8,1.95
+161,2782218,England Premier League,2022/2023,2022-12-31 12:00:00,18,Fulham,Southampton,2,1,3,"['32', '88']",['56'],2.0,3.7,3.65,1.84,2.02,1.62,2.2
+162,2782220,England Premier League,2022/2023,2022-12-31 12:00:00,18,Manchester City,Everton,1,1,2,['24'],['64'],1.13,9.0,23.0,1.4,2.9,2.2,1.62
+163,2782221,England Premier League,2022/2023,2022-12-31 12:00:00,18,Newcastle United,Leeds United,0,0,0,[],[],1.44,4.4,6.5,1.6,2.25,1.8,1.95
+164,2782217,England Premier League,2022/2023,2022-12-31 14:30:00,18,Brighton & Hove Albion,Arsenal,2,4,6,"['65', '77']","['2', '39', '47', '71']",4.0,3.55,1.95,1.9,1.96,1.67,2.1
+165,2782223,England Premier League,2022/2023,2023-01-01 11:00:00,18,Tottenham Hotspur,Aston Villa,0,2,2,[],"['50', '73']",1.63,3.9,4.5,1.68,2.02,1.75,2.0
+166,2782222,England Premier League,2022/2023,2023-01-01 13:30:00,18,Nottingham Forest,Chelsea,1,1,2,['63'],['16'],5.0,3.7,1.7,1.7,2.0,1.95,1.8
+167,2782228,England Premier League,2022/2023,2023-01-02 14:30:00,19,Brentford,Liverpool,3,1,4,"['19', '42', '84']",['50'],5.11,4.82,1.52,1.57,2.3,1.65,2.1
+168,2782231,England Premier League,2022/2023,2023-01-03 16:45:00,19,Everton,Brighton & Hove Albion,1,4,5,['90+2'],"['14', '51', '54', '57']",3.45,3.45,2.12,1.93,1.81,1.8,1.95
+169,2782226,England Premier League,2022/2023,2023-01-03 16:45:00,19,Arsenal,Newcastle United,0,0,0,[],[],1.84,3.85,4.1,1.76,1.99,1.67,2.1
+170,2782233,England Premier League,2022/2023,2023-01-03 16:45:00,19,Leicester City,Fulham,0,1,1,[],['17'],2.02,3.65,3.55,1.73,2.03,1.67,2.1
+171,2782234,England Premier League,2022/2023,2023-01-03 17:00:00,19,Manchester United,AFC Bournemouth,3,0,3,"['23', '49', '86']",[],1.26,6.0,11.0,1.52,2.43,1.95,1.8
+172,2782235,England Premier League,2022/2023,2023-01-04 16:30:00,19,Southampton,Nottingham Forest,0,1,1,[],['27'],1.81,3.65,4.1,2.06,1.81,1.91,1.91
+173,2782232,England Premier League,2022/2023,2023-01-04 16:45:00,19,Leeds United,West Ham United,2,2,4,"['27', '70']","['45', '46']",2.8,3.45,2.39,1.83,2.03,1.62,2.2
+174,2782227,England Premier League,2022/2023,2023-01-04 17:00:00,19,Aston Villa,Wolverhampton Wanderers,1,1,2,['78'],['12'],2.12,3.45,3.25,2.05,1.81,1.8,1.95
+175,2782230,England Premier League,2022/2023,2023-01-04 17:00:00,19,Crystal Palace,Tottenham Hotspur,0,4,4,[],"['48', '53', '68', '72']",3.55,3.55,1.96,1.94,1.92,1.7,2.05
+176,2782229,England Premier League,2022/2023,2023-01-05 17:00:00,19,Chelsea,Manchester City,0,1,1,[],['63'],5.0,3.75,1.67,1.72,2.2,1.8,1.95

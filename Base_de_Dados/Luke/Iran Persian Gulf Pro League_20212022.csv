@@ -1,0 +1,241 @@
+Nº,Id_Jogo,League,Season,Date,Rodada,Home,Away,FT_Goals_H,FT_Goals_A,FT_TotalGoals,Goals_H_Minutes,Goals_A_Minutes,FT_Odd_H,FT_Odd_D,FT_Odd_A,FT_Odd_Over25,FT_Odd_Under25,FT_Odd_BTTS_Yes,FT_Odd_BTTS_No
+1,1452520,Iran Persian Gulf Pro League,2021/2022,2021-10-19 09:00:00,1,Nassaji Mazandaran,Fajr Sepasi,1,0,1,['23'],[],1.35,3.0,3.0,0.0,0.0,2.75,1.4
+2,1452514,Iran Persian Gulf Pro League,2021/2022,2021-10-19 09:30:00,1,Paykan,Naft Masjed Soleyman,0,0,0,[],[],1.55,2.88,2.35,0.0,0.0,3.0,1.33
+3,1452515,Iran Persian Gulf Pro League,2021/2022,2021-10-19 09:30:00,1,Padideh Khorasan,Aluminium Arak,0,0,0,[],[],5.0,3.4,1.15,2.4,1.53,2.45,1.52
+4,1452521,Iran Persian Gulf Pro League,2021/2022,2021-10-19 11:30:00,1,Sepahan,Mes Rafsanjan,2,0,2,"['45+3', '56']",[],1.16,3.75,4.75,0.0,0.0,2.25,1.57
+5,1452518,Iran Persian Gulf Pro League,2021/2022,2021-10-20 09:30:00,1,Gol Gohar,Tractor Sazi,4,1,5,"['11', '15', '21', '38']",['86'],1.22,3.2,4.0,0.0,0.0,2.5,1.5
+6,1452516,Iran Persian Gulf Pro League,2021/2022,2021-10-20 11:30:00,1,Sanat Naft,Zob Ahan,0,1,1,[],['90+1'],2.0,2.55,1.75,0.0,0.0,2.4,1.53
+7,1452519,Iran Persian Gulf Pro League,2021/2022,2021-10-20 11:30:00,1,Esteghlal,Havadar,1,0,1,['60'],[],1.1,4.0,6.0,0.0,0.0,2.55,1.47
+8,1452517,Iran Persian Gulf Pro League,2021/2022,2021-10-22 11:30:00,1,Foolad,Persepolis,1,3,4,['78'],"['61', '72', '84']",3.05,3.2,1.33,0.0,0.0,2.75,1.4
+9,1452522,Iran Persian Gulf Pro League,2021/2022,2021-10-24 09:30:00,2,Naft Masjed Soleyman,Sepahan,0,3,3,[],"['7', '25', '39']",5.2,3.6,1.13,0.0,0.0,2.62,1.44
+10,1452523,Iran Persian Gulf Pro League,2021/2022,2021-10-24 09:30:00,2,Mes Rafsanjan,Padideh Khorasan,3,0,3,"['-1', '-1', '-1']",[],1.62,3.75,4.33,0.0,0.0,0.0,0.0
+11,1452529,Iran Persian Gulf Pro League,2021/2022,2021-10-25 09:30:00,2,Havadar,Paykan,0,2,2,[],"['12', '28']",1.76,2.5,2.1,0.0,0.0,2.19,1.62
+12,1452526,Iran Persian Gulf Pro League,2021/2022,2021-10-25 09:30:00,2,Fajr Sepasi,Gol Gohar,0,1,1,[],['90+1'],3.22,2.8,1.3,0.0,0.0,2.5,1.48
+13,1452527,Iran Persian Gulf Pro League,2021/2022,2021-10-25 11:30:00,2,Zob Ahan,Esteghlal,0,2,2,[],"['27', '90+5']",2.9,2.8,1.41,3.1,1.36,2.47,1.49
+14,1452525,Iran Persian Gulf Pro League,2021/2022,2021-10-25 11:30:00,2,Tractor Sazi,Sanat Naft,3,0,3,"['9', '86', '90+5']",[],1.3,3.1,3.5,2.6,1.48,2.3,1.56
+15,1452528,Iran Persian Gulf Pro League,2021/2022,2021-10-27 11:30:00,2,Aluminium Arak,Foolad,3,0,3,"['59', '85', '90+1']",[],1.84,2.7,1.87,3.5,1.3,3.0,1.36
+16,1452524,Iran Persian Gulf Pro League,2021/2022,2021-10-27 11:30:00,2,Persepolis,Nassaji Mazandaran,2,1,3,"['42', '63']",['49'],1.09,4.33,6.3,2.15,1.67,3.0,1.33
+17,1452530,Iran Persian Gulf Pro League,2021/2022,2021-10-30 11:30:00,3,Padideh Khorasan,Naft Masjed Soleyman,0,1,1,[],['80'],2.05,2.88,1.69,3.1,1.36,2.42,1.51
+18,1452531,Iran Persian Gulf Pro League,2021/2022,2021-10-30 11:30:00,3,Esteghlal,Tractor Sazi,1,0,1,['54'],[],1.26,3.4,3.5,0.0,0.0,2.39,1.52
+19,1452532,Iran Persian Gulf Pro League,2021/2022,2021-10-30 11:30:00,3,Sanat Naft,Fajr Sepasi,0,2,2,[],"['20', '81']",1.43,2.88,2.62,2.7,1.44,2.2,1.61
+20,1452533,Iran Persian Gulf Pro League,2021/2022,2021-10-30 11:30:00,3,Sepahan,Havadar,1,0,1,['84'],[],1.06,4.5,7.45,0.0,0.0,2.98,1.35
+21,1452534,Iran Persian Gulf Pro League,2021/2022,2021-11-01 09:30:00,3,Aluminium Arak,Persepolis,1,0,1,['66'],[],4.55,3.2,1.2,0.0,0.0,2.5,1.44
+22,1452535,Iran Persian Gulf Pro League,2021/2022,2021-11-01 11:30:00,3,Foolad,Mes Rafsanjan,2,1,3,"['28', '46']",['68'],1.65,2.5,2.15,0.0,0.0,2.5,1.44
+23,1452536,Iran Persian Gulf Pro League,2021/2022,2021-11-01 11:30:00,3,Gol Gohar,Nassaji Mazandaran,1,1,2,['19'],['71'],1.51,2.88,2.4,0.0,0.0,2.38,1.53
+24,1452540,Iran Persian Gulf Pro League,2021/2022,2021-11-05 09:30:00,4,Fajr Sepasi,Esteghlal,1,1,2,['90+5'],['60'],4.17,3.2,1.19,0.0,0.0,2.73,1.4
+25,1452538,Iran Persian Gulf Pro League,2021/2022,2021-11-05 09:30:00,4,Havadar,Padideh Khorasan,2,0,2,"['10', '43']",[],1.57,2.55,2.26,0.0,0.0,2.42,1.54
+26,1452539,Iran Persian Gulf Pro League,2021/2022,2021-11-05 09:30:00,4,Tractor Sazi,Paykan,1,2,3,['6'],"['36', '40']",1.53,2.88,2.34,0.0,0.0,2.22,1.63
+27,1452541,Iran Persian Gulf Pro League,2021/2022,2021-11-05 11:30:00,4,Zob Ahan,Sepahan,1,0,1,['57'],[],3.82,3.1,1.22,0.0,0.0,2.5,1.5
+28,1452543,Iran Persian Gulf Pro League,2021/2022,2021-11-06 09:30:00,4,Nassaji Mazandaran,Sanat Naft,0,2,2,[],"['11', '39']",1.35,2.8,2.93,0.0,0.0,2.63,1.44
+29,1452542,Iran Persian Gulf Pro League,2021/2022,2021-11-06 09:30:00,4,Mes Rafsanjan,Aluminium Arak,0,0,0,[],[],1.59,2.8,2.22,0.0,0.0,2.63,1.44
+30,1452544,Iran Persian Gulf Pro League,2021/2022,2021-11-06 11:30:00,4,Persepolis,Gol Gohar,1,1,2,['54'],['45+2'],1.41,3.0,2.69,2.6,1.48,2.5,1.44
+31,1452545,Iran Persian Gulf Pro League,2021/2022,2021-11-06 11:30:00,4,Naft Masjed Soleyman,Foolad,0,0,0,[],[],2.5,2.6,1.47,3.1,1.36,2.63,1.44
+32,1452537,Iran Persian Gulf Pro League,2021/2022,2021-11-12 09:30:00,3,Paykan,Zob Ahan,1,0,1,['-1'],[],2.0,2.75,1.73,0.0,0.0,2.38,1.53
+33,1452546,Iran Persian Gulf Pro League,2021/2022,2021-11-18 08:30:00,5,Aluminium Arak,Naft Masjed Soleyman,2,1,3,"['4503', '90']",['43'],1.84,3.17,4.57,2.36,1.55,2.94,1.36
+34,1452547,Iran Persian Gulf Pro League,2021/2022,2021-11-18 08:30:00,5,Padideh Khorasan,Zob Ahan,1,2,3,['65'],"['42', '9004']",2.7,2.94,2.7,2.73,1.4,2.45,1.5
+35,1452548,Iran Persian Gulf Pro League,2021/2022,2021-11-18 11:30:00,5,Sanat Naft,Gol Gohar,0,0,0,[],[],4.0,2.75,2.1,2.49,1.5,2.38,1.53
+36,1452549,Iran Persian Gulf Pro League,2021/2022,2021-11-19 08:30:00,5,Paykan,Fajr Sepasi,0,1,1,[],['41'],2.07,2.88,4.1,2.94,1.35,2.5,1.51
+37,1452550,Iran Persian Gulf Pro League,2021/2022,2021-11-19 09:30:00,5,Mes Rafsanjan,Persepolis,1,1,2,['66'],['71'],6.0,3.25,1.6,2.39,1.54,2.5,1.5
+38,1452551,Iran Persian Gulf Pro League,2021/2022,2021-11-19 10:30:00,5,Foolad,Havadar,1,0,1,['70'],[],1.86,2.83,4.37,2.9,1.36,2.42,1.51
+39,1452552,Iran Persian Gulf Pro League,2021/2022,2021-11-19 11:30:00,5,Sepahan,Tractor Sazi,0,0,0,[],[],1.4,3.8,7.07,2.6,1.44,2.38,1.53
+40,1452553,Iran Persian Gulf Pro League,2021/2022,2021-11-19 11:30:00,5,Esteghlal,Nassaji Mazandaran,0,0,0,[],[],1.56,3.28,5.7,2.55,1.45,2.5,1.48
+41,1452556,Iran Persian Gulf Pro League,2021/2022,2021-11-24 08:30:00,6,Fajr Sepasi,Sepahan,0,2,2,[],"['36', '58']",7.5,3.4,1.48,2.38,1.54,2.85,1.38
+42,1452557,Iran Persian Gulf Pro League,2021/2022,2021-11-24 08:30:00,6,Havadar,Aluminium Arak,0,0,0,[],[],3.0,2.6,2.6,2.9,1.36,2.22,1.6
+43,1452554,Iran Persian Gulf Pro League,2021/2022,2021-11-24 08:30:00,6,Tractor Sazi,Padideh Khorasan,1,0,1,['83'],[],1.53,3.5,6.0,2.28,1.58,2.23,1.58
+44,1452555,Iran Persian Gulf Pro League,2021/2022,2021-11-24 08:30:00,6,Nassaji Mazandaran,Paykan,2,2,4,"['37', '82']","['66', '78']",2.25,2.65,3.55,2.9,1.36,2.22,1.6
+45,1452558,Iran Persian Gulf Pro League,2021/2022,2021-11-24 09:30:00,6,Gol Gohar,Esteghlal,0,3,3,[],"['-1', '-1', '-1']",4.75,2.95,1.8,3.0,1.33,2.45,1.5
+46,1452559,Iran Persian Gulf Pro League,2021/2022,2021-11-24 10:30:00,6,Zob Ahan,Foolad,0,1,1,[],['41'],2.43,2.75,2.85,3.09,1.32,2.3,1.56
+47,1452560,Iran Persian Gulf Pro League,2021/2022,2021-11-24 10:30:00,6,Naft Masjed Soleyman,Mes Rafsanjan,0,1,1,[],['63'],3.45,2.75,2.12,2.94,1.35,2.32,1.55
+48,1452561,Iran Persian Gulf Pro League,2021/2022,2021-11-24 11:30:00,6,Persepolis,Sanat Naft,1,0,1,['72'],[],1.3,4.0,9.5,2.14,1.64,2.63,1.43
+49,1452562,Iran Persian Gulf Pro League,2021/2022,2021-11-29 08:30:00,7,Paykan,Gol Gohar,3,0,3,"['-1', '-1', '-1']",[],2.9,2.8,2.55,2.56,1.45,2.2,1.6
+50,1452565,Iran Persian Gulf Pro League,2021/2022,2021-11-29 08:30:00,7,Mes Rafsanjan,Havadar,1,0,1,['68'],[],1.8,3.0,5.0,2.85,1.37,2.45,1.52
+51,1452563,Iran Persian Gulf Pro League,2021/2022,2021-11-29 09:30:00,7,Sanat Naft,Esteghlal,1,1,2,['8'],['40'],4.0,2.88,2.05,2.85,1.37,2.37,1.52
+52,1452564,Iran Persian Gulf Pro League,2021/2022,2021-11-29 09:30:00,7,Sepahan,Nassaji Mazandaran,2,0,2,"['29', '57']",[],1.4,4.0,8.0,2.15,1.62,2.45,1.49
+53,1452566,Iran Persian Gulf Pro League,2021/2022,2021-11-29 11:30:00,7,Persepolis,Naft Masjed Soleyman,1,0,1,['50'],[],1.31,4.07,7.72,2.26,1.62,2.7,1.41
+54,1452567,Iran Persian Gulf Pro League,2021/2022,2021-11-30 08:30:00,7,Padideh Khorasan,Fajr Sepasi,0,0,0,[],[],3.45,2.8,2.08,3.2,1.3,2.35,1.54
+55,1452568,Iran Persian Gulf Pro League,2021/2022,2021-11-30 08:30:00,7,Aluminium Arak,Zob Ahan,0,0,0,[],[],2.38,2.55,3.15,3.04,1.33,2.2,1.64
+56,1452569,Iran Persian Gulf Pro League,2021/2022,2021-11-30 09:30:00,7,Foolad,Tractor Sazi,0,0,0,[],[],1.72,3.05,4.5,3.21,1.3,2.65,1.46
+57,1452570,Iran Persian Gulf Pro League,2021/2022,2021-12-04 08:30:00,8,Gol Gohar,Sepahan,0,3,3,[],"['-1', '-1', '-1']",3.1,2.8,1.33,2.88,1.4,2.36,1.53
+58,1452571,Iran Persian Gulf Pro League,2021/2022,2021-12-04 08:30:00,8,Havadar,Naft Masjed Soleyman,0,0,0,[],[],1.42,2.63,2.7,3.1,1.36,2.5,1.48
+59,1452572,Iran Persian Gulf Pro League,2021/2022,2021-12-04 09:30:00,8,Sanat Naft,Paykan,0,0,0,[],[],1.71,2.63,2.05,2.88,1.4,2.42,1.51
+60,1452573,Iran Persian Gulf Pro League,2021/2022,2021-12-04 09:45:00,8,Esteghlal,Persepolis,0,0,0,[],[],1.95,2.8,1.83,2.7,1.44,2.07,1.69
+61,1452574,Iran Persian Gulf Pro League,2021/2022,2021-12-05 08:30:00,8,Zob Ahan,Mes Rafsanjan,0,3,3,[],"['7', '58', '70']",2.34,2.85,3.36,3.3,1.28,2.56,1.46
+62,1452575,Iran Persian Gulf Pro League,2021/2022,2021-12-05 08:30:00,8,Fajr Sepasi,Foolad,1,1,2,['48'],['75'],4.02,2.89,2.08,3.3,1.28,2.75,1.43
+63,1452576,Iran Persian Gulf Pro League,2021/2022,2021-12-05 08:30:00,8,Tractor Sazi,Aluminium Arak,0,2,2,[],"['45', '49']",2.71,2.88,2.74,2.9,1.36,2.22,1.6
+64,1452577,Iran Persian Gulf Pro League,2021/2022,2021-12-05 08:30:00,8,Nassaji Mazandaran,Padideh Khorasan,2,0,2,"['54', '70']",[],1.57,2.88,7.5,2.7,1.44,2.6,1.44
+65,1452578,Iran Persian Gulf Pro League,2021/2022,2021-12-09 09:30:00,9,Sepahan,Sanat Naft,1,0,1,['23'],[],1.3,4.54,12.0,2.19,1.6,2.77,1.4
+66,1452579,Iran Persian Gulf Pro League,2021/2022,2021-12-09 09:30:00,9,Paykan,Esteghlal,0,3,3,[],"['32', '74', '85']",3.75,2.8,2.05,2.56,1.45,2.38,1.53
+67,1452580,Iran Persian Gulf Pro League,2021/2022,2021-12-09 11:30:00,9,Persepolis,Havadar,2,2,4,"['42', '9002']","['39', '54']",1.42,3.9,6.7,2.25,1.57,2.62,1.44
+68,1452581,Iran Persian Gulf Pro League,2021/2022,2021-12-10 08:30:00,9,Naft Masjed Soleyman,Zob Ahan,1,1,2,['37'],['63'],2.94,2.9,2.35,2.56,1.45,2.26,1.58
+69,1452582,Iran Persian Gulf Pro League,2021/2022,2021-12-10 08:30:00,9,Padideh Khorasan,Gol Gohar,1,2,3,['60'],"['65', '71']",6.8,3.8,1.4,2.23,1.58,2.75,1.43
+70,1452583,Iran Persian Gulf Pro League,2021/2022,2021-12-10 08:30:00,9,Mes Rafsanjan,Tractor Sazi,3,2,5,"['33', '67', '82']","['63', '90']",1.83,3.1,4.15,2.56,1.45,2.28,1.57
+71,1452584,Iran Persian Gulf Pro League,2021/2022,2021-12-10 08:30:00,9,Aluminium Arak,Fajr Sepasi,1,0,1,['82'],[],1.75,3.25,4.33,2.47,1.48,2.36,1.53
+72,1452585,Iran Persian Gulf Pro League,2021/2022,2021-12-10 11:30:00,9,Foolad,Nassaji Mazandaran,1,1,2,['16'],['49'],1.75,3.1,4.3,2.5,1.47,2.24,1.59
+73,1511214,Iran Persian Gulf Pro League,2021/2022,2021-12-14 09:30:00,10,Esteghlal,Sepahan,1,0,1,['36'],[],2.63,2.92,2.79,2.9,1.36,2.25,1.57
+74,1512817,Iran Persian Gulf Pro League,2021/2022,2021-12-15 08:30:00,10,Fajr Sepasi,Mes Rafsanjan,0,0,0,[],[],3.42,2.5,2.62,3.09,1.32,2.45,1.52
+75,1511218,Iran Persian Gulf Pro League,2021/2022,2021-12-15 08:30:00,10,Nassaji Mazandaran,Aluminium Arak,1,1,2,['40'],['76'],4.0,3.1,1.85,2.99,1.34,2.4,1.5
+76,1511216,Iran Persian Gulf Pro League,2021/2022,2021-12-15 08:30:00,10,Zob Ahan,Havadar,0,1,1,[],['73'],2.05,2.9,3.7,2.81,1.38,2.55,1.46
+77,1511215,Iran Persian Gulf Pro League,2021/2022,2021-12-15 08:30:00,10,Tractor Sazi,Naft Masjed Soleyman,2,0,2,"['16', '90+2']",[],1.8,3.0,4.75,2.69,1.41,2.4,1.51
+78,1511219,Iran Persian Gulf Pro League,2021/2022,2021-12-15 09:30:00,10,Sanat Naft,Padideh Khorasan,1,0,1,['-1'],[],1.88,3.2,4.2,2.69,1.41,2.2,1.6
+79,1511217,Iran Persian Gulf Pro League,2021/2022,2021-12-15 09:30:00,10,Paykan,Persepolis,1,3,4,['82'],"['16', '65', '90+3']",6.0,3.3,1.62,2.69,1.41,2.2,1.6
+80,1511220,Iran Persian Gulf Pro League,2021/2022,2021-12-15 10:30:00,10,Gol Gohar,Foolad,0,1,1,[],['30'],2.01,2.75,4.55,2.69,1.41,2.45,1.49
+81,1511221,Iran Persian Gulf Pro League,2021/2022,2021-12-24 08:30:00,11,Aluminium Arak,Gol Gohar,0,0,0,[],[],2.5,2.7,3.0,2.81,1.38,2.39,1.52
+82,1511222,Iran Persian Gulf Pro League,2021/2022,2021-12-24 08:30:00,11,Havadar,Tractor Sazi,1,0,1,['58'],[],2.55,2.75,2.9,2.73,1.4,2.36,1.53
+83,1511223,Iran Persian Gulf Pro League,2021/2022,2021-12-24 08:30:00,11,Padideh Khorasan,Esteghlal,0,3,3,[],"['12', '23', '44']",8.0,4.0,1.36,2.38,1.53,2.69,1.42
+84,1511224,Iran Persian Gulf Pro League,2021/2022,2021-12-24 08:30:00,11,Naft Masjed Soleyman,Fajr Sepasi,2,0,2,"['35', '39']",[],2.65,2.7,2.8,2.73,1.4,2.5,1.48
+85,1511225,Iran Persian Gulf Pro League,2021/2022,2021-12-24 08:30:00,11,Mes Rafsanjan,Nassaji Mazandaran,1,2,3,['73'],"['39', '82']",2.15,2.8,3.6,2.62,1.43,2.45,1.5
+86,1511911,Iran Persian Gulf Pro League,2021/2022,2021-12-24 10:30:00,11,Sepahan,Paykan,1,2,3,['57'],"['16', '78']",1.48,3.51,6.28,2.55,1.45,2.8,1.41
+87,1511226,Iran Persian Gulf Pro League,2021/2022,2021-12-24 10:30:00,11,Persepolis,Zob Ahan,2,0,2,"['61', '88']",[],1.45,3.49,6.94,2.35,1.53,2.59,1.45
+88,1511227,Iran Persian Gulf Pro League,2021/2022,2021-12-24 10:30:00,11,Foolad,Sanat Naft,0,0,0,[],[],1.75,2.77,5.36,2.75,1.4,2.66,1.43
+89,1511228,Iran Persian Gulf Pro League,2021/2022,2021-12-29 08:00:00,12,Nassaji Mazandaran,Naft Masjed Soleyman,1,1,2,['85'],['82'],2.09,2.8,3.5,3.2,1.3,2.62,1.46
+90,1511232,Iran Persian Gulf Pro League,2021/2022,2021-12-29 08:30:00,12,Fajr Sepasi,Havadar,0,0,0,[],[],2.49,2.76,2.8,3.3,1.28,2.47,1.49
+91,1511230,Iran Persian Gulf Pro League,2021/2022,2021-12-29 08:30:00,12,Tractor Sazi,Zob Ahan,0,1,1,[],['45+4'],1.95,2.86,3.9,3.0,1.33,2.38,1.53
+92,1511231,Iran Persian Gulf Pro League,2021/2022,2021-12-29 08:30:00,12,Gol Gohar,Mes Rafsanjan,2,2,4,"['45+2', '72']","['17', '35']",1.9,2.86,4.1,3.0,1.33,2.53,1.47
+93,1511229,Iran Persian Gulf Pro League,2021/2022,2021-12-29 08:30:00,12,Paykan,Padideh Khorasan,1,1,2,['57'],['88'],1.64,2.96,5.8,3.0,1.33,3.09,1.35
+94,1511233,Iran Persian Gulf Pro League,2021/2022,2021-12-29 09:30:00,12,Sepahan,Persepolis,0,1,1,[],['32'],2.52,2.87,2.67,2.9,1.36,2.15,1.64
+95,1511234,Iran Persian Gulf Pro League,2021/2022,2021-12-29 10:30:00,12,Sanat Naft,Aluminium Arak,3,1,4,"['32', '66', '90+3']",['57'],3.42,3.0,2.22,3.21,1.3,2.35,1.54
+96,1511235,Iran Persian Gulf Pro League,2021/2022,2021-12-29 11:30:00,12,Esteghlal,Foolad,1,0,1,['58'],[],1.84,3.24,4.44,2.94,1.35,2.77,1.42
+97,1515585,Iran Persian Gulf Pro League,2021/2022,2022-01-03 07:30:00,13,Mes Rafsanjan,Sanat Naft,3,0,3,"['30', '54', '87']",[],1.91,2.9,4.0,2.65,1.42,2.5,1.5
+98,1515583,Iran Persian Gulf Pro League,2021/2022,2022-01-03 08:00:00,13,Padideh Khorasan,Sepahan,0,2,2,[],"['67', '89']",3.6,2.75,2.1,2.55,1.45,3.0,1.33
+99,1515584,Iran Persian Gulf Pro League,2021/2022,2022-01-03 08:30:00,13,Naft Masjed Soleyman,Gol Gohar,0,2,2,[],"['64', '81']",2.5,2.8,2.8,2.56,1.45,2.5,1.5
+100,1515586,Iran Persian Gulf Pro League,2021/2022,2022-01-03 08:30:00,13,Havadar,Nassaji Mazandaran,0,0,0,[],[],2.5,2.8,2.8,2.81,1.38,2.38,1.5
+101,1515587,Iran Persian Gulf Pro League,2021/2022,2022-01-03 08:30:00,13,Aluminium Arak,Esteghlal,1,1,2,['9002'],['18'],2.6,2.9,2.6,2.56,1.45,2.38,1.53
+102,1515588,Iran Persian Gulf Pro League,2021/2022,2022-01-03 09:45:00,13,Zob Ahan,Fajr Sepasi,2,0,2,"['39', '65']",[],2.4,2.8,2.9,2.59,1.44,2.5,1.5
+103,1515589,Iran Persian Gulf Pro League,2021/2022,2022-01-03 10:30:00,13,Persepolis,Tractor Sazi,2,1,3,"['10', '55']",['24'],1.51,3.64,6.9,2.75,1.4,3.0,1.36
+104,1515590,Iran Persian Gulf Pro League,2021/2022,2022-01-03 10:30:00,13,Foolad,Paykan,1,1,2,['45+3'],['87'],2.27,2.9,3.38,2.9,1.36,2.5,1.5
+105,1515591,Iran Persian Gulf Pro League,2021/2022,2022-01-08 07:30:00,14,Nassaji Mazandaran,Zob Ahan,1,0,1,['47'],[],2.5,2.8,2.65,2.73,1.4,2.5,1.5
+106,1515592,Iran Persian Gulf Pro League,2021/2022,2022-01-08 08:30:00,14,Fajr Sepasi,Tractor Sazi,1,1,2,['63'],['77'],2.32,2.92,3.3,2.89,1.36,2.63,1.44
+107,1515593,Iran Persian Gulf Pro League,2021/2022,2022-01-08 08:30:00,14,Padideh Khorasan,Persepolis,1,1,2,['45'],['31'],7.64,4.4,1.33,2.0,1.72,3.25,1.3
+108,1515594,Iran Persian Gulf Pro League,2021/2022,2022-01-08 08:30:00,14,Paykan,Aluminium Arak,1,1,2,['31'],['75'],2.4,2.75,2.85,3.2,1.3,2.63,1.44
+109,1515595,Iran Persian Gulf Pro League,2021/2022,2022-01-08 08:30:00,14,Gol Gohar,Havadar,1,0,1,['15'],[],2.0,3.05,3.54,2.73,1.4,3.0,1.33
+110,1515596,Iran Persian Gulf Pro League,2021/2022,2022-01-08 10:30:00,14,Esteghlal,Mes Rafsanjan,3,2,5,"['9', '61', '87']","['35', '90+2']",1.65,3.3,4.98,2.41,1.5,3.0,1.36
+111,1515597,Iran Persian Gulf Pro League,2021/2022,2022-01-08 10:30:00,14,Sepahan,Foolad,2,1,3,"['35', '55']",['60'],1.75,3.2,4.42,2.62,1.43,2.32,1.55
+112,1515598,Iran Persian Gulf Pro League,2021/2022,2022-01-08 10:30:00,14,Sanat Naft,Naft Masjed Soleyman,2,0,2,"['14', '78']",[],2.0,3.1,3.48,2.85,1.37,2.75,1.4
+113,1515599,Iran Persian Gulf Pro League,2021/2022,2022-01-13 08:30:00,15,Mes Rafsanjan,Paykan,0,0,0,[],[],2.12,3.09,3.41,2.47,1.48,2.2,1.62
+114,1515600,Iran Persian Gulf Pro League,2021/2022,2022-01-13 08:30:00,15,Zob Ahan,Gol Gohar,0,0,0,[],[],2.6,2.55,2.9,2.9,1.36,2.26,1.58
+115,1515602,Iran Persian Gulf Pro League,2021/2022,2022-01-13 08:30:00,15,Aluminium Arak,Sepahan,0,0,0,[],[],3.53,3.08,2.08,2.52,1.46,2.5,1.5
+116,1515603,Iran Persian Gulf Pro League,2021/2022,2022-01-13 08:30:00,15,Tractor Sazi,Nassaji Mazandaran,1,1,2,['80'],['55'],2.32,2.75,3.1,2.75,1.4,2.2,1.62
+117,1515604,Iran Persian Gulf Pro League,2021/2022,2022-01-13 08:30:00,15,Havadar,Sanat Naft,1,2,3,['9005'],"['30', '56']",2.4,2.55,3.2,3.0,1.33,2.45,1.5
+118,1515601,Iran Persian Gulf Pro League,2021/2022,2022-01-13 09:00:00,15,Naft Masjed Soleyman,Esteghlal,0,3,3,[],"['16', '52', '58']",6.25,2.9,1.61,2.9,1.36,2.75,1.4
+119,1515606,Iran Persian Gulf Pro League,2021/2022,2022-01-13 09:30:00,15,Foolad,Padideh Khorasan,2,0,2,"['10', '40']",[],1.52,3.7,6.25,3.0,1.33,3.25,1.29
+120,1515605,Iran Persian Gulf Pro League,2021/2022,2022-01-13 11:00:00,15,Persepolis,Fajr Sepasi,1,0,1,['68'],[],1.27,5.0,10.5,2.23,1.6,3.0,1.33
+121,1515607,Iran Persian Gulf Pro League,2021/2022,2022-01-22 08:30:00,16,Mes Rafsanjan,Sepahan,3,1,4,"['19', '36', '82']",['1'],3.06,2.8,2.35,2.89,1.36,2.29,1.59
+122,1515610,Iran Persian Gulf Pro League,2021/2022,2022-01-22 11:30:00,16,Persepolis,Foolad,1,0,1,['49'],[],1.83,2.8,4.75,3.2,1.3,2.5,1.48
+123,1515608,Iran Persian Gulf Pro League,2021/2022,2022-01-23 08:30:00,16,Tractor Sazi,Gol Gohar,0,0,0,[],[],3.25,2.71,2.37,3.2,1.3,2.45,1.5
+124,1515611,Iran Persian Gulf Pro League,2021/2022,2022-01-23 08:30:00,16,Zob Ahan,Sanat Naft,0,1,1,[],['17'],1.9,2.72,4.85,3.3,1.28,2.93,1.38
+125,1515612,Iran Persian Gulf Pro League,2021/2022,2022-01-23 08:30:00,16,Aluminium Arak,Padideh Khorasan,2,2,4,"['48', '83']","['49', '90+1']",1.52,3.45,6.4,2.6,1.44,3.75,1.25
+126,1515614,Iran Persian Gulf Pro League,2021/2022,2022-01-23 08:30:00,16,Naft Masjed Soleyman,Paykan,1,2,3,['54'],"['24', '26']",3.47,2.65,2.25,3.21,1.3,2.75,1.4
+127,1515613,Iran Persian Gulf Pro League,2021/2022,2022-01-24 08:30:00,16,Fajr Sepasi,Nassaji Mazandaran,1,1,2,['23'],['90+3'],3.3,2.6,2.28,3.3,1.28,2.54,1.49
+128,1515609,Iran Persian Gulf Pro League,2021/2022,2022-02-04 10:30:00,16,Havadar,Esteghlal,1,2,3,['39'],"['11', '84']",5.15,3.08,1.79,2.9,1.36,3.0,1.36
+129,1572352,Iran Persian Gulf Pro League,2021/2022,2022-02-12 08:30:00,17,Sepahan,Naft Masjed Soleyman,4,1,5,"['8', '51', '66', '81']",['90+1'],1.25,4.6,13.0,2.26,1.59,3.15,1.32
+130,1572353,Iran Persian Gulf Pro League,2021/2022,2022-02-12 08:30:00,17,Padideh Khorasan,Mes Rafsanjan,1,3,4,['86'],"['21', '58', '67']",4.54,2.6,1.98,3.04,1.33,2.35,1.54
+131,1572354,Iran Persian Gulf Pro League,2021/2022,2022-02-12 09:30:00,17,Sanat Naft,Tractor Sazi,1,0,1,['85'],[],2.5,2.45,3.15,3.3,1.28,2.35,1.54
+132,1572355,Iran Persian Gulf Pro League,2021/2022,2022-02-13 08:30:00,17,Gol Gohar,Fajr Sepasi,2,0,2,"['41', '59']",[],1.51,3.3,6.2,2.9,1.36,2.77,1.39
+133,1572356,Iran Persian Gulf Pro League,2021/2022,2022-02-13 08:30:00,17,Paykan,Havadar,1,2,3,['29'],"['45', '89']",2.16,2.65,3.45,3.0,1.33,2.36,1.53
+134,1572357,Iran Persian Gulf Pro League,2021/2022,2022-02-13 09:30:00,17,Foolad,Aluminium Arak,1,0,1,['81'],[],2.27,2.4,3.41,3.3,1.28,2.73,1.41
+135,1572358,Iran Persian Gulf Pro League,2021/2022,2022-02-13 10:30:00,17,Nassaji Mazandaran,Persepolis,1,3,4,['16'],"['2', '7', '90+1']",4.68,3.2,1.82,2.9,1.36,2.28,1.57
+136,1572359,Iran Persian Gulf Pro League,2021/2022,2022-02-13 12:30:00,17,Esteghlal,Zob Ahan,1,0,1,['54'],[],1.14,3.1,4.87,2.88,1.4,2.59,1.45
+137,1572360,Iran Persian Gulf Pro League,2021/2022,2022-02-18 08:30:00,18,Naft Masjed Soleyman,Padideh Khorasan,0,1,1,[],['-1'],2.1,2.7,4.0,2.85,1.37,2.15,1.64
+138,1572361,Iran Persian Gulf Pro League,2021/2022,2022-02-18 08:30:00,18,Havadar,Sepahan,0,0,0,[],[],5.5,3.3,1.62,2.44,1.49,2.5,1.5
+139,1572362,Iran Persian Gulf Pro League,2021/2022,2022-02-18 08:30:00,18,Fajr Sepasi,Sanat Naft,0,0,0,[],[],2.63,2.6,3.1,2.99,1.34,2.2,1.6
+140,1572363,Iran Persian Gulf Pro League,2021/2022,2022-02-18 08:30:00,18,Mes Rafsanjan,Foolad,1,1,2,['43'],['70'],2.9,2.6,2.7,3.15,1.31,2.25,1.57
+141,1572364,Iran Persian Gulf Pro League,2021/2022,2022-02-18 08:30:00,18,Zob Ahan,Paykan,0,2,2,[],"['-1', '-1']",2.0,2.8,4.1,2.89,1.36,2.2,1.6
+142,1572365,Iran Persian Gulf Pro League,2021/2022,2022-02-18 08:30:00,18,Nassaji Mazandaran,Gol Gohar,1,2,3,['70'],"['37', '63']",3.4,2.5,2.5,2.94,1.35,2.25,1.58
+143,1572366,Iran Persian Gulf Pro League,2021/2022,2022-02-18 11:00:00,18,Tractor Sazi,Esteghlal,0,1,1,[],['70'],5.49,2.58,1.72,2.73,1.4,2.1,1.66
+144,1572367,Iran Persian Gulf Pro League,2021/2022,2022-02-18 13:00:00,18,Persepolis,Aluminium Arak,2,0,2,"['76', '9005']",[],1.18,3.2,4.3,2.88,1.4,2.6,1.44
+145,1572372,Iran Persian Gulf Pro League,2021/2022,2022-02-23 08:00:00,19,Padideh Khorasan,Havadar,0,1,1,[],['78'],3.78,2.53,2.38,3.09,1.32,2.35,1.54
+146,1572368,Iran Persian Gulf Pro League,2021/2022,2022-02-23 08:30:00,19,Aluminium Arak,Mes Rafsanjan,0,1,1,[],['90'],2.54,2.48,3.52,3.09,1.32,2.47,1.49
+147,1572369,Iran Persian Gulf Pro League,2021/2022,2022-02-23 08:30:00,19,Sepahan,Zob Ahan,0,0,0,[],[],1.54,3.5,6.8,2.56,1.45,2.56,1.46
+148,1572370,Iran Persian Gulf Pro League,2021/2022,2022-02-23 08:30:00,19,Sanat Naft,Nassaji Mazandaran,1,1,2,['27'],['36'],2.54,2.6,3.3,3.09,1.32,2.22,1.6
+149,1572371,Iran Persian Gulf Pro League,2021/2022,2022-02-23 10:00:00,19,Paykan,Tractor Sazi,0,0,0,[],[],2.86,2.27,3.44,2.89,1.36,2.32,1.55
+150,1573589,Iran Persian Gulf Pro League,2021/2022,2022-02-23 10:30:00,19,Gol Gohar,Persepolis,1,1,2,['33'],['13'],3.5,2.55,2.25,2.9,1.36,2.21,1.6
+151,1572373,Iran Persian Gulf Pro League,2021/2022,2022-02-23 11:00:00,19,Foolad,Naft Masjed Soleyman,2,0,2,"['-1', '-1']",[],1.45,3.35,7.0,2.56,1.45,2.71,1.41
+152,1573590,Iran Persian Gulf Pro League,2021/2022,2022-02-23 12:30:00,19,Esteghlal,Fajr Sepasi,1,0,1,['59'],[],1.11,3.8,5.65,2.15,1.62,2.8,1.38
+153,1572374,Iran Persian Gulf Pro League,2021/2022,2022-02-28 08:00:00,20,Tractor Sazi,Sepahan,2,2,4,"['45+1', '70']","['40', '89']",5.4,2.85,1.68,2.75,1.4,2.25,1.6
+154,1572376,Iran Persian Gulf Pro League,2021/2022,2022-02-28 08:30:00,20,Havadar,Foolad,0,0,0,[],[],3.25,2.46,2.42,3.5,1.25,2.55,1.47
+155,1572377,Iran Persian Gulf Pro League,2021/2022,2022-02-28 08:30:00,20,Fajr Sepasi,Paykan,1,1,2,['90+2'],['82'],3.82,2.55,2.34,3.3,1.28,2.4,1.53
+156,1572375,Iran Persian Gulf Pro League,2021/2022,2022-02-28 08:30:00,20,Naft Masjed Soleyman,Aluminium Arak,0,0,0,[],[],3.45,2.55,2.24,3.3,1.28,2.55,1.47
+157,1572378,Iran Persian Gulf Pro League,2021/2022,2022-02-28 10:00:00,20,Gol Gohar,Sanat Naft,2,1,3,"['29', '50']",['26'],1.75,2.9,5.0,2.85,1.37,2.45,1.52
+158,1572379,Iran Persian Gulf Pro League,2021/2022,2022-02-28 10:00:00,20,Zob Ahan,Padideh Khorasan,2,1,3,"['34', '40']",['90+3'],1.53,3.2,7.0,2.65,1.42,2.65,1.45
+159,1572380,Iran Persian Gulf Pro League,2021/2022,2022-02-28 10:30:00,20,Nassaji Mazandaran,Esteghlal,0,0,0,[],[],5.0,2.7,1.85,2.85,1.37,2.25,1.6
+160,1572381,Iran Persian Gulf Pro League,2021/2022,2022-02-28 12:30:00,20,Persepolis,Mes Rafsanjan,3,1,4,"['19', '34', '74']",['23'],1.11,3.3,6.0,2.88,1.4,3.1,1.33
+161,1572382,Iran Persian Gulf Pro League,2021/2022,2022-03-06 08:00:00,21,Padideh Khorasan,Tractor Sazi,0,0,0,[],[],4.1,2.65,2.1,3.09,1.32,2.41,1.5
+162,1572383,Iran Persian Gulf Pro League,2021/2022,2022-03-06 08:30:00,21,Mes Rafsanjan,Naft Masjed Soleyman,0,0,0,[],[],1.7,3.05,5.75,3.09,1.32,2.78,1.39
+163,1572384,Iran Persian Gulf Pro League,2021/2022,2022-03-06 08:30:00,21,Paykan,Nassaji Mazandaran,0,1,1,[],['39'],2.6,2.45,3.15,3.21,1.3,2.33,1.54
+164,1572385,Iran Persian Gulf Pro League,2021/2022,2022-03-06 08:30:00,21,Aluminium Arak,Havadar,0,1,1,[],['23'],2.25,2.55,3.8,3.21,1.3,2.52,1.46
+165,1572386,Iran Persian Gulf Pro League,2021/2022,2022-03-06 09:30:00,21,Foolad,Zob Ahan,1,2,3,['2'],"['32', '88']",2.2,2.6,3.85,3.09,1.32,2.52,1.46
+166,1572387,Iran Persian Gulf Pro League,2021/2022,2022-03-06 11:00:00,21,Esteghlal,Gol Gohar,2,1,3,"['45+5', '89']",['54'],1.9,2.9,4.19,2.94,1.35,2.39,1.52
+167,1572388,Iran Persian Gulf Pro League,2021/2022,2022-03-06 11:30:00,21,Sepahan,Fajr Sepasi,2,0,2,"['43', '74']",[],1.25,4.5,11.39,2.36,1.52,3.25,1.29
+168,1572389,Iran Persian Gulf Pro League,2021/2022,2022-03-06 13:00:00,21,Sanat Naft,Persepolis,2,0,2,"['7', '69']",[],4.48,3.2,1.17,2.88,1.4,2.56,1.46
+169,1572391,Iran Persian Gulf Pro League,2021/2022,2022-03-11 08:30:00,22,Zob Ahan,Aluminium Arak,4,0,4,"['28', '64', '74', '87']",[],1.58,2.5,2.35,3.1,1.36,2.25,1.57
+170,1572393,Iran Persian Gulf Pro League,2021/2022,2022-03-11 09:30:00,22,Gol Gohar,Paykan,0,0,0,[],[],1.22,3.0,4.3,2.6,1.48,2.2,1.6
+171,1572395,Iran Persian Gulf Pro League,2021/2022,2022-03-11 09:30:00,22,Nassaji Mazandaran,Sepahan,1,3,4,['-1'],"['-1', '-1', '-1']",5.0,2.7,1.9,2.9,1.36,2.2,1.62
+172,1572396,Iran Persian Gulf Pro League,2021/2022,2022-03-11 11:30:00,22,Naft Masjed Soleyman,Persepolis,1,2,3,['77'],"['9', '20']",8.25,3.7,1.43,2.28,1.58,2.5,1.48
+173,1572397,Iran Persian Gulf Pro League,2021/2022,2022-03-11 13:30:00,22,Esteghlal,Sanat Naft,1,0,1,['31'],[],1.11,3.6,5.55,2.6,1.48,2.81,1.39
+174,1572390,Iran Persian Gulf Pro League,2021/2022,2022-03-12 07:30:00,22,Havadar,Mes Rafsanjan,1,1,2,['-1'],['-1'],3.2,2.63,2.38,3.3,1.28,2.4,1.51
+175,1572392,Iran Persian Gulf Pro League,2021/2022,2022-03-12 08:30:00,22,Tractor Sazi,Foolad,1,2,3,['90+3'],"['13', '34']",3.19,2.59,2.57,3.09,1.32,2.25,1.6
+176,1572394,Iran Persian Gulf Pro League,2021/2022,2022-03-12 09:30:00,22,Fajr Sepasi,Padideh Khorasan,0,1,1,[],['-1'],2.13,2.67,4.09,3.09,1.32,2.45,1.5
+177,1581472,Iran Persian Gulf Pro League,2021/2022,2022-03-17 08:30:00,23,Aluminium Arak,Tractor Sazi,1,0,1,['80'],[],2.04,2.76,3.75,2.89,1.36,2.6,1.44
+178,1581473,Iran Persian Gulf Pro League,2021/2022,2022-03-17 10:30:00,23,Foolad,Fajr Sepasi,1,0,1,['28'],[],1.83,2.78,4.65,2.85,1.37,2.7,1.41
+179,1581474,Iran Persian Gulf Pro League,2021/2022,2022-03-17 10:30:00,23,Sepahan,Gol Gohar,0,0,0,[],[],1.9,2.75,4.2,2.62,1.43,2.2,1.6
+180,1581475,Iran Persian Gulf Pro League,2021/2022,2022-03-17 11:00:00,23,Persepolis,Esteghlal,1,1,2,['38'],['81'],2.44,2.67,2.98,2.62,1.43,2.13,1.65
+181,1581476,Iran Persian Gulf Pro League,2021/2022,2022-03-18 08:30:00,23,Naft Masjed Soleyman,Havadar,0,0,0,[],[],2.75,2.55,2.95,3.09,1.32,2.45,1.5
+182,1581477,Iran Persian Gulf Pro League,2021/2022,2022-03-18 08:30:00,23,Padideh Khorasan,Nassaji Mazandaran,1,1,2,['74'],['67'],5.0,3.1,1.73,2.56,1.45,2.47,1.49
+183,1581479,Iran Persian Gulf Pro League,2021/2022,2022-03-18 08:30:00,23,Mes Rafsanjan,Zob Ahan,0,1,1,[],['70'],2.2,2.63,3.7,3.04,1.33,2.42,1.51
+184,1581478,Iran Persian Gulf Pro League,2021/2022,2022-03-18 09:30:00,23,Paykan,Sanat Naft,0,0,0,[],[],2.45,2.38,3.65,3.09,1.32,2.25,1.6
+185,1636893,Iran Persian Gulf Pro League,2021/2022,2022-04-01 09:30:00,24,Nassaji Mazandaran,Foolad,0,2,2,[],"['40', '70']",1.96,2.5,1.75,3.5,1.3,2.4,1.51
+186,1636894,Iran Persian Gulf Pro League,2021/2022,2022-04-01 10:30:00,24,Sanat Naft,Sepahan,2,4,6,"['57', '79']","['5', '31', '45', '67']",5.5,3.1,1.67,2.94,1.35,2.54,1.46
+187,1636895,Iran Persian Gulf Pro League,2021/2022,2022-04-03 12:15:00,24,Fajr Sepasi,Aluminium Arak,0,0,0,[],[],2.21,2.45,1.59,3.4,1.33,2.58,1.44
+188,1636896,Iran Persian Gulf Pro League,2021/2022,2022-04-03 13:00:00,24,Tractor Sazi,Mes Rafsanjan,1,0,1,['40'],[],1.96,2.63,1.75,3.5,1.3,2.44,1.49
+189,1636897,Iran Persian Gulf Pro League,2021/2022,2022-04-04 13:15:00,24,Havadar,Persepolis,0,0,0,[],[],7.0,3.5,1.09,3.0,1.33,2.8,1.31
+190,1636898,Iran Persian Gulf Pro League,2021/2022,2022-04-05 12:30:00,24,Gol Gohar,Padideh Khorasan,3,3,6,"['45', '85', '90']","['9', '32', '58']",1.1,3.9,6.5,2.5,1.47,3.19,1.33
+191,1636900,Iran Persian Gulf Pro League,2021/2022,2022-04-05 13:00:00,24,Zob Ahan,Naft Masjed Soleyman,0,1,1,[],['64'],1.3,2.9,3.4,2.7,1.44,2.38,1.53
+192,1636899,Iran Persian Gulf Pro League,2021/2022,2022-04-05 13:15:00,24,Esteghlal,Paykan,0,0,0,[],[],1.11,3.3,5.75,2.5,1.5,2.65,1.44
+193,1886240,Iran Persian Gulf Pro League,2021/2022,2022-05-03 12:30:00,25,Mes Rafsanjan,Fajr Sepasi,2,1,3,"['22', '65']",['16'],1.23,3.1,4.15,3.0,1.33,2.45,1.5
+194,1886241,Iran Persian Gulf Pro League,2021/2022,2022-05-03 13:00:00,25,Naft Masjed Soleyman,Tractor Sazi,1,1,2,['55'],['42'],2.44,2.4,1.49,3.21,1.3,2.32,1.55
+195,1886239,Iran Persian Gulf Pro League,2021/2022,2022-05-04 10:00:00,25,Padideh Khorasan,Sanat Naft,1,1,2,['22'],['85'],3.26,2.56,2.37,3.15,1.31,2.41,1.51
+196,1886242,Iran Persian Gulf Pro League,2021/2022,2022-05-04 11:00:00,25,Sepahan,Esteghlal,1,1,2,['14'],['6'],2.65,2.55,2.94,2.94,1.35,2.15,1.64
+197,1886243,Iran Persian Gulf Pro League,2021/2022,2022-05-04 11:00:00,25,Havadar,Zob Ahan,1,0,1,['72'],[],2.8,2.5,2.83,3.15,1.31,2.15,1.64
+198,1886244,Iran Persian Gulf Pro League,2021/2022,2022-05-04 11:30:00,25,Aluminium Arak,Nassaji Mazandaran,0,0,0,[],[],2.08,2.57,4.01,3.09,1.32,2.27,1.57
+199,1886245,Iran Persian Gulf Pro League,2021/2022,2022-05-04 13:00:00,25,Foolad,Gol Gohar,1,1,2,['69'],['84'],1.89,2.45,1.81,3.4,1.33,2.31,1.54
+200,1886246,Iran Persian Gulf Pro League,2021/2022,2022-05-04 13:10:00,25,Persepolis,Paykan,2,0,2,"['16', '49']",[],1.14,3.6,4.93,2.4,1.53,2.64,1.43
+201,1886248,Iran Persian Gulf Pro League,2021/2022,2022-05-09 10:00:00,26,Tractor Sazi,Havadar,3,2,5,"['45+4', '68', '84']","['2', '50']",2.53,2.75,3.16,3.3,1.28,2.3,1.55
+202,1886247,Iran Persian Gulf Pro League,2021/2022,2022-05-09 11:00:00,26,Fajr Sepasi,Naft Masjed Soleyman,0,0,0,[],[],2.25,2.65,3.85,3.3,1.28,2.59,1.47
+203,1886249,Iran Persian Gulf Pro League,2021/2022,2022-05-09 11:00:00,26,Zob Ahan,Persepolis,1,1,2,['3'],['56'],5.15,3.24,1.74,2.9,1.36,2.3,1.55
+204,1886254,Iran Persian Gulf Pro League,2021/2022,2022-05-09 11:30:00,26,Paykan,Sepahan,0,1,1,[],['70'],4.7,3.16,1.83,2.9,1.36,2.52,1.5
+205,1886250,Iran Persian Gulf Pro League,2021/2022,2022-05-09 12:00:00,26,Nassaji Mazandaran,Mes Rafsanjan,0,2,2,[],"['83', '90+4']",1.86,2.7,1.9,3.3,1.28,2.15,1.64
+206,1886251,Iran Persian Gulf Pro League,2021/2022,2022-05-09 12:30:00,26,Gol Gohar,Aluminium Arak,2,0,2,"['-1', '-1']",[],1.32,2.8,3.3,3.2,1.3,2.45,1.48
+207,1886252,Iran Persian Gulf Pro League,2021/2022,2022-05-09 13:10:00,26,Esteghlal,Padideh Khorasan,1,0,1,['89'],[],1.06,4.33,10.0,2.35,1.53,2.85,1.38
+208,1886253,Iran Persian Gulf Pro League,2021/2022,2022-05-09 13:30:00,26,Sanat Naft,Foolad,0,1,1,[],['85'],2.45,2.63,1.51,3.2,1.34,2.36,1.56
+209,1886258,Iran Persian Gulf Pro League,2021/2022,2022-05-14 10:30:00,27,Havadar,Fajr Sepasi,1,0,1,['49'],[],2.3,2.8,3.4,3.27,1.29,2.45,1.5
+210,1886260,Iran Persian Gulf Pro League,2021/2022,2022-05-14 10:30:00,27,Padideh Khorasan,Paykan,1,1,2,['-1'],['-1'],3.34,2.72,2.2,3.15,1.31,2.32,1.55
+211,1886256,Iran Persian Gulf Pro League,2021/2022,2022-05-14 12:00:00,27,Mes Rafsanjan,Gol Gohar,1,2,3,['84'],"['57', '74']",1.69,2.5,2.05,3.15,1.31,2.2,1.61
+212,1886257,Iran Persian Gulf Pro League,2021/2022,2022-05-14 12:00:00,27,Aluminium Arak,Sanat Naft,2,1,3,"['3', '54']",['20'],1.58,2.5,2.35,3.27,1.29,2.35,1.55
+213,1886259,Iran Persian Gulf Pro League,2021/2022,2022-05-14 12:15:00,27,Foolad,Esteghlal,1,2,3,['90+3'],"['53', '73']",2.25,2.5,1.64,2.88,1.4,2.53,1.47
+214,1886255,Iran Persian Gulf Pro League,2021/2022,2022-05-14 12:30:00,27,Naft Masjed Soleyman,Nassaji Mazandaran,1,1,2,['-1'],['-1'],1.68,2.6,2.15,3.15,1.31,2.25,1.58
+215,1886261,Iran Persian Gulf Pro League,2021/2022,2022-05-14 12:30:00,27,Zob Ahan,Tractor Sazi,0,0,0,[],[],1.74,2.88,1.99,3.1,1.36,2.28,1.57
+216,1886262,Iran Persian Gulf Pro League,2021/2022,2022-05-14 14:20:00,27,Persepolis,Sepahan,1,2,3,['82'],"['36', '48']",2.5,2.5,3.1,2.9,1.36,2.05,1.68
+217,1886267,Iran Persian Gulf Pro League,2021/2022,2022-05-18 11:30:00,28,Nassaji Mazandaran,Havadar,2,1,3,"['50', '90+2']",['29'],3.2,2.5,2.5,2.88,1.4,0.0,0.0
+218,1886265,Iran Persian Gulf Pro League,2021/2022,2022-05-19 11:00:00,28,Paykan,Foolad,1,2,3,['76'],"['44', '90+9']",3.25,2.55,2.55,3.75,1.22,2.63,1.44
+219,1886263,Iran Persian Gulf Pro League,2021/2022,2022-05-19 11:30:00,28,Tractor Sazi,Persepolis,0,3,3,[],"['-1', '-1', '-1']",5.5,2.87,1.8,2.75,1.4,2.5,1.5
+220,1886264,Iran Persian Gulf Pro League,2021/2022,2022-05-19 12:30:00,28,Sepahan,Padideh Khorasan,3,0,3,"['45', '56', '59']",[],1.04,4.75,14.0,2.05,1.75,3.25,1.33
+221,1886266,Iran Persian Gulf Pro League,2021/2022,2022-05-19 12:30:00,28,Gol Gohar,Naft Masjed Soleyman,2,0,2,"['5', '21']",[],1.19,3.3,4.65,2.5,1.5,2.75,1.4
+222,1886270,Iran Persian Gulf Pro League,2021/2022,2022-05-19 12:30:00,28,Fajr Sepasi,Zob Ahan,0,1,1,[],['21'],2.55,2.5,1.5,3.3,1.28,2.25,1.58
+223,1886268,Iran Persian Gulf Pro League,2021/2022,2022-05-19 13:30:00,28,Sanat Naft,Mes Rafsanjan,0,2,2,[],"['78', '90+5']",1.99,2.4,1.73,3.1,1.36,2.5,1.5
+224,1886269,Iran Persian Gulf Pro League,2021/2022,2022-05-19 13:45:00,28,Esteghlal,Aluminium Arak,0,0,0,[],[],1.18,3.2,4.5,2.6,1.48,2.75,1.4
+225,1886276,Iran Persian Gulf Pro League,2021/2022,2022-05-24 12:30:00,29,Mes Rafsanjan,Esteghlal,0,2,2,[],"['49', '54']",2.45,2.7,1.54,2.5,1.5,1.95,1.8
+226,1886272,Iran Persian Gulf Pro League,2021/2022,2022-05-24 12:30:00,29,Zob Ahan,Nassaji Mazandaran,0,0,0,[],[],1.48,2.8,2.6,2.88,1.4,2.2,1.62
+227,1886274,Iran Persian Gulf Pro League,2021/2022,2022-05-25 12:30:00,29,Tractor Sazi,Fajr Sepasi,2,1,3,"['24', '39']",['8'],1.52,2.55,2.45,2.88,1.4,2.39,1.52
+228,1886277,Iran Persian Gulf Pro League,2021/2022,2022-05-25 12:30:00,29,Aluminium Arak,Paykan,1,1,2,['64'],['77'],1.6,2.45,2.3,3.1,1.36,2.36,1.53
+229,1886271,Iran Persian Gulf Pro League,2021/2022,2022-05-25 12:30:00,29,Naft Masjed Soleyman,Sanat Naft,2,2,4,"['30', '63']","['42', '90+3']",1.5,2.63,2.55,3.3,1.28,2.45,1.5
+230,1886273,Iran Persian Gulf Pro League,2021/2022,2022-05-29 12:30:00,29,Foolad,Sepahan,3,0,3,"['41', '67', '79']",[],2.8,2.45,1.42,3.1,1.36,2.35,1.54
+231,1886275,Iran Persian Gulf Pro League,2021/2022,2022-05-29 12:30:00,29,Persepolis,Padideh Khorasan,2,1,3,"['24', '60']",['55'],1.04,4.75,14.0,2.0,1.8,2.94,1.36
+232,1886278,Iran Persian Gulf Pro League,2021/2022,2022-05-29 12:30:00,29,Havadar,Gol Gohar,0,2,2,[],"['7', '44']",2.1,2.6,1.74,3.1,1.36,2.26,1.58
+233,1886282,Iran Persian Gulf Pro League,2021/2022,2022-05-30 11:30:00,30,Esteghlal,Naft Masjed Soleyman,0,0,0,[],[],1.33,4.2,9.0,2.55,1.45,2.81,1.41
+234,1886280,Iran Persian Gulf Pro League,2021/2022,2022-05-30 11:30:00,30,Paykan,Mes Rafsanjan,1,1,2,['32'],['60'],2.8,2.7,2.6,2.9,1.36,2.25,1.57
+235,1886286,Iran Persian Gulf Pro League,2021/2022,2022-05-31 11:00:00,30,Nassaji Mazandaran,Tractor Sazi,0,3,3,[],"['-1', '-1', '-1']",2.7,2.45,3.1,2.75,1.4,2.0,1.77
+236,1886279,Iran Persian Gulf Pro League,2021/2022,2022-06-02 11:00:00,30,Padideh Khorasan,Foolad,0,0,0,[],[],4.13,3.2,1.19,2.7,1.44,2.38,1.53
+237,1886283,Iran Persian Gulf Pro League,2021/2022,2022-06-02 12:30:00,30,Fajr Sepasi,Persepolis,0,1,1,[],['23'],5.5,3.5,1.11,2.5,1.5,2.53,1.47
+238,1886284,Iran Persian Gulf Pro League,2021/2022,2022-06-02 12:30:00,30,Sepahan,Aluminium Arak,1,1,2,['52'],['17'],1.16,3.8,5.25,2.4,1.53,2.42,1.51
+239,1886281,Iran Persian Gulf Pro League,2021/2022,2022-06-02 12:30:00,30,Gol Gohar,Zob Ahan,3,2,5,"['60', '74', '84']","['11', '67']",1.83,2.4,1.95,2.88,1.4,2.15,1.64
+240,1886285,Iran Persian Gulf Pro League,2021/2022,2022-06-02 12:30:00,30,Sanat Naft,Havadar,3,0,3,"['-1', '-1', '-1']",[],1.64,2.4,2.12,3.4,1.33,2.32,1.58

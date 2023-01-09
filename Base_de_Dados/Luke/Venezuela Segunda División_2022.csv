@@ -1,0 +1,211 @@
+Nº,Id_Jogo,League,Season,Date,Rodada,Home,Away,FT_Goals_H,FT_Goals_A,FT_TotalGoals,Goals_H_Minutes,Goals_A_Minutes,FT_Odd_H,FT_Odd_D,FT_Odd_A,FT_Odd_Over25,FT_Odd_Under25,FT_Odd_BTTS_Yes,FT_Odd_BTTS_No
+1,3052801,Venezuela Segunda División,2022,2022-03-26 16:30:00,1,Yaracuyanos,Petare,0,0,0,[],[],1.91,3.25,3.5,2.15,1.67,0.0,0.0
+2,3052891,Venezuela Segunda División,2022,2022-03-26 16:30:00,1,Real Frontera,Ureña,1,1,2,['45+2'],['64'],2.4,3.0,2.8,2.15,1.67,0.0,0.0
+3,3052802,Venezuela Segunda División,2022,2022-03-26 17:00:00,1,Academia Anzoátegui,Dynamo Puerto La Cruz,3,0,3,"['20', '23', '90+1']",[],2.3,3.1,2.8,2.15,1.67,0.0,0.0
+4,3052892,Venezuela Segunda División,2022,2022-03-26 18:00:00,1,Héroes de Falcón,Rayo Zuliano,1,1,2,['45+2'],['36'],0.0,0.0,0.0,0.0,0.0,0.0,0.0
+5,3052893,Venezuela Segunda División,2022,2022-03-27 16:00:00,1,Fundación Lara Deportiva,Trujillanos,1,1,2,['78'],['60'],0.0,0.0,0.0,0.0,0.0,0.0,0.0
+6,3052895,Venezuela Segunda División,2022,2022-03-27 17:00:00,1,Atlético El Vigía,ULA,0,0,0,[],[],2.5,3.2,2.5,2.2,1.65,1.9,1.8
+7,3052894,Venezuela Segunda División,2022,2022-03-27 17:00:00,1,Llaneros de Guanare,Titanes,0,0,0,[],[],0.0,0.0,0.0,0.0,0.0,0.0,0.0
+8,3052803,Venezuela Segunda División,2022,2022-03-27 18:00:00,1,Angostura,Nueva Esparta,3,1,4,"['43', '45+1', '50']",['84'],0.0,0.0,0.0,0.0,0.0,0.0,0.0
+9,3052805,Venezuela Segunda División,2022,2022-03-28 18:00:00,1,Fundación AIFI,Bolívar,0,0,0,[],[],3.2,3.2,2.1,2.4,1.53,2.15,1.63
+10,3052804,Venezuela Segunda División,2022,2022-03-28 18:00:00,1,Libertador,Atlético La Cruz,1,0,1,['56'],[],2.8,3.0,2.3,2.35,1.57,2.0,1.71
+11,3052807,Venezuela Segunda División,2022,2022-04-02 16:00:00,2,Nueva Esparta,Yaracuyanos,0,2,2,[],"['50', '65']",0.0,0.0,0.0,0.0,0.0,0.0,0.0
+12,3052900,Venezuela Segunda División,2022,2022-04-02 17:00:00,2,Titanes,Rayo Zuliano,1,1,2,['40'],['90+3'],2.05,2.88,3.6,0.0,0.0,0.0,0.0
+13,3052898,Venezuela Segunda División,2022,2022-04-02 17:00:00,2,Trujillanos,Real Frontera,2,0,2,"['-1', '-1']",[],0.0,0.0,0.0,0.0,0.0,0.0,0.0
+14,3052899,Venezuela Segunda División,2022,2022-04-02 17:00:00,2,Ureña,Llaneros de Guanare,2,1,3,"['44', '73']",['61'],1.85,3.25,3.75,0.0,0.0,1.77,1.93
+15,3052809,Venezuela Segunda División,2022,2022-04-02 18:00:00,2,Bolívar,Libertador,0,2,2,[],"['30', '34']",2.3,2.88,3.0,2.6,1.48,2.25,1.57
+16,3052806,Venezuela Segunda División,2022,2022-04-02 18:00:00,2,Angostura,Academia Anzoátegui,2,0,2,"['6', '83']",[],0.0,0.0,0.0,0.0,0.0,0.0,0.0
+17,3052897,Venezuela Segunda División,2022,2022-04-03 12:00:00,2,ULA,Fundación Lara Deportiva,0,0,0,[],[],2.3,3.0,2.9,2.4,1.53,0.0,0.0
+18,3052808,Venezuela Segunda División,2022,2022-04-03 16:00:00,2,Petare,Fundación AIFI,1,0,1,['41'],[],2.0,3.0,3.6,2.6,1.48,0.0,0.0
+19,3052896,Venezuela Segunda División,2022,2022-04-03 17:00:00,2,Atlético El Vigía,Héroes de Falcón,0,1,1,[],['88'],0.0,0.0,0.0,0.0,0.0,0.0,0.0
+20,3052810,Venezuela Segunda División,2022,2022-04-03 18:00:00,2,Atlético La Cruz,Dynamo Puerto La Cruz,3,0,3,"['5', '34', '76']",[],1.25,4.75,9.5,1.75,2.05,2.4,1.51
+21,3052815,Venezuela Segunda División,2022,2022-04-09 16:30:00,3,Yaracuyanos,Angostura,1,0,1,['24'],[],1.83,3.1,4.0,0.0,0.0,1.88,1.82
+22,3052904,Venezuela Segunda División,2022,2022-04-09 16:30:00,3,Real Frontera,ULA,4,0,4,"['44', '58', '79', '90+2']",[],1.53,3.6,6.5,0.0,0.0,0.0,0.0
+23,3052811,Venezuela Segunda División,2022,2022-04-09 17:00:00,3,Academia Anzoátegui,Atlético La Cruz,0,0,0,[],[],3.4,3.1,2.0,2.0,1.8,1.8,1.91
+24,3052813,Venezuela Segunda División,2022,2022-04-09 18:00:00,3,Libertador,Petare,1,1,2,['18'],['4'],2.1,2.8,3.5,0.0,0.0,0.0,0.0
+25,3052901,Venezuela Segunda División,2022,2022-04-09 18:00:00,3,Héroes de Falcón,Titanes,0,2,2,[],"['-1', '-1']",2.63,2.8,2.63,0.0,0.0,0.0,0.0
+26,3052903,Venezuela Segunda División,2022,2022-04-10 17:00:00,3,Llaneros de Guanare,Trujillanos,0,0,0,[],[],2.38,3.25,2.63,2.2,1.65,1.93,1.77
+27,3052812,Venezuela Segunda División,2022,2022-04-10 17:00:00,3,Dynamo Puerto La Cruz,Bolívar,0,1,1,[],['43'],4.0,3.25,1.8,2.05,1.75,1.9,1.8
+28,3052902,Venezuela Segunda División,2022,2022-04-10 18:00:00,3,Rayo Zuliano,Ureña,6,0,6,"['44', '53', '60', '77', '82', '86']",[],0.0,0.0,0.0,0.0,0.0,0.0,0.0
+29,3052905,Venezuela Segunda División,2022,2022-04-10 18:00:00,3,Fundación Lara Deportiva,Atlético El Vigía,2,1,3,"['44', '84']",['16'],1.83,3.1,4.0,2.3,1.6,2.1,1.66
+30,3052814,Venezuela Segunda División,2022,2022-04-10 18:00:00,3,Fundación AIFI,Nueva Esparta,0,1,1,[],['45+2'],1.67,3.5,4.5,1.95,1.85,0.0,0.0
+31,3052818,Venezuela Segunda División,2022,2022-04-23 16:00:00,4,Nueva Esparta,Libertador,3,1,4,"['-1', '-1', '-1']",['-1'],0.0,0.0,0.0,0.0,0.0,0.0,0.0
+32,3052819,Venezuela Segunda División,2022,2022-04-23 16:30:00,4,Petare,Dynamo Puerto La Cruz,3,0,3,"['59', '62', '85']",[],1.36,3.8,8.0,2.0,1.8,0.0,0.0
+33,3052816,Venezuela Segunda División,2022,2022-04-23 16:30:00,4,Yaracuyanos,Academia Anzoátegui,4,1,5,"['24', '43', '57', '70']",['79'],1.62,3.4,5.0,2.1,1.7,2.1,1.66
+34,3052909,Venezuela Segunda División,2022,2022-04-23 17:00:00,4,Trujillanos,Rayo Zuliano,2,2,4,"['58', '68']","['82', '86']",2.15,2.88,3.3,0.0,0.0,0.0,0.0
+35,3052910,Venezuela Segunda División,2022,2022-04-23 17:00:00,4,Ureña,Titanes,0,0,0,[],[],2.7,3.1,2.38,0.0,0.0,1.82,1.88
+36,3052817,Venezuela Segunda División,2022,2022-04-23 18:00:00,4,Angostura,Fundación AIFI,0,0,0,[],[],1.8,3.25,4.0,0.0,0.0,2.05,1.7
+37,3052908,Venezuela Segunda División,2022,2022-04-24 12:00:00,4,ULA,Llaneros de Guanare,2,1,3,"['30', '90+1']",['65'],0.0,0.0,0.0,0.0,0.0,0.0,0.0
+38,3052907,Venezuela Segunda División,2022,2022-04-24 17:00:00,4,Atlético El Vigía,Real Frontera,0,1,1,[],['83'],2.2,3.25,2.88,0.0,0.0,0.0,0.0
+39,3052906,Venezuela Segunda División,2022,2022-04-24 18:00:00,4,Fundación Lara Deportiva,Héroes de Falcón,0,0,0,[],[],1.75,3.2,4.33,2.35,1.57,0.0,0.0
+40,3052820,Venezuela Segunda División,2022,2022-04-25 18:00:00,4,Bolívar,Atlético La Cruz,0,2,2,[],"['33', '65']",2.25,2.8,3.2,0.0,0.0,2.25,1.58
+41,3052912,Venezuela Segunda División,2022,2022-04-30 17:00:00,5,Titanes,Trujillanos,3,1,4,"['22', '30', '37']",['15'],2.38,2.88,2.88,0.0,0.0,2.1,1.66
+42,3052915,Venezuela Segunda División,2022,2022-04-30 17:00:00,5,Real Frontera,Fundación Lara Deportiva,0,1,1,[],['68'],2.38,2.88,2.88,2.3,1.6,0.0,0.0
+43,3052821,Venezuela Segunda División,2022,2022-04-30 17:00:00,5,Academia Anzoátegui,Bolívar,2,1,3,"['4', '39']",['2'],2.7,3.1,2.4,2.1,1.7,1.85,1.85
+44,3052824,Venezuela Segunda División,2022,2022-04-30 18:00:00,5,Libertador,Angostura,0,0,0,[],[],1.95,3.2,3.5,0.0,0.0,2.1,1.66
+45,3052911,Venezuela Segunda División,2022,2022-04-30 18:00:00,5,Héroes de Falcón,Ureña,3,0,3,"['16', '78', '87']",[],0.0,0.0,0.0,0.0,0.0,0.0,0.0
+46,3052914,Venezuela Segunda División,2022,2022-05-01 17:00:00,5,Llaneros de Guanare,Atlético El Vigía,2,1,3,"['87', '90+2']",['31'],2.1,3.0,3.25,0.0,0.0,2.25,1.57
+47,3052823,Venezuela Segunda División,2022,2022-05-01 17:00:00,5,Dynamo Puerto La Cruz,Nueva Esparta,0,1,1,[],['31'],3.75,3.3,1.83,0.0,0.0,0.0,0.0
+48,3052913,Venezuela Segunda División,2022,2022-05-01 18:00:00,5,Rayo Zuliano,ULA,3,0,3,"['5', '45+2', '72']",[],2.0,3.1,3.6,0.0,0.0,0.0,0.0
+49,3052822,Venezuela Segunda División,2022,2022-05-01 18:00:00,5,Atlético La Cruz,Petare,0,0,0,[],[],2.2,3.0,3.1,0.0,0.0,0.0,0.0
+50,3052825,Venezuela Segunda División,2022,2022-05-01 18:00:00,5,Fundación AIFI,Yaracuyanos,0,1,1,[],['40'],0.0,0.0,0.0,0.0,0.0,0.0,0.0
+51,3052828,Venezuela Segunda División,2022,2022-05-07 16:00:00,6,Angostura,Dynamo Puerto La Cruz,1,1,2,['-1'],['-1'],0.0,0.0,0.0,0.0,0.0,0.0,0.0
+52,3052829,Venezuela Segunda División,2022,2022-05-07 16:30:00,6,Nueva Esparta,Atlético La Cruz,0,0,0,[],[],0.0,0.0,0.0,0.0,0.0,0.0,0.0
+53,3052827,Venezuela Segunda División,2022,2022-05-07 16:30:00,6,Yaracuyanos,Libertador,1,1,2,['61'],['12'],1.8,3.1,4.2,0.0,0.0,2.3,1.55
+54,3052916,Venezuela Segunda División,2022,2022-05-07 17:00:00,6,Real Frontera,Héroes de Falcón,0,1,1,[],['27'],2.25,2.88,3.1,0.0,0.0,0.0,0.0
+55,3052920,Venezuela Segunda División,2022,2022-05-07 17:00:00,6,Trujillanos,Ureña,0,0,0,[],[],0.0,0.0,0.0,0.0,0.0,0.0,0.0
+56,3052919,Venezuela Segunda División,2022,2022-05-08 12:00:00,6,ULA,Titanes,1,3,4,['87'],"['28', '68', '79']",0.0,0.0,0.0,0.0,0.0,0.0,0.0
+57,3052830,Venezuela Segunda División,2022,2022-05-08 16:00:00,6,Petare,Bolívar,0,2,2,[],"['10', '62']",2.7,2.9,2.5,0.0,0.0,0.0,0.0
+58,3052918,Venezuela Segunda División,2022,2022-05-08 17:00:00,6,Atlético El Vigía,Rayo Zuliano,3,1,4,"['69', '76', '83']",['15'],2.7,3.0,2.45,0.0,0.0,0.0,0.0
+59,3052826,Venezuela Segunda División,2022,2022-05-08 18:00:00,6,Fundación AIFI,Academia Anzoátegui,0,2,2,[],"['13', '62']",2.2,3.0,3.1,0.0,0.0,2.2,1.61
+60,3052917,Venezuela Segunda División,2022,2022-05-08 18:00:00,6,Fundación Lara Deportiva,Llaneros de Guanare,4,1,5,"['-1', '-1', '-1', '-1']",['-1'],1.62,3.0,6.5,0.0,0.0,2.75,1.4
+61,3052831,Venezuela Segunda División,2022,2022-05-14 17:00:00,7,Academia Anzoátegui,Petare,2,0,2,"['15', '22']",[],0.0,0.0,0.0,0.0,0.0,0.0,0.0
+62,3052923,Venezuela Segunda División,2022,2022-05-14 17:00:00,7,Titanes,Atlético El Vigía,0,0,0,[],[],1.8,3.1,4.2,0.0,0.0,2.1,1.67
+63,3052922,Venezuela Segunda División,2022,2022-05-14 17:00:00,7,Ureña,ULA,2,1,3,"['12', '63']",['45+1'],2.1,3.1,3.2,0.0,0.0,1.85,1.85
+64,3052832,Venezuela Segunda División,2022,2022-05-14 18:00:00,7,Bolívar,Nueva Esparta,0,0,0,[],[],0.0,0.0,0.0,0.0,0.0,0.0,0.0
+65,3052921,Venezuela Segunda División,2022,2022-05-14 18:00:00,7,Héroes de Falcón,Trujillanos,1,2,3,['-1'],"['-1', '-1']",0.0,0.0,0.0,0.0,0.0,0.0,0.0
+66,3052835,Venezuela Segunda División,2022,2022-05-14 18:00:00,7,Libertador,Fundación AIFI,2,4,6,"['12', '67']","['29', '34', '51', '85']",1.8,3.1,4.2,0.0,0.0,2.05,1.7
+67,3052834,Venezuela Segunda División,2022,2022-05-15 17:00:00,7,Dynamo Puerto La Cruz,Yaracuyanos,1,1,2,['7'],['90+8'],0.0,0.0,0.0,0.0,0.0,0.0,0.0
+68,3052925,Venezuela Segunda División,2022,2022-05-15 17:00:00,7,Llaneros de Guanare,Real Frontera,0,1,1,[],['90+1'],0.0,0.0,0.0,0.0,0.0,0.0,0.0
+69,3052833,Venezuela Segunda División,2022,2022-05-15 18:00:00,7,Atlético La Cruz,Angostura,2,1,3,"['70', '87']",['11'],1.91,3.1,3.75,0.0,0.0,2.05,1.68
+70,3052924,Venezuela Segunda División,2022,2022-05-16 18:00:00,7,Rayo Zuliano,Fundación Lara Deportiva,1,0,1,['62'],[],2.63,3.0,2.5,0.0,0.0,0.0,0.0
+71,3052840,Venezuela Segunda División,2022,2022-05-21 16:00:00,8,Nueva Esparta,Petare,1,0,1,['75'],[],0.0,0.0,0.0,0.0,0.0,0.0,0.0
+72,3052838,Venezuela Segunda División,2022,2022-05-21 16:30:00,8,Yaracuyanos,Atlético La Cruz,1,3,4,['80'],"['68', '87', '90+5']",2.25,2.88,3.1,0.0,0.0,2.25,1.57
+73,3052927,Venezuela Segunda División,2022,2022-05-21 17:00:00,8,Real Frontera,Rayo Zuliano,2,3,5,"['54', '90+4']","['5', '69', '87']",2.25,3.0,3.0,0.0,0.0,2.1,1.65
+74,3052836,Venezuela Segunda División,2022,2022-05-21 18:00:00,8,Libertador,Academia Anzoátegui,0,0,0,[],[],2.0,3.0,3.6,0.0,0.0,2.15,1.63
+75,3052839,Venezuela Segunda División,2022,2022-05-21 18:00:00,8,Angostura,Bolívar,2,2,4,"['-1', '-1']","['-1', '-1']",0.0,0.0,0.0,0.0,0.0,0.0,0.0
+76,3052930,Venezuela Segunda División,2022,2022-05-22 12:00:00,8,ULA,Trujillanos,1,0,1,['90+5'],[],2.2,3.0,3.1,0.0,0.0,2.0,1.7
+77,3052926,Venezuela Segunda División,2022,2022-05-22 17:00:00,8,Llaneros de Guanare,Héroes de Falcón,0,0,0,[],[],0.0,0.0,0.0,0.0,0.0,0.0,0.0
+78,3052929,Venezuela Segunda División,2022,2022-05-22 17:00:00,8,Atlético El Vigía,Ureña,5,1,6,"['17', '28', '45+1', '52', '84']",['86'],2.25,3.0,3.0,0.0,0.0,1.91,1.8
+79,3052837,Venezuela Segunda División,2022,2022-05-22 18:00:00,8,Fundación AIFI,Dynamo Puerto La Cruz,3,1,4,"['32', '49', '70']",['80'],2.0,2.88,3.75,0.0,0.0,2.05,1.7
+80,3052928,Venezuela Segunda División,2022,2022-05-22 18:00:00,8,Fundación Lara Deportiva,Titanes,2,1,3,"['48', '79']",['56'],2.25,2.8,3.2,0.0,0.0,2.05,1.68
+81,3052842,Venezuela Segunda División,2022,2022-05-28 16:00:00,9,Petare,Angostura,2,1,3,"['48', '77']",['12'],2.3,2.9,2.9,2.4,1.53,2.05,1.68
+82,3052841,Venezuela Segunda División,2022,2022-05-28 17:00:00,9,Academia Anzoátegui,Nueva Esparta,2,1,3,"['34', '74']",['51'],2.38,2.75,3.0,2.7,1.44,2.2,1.6
+83,3052934,Venezuela Segunda División,2022,2022-05-28 17:00:00,9,Titanes,Real Frontera,2,1,3,"['3', '9']",['56'],2.15,2.8,3.4,2.6,1.48,2.05,1.68
+84,3052843,Venezuela Segunda División,2022,2022-05-28 18:00:00,9,Bolívar,Yaracuyanos,3,0,3,"['36', '45+1', '69']",[],0.0,0.0,0.0,0.0,0.0,0.0,0.0
+85,3052932,Venezuela Segunda División,2022,2022-05-29 17:00:00,9,Trujillanos,Atlético El Vigía,0,0,0,[],[],2.55,2.8,2.8,2.35,1.57,2.0,1.71
+86,3052845,Venezuela Segunda División,2022,2022-05-29 17:00:00,9,Dynamo Puerto La Cruz,Libertador,1,1,2,['90+3'],['10'],4.33,3.0,1.8,2.3,1.6,2.15,1.61
+87,3052933,Venezuela Segunda División,2022,2022-05-29 17:00:00,9,Ureña,Fundación Lara Deportiva,1,3,4,['90+6'],"['12', '79', '83']",3.4,2.9,2.1,2.5,1.5,2.15,1.63
+88,3052844,Venezuela Segunda División,2022,2022-05-29 18:00:00,9,Atlético La Cruz,Fundación AIFI,1,2,3,['65'],"['17', '19']",1.67,3.1,5.5,2.5,1.5,2.15,1.62
+89,3052935,Venezuela Segunda División,2022,2022-05-29 18:00:00,9,Rayo Zuliano,Llaneros de Guanare,2,0,2,"['16', '74']",[],0.0,0.0,0.0,0.0,0.0,0.0,0.0
+90,3052931,Venezuela Segunda División,2022,2022-05-29 18:00:00,9,Héroes de Falcón,ULA,2,1,3,"['51', '65']",['85'],0.0,0.0,0.0,0.0,0.0,0.0,0.0
+91,3052846,Venezuela Segunda División,2022,2022-06-11 16:00:00,10,Nueva Esparta,Academia Anzoátegui,0,2,2,[],"['44', '82']",2.1,2.9,3.3,2.5,1.5,2.11,1.69
+92,3052848,Venezuela Segunda División,2022,2022-06-11 16:30:00,10,Yaracuyanos,Bolívar,3,0,3,"['29', '68', '81']",[],2.15,2.9,3.25,2.7,1.44,0.0,0.0
+93,3052939,Venezuela Segunda División,2022,2022-06-11 17:00:00,10,Real Frontera,Titanes,0,1,1,[],['84'],2.2,2.9,3.2,2.4,1.53,1.99,1.78
+94,3052847,Venezuela Segunda División,2022,2022-06-11 18:00:00,10,Angostura,Petare,0,0,0,[],[],0.0,0.0,0.0,0.0,0.0,0.0,0.0
+95,3052850,Venezuela Segunda División,2022,2022-06-11 18:00:00,10,Libertador,Dynamo Puerto La Cruz,2,0,2,"['2', '21']",[],1.4,4.0,6.0,2.1,1.7,2.4,1.5
+96,3052936,Venezuela Segunda División,2022,2022-06-12 12:00:00,10,ULA,Héroes de Falcón,1,1,2,['67'],['90+3'],3.0,3.0,2.25,2.4,1.53,0.0,0.0
+97,3052940,Venezuela Segunda División,2022,2022-06-12 17:00:00,10,Llaneros de Guanare,Rayo Zuliano,3,2,5,"['13', '20', '37']","['27', '62']",0.0,0.0,0.0,0.0,0.0,0.0,0.0
+98,3052937,Venezuela Segunda División,2022,2022-06-12 17:00:00,10,Atlético El Vigía,Trujillanos,0,0,0,[],[],2.25,3.0,3.1,2.35,1.57,0.0,0.0
+99,3052849,Venezuela Segunda División,2022,2022-06-12 18:00:00,10,Fundación AIFI,Atlético La Cruz,0,1,1,[],['75'],0.0,0.0,0.0,0.0,0.0,0.0,0.0
+100,3052938,Venezuela Segunda División,2022,2022-06-12 18:00:00,10,Fundación Lara Deportiva,Ureña,0,1,1,[],['44'],1.67,3.5,4.33,1.75,2.05,1.71,2.0
+101,3052855,Venezuela Segunda División,2022,2022-06-18 16:00:00,11,Petare,Nueva Esparta,1,1,2,['30'],['44'],2.25,2.9,3.1,2.6,1.48,2.12,1.69
+102,3052851,Venezuela Segunda División,2022,2022-06-18 17:00:00,11,Academia Anzoátegui,Libertador,3,0,3,"['2', '23', '90+3']",[],1.85,3.2,3.8,2.4,1.53,2.08,1.72
+103,3052943,Venezuela Segunda División,2022,2022-06-18 17:00:00,11,Titanes,Fundación Lara Deportiva,1,0,1,['79'],[],2.2,2.9,3.2,2.6,1.48,2.26,1.61
+104,3052945,Venezuela Segunda División,2022,2022-06-18 17:00:00,11,Trujillanos,ULA,3,1,4,"['53', '65', '68']",['15'],1.65,3.1,5.5,2.5,1.5,2.4,1.54
+105,3052944,Venezuela Segunda División,2022,2022-06-18 17:00:00,11,Ureña,Atlético El Vigía,0,0,0,[],[],2.6,2.9,2.63,2.1,1.7,1.85,1.91
+106,3052852,Venezuela Segunda División,2022,2022-06-19 17:00:00,11,Dynamo Puerto La Cruz,Fundación AIFI,3,2,5,"['32', '43', '83']","['13', '23']",2.5,2.8,2.75,2.7,1.44,2.1,1.7
+107,3052853,Venezuela Segunda División,2022,2022-06-19 18:00:00,11,Atlético La Cruz,Yaracuyanos,1,1,2,['60'],['11'],2.25,2.7,3.3,3.1,1.36,2.28,1.6
+108,3052942,Venezuela Segunda División,2022,2022-06-19 18:00:00,11,Rayo Zuliano,Real Frontera,0,1,1,[],['35'],1.62,3.25,5.25,2.1,1.7,2.05,1.73
+109,3052941,Venezuela Segunda División,2022,2022-06-19 18:00:00,11,Héroes de Falcón,Llaneros de Guanare,6,0,6,"['-1', '-1', '-1', '-1', '-1', '-1']",[],0.0,0.0,0.0,0.0,0.0,0.0,0.0
+110,3052854,Venezuela Segunda División,2022,2022-06-20 18:00:00,11,Bolívar,Angostura,2,2,4,"['49', '90+3']","['20', '64']",1.95,3.1,3.6,2.4,1.53,2.1,1.65
+111,3052856,Venezuela Segunda División,2022,2022-07-02 16:00:00,12,Petare,Academia Anzoátegui,0,0,0,[],[],2.4,2.8,3.0,2.5,1.5,2.09,1.7
+112,3052950,Venezuela Segunda División,2022,2022-07-02 16:00:00,12,Real Frontera,Llaneros de Guanare,2,0,2,"['37', '65']",[],0.0,0.0,0.0,0.0,0.0,0.0,0.0
+113,3052857,Venezuela Segunda División,2022,2022-07-02 16:00:00,12,Nueva Esparta,Bolívar,1,1,2,['79'],['61'],2.15,2.8,3.3,2.5,1.5,2.11,1.69
+114,3052859,Venezuela Segunda División,2022,2022-07-02 16:30:00,12,Yaracuyanos,Dynamo Puerto La Cruz,1,0,1,['38'],[],1.29,4.5,10.0,2.05,1.75,2.8,1.39
+115,3052946,Venezuela Segunda División,2022,2022-07-02 17:00:00,12,Trujillanos,Héroes de Falcón,2,0,2,"['22', '80']",[],2.2,2.9,3.2,2.4,1.53,2.0,1.73
+116,3052947,Venezuela Segunda División,2022,2022-07-03 12:00:00,12,ULA,Ureña,0,1,1,[],['61'],2.4,3.3,2.55,1.9,1.9,1.7,2.1
+117,3052949,Venezuela Segunda División,2022,2022-07-03 17:00:00,12,Fundación Lara Deportiva,Rayo Zuliano,1,1,2,['89'],['27'],2.05,3.2,3.25,2.0,1.8,1.85,1.91
+118,3052948,Venezuela Segunda División,2022,2022-07-03 17:00:00,12,Atlético El Vigía,Titanes,1,1,2,['90'],['65'],3.9,2.8,2.0,2.7,1.44,2.28,1.6
+119,3052858,Venezuela Segunda División,2022,2022-07-03 18:00:00,12,Angostura,Atlético La Cruz,1,2,3,['-1'],"['-1', '-1']",0.0,0.0,0.0,0.0,0.0,0.0,0.0
+120,3052860,Venezuela Segunda División,2022,2022-07-03 18:00:00,12,Fundación AIFI,Libertador,1,0,1,['69'],[],0.0,0.0,0.0,0.0,0.0,0.0,0.0
+121,3052861,Venezuela Segunda División,2022,2022-07-09 17:00:00,13,Academia Anzoátegui,Fundación AIFI,3,0,3,"['12', '53', '67']",[],1.73,3.4,4.2,2.7,1.44,2.5,1.5
+122,3052955,Venezuela Segunda División,2022,2022-07-09 17:00:00,13,Ureña,Trujillanos,1,0,1,['58'],[],2.6,3.0,2.5,2.3,1.6,1.98,1.78
+123,3052954,Venezuela Segunda División,2022,2022-07-09 17:00:00,13,Titanes,ULA,2,1,3,"['50', '70']",['31'],1.4,3.6,8.0,2.4,1.53,2.8,1.36
+124,3052865,Venezuela Segunda División,2022,2022-07-09 18:00:00,13,Bolívar,Petare,1,0,1,['57'],[],2.5,2.8,2.8,2.88,1.4,0.0,0.0
+125,3052862,Venezuela Segunda División,2022,2022-07-09 18:00:00,13,Libertador,Yaracuyanos,0,2,2,[],"['59', '64']",2.5,3.0,2.6,2.7,1.44,2.22,1.63
+126,3052863,Venezuela Segunda División,2022,2022-07-10 17:00:00,13,Dynamo Puerto La Cruz,Angostura,0,1,1,[],['47'],2.2,3.0,3.1,2.35,1.57,2.1,1.67
+127,3052952,Venezuela Segunda División,2022,2022-07-10 17:00:00,13,Llaneros de Guanare,Fundación Lara Deportiva,2,1,3,"['2', '25']",['88'],0.0,0.0,0.0,0.0,0.0,0.0,0.0
+128,3052864,Venezuela Segunda División,2022,2022-07-10 18:00:00,13,Atlético La Cruz,Nueva Esparta,1,0,1,['83'],[],2.0,2.7,4.2,3.1,1.36,0.0,0.0
+129,3052951,Venezuela Segunda División,2022,2022-07-10 18:00:00,13,Héroes de Falcón,Real Frontera,1,0,1,['82'],[],0.0,0.0,0.0,0.0,0.0,0.0,0.0
+130,3052953,Venezuela Segunda División,2022,2022-07-10 18:00:00,13,Rayo Zuliano,Atlético El Vigía,4,0,4,"['15', '28', '75', '89']",[],0.0,0.0,0.0,0.0,0.0,0.0,0.0
+131,3052867,Venezuela Segunda División,2022,2022-07-16 16:00:00,14,Petare,Atlético La Cruz,1,1,2,['67'],['90+4'],0.0,0.0,0.0,0.0,0.0,0.0,0.0
+132,3052868,Venezuela Segunda División,2022,2022-07-16 16:00:00,14,Nueva Esparta,Dynamo Puerto La Cruz,2,1,3,"['70', '90+4']",['7'],1.5,3.75,5.5,2.05,1.75,2.1,1.7
+133,3052870,Venezuela Segunda División,2022,2022-07-16 16:30:00,14,Yaracuyanos,Fundación AIFI,2,1,3,"['78', '86']",['52'],1.44,3.75,6.5,2.0,1.8,1.98,1.68
+134,3052956,Venezuela Segunda División,2022,2022-07-16 17:00:00,14,Ureña,Héroes de Falcón,4,0,4,"['47', '83', '87', '90']",[],2.8,3.2,2.25,2.5,1.5,2.15,1.63
+135,3052957,Venezuela Segunda División,2022,2022-07-16 17:00:00,14,Trujillanos,Titanes,2,2,4,"['43', '62']","['21', '50']",2.63,3.0,2.5,2.88,1.4,2.25,1.58
+136,3052869,Venezuela Segunda División,2022,2022-07-16 18:00:00,14,Angostura,Libertador,1,0,1,['41'],[],0.0,0.0,0.0,0.0,0.0,0.0,0.0
+137,3052866,Venezuela Segunda División,2022,2022-07-16 18:00:00,14,Bolívar,Academia Anzoátegui,1,0,1,['24'],[],0.0,0.0,0.0,0.0,0.0,0.0,0.0
+138,3052958,Venezuela Segunda División,2022,2022-07-17 12:00:00,14,ULA,Rayo Zuliano,1,2,3,['48'],"['7', '10']",3.1,3.0,2.2,2.5,1.5,2.07,1.72
+139,3052959,Venezuela Segunda División,2022,2022-07-17 17:00:00,14,Atlético El Vigía,Llaneros de Guanare,3,0,3,"['8', '77', '90+2']",[],0.0,0.0,0.0,0.0,0.0,0.0,0.0
+140,3052960,Venezuela Segunda División,2022,2022-07-17 17:00:00,14,Fundación Lara Deportiva,Real Frontera,0,2,2,[],"['20', '59']",1.91,3.1,3.75,2.4,1.53,2.15,1.58
+141,3052962,Venezuela Segunda División,2022,2022-07-23 17:00:00,15,Real Frontera,Atlético El Vigía,0,1,1,[],['85'],2.1,2.9,3.3,2.37,1.45,2.17,1.66
+142,3052871,Venezuela Segunda División,2022,2022-07-23 17:00:00,15,Academia Anzoátegui,Yaracuyanos,1,2,3,['84'],"['37', '72']",2.25,2.87,3.0,2.37,1.45,2.2,1.64
+143,3052965,Venezuela Segunda División,2022,2022-07-23 17:30:00,15,Titanes,Ureña,0,0,0,[],[],2.2,2.87,3.2,2.25,1.5,0.0,0.0
+144,3052873,Venezuela Segunda División,2022,2022-07-23 18:00:00,15,Libertador,Nueva Esparta,1,1,2,['15'],['59'],2.15,2.8,3.4,2.37,1.45,2.15,1.63
+145,3052963,Venezuela Segunda División,2022,2022-07-24 17:00:00,15,Llaneros de Guanare,ULA,0,2,2,[],"['66', '90+4']",0.0,0.0,0.0,0.0,0.0,0.0,0.0
+146,3052874,Venezuela Segunda División,2022,2022-07-24 17:00:00,15,Dynamo Puerto La Cruz,Petare,0,1,1,[],['20'],3.1,3.0,2.2,2.3,1.55,2.0,1.68
+147,3052875,Venezuela Segunda División,2022,2022-07-24 18:00:00,15,Atlético La Cruz,Bolívar,2,2,4,"['65', '74']","['23', '31']",2.1,2.8,3.5,2.5,1.5,0.0,0.0
+148,3052961,Venezuela Segunda División,2022,2022-07-24 18:00:00,15,Héroes de Falcón,Fundación Lara Deportiva,0,1,1,[],['29'],0.0,0.0,0.0,0.0,0.0,0.0,0.0
+149,3052964,Venezuela Segunda División,2022,2022-07-24 18:00:00,15,Rayo Zuliano,Trujillanos,1,1,2,['13'],['90+4'],1.8,3.1,4.2,2.25,1.57,2.05,1.63
+150,3052872,Venezuela Segunda División,2022,2022-07-24 18:00:00,15,Fundación AIFI,Angostura,1,0,1,['46'],[],2.37,2.8,3.0,2.5,1.47,2.1,1.61
+151,3052878,Venezuela Segunda División,2022,2022-07-30 16:00:00,16,Petare,Libertador,2,0,2,"['29', '87']",[],1.97,2.88,4.42,3.5,1.3,2.75,1.43
+152,3052879,Venezuela Segunda División,2022,2022-07-30 16:00:00,16,Nueva Esparta,Fundación AIFI,1,1,2,['84'],['9'],2.21,2.99,3.4,2.74,1.34,2.43,1.53
+153,3052968,Venezuela Segunda División,2022,2022-07-30 17:00:00,16,Trujillanos,Llaneros de Guanare,3,0,3,"['-1', '-1', '-1']",[],0.0,0.0,0.0,0.0,0.0,0.0,0.0
+154,3052967,Venezuela Segunda División,2022,2022-07-30 17:00:00,16,Ureña,Rayo Zuliano,1,0,1,['44'],[],2.26,3.04,3.22,2.48,1.48,0.0,0.0
+155,3052966,Venezuela Segunda División,2022,2022-07-30 17:00:00,16,Titanes,Héroes de Falcón,2,1,3,"['45', '88']",['3'],1.89,3.08,4.42,3.1,1.36,0.0,0.0
+156,3052880,Venezuela Segunda División,2022,2022-07-30 18:00:00,16,Angostura,Yaracuyanos,4,3,7,"['40', '42', '47', '9003']","['19', '37', '65']",2.8,2.8,2.5,0.0,0.0,0.0,0.0
+157,3052969,Venezuela Segunda División,2022,2022-07-31 12:00:00,16,ULA,Real Frontera,3,1,4,"['18', '75', '83']",['90'],2.38,2.9,2.88,2.5,1.5,2.1,1.7
+158,3052970,Venezuela Segunda División,2022,2022-07-31 17:00:00,16,Atlético El Vigía,Fundación Lara Deportiva,4,2,6,"['40', '45', '68', '90+1']","['7', '89']",2.38,2.75,3.1,3.1,1.36,2.65,1.46
+159,3052876,Venezuela Segunda División,2022,2022-07-31 18:00:00,16,Atlético La Cruz,Academia Anzoátegui,2,1,3,"['45+2', '61']",['18'],2.15,2.75,3.4,2.88,1.4,0.0,0.0
+160,3052877,Venezuela Segunda División,2022,2022-07-31 18:00:00,16,Bolívar,Dynamo Puerto La Cruz,1,3,4,['-1'],"['-1', '-1', '-1']",0.0,0.0,0.0,0.0,0.0,0.0,0.0
+161,3052971,Venezuela Segunda División,2022,2022-08-07 17:00:00,17,Héroes de Falcón,Atlético El Vigía,1,0,1,['83'],[],0.0,0.0,0.0,0.0,0.0,0.0,0.0
+162,3052973,Venezuela Segunda División,2022,2022-08-07 17:00:00,17,Real Frontera,Trujillanos,1,0,1,['68'],[],3.42,2.78,1.97,2.59,1.38,2.0,1.68
+163,3052972,Venezuela Segunda División,2022,2022-08-07 17:00:00,17,Fundación Lara Deportiva,ULA,2,1,3,"['9', '90']",['64'],1.85,3.3,3.6,2.25,1.62,1.86,1.83
+164,3052975,Venezuela Segunda División,2022,2022-08-07 17:00:00,17,Rayo Zuliano,Titanes,4,4,8,"['27', '45+3', '63', '89']","['10', '31', '65', '90+3']",2.27,3.0,3.07,2.4,1.5,2.1,1.67
+165,3052885,Venezuela Segunda División,2022,2022-08-07 17:00:00,17,Dynamo Puerto La Cruz,Atlético La Cruz,0,0,0,[],[],4.14,3.14,1.88,2.32,1.47,2.4,1.54
+166,3052884,Venezuela Segunda División,2022,2022-08-07 17:00:00,17,Libertador,Bolívar,1,4,5,['-1'],"['-1', '-1', '-1', '-1']",0.0,0.0,0.0,0.0,0.0,0.0,0.0
+167,3052883,Venezuela Segunda División,2022,2022-08-07 17:00:00,17,Fundación AIFI,Petare,2,1,3,"['48', '90+4']",['40'],2.9,2.8,2.65,2.7,1.35,2.15,1.6
+168,3052882,Venezuela Segunda División,2022,2022-08-07 17:00:00,17,Yaracuyanos,Nueva Esparta,2,0,2,"['8', '29']",[],1.98,3.13,3.76,2.35,1.52,2.2,1.64
+169,3052881,Venezuela Segunda División,2022,2022-08-07 17:00:00,17,Academia Anzoátegui,Angostura,1,2,3,['41'],"['43', '61']",0.0,0.0,0.0,0.0,0.0,0.0,0.0
+170,3052974,Venezuela Segunda División,2022,2022-08-07 17:00:00,17,Llaneros de Guanare,Ureña,0,1,1,[],['86'],0.0,0.0,0.0,0.0,0.0,0.0,0.0
+171,3052976,Venezuela Segunda División,2022,2022-08-13 17:00:00,18,Rayo Zuliano,Héroes de Falcón,2,2,4,"['25', '41']","['46', '77']",1.95,3.0,3.75,2.4,1.53,2.12,1.69
+172,3052979,Venezuela Segunda División,2022,2022-08-13 17:00:00,18,Trujillanos,Fundación Lara Deportiva,1,1,2,['61'],['86'],2.2,2.9,3.2,2.4,1.53,2.06,1.73
+173,3052977,Venezuela Segunda División,2022,2022-08-13 17:00:00,18,Titanes,Llaneros de Guanare,3,1,4,"['12', '38', '78']",['54'],0.0,0.0,0.0,0.0,0.0,0.0,0.0
+174,3052980,Venezuela Segunda División,2022,2022-08-13 17:00:00,18,ULA,Atlético El Vigía,3,1,4,"['51', '52', '81']",['44'],2.45,2.75,2.9,2.6,1.48,2.16,1.66
+175,3052978,Venezuela Segunda División,2022,2022-08-13 17:00:00,18,Ureña,Real Frontera,0,1,1,[],['46'],2.1,2.9,3.4,2.4,1.53,2.04,1.74
+176,3052890,Venezuela Segunda División,2022,2022-08-13 17:00:00,18,Nueva Esparta,Angostura,0,2,2,[],"['60', '79']",2.2,2.8,3.3,2.6,1.48,2.24,1.62
+177,3052886,Venezuela Segunda División,2022,2022-08-13 17:00:00,18,Dynamo Puerto La Cruz,Academia Anzoátegui,1,7,8,['67'],"['4', '22', '40', '55', '64', '69', '87']",4.33,3.2,1.75,2.35,1.57,2.16,1.66
+178,3052887,Venezuela Segunda División,2022,2022-08-13 17:00:00,18,Atlético La Cruz,Libertador,1,0,1,['62'],[],1.8,3.1,4.2,2.35,1.57,2.14,1.67
+179,3052888,Venezuela Segunda División,2022,2022-08-13 17:00:00,18,Bolívar,Fundación AIFI,1,1,2,['20'],['73'],1.85,3.0,4.2,2.4,1.53,2.18,1.65
+180,3052889,Venezuela Segunda División,2022,2022-08-13 17:00:00,18,Petare,Yaracuyanos,2,1,3,"['56', '83']",['90+3'],2.8,2.7,2.6,2.7,1.44,2.17,1.66
+181,3742927,Venezuela Segunda División,2022,2022-08-28 17:00:00,1,Angostura,Titanes,2,0,2,"['-1', '-1']",[],0.0,0.0,0.0,0.0,0.0,0.0,0.0
+182,3742938,Venezuela Segunda División,2022,2022-08-28 17:00:00,1,Academia Anzoátegui,Rayo Zuliano,0,0,0,[],[],0.0,0.0,0.0,0.0,0.0,0.0,0.0
+183,3742939,Venezuela Segunda División,2022,2022-08-28 18:00:00,1,Héroes de Falcón,Atlético La Cruz,0,1,1,[],['-1'],0.0,0.0,0.0,0.0,0.0,0.0,0.0
+184,3742926,Venezuela Segunda División,2022,2022-08-31 17:00:00,1,Ureña,Petare,2,2,4,"['-1', '-1']","['-1', '-1']",2.25,3.0,3.0,2.5,1.5,0.0,0.0
+185,3742928,Venezuela Segunda División,2022,2022-09-03 17:00:00,2,Titanes,Petare,0,0,0,[],[],1.7,3.3,3.9,2.28,1.57,2.15,1.67
+186,3742929,Venezuela Segunda División,2022,2022-09-03 17:00:00,2,Ureña,Angostura,0,1,1,[],['90+4'],2.28,2.7,2.95,2.62,1.37,2.32,1.58
+187,3742941,Venezuela Segunda División,2022,2022-09-04 17:00:00,2,Academia Anzoátegui,Héroes de Falcón,3,0,3,"['14', '66', '71']",[],2.25,3.2,2.8,2.2,1.65,1.9,1.86
+188,3742940,Venezuela Segunda División,2022,2022-09-04 18:00:00,2,Atlético La Cruz,Rayo Zuliano,2,0,2,"['75', '90+3']",[],2.2,3.1,3.0,2.4,1.53,2.05,1.73
+189,3742931,Venezuela Segunda División,2022,2022-09-10 16:00:00,3,Petare,Angostura,2,1,3,"['21', '47']",['29'],2.15,3.0,3.02,2.37,1.45,2.14,1.67
+190,3742930,Venezuela Segunda División,2022,2022-09-10 17:00:00,3,Titanes,Ureña,3,2,5,"['25', '49', '53']","['7', '29']",2.03,3.16,3.54,2.28,1.6,2.14,1.67
+191,3742943,Venezuela Segunda División,2022,2022-09-10 18:00:00,3,Rayo Zuliano,Héroes de Falcón,0,1,1,[],['88'],2.03,3.1,3.62,2.44,1.53,2.12,1.69
+192,3742942,Venezuela Segunda División,2022,2022-09-10 18:00:00,3,Atlético La Cruz,Academia Anzoátegui,0,0,0,[],[],2.08,3.05,3.54,2.52,1.5,2.22,1.63
+193,3742933,Venezuela Segunda División,2022,2022-09-14 17:00:00,4,Angostura,Petare,1,0,1,['2'],[],2.3,3.2,2.75,2.6,1.48,2.2,1.64
+194,3742932,Venezuela Segunda División,2022,2022-09-14 17:00:00,4,Ureña,Titanes,1,1,2,['66'],['17'],2.88,3.25,2.2,2.15,1.67,1.9,1.86
+195,3742944,Venezuela Segunda División,2022,2022-09-14 17:00:00,4,Academia Anzoátegui,Atlético La Cruz,1,0,1,['73'],[],2.5,3.2,2.5,2.5,1.5,2.17,1.66
+196,3742945,Venezuela Segunda División,2022,2022-09-14 18:00:00,4,Héroes de Falcón,Rayo Zuliano,3,2,5,"['55', '87', '90+5']","['31', '71']",0.0,0.0,0.0,0.0,0.0,0.0,0.0
+197,3742935,Venezuela Segunda División,2022,2022-09-18 17:00:00,5,Angostura,Ureña,4,0,4,"['-1', '-1', '-1', '-1']",[],2.38,3.0,2.75,2.4,1.53,2.0,1.73
+198,3742934,Venezuela Segunda División,2022,2022-09-18 17:00:00,5,Petare,Titanes,1,0,1,['11'],[],2.5,3.2,2.5,2.5,1.5,2.1,1.67
+199,3742946,Venezuela Segunda División,2022,2022-09-18 17:00:00,5,Rayo Zuliano,Atlético La Cruz,0,1,1,[],['44'],2.45,3.3,2.7,1.85,1.85,1.65,2.1
+200,3742947,Venezuela Segunda División,2022,2022-09-18 17:00:00,5,Héroes de Falcón,Academia Anzoátegui,2,0,2,"['53', '61']",[],0.0,0.0,0.0,0.0,0.0,0.0,0.0
+201,3742937,Venezuela Segunda División,2022,2022-09-22 17:00:00,6,Titanes,Angostura,2,0,2,"['24', '36']",[],1.8,3.2,4.0,2.4,1.53,2.3,1.59
+202,3742936,Venezuela Segunda División,2022,2022-09-22 17:00:00,6,Petare,Ureña,6,0,6,"['20', '32', '39', '76', '85', '90+1']",[],1.91,3.0,4.0,2.6,1.48,2.3,1.59
+203,3742948,Venezuela Segunda División,2022,2022-09-22 17:00:00,6,Rayo Zuliano,Academia Anzoátegui,0,1,1,[],['41'],2.5,2.8,2.75,2.4,1.53,2.27,1.6
+204,3742949,Venezuela Segunda División,2022,2022-09-22 17:00:00,6,Atlético La Cruz,Héroes de Falcón,0,0,0,[],[],1.83,3.1,4.2,2.4,1.53,2.12,1.69
+205,4129181,Venezuela Segunda División,2022,2022-09-28 16:00:00,0,Petare,Academia Anzoátegui,0,2,2,[],"['8', '58']",2.2,3.0,3.1,2.5,1.5,2.19,1.65
+206,4129179,Venezuela Segunda División,2022,2022-09-29 11:00:00,0,Atlético La Cruz,Angostura,0,1,1,[],['-1'],2.2,2.9,3.2,2.6,1.48,2.2,1.64
+207,4129182,Venezuela Segunda División,2022,2022-10-02 17:00:00,0,Academia Anzoátegui,Petare,2,0,2,"['45+2', '84']",[],1.83,3.3,3.75,2.11,1.57,2.06,1.73
+208,4129180,Venezuela Segunda División,2022,2022-10-02 19:30:00,0,Angostura,Atlético La Cruz,0,1,1,[],['-1'],0.0,0.0,0.0,0.0,0.0,0.0,0.0
+209,4244002,Venezuela Segunda División,2022,2022-10-09 17:00:00,0,Angostura,Academia Anzoátegui,1,1,2,['-1'],['-1'],2.0,3.0,3.5,2.4,1.53,2.1,1.7
+210,4244003,Venezuela Segunda División,2022,2022-10-16 16:00:00,0,Academia Anzoátegui,Angostura,1,3,4,['45+3'],"['57', '60', '86']",2.05,2.9,3.5,2.35,1.57,2.05,1.73

@@ -1,0 +1,150 @@
+Nº,Id_Jogo,League,Season,Date,Rodada,Home,Away,FT_Goals_H,FT_Goals_A,FT_TotalGoals,Goals_H_Minutes,Goals_A_Minutes,FT_Odd_H,FT_Odd_D,FT_Odd_A,FT_Odd_Over25,FT_Odd_Under25,FT_Odd_BTTS_Yes,FT_Odd_BTTS_No
+1,1540831,Republic of Ireland First Division,2022,2022-02-18 16:45:00,1,Athlone Town,Waterford,2,5,7,"['80', '87']","['16', '18', '36', '54', '82']",4.33,3.5,1.67,1.75,1.95,1.83,1.83
+2,1540832,Republic of Ireland First Division,2022,2022-02-18 16:45:00,1,Bray Wanderers,Cork City,0,6,6,[],"['34', '57', '59', '60', '63', '76']",2.0,3.3,3.3,2.08,1.68,1.83,1.83
+3,1540833,Republic of Ireland First Division,2022,2022-02-18 16:45:00,1,Wexford,Treaty United,1,5,6,['42'],"['18', '35', '50', '57', '65']",2.7,3.25,2.4,1.91,1.81,1.83,1.83
+4,1540835,Republic of Ireland First Division,2022,2022-02-25 16:45:00,2,Cobh Ramblers,Wexford,2,3,5,"['30', '72']","['71', '81', '89']",2.29,3.35,2.9,1.96,1.82,1.8,1.96
+5,1540836,Republic of Ireland First Division,2022,2022-02-25 16:45:00,2,Cork City,Galway United,0,1,1,[],['38'],2.55,3.4,2.55,2.17,1.62,1.91,1.85
+6,1540838,Republic of Ireland First Division,2022,2022-02-25 16:45:00,2,Waterford,Bray Wanderers,1,0,1,['27'],[],1.57,4.0,5.2,1.82,1.96,2.0,1.77
+7,1540839,Republic of Ireland First Division,2022,2022-03-04 16:45:00,3,Cobh Ramblers,Treaty United,0,0,0,[],[],3.34,3.45,2.13,1.95,1.75,1.78,2.01
+8,1540840,Republic of Ireland First Division,2022,2022-03-04 16:45:00,3,Galway United,Waterford,2,2,4,"['48', '75']","['16', '37']",3.1,3.36,2.28,1.91,1.8,1.8,1.91
+9,1540841,Republic of Ireland First Division,2022,2022-03-04 16:45:00,3,Wexford,Athlone Town,2,1,3,"['33', '55']",['89'],2.02,3.68,3.42,1.57,2.25,1.47,2.64
+10,1540842,Republic of Ireland First Division,2022,2022-03-05 16:30:00,3,Longford Town,Cork City,0,0,0,[],[],2.7,3.1,2.37,1.91,1.8,1.8,1.91
+11,1540843,Republic of Ireland First Division,2022,2022-03-11 16:45:00,4,Bray Wanderers,Galway United,1,3,4,['69'],"['53', '67', '90+3']",3.22,3.36,2.22,1.92,1.82,1.66,2.05
+12,1540844,Republic of Ireland First Division,2022,2022-03-11 16:45:00,4,Cork City,Cobh Ramblers,2,0,2,"['14', '62']",[],1.33,5.0,9.2,1.77,1.98,2.1,1.62
+13,1540846,Republic of Ireland First Division,2022,2022-03-11 16:45:00,4,Waterford,Wexford,2,1,3,"['7', '34']",['29'],1.32,5.45,8.5,1.51,2.39,2.3,1.51
+14,1540850,Republic of Ireland First Division,2022,2022-03-14 16:45:00,5,Longford Town,Bray Wanderers,1,2,3,['8'],"['21', '39']",2.25,3.1,2.95,2.05,1.67,1.8,1.96
+15,1540848,Republic of Ireland First Division,2022,2022-03-14 16:45:00,5,Cork City,Waterford,2,0,2,"['15', '18']",[],3.5,3.4,1.95,1.98,1.9,1.68,2.05
+16,1540847,Republic of Ireland First Division,2022,2022-03-14 16:45:00,5,Athlone Town,Cobh Ramblers,2,3,5,"['45+3', '83']","['14', '89', '90+4']",1.75,3.75,3.85,1.7,2.05,1.67,2.18
+17,1540849,Republic of Ireland First Division,2022,2022-03-14 16:45:00,5,Galway United,Treaty United,2,1,3,"['5', '43']",['68'],1.6,3.85,4.7,1.9,1.98,1.9,1.8
+18,1540853,Republic of Ireland First Division,2022,2022-03-18 12:00:00,6,Treaty United,Cork City,0,4,4,[],"['3', '26', '35', '79']",3.13,3.13,2.1,1.99,1.75,1.86,1.92
+19,1540851,Republic of Ireland First Division,2022,2022-03-18 16:45:00,6,Athlone Town,Galway United,1,2,3,['85'],"['58', '67']",4.4,3.72,1.62,1.57,2.25,1.67,2.18
+20,1540854,Republic of Ireland First Division,2022,2022-03-18 16:45:00,6,Wexford,Longford Town,0,3,3,[],"['2', '19', '82']",5.01,4.01,1.5,1.84,1.88,1.7,2.05
+21,1540852,Republic of Ireland First Division,2022,2022-03-18 17:15:00,6,Cobh Ramblers,Bray Wanderers,0,1,1,[],['80'],3.91,3.33,1.79,1.94,1.79,1.92,1.86
+22,1540857,Republic of Ireland First Division,2022,2022-03-25 16:45:00,7,Treaty United,Waterford,2,1,3,"['6', '57']",['77'],4.5,3.6,1.7,1.93,1.85,1.88,1.88
+23,1540855,Republic of Ireland First Division,2022,2022-03-25 16:45:00,7,Bray Wanderers,Wexford,0,0,0,[],[],2.1,3.2,3.25,1.75,2.05,1.74,2.04
+24,1540856,Republic of Ireland First Division,2022,2022-03-25 16:45:00,7,Cork City,Athlone Town,4,1,5,"['7', '18', '35', '52']",['37'],1.25,5.75,9.0,1.57,2.38,2.2,1.64
+25,1540858,Republic of Ireland First Division,2022,2022-03-25 16:45:00,7,Longford Town,Galway United,2,1,3,"['45', '77']",['11'],3.25,3.5,2.15,1.9,1.87,1.67,2.1
+26,1540862,Republic of Ireland First Division,2022,2022-04-01 15:45:00,8,Wexford,Cork City,0,1,1,[],['7'],3.33,3.43,1.91,1.87,1.81,1.73,2.0
+27,1540861,Republic of Ireland First Division,2022,2022-04-01 15:45:00,8,Waterford,Longford Town,1,1,2,['90+4'],['36'],1.58,3.73,4.66,1.87,1.82,1.83,1.83
+28,1540860,Republic of Ireland First Division,2022,2022-04-01 15:45:00,8,Galway United,Cobh Ramblers,1,0,1,['68'],[],1.67,3.68,4.12,1.77,1.93,1.91,1.8
+29,1540859,Republic of Ireland First Division,2022,2022-04-01 15:45:00,8,Athlone Town,Bray Wanderers,1,1,2,['57'],['13'],3.24,3.69,1.87,1.67,2.1,1.73,2.0
+30,1540837,Republic of Ireland First Division,2022,2022-04-04 15:45:00,2,Treaty United,Athlone Town,2,0,2,"['42', '59']",[],1.54,3.85,4.5,1.67,2.15,1.91,1.85
+31,1540863,Republic of Ireland First Division,2022,2022-04-08 15:45:00,9,Bray Wanderers,Treaty United,0,0,0,[],[],1.86,3.42,3.58,1.96,1.78,1.71,2.0
+32,1540864,Republic of Ireland First Division,2022,2022-04-08 15:45:00,9,Cobh Ramblers,Waterford,0,4,4,[],"['27', '44', '52', '61']",5.9,4.1,1.44,1.76,2.0,1.8,1.86
+33,1540865,Republic of Ireland First Division,2022,2022-04-09 13:00:00,9,Galway United,Wexford,1,1,2,['88'],['17'],1.4,4.5,6.0,1.63,2.15,1.79,2.02
+34,1540866,Republic of Ireland First Division,2022,2022-04-09 15:30:00,9,Longford Town,Athlone Town,2,0,2,"['47', '54']",[],1.4,4.75,5.5,1.54,2.33,1.72,2.06
+35,1540834,Republic of Ireland First Division,2022,2022-04-12 15:45:00,1,Longford Town,Cobh Ramblers,2,0,2,"['25', '85']",[],1.39,4.7,7.9,1.85,2.0,1.73,2.0
+36,1540870,Republic of Ireland First Division,2022,2022-04-15 15:45:00,10,Wexford,Cobh Ramblers,4,2,6,"['2', '27', '46', '60']","['4', '55']",2.0,3.4,3.3,1.81,1.92,1.72,2.07
+37,1540869,Republic of Ireland First Division,2022,2022-04-15 15:45:00,10,Waterford,Galway United,0,1,1,[],['13'],1.95,3.25,3.55,1.98,1.75,1.7,2.05
+38,1540867,Republic of Ireland First Division,2022,2022-04-15 15:45:00,10,Athlone Town,Treaty United,1,1,2,['82'],['89'],3.95,3.8,1.7,1.68,2.08,1.7,2.1
+39,1540868,Republic of Ireland First Division,2022,2022-04-15 15:45:00,10,Cork City,Bray Wanderers,0,0,0,[],[],1.5,3.9,5.75,1.96,1.77,2.0,1.77
+40,1540874,Republic of Ireland First Division,2022,2022-04-18 10:00:00,11,Waterford,Cork City,1,2,3,['59'],"['9', '63']",2.42,3.34,2.89,1.89,1.83,1.7,2.05
+41,1540871,Republic of Ireland First Division,2022,2022-04-18 11:30:00,11,Bray Wanderers,Longford Town,1,2,3,['79'],"['54', '90+4']",2.66,3.15,2.39,1.96,1.79,1.73,2.0
+42,1540872,Republic of Ireland First Division,2022,2022-04-18 12:00:00,11,Cobh Ramblers,Athlone Town,3,2,5,"['45+2', '48', '62']","['46', '89']",1.88,3.53,3.4,1.84,1.9,1.69,2.04
+43,1540873,Republic of Ireland First Division,2022,2022-04-18 15:45:00,11,Treaty United,Wexford,2,1,3,"['29', '90+2']",['76'],1.95,3.3,3.4,1.75,1.95,1.65,2.1
+44,1540875,Republic of Ireland First Division,2022,2022-04-22 15:45:00,12,Cobh Ramblers,Cork City,2,3,5,"['34', '50']","['13', '31', '68']",9.5,4.75,1.25,1.85,1.86,2.11,1.71
+45,1540876,Republic of Ireland First Division,2022,2022-04-22 15:45:00,12,Galway United,Bray Wanderers,2,0,2,"['8', '70']",[],1.52,3.75,5.5,2.0,1.73,1.99,1.8
+46,1540877,Republic of Ireland First Division,2022,2022-04-22 15:45:00,12,Wexford,Waterford,0,2,2,[],"['9', '69']",3.95,3.5,1.75,1.71,2.02,1.73,2.08
+47,1540878,Republic of Ireland First Division,2022,2022-04-23 15:30:00,12,Longford Town,Treaty United,0,0,0,[],[],1.93,3.5,3.4,1.9,1.98,1.83,1.93
+48,1540879,Republic of Ireland First Division,2022,2022-04-29 15:45:00,13,Athlone Town,Wexford,0,3,3,[],"['44', '67', '90']",3.3,3.85,1.94,1.58,2.29,1.57,2.33
+49,1540880,Republic of Ireland First Division,2022,2022-04-29 15:45:00,13,Bray Wanderers,Cobh Ramblers,1,1,2,['45+1'],['22'],1.63,3.8,4.9,1.91,1.83,2.0,1.77
+50,1540881,Republic of Ireland First Division,2022,2022-04-29 15:45:00,13,Cork City,Longford Town,4,1,5,"['45+2', '55', '84', '89']",['44'],1.82,3.55,4.0,1.83,1.91,1.73,2.0
+51,1540882,Republic of Ireland First Division,2022,2022-04-29 15:45:00,13,Treaty United,Galway United,2,3,5,"['14', '62']","['75', '80', '87']",3.65,3.3,2.0,2.18,1.64,1.97,1.8
+52,1540885,Republic of Ireland First Division,2022,2022-05-02 10:00:00,14,Waterford,Athlone Town,1,0,1,['74'],[],1.27,5.6,9.2,1.43,2.62,1.93,1.85
+53,1540886,Republic of Ireland First Division,2022,2022-05-02 11:00:00,14,Wexford,Bray Wanderers,1,1,2,['13'],['7'],2.12,3.35,3.2,1.86,1.88,1.75,2.05
+54,1540884,Republic of Ireland First Division,2022,2022-05-02 13:00:00,14,Galway United,Longford Town,2,0,2,"['50', '72']",[],1.73,3.4,4.1,2.15,1.61,2.1,1.67
+55,1540883,Republic of Ireland First Division,2022,2022-05-02 13:00:00,14,Cork City,Treaty United,3,0,3,"['64', '65', '67']",[],1.37,4.2,7.25,1.7,1.85,2.11,1.71
+56,1540887,Republic of Ireland First Division,2022,2022-05-06 15:45:00,15,Athlone Town,Cork City,1,2,3,['1'],"['65', '90+4']",7.34,5.22,1.24,1.44,2.59,1.95,1.83
+57,1540888,Republic of Ireland First Division,2022,2022-05-06 15:45:00,15,Bray Wanderers,Waterford,1,4,5,['88'],"['23', '54', '90', '90+3']",3.5,3.26,1.8,2.03,1.75,1.89,1.89
+58,1540889,Republic of Ireland First Division,2022,2022-05-06 15:45:00,15,Cobh Ramblers,Galway United,0,4,4,[],"['20', '36', '45+2', '90+1']",4.84,3.83,1.48,1.9,1.88,1.95,1.83
+59,1540890,Republic of Ireland First Division,2022,2022-05-07 15:30:00,15,Longford Town,Wexford,2,1,3,"['25', '90+4']",['2'],1.61,3.75,4.4,1.71,2.06,1.73,2.05
+60,1540891,Republic of Ireland First Division,2022,2022-05-13 15:45:00,16,Athlone Town,Longford Town,1,2,3,['19'],"['30', '34']",4.4,3.7,1.61,1.6,2.2,1.67,2.1
+61,1540892,Republic of Ireland First Division,2022,2022-05-13 15:45:00,16,Treaty United,Bray Wanderers,2,2,4,"['9', '79']","['60', '84']",2.3,3.0,2.8,2.0,1.73,1.8,1.91
+62,1540893,Republic of Ireland First Division,2022,2022-05-13 15:45:00,16,Waterford,Cobh Ramblers,4,2,6,"['34', '50', '78', '90+2']","['3', '37']",1.28,4.75,9.0,1.6,2.2,1.91,1.8
+63,1540894,Republic of Ireland First Division,2022,2022-05-13 15:45:00,16,Wexford,Galway United,0,4,4,[],"['9', '15', '28', '71']",3.75,3.1,1.87,2.05,1.7,1.85,1.85
+64,1540845,Republic of Ireland First Division,2022,2022-05-16 15:45:00,4,Treaty United,Longford Town,0,0,0,[],[],2.83,3.4,2.21,2.05,1.83,1.78,1.99
+65,1540895,Republic of Ireland First Division,2022,2022-05-20 15:45:00,17,Cork City,Wexford,1,1,2,['23'],['48'],1.27,5.0,7.5,1.54,2.33,1.91,1.85
+66,1540896,Republic of Ireland First Division,2022,2022-05-20 15:45:00,17,Galway United,Athlone Town,3,0,3,"['54', '80', '89']",[],1.15,6.3,10.5,1.41,2.69,2.14,1.67
+67,1540897,Republic of Ireland First Division,2022,2022-05-20 15:45:00,17,Treaty United,Cobh Ramblers,2,2,4,"['6', '54']","['17', '52']",1.84,3.5,3.8,1.97,1.76,1.91,1.85
+68,1540898,Republic of Ireland First Division,2022,2022-05-21 15:30:00,17,Longford Town,Waterford,0,3,3,[],"['13', '77', '90+4']",2.75,3.25,2.18,1.8,1.91,1.67,2.1
+69,1540901,Republic of Ireland First Division,2022,2022-05-27 15:45:00,18,Galway United,Cork City,0,1,1,[],['18'],2.65,3.0,2.6,2.15,1.61,1.97,1.82
+70,1540902,Republic of Ireland First Division,2022,2022-05-27 15:45:00,18,Waterford,Treaty United,4,0,4,"['51', '63', '67', '90+1']",[],1.35,4.75,7.5,1.67,2.05,1.92,1.86
+71,1540899,Republic of Ireland First Division,2022,2022-05-27 15:45:00,18,Bray Wanderers,Athlone Town,3,0,3,"['19', '64', '73']",[],1.62,3.95,4.5,1.61,2.15,1.76,2.04
+72,1540900,Republic of Ireland First Division,2022,2022-05-27 15:45:00,18,Cobh Ramblers,Longford Town,2,4,6,"['8', '61']","['17', '49', '60', '66']",3.3,3.55,1.95,1.8,1.91,1.69,2.14
+73,1540906,Republic of Ireland First Division,2022,2022-06-10 15:45:00,19,Longford Town,Bray Wanderers,1,1,2,['44'],['24'],1.76,3.55,3.83,1.81,1.93,1.8,1.91
+74,1540905,Republic of Ireland First Division,2022,2022-06-10 15:45:00,19,Wexford,Treaty United,1,1,2,['6'],['2'],2.04,3.43,3.03,1.71,2.07,1.62,2.2
+75,1540903,Republic of Ireland First Division,2022,2022-06-10 15:45:00,19,Athlone Town,Cobh Ramblers,5,2,7,"['10', '21', '47', '61', '67']","['18', '54']",3.53,3.43,1.87,1.72,2.05,1.67,2.1
+76,1540907,Republic of Ireland First Division,2022,2022-06-17 15:45:00,20,Bray Wanderers,Galway United,1,5,6,['64'],"['1', '24', '73', '79', '82']",3.5,3.55,1.8,1.67,2.1,1.73,2.0
+77,1540908,Republic of Ireland First Division,2022,2022-06-17 15:45:00,20,Cobh Ramblers,Wexford,0,3,3,[],"['52', '75', '88']",2.94,3.5,2.03,1.67,2.1,1.59,2.29
+78,1540909,Republic of Ireland First Division,2022,2022-06-17 15:45:00,20,Treaty United,Athlone Town,2,1,3,"['6', '8']",['21'],1.55,3.95,4.55,1.67,2.1,1.8,1.91
+79,1540910,Republic of Ireland First Division,2022,2022-06-18 15:30:00,20,Longford Town,Cork City,1,1,2,['85'],['16'],2.83,3.63,1.88,1.78,1.95,1.68,2.1
+80,1540911,Republic of Ireland First Division,2022,2022-06-24 15:45:00,21,Cork City,Cobh Ramblers,1,0,1,['65'],[],1.18,7.0,14.0,1.47,2.5,2.25,1.63
+81,1540912,Republic of Ireland First Division,2022,2022-06-24 15:45:00,21,Galway United,Treaty United,0,0,0,[],[],1.41,4.68,7.4,1.74,2.07,2.07,1.74
+82,1540913,Republic of Ireland First Division,2022,2022-06-24 15:45:00,21,Waterford,Bray Wanderers,1,0,1,['53'],[],1.48,4.42,6.4,1.73,2.09,1.97,1.82
+83,1540914,Republic of Ireland First Division,2022,2022-06-24 15:45:00,21,Wexford,Longford Town,2,1,3,"['71', '90+3']",['75'],2.64,3.58,2.5,1.74,2.07,1.59,2.33
+84,1540915,Republic of Ireland First Division,2022,2022-06-27 15:45:00,22,Athlone Town,Waterford,2,5,7,"['15', '54']","['11', '40', '45', '48', '60']",6.5,5.0,1.36,1.47,2.5,1.83,1.93
+85,1540916,Republic of Ireland First Division,2022,2022-06-27 15:45:00,22,Bray Wanderers,Wexford,2,2,4,"['31', '69']","['71', '90+5']",2.1,3.25,3.3,1.95,1.9,1.73,2.06
+86,1540917,Republic of Ireland First Division,2022,2022-06-27 15:45:00,22,Longford Town,Galway United,2,0,2,"['61', '82']",[],3.4,3.3,2.05,1.95,1.9,1.81,1.95
+87,1540918,Republic of Ireland First Division,2022,2022-06-27 15:45:00,22,Treaty United,Cork City,0,5,5,[],"['15', '29', '41', '44', '81']",4.75,3.75,1.62,2.0,1.85,1.91,1.8
+88,1540922,Republic of Ireland First Division,2022,2022-07-01 15:45:00,23,Wexford,Athlone Town,3,1,4,"['39', '84', '90+2']",['72'],1.62,4.71,4.81,1.43,2.5,1.56,2.36
+89,1540920,Republic of Ireland First Division,2022,2022-07-01 15:45:00,23,Cobh Ramblers,Treaty United,0,2,2,[],"['17', '66']",2.59,3.71,2.65,1.67,2.15,1.59,2.29
+90,1540921,Republic of Ireland First Division,2022,2022-07-01 15:45:00,23,Galway United,Waterford,1,0,1,['56'],[],1.99,3.43,3.72,1.99,1.8,1.83,1.93
+91,1540919,Republic of Ireland First Division,2022,2022-07-01 15:45:00,23,Bray Wanderers,Cork City,1,3,4,['63'],"['14', '45+1', '71']",6.17,4.26,1.49,1.82,1.97,2.04,1.74
+92,1540923,Republic of Ireland First Division,2022,2022-07-08 15:45:00,24,Athlone Town,Bray Wanderers,1,2,3,['51'],"['48', '58']",3.05,3.7,1.95,1.66,2.1,1.74,2.07
+93,1540924,Republic of Ireland First Division,2022,2022-07-08 15:45:00,24,Galway United,Cobh Ramblers,3,0,3,"['29', '66', '82']",[],1.21,5.75,9.5,1.54,2.33,2.14,1.69
+94,1540925,Republic of Ireland First Division,2022,2022-07-08 15:45:00,24,Treaty United,Longford Town,3,0,3,"['56', '67', '83']",[],2.5,3.45,2.4,1.85,1.86,1.72,2.1
+95,1540926,Republic of Ireland First Division,2022,2022-07-08 15:45:00,24,Waterford,Wexford,1,3,4,['81'],"['50', '52', '71']",1.33,4.75,6.8,1.54,2.33,1.73,2.0
+96,1540929,Republic of Ireland First Division,2022,2022-07-15 15:45:00,25,Cork City,Galway United,0,0,0,[],[],1.83,3.3,3.8,1.83,1.87,1.89,1.89
+97,1540927,Republic of Ireland First Division,2022,2022-07-15 15:45:00,25,Bray Wanderers,Treaty United,0,2,2,[],"['10', '52']",2.15,3.1,3.0,1.87,1.85,1.75,2.05
+98,1540928,Republic of Ireland First Division,2022,2022-07-15 15:45:00,25,Cobh Ramblers,Waterford,0,5,5,[],"['17', '27', '50', '65', '66']",7.5,4.5,1.33,1.53,2.4,1.82,1.97
+99,1540930,Republic of Ireland First Division,2022,2022-07-16 15:30:00,25,Longford Town,Athlone Town,1,3,4,['71'],"['42', '66', '90+4']",1.4,4.5,6.5,1.47,2.5,1.72,2.07
+100,1540931,Republic of Ireland First Division,2022,2022-07-22 15:45:00,26,Athlone Town,Galway United,1,3,4,['88'],"['18', '90', '90+1']",6.0,5.1,1.32,1.44,2.46,1.89,1.89
+101,1540932,Republic of Ireland First Division,2022,2022-07-22 15:45:00,26,Cobh Ramblers,Bray Wanderers,3,1,4,"['34', '55', '88']",['28'],2.91,3.5,2.06,1.8,2.02,1.68,2.16
+102,1540933,Republic of Ireland First Division,2022,2022-07-22 15:45:00,26,Waterford,Longford Town,1,2,3,['18'],"['84', '90+6']",1.36,4.7,5.8,1.6,2.2,1.89,1.89
+103,1540934,Republic of Ireland First Division,2022,2022-07-22 15:45:00,26,Wexford,Cork City,0,1,1,[],['5'],4.1,3.7,1.65,1.63,2.15,1.7,2.05
+104,1540935,Republic of Ireland First Division,2022,2022-08-05 15:45:00,27,Cork City,Athlone Town,6,1,7,"['14', '16', '43', '47', '52', '59']",['90+3'],1.15,6.32,11.67,1.37,2.71,2.0,1.73
+105,1540936,Republic of Ireland First Division,2022,2022-08-05 15:45:00,27,Galway United,Wexford,2,2,4,"['14', '62']","['18', '22']",1.38,4.68,5.67,1.45,2.43,1.73,2.0
+106,1540937,Republic of Ireland First Division,2022,2022-08-05 15:45:00,27,Treaty United,Waterford,1,2,3,['89'],"['18', '26']",4.68,3.94,1.55,1.58,2.15,1.73,2.0
+107,1540938,Republic of Ireland First Division,2022,2022-08-06 15:30:00,27,Longford Town,Cobh Ramblers,2,0,2,"['3', '63']",[],1.45,4.1,5.67,1.6,2.19,1.8,1.91
+108,1540942,Republic of Ireland First Division,2022,2022-08-12 15:45:00,28,Wexford,Cobh Ramblers,2,2,4,"['58', '85']","['49', '60']",1.48,3.78,4.53,1.54,2.33,1.71,2.08
+109,1540940,Republic of Ireland First Division,2022,2022-08-12 15:45:00,28,Cork City,Treaty United,0,2,2,[],"['11', '51']",1.22,5.72,10.16,1.61,2.15,2.0,1.73
+110,1540941,Republic of Ireland First Division,2022,2022-08-12 15:45:00,28,Waterford,Galway United,2,1,3,"['18', '83']",['11'],1.9,3.2,3.13,1.75,1.79,1.73,2.0
+111,1540939,Republic of Ireland First Division,2022,2022-08-12 15:45:00,28,Bray Wanderers,Longford Town,0,3,3,[],"['27', '32', '50']",2.8,3.13,2.07,1.77,1.77,1.73,2.0
+112,1540904,Republic of Ireland First Division,2022,2022-08-15 15:45:00,19,Cork City,Waterford,0,0,0,[],[],2.05,3.4,3.4,1.85,1.9,1.64,2.2
+113,1540943,Republic of Ireland First Division,2022,2022-08-19 15:45:00,29,Athlone Town,Treaty United,2,0,2,"['39', '60']",[],3.15,3.5,1.93,1.54,2.33,1.52,2.46
+114,1540944,Republic of Ireland First Division,2022,2022-08-19 15:45:00,29,Cobh Ramblers,Cork City,1,2,3,['50'],"['61', '80']",8.0,5.2,1.24,1.53,2.3,1.89,1.87
+115,1540945,Republic of Ireland First Division,2022,2022-08-19 15:45:00,29,Galway United,Bray Wanderers,1,2,3,['90+3'],"['8', '27']",1.39,4.2,6.2,1.92,1.92,1.97,1.8
+116,1540946,Republic of Ireland First Division,2022,2022-08-20 15:30:00,29,Longford Town,Wexford,1,0,1,['18'],[],1.84,3.45,3.5,1.66,2.09,1.59,2.29
+117,1540950,Republic of Ireland First Division,2022,2022-09-02 15:45:00,30,Wexford,Waterford,2,2,4,"['66', '83']","['52', '60']",3.6,3.4,1.83,1.7,2.05,1.67,2.1
+118,1540947,Republic of Ireland First Division,2022,2022-09-02 15:45:00,30,Bray Wanderers,Athlone Town,2,0,2,"['25', '39']",[],1.7,3.6,4.0,1.6,2.2,1.62,2.2
+119,1540948,Republic of Ireland First Division,2022,2022-09-02 15:45:00,30,Cork City,Longford Town,2,2,4,"['58', '82']","['13', '65']",1.5,3.8,5.8,1.75,1.95,1.91,1.8
+120,1540949,Republic of Ireland First Division,2022,2022-09-02 15:45:00,30,Treaty United,Cobh Ramblers,1,0,1,['58'],[],1.53,3.8,5.0,1.61,2.15,1.73,2.0
+121,1540951,Republic of Ireland First Division,2022,2022-09-09 15:45:00,31,Athlone Town,Wexford,2,0,2,"['49', '84']",[],4.67,4.25,1.67,1.51,2.27,1.62,2.2
+122,1540952,Republic of Ireland First Division,2022,2022-09-09 15:45:00,31,Cobh Ramblers,Galway United,1,1,2,['31'],['90+6'],7.96,5.31,1.36,1.55,2.4,1.8,1.91
+123,1540953,Republic of Ireland First Division,2022,2022-09-09 15:45:00,31,Treaty United,Bray Wanderers,2,1,3,"['12', '24']",['78'],2.03,3.62,3.62,1.81,1.94,1.8,1.91
+124,1540954,Republic of Ireland First Division,2022,2022-09-09 15:45:00,31,Waterford,Cork City,1,2,3,['90'],"['55', '90+5']",2.36,3.38,2.84,1.79,1.97,1.8,1.91
+125,1540956,Republic of Ireland First Division,2022,2022-09-16 15:45:00,32,Cobh Ramblers,Athlone Town,1,3,4,['79'],"['18', '45', '64']",2.0,3.55,3.15,1.55,2.4,1.47,2.55
+126,1540957,Republic of Ireland First Division,2022,2022-09-16 15:45:00,32,Galway United,Cork City,2,1,3,"['70', '72']",['50'],2.5,3.15,2.6,2.0,1.8,1.78,1.99
+127,1540958,Republic of Ireland First Division,2022,2022-09-24 12:00:00,32,Longford Town,Treaty United,1,1,2,['15'],['43'],1.68,3.5,4.1,1.93,1.81,1.85,1.85
+128,1540955,Republic of Ireland First Division,2022,2022-09-25 11:00:00,32,Bray Wanderers,Waterford,0,3,3,[],"['16', '29', '59']",4.53,3.63,1.51,1.66,2.1,1.8,1.91
+129,1540962,Republic of Ireland First Division,2022,2022-09-30 15:45:00,33,Wexford,Bray Wanderers,4,2,6,"['3', '13', '74', '90+3']","['59', '84']",1.95,3.3,3.3,1.73,2.0,1.67,2.1
+130,1540961,Republic of Ireland First Division,2022,2022-09-30 15:45:00,33,Waterford,Cobh Ramblers,3,1,4,"['13', '55', '80']",['84'],1.17,6.0,15.0,1.38,2.9,2.0,1.73
+131,1540959,Republic of Ireland First Division,2022,2022-09-30 15:45:00,33,Athlone Town,Longford Town,2,2,4,"['5', '42']","['9', '61']",5.5,4.0,1.44,1.52,2.38,1.73,2.0
+132,1540960,Republic of Ireland First Division,2022,2022-09-30 15:45:00,33,Treaty United,Galway United,1,1,2,['10'],['80'],4.75,3.5,1.61,1.8,1.91,1.73,2.0
+133,1540970,Republic of Ireland First Division,2022,2022-10-03 15:45:00,35,Longford Town,Waterford,1,2,3,['4'],"['14', '16']",3.2,3.55,1.95,1.72,2.0,1.6,2.27
+134,1540963,Republic of Ireland First Division,2022,2022-10-07 15:45:00,34,Cobh Ramblers,Longford Town,2,4,6,"['58', '80']","['42', '65', '76', '90']",5.05,4.25,1.55,1.55,2.19,1.73,2.0
+135,1540964,Republic of Ireland First Division,2022,2022-10-07 15:45:00,34,Cork City,Wexford,0,0,0,[],[],1.32,5.25,7.65,1.45,2.44,1.83,1.83
+136,1540965,Republic of Ireland First Division,2022,2022-10-07 15:45:00,34,Galway United,Athlone Town,1,2,3,['2'],"['18', '80']",1.13,7.3,16.2,1.36,2.75,2.1,1.67
+137,1540966,Republic of Ireland First Division,2022,2022-10-07 15:45:00,34,Waterford,Treaty United,3,0,3,"['10', '40', '58']",[],1.39,4.65,6.85,1.58,2.14,1.83,1.83
+138,1540967,Republic of Ireland First Division,2022,2022-10-14 15:45:00,35,Athlone Town,Cork City,3,2,5,"['19', '70', '87']","['5', '16']",4.75,4.5,1.55,1.53,2.4,1.73,2.0
+139,1540968,Republic of Ireland First Division,2022,2022-10-14 15:45:00,35,Bray Wanderers,Cobh Ramblers,1,5,6,['7'],"['12', '59', '74', '89', '90+3']",1.78,3.75,4.0,1.65,2.15,1.62,2.2
+140,1540969,Republic of Ireland First Division,2022,2022-10-14 15:45:00,35,Wexford,Galway United,0,0,0,[],[],4.28,3.84,1.75,1.77,2.09,1.7,2.05
+141,1540973,Republic of Ireland First Division,2022,2022-10-21 15:45:00,36,Treaty United,Wexford,0,2,2,[],"['10', '77']",2.65,3.55,2.18,1.7,2.03,1.6,2.25
+142,1540971,Republic of Ireland First Division,2022,2022-10-21 15:45:00,36,Cork City,Bray Wanderers,2,0,2,"['65', '90']",[],1.22,5.1,9.1,1.7,2.03,2.19,1.63
+143,1540972,Republic of Ireland First Division,2022,2022-10-21 15:45:00,36,Galway United,Longford Town,3,3,6,"['27', '46', '81']","['9', '35', '45+5']",1.56,3.9,4.5,1.75,1.96,1.83,1.91
+144,1540974,Republic of Ireland First Division,2022,2022-10-21 15:45:00,36,Waterford,Athlone Town,4,2,6,"['18', '30', '39', '82']","['49', '52']",1.16,6.3,9.7,1.33,3.04,1.78,1.97
+145,4451756,Republic of Ireland First Division,2022,2022-10-26 15:45:00,0,Longford Town,Galway United,2,2,4,"['29', '54']","['49', '61']",2.5,3.6,2.4,1.65,2.2,1.57,2.33
+146,4451755,Republic of Ireland First Division,2022,2022-10-26 15:45:00,0,Treaty United,Waterford,1,4,5,['62'],"['5', '29', '70', '90+4']",4.5,4.0,1.62,1.7,2.1,1.7,2.1
+147,4451757,Republic of Ireland First Division,2022,2022-10-29 15:45:00,0,Waterford,Treaty United,3,3,6,"['22', '49', '54']","['9', '25', '28']",1.47,4.33,5.0,1.6,2.3,1.78,1.95
+148,4451758,Republic of Ireland First Division,2022,2022-10-30 13:00:00,0,Galway United,Longford Town,3,0,3,"['24', '90', '90']",[],1.75,3.7,3.6,1.52,2.36,1.55,2.3
+149,4516047,Republic of Ireland First Division,2022,2022-11-04 16:45:00,0,Galway United,Waterford,0,3,3,[],"['9', '45+5', '80']",2.74,3.35,2.14,1.68,2.07,1.67,2.1

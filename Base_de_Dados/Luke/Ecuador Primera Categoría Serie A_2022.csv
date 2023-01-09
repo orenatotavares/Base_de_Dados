@@ -1,0 +1,243 @@
+Nº,Id_Jogo,League,Season,Date,Rodada,Home,Away,FT_Goals_H,FT_Goals_A,FT_TotalGoals,Goals_H_Minutes,Goals_A_Minutes,FT_Odd_H,FT_Odd_D,FT_Odd_A,FT_Odd_Over25,FT_Odd_Under25,FT_Odd_BTTS_Yes,FT_Odd_BTTS_No
+1,1565045,Ecuador Primera Categoría Serie A,2022,2022-02-18 21:00:00,1,CS Emelec,Macará,4,0,4,"['8', '12', '27', '45']",[],1.38,4.3,6.75,1.87,1.88,2.19,1.64
+2,1565042,Ecuador Primera Categoría Serie A,2022,2022-02-19 17:00:00,1,Mushuc Runa SC,CD Universidad Católica,1,2,3,['35'],"['26', '53']",2.76,3.4,2.18,1.75,1.96,1.66,2.16
+3,1565047,Ecuador Primera Categoría Serie A,2022,2022-02-19 19:30:00,1,LDU Quito,Gualaceo SC,1,0,1,['64'],[],1.15,6.4,13.0,1.58,2.3,2.2,1.62
+4,1565040,Ecuador Primera Categoría Serie A,2022,2022-02-19 22:00:00,1,Delfin SC,Barcelona,0,1,1,[],['90'],3.2,3.5,2.0,1.83,1.93,1.71,2.08
+5,1565043,Ecuador Primera Categoría Serie A,2022,2022-02-20 16:00:00,1,Orense SC,SD Aucas,1,1,2,['85'],['61'],2.4,3.1,2.75,1.95,1.75,1.81,1.96
+6,1565046,Ecuador Primera Categoría Serie A,2022,2022-02-20 18:30:00,1,Guayaquil City FC,Deportivo Cuenca,2,0,2,"['12', '25']",[],1.17,5.75,15.0,2.0,1.8,2.1,1.68
+7,1565044,Ecuador Primera Categoría Serie A,2022,2022-02-20 21:00:00,1,Cumbayá,CSD Independiente del Valle,0,1,1,[],['90+9'],6.25,4.3,1.43,1.7,2.0,2.1,1.68
+8,1565041,Ecuador Primera Categoría Serie A,2022,2022-02-21 21:00:00,1,Técnico Universitario,9 de Octubre,2,1,3,"['33', '44']",['83'],2.55,2.9,3.0,2.38,1.55,1.9,1.83
+9,1565050,Ecuador Primera Categoría Serie A,2022,2022-02-25 21:00:00,2,Deportivo Cuenca,LDU Quito,2,0,2,"['57', '63']",[],4.05,2.35,2.35,3.4,1.25,0.0,0.0
+10,1565054,Ecuador Primera Categoría Serie A,2022,2022-02-26 17:00:00,2,SD Aucas,Delfin SC,3,0,3,"['39', '90', '90+3']",[],1.62,3.75,4.5,1.88,1.9,1.83,1.83
+11,1565049,Ecuador Primera Categoría Serie A,2022,2022-02-26 19:30:00,2,CD Universidad Católica,Guayaquil City FC,1,1,2,['10'],['32'],1.4,4.2,6.0,1.91,1.87,2.0,1.73
+12,1565052,Ecuador Primera Categoría Serie A,2022,2022-02-26 22:00:00,2,Barcelona,Técnico Universitario,1,0,1,['90+1'],[],1.33,4.75,7.0,1.87,1.91,2.1,1.67
+13,1565051,Ecuador Primera Categoría Serie A,2022,2022-02-27 16:00:00,2,Gualaceo SC,Cumbayá,0,1,1,[],['50'],2.1,3.2,3.2,2.25,1.61,1.91,1.8
+14,1565053,Ecuador Primera Categoría Serie A,2022,2022-02-27 18:30:00,2,9 de Octubre,Mushuc Runa SC,2,0,2,"['13', '61']",[],1.8,3.4,4.0,1.89,1.81,1.91,1.8
+15,1565048,Ecuador Primera Categoría Serie A,2022,2022-02-27 21:00:00,2,CSD Independiente del Valle,CS Emelec,0,1,1,[],['61'],1.84,3.45,3.75,1.9,1.85,1.83,1.83
+16,1565055,Ecuador Primera Categoría Serie A,2022,2022-02-28 21:00:00,2,Macará,Orense SC,1,0,1,['44'],[],2.2,3.25,2.9,2.23,1.62,1.96,1.83
+17,1565057,Ecuador Primera Categoría Serie A,2022,2022-03-04 21:00:00,3,CS Emelec,Guayaquil City FC,2,2,4,"['6', '32']","['10', '90+6']",1.35,4.95,8.6,1.61,2.15,2.15,1.64
+18,1565061,Ecuador Primera Categoría Serie A,2022,2022-03-05 17:00:00,3,Técnico Universitario,Mushuc Runa SC,1,3,4,['45+1'],"['25', '28', '37']",2.22,3.28,3.18,2.22,1.76,2.0,1.77
+19,1565058,Ecuador Primera Categoría Serie A,2022,2022-03-05 19:30:00,3,LDU Quito,CD Universidad Católica,2,1,3,"['82', '83']",['45+2'],1.79,3.76,4.04,1.82,2.13,1.73,2.05
+20,1565056,Ecuador Primera Categoría Serie A,2022,2022-03-05 22:00:00,3,9 de Octubre,Barcelona,1,3,4,['45+7'],"['1', '36', '45']",2.85,3.3,2.41,2.11,1.83,1.77,2.04
+21,1565062,Ecuador Primera Categoría Serie A,2022,2022-03-06 16:00:00,3,Cumbayá,Orense SC,1,1,2,['45+1'],['50'],2.25,3.05,3.05,2.1,1.68,1.83,1.83
+22,1565060,Ecuador Primera Categoría Serie A,2022,2022-03-06 18:30:00,3,Delfin SC,Macará,1,0,1,['12'],[],1.65,3.6,4.5,1.86,1.89,2.0,1.79
+23,1565059,Ecuador Primera Categoría Serie A,2022,2022-03-06 21:00:00,3,CSD Independiente del Valle,SD Aucas,1,0,1,['45'],[],1.65,3.75,4.3,1.71,2.08,1.85,1.85
+24,1565063,Ecuador Primera Categoría Serie A,2022,2022-03-07 21:00:00,3,Deportivo Cuenca,Gualaceo SC,2,1,3,"['20', '81']",['40'],1.6,3.5,5.0,2.1,1.65,2.19,1.61
+25,1565071,Ecuador Primera Categoría Serie A,2022,2022-03-11 21:00:00,4,SD Aucas,Deportivo Cuenca,0,0,0,[],[],1.73,3.28,3.42,1.9,1.7,1.86,1.88
+26,1565068,Ecuador Primera Categoría Serie A,2022,2022-03-12 17:00:00,4,Mushuc Runa SC,Cumbayá,4,2,6,"['3', '14', '69', '90+3']","['17', '59']",2.11,3.2,3.2,2.08,1.71,1.88,1.86
+27,1565066,Ecuador Primera Categoría Serie A,2022,2022-03-12 19:30:00,4,Técnico Universitario,LDU Quito,1,2,3,['76'],"['45+1', '52']",3.15,3.25,2.11,2.05,1.79,1.9,1.84
+28,1565067,Ecuador Primera Categoría Serie A,2022,2022-03-12 22:00:00,4,Barcelona,CSD Independiente del Valle,2,0,2,"['5', '71']",[],2.13,3.2,3.15,1.85,1.91,1.87,1.87
+29,1565065,Ecuador Primera Categoría Serie A,2022,2022-03-13 16:00:00,4,Orense SC,9 de Octubre,2,1,3,"['62', '90+1']",['84'],2.38,3.05,2.85,1.98,1.78,1.84,1.9
+30,1565069,Ecuador Primera Categoría Serie A,2022,2022-03-13 18:30:00,4,CD Universidad Católica,Macará,2,2,4,"['72', '90+1']","['23', '41']",1.62,3.6,4.75,1.9,1.8,1.76,2.0
+31,1565064,Ecuador Primera Categoría Serie A,2022,2022-03-13 21:00:00,4,Gualaceo SC,CS Emelec,2,1,3,"['36', '37']",['84'],3.35,3.1,2.1,2.0,1.7,1.95,1.78
+32,1565070,Ecuador Primera Categoría Serie A,2022,2022-03-14 21:00:00,4,Guayaquil City FC,Delfin SC,1,1,2,['33'],['3'],2.77,3.1,2.31,2.2,1.65,1.9,1.83
+33,1565078,Ecuador Primera Categoría Serie A,2022,2022-03-18 21:00:00,5,CSD Independiente del Valle,Orense SC,1,1,2,['4'],['40'],1.34,4.16,7.92,1.83,1.9,1.97,1.78
+34,1565076,Ecuador Primera Categoría Serie A,2022,2022-03-19 17:00:00,5,Cumbayá,Técnico Universitario,2,0,2,"['39', '62']",[],2.07,3.32,3.83,2.55,1.45,2.06,1.71
+35,1565075,Ecuador Primera Categoría Serie A,2022,2022-03-19 19:30:00,5,LDU Quito,SD Aucas,4,4,8,"['45+1', '77', '89', '90+2']","['10', '18', '65', '67']",1.8,3.4,3.9,1.7,2.03,1.75,2.01
+36,1565072,Ecuador Primera Categoría Serie A,2022,2022-03-19 22:00:00,5,Mushuc Runa SC,Barcelona,1,1,2,['29'],['21'],3.4,3.3,1.95,1.84,1.86,1.73,2.04
+37,1565079,Ecuador Primera Categoría Serie A,2022,2022-03-20 16:00:00,5,9 de Octubre,Gualaceo SC,1,1,2,['63'],['35'],1.55,3.65,5.4,1.97,1.79,2.0,1.76
+38,1565073,Ecuador Primera Categoría Serie A,2022,2022-03-20 18:30:00,5,Macará,Guayaquil City FC,2,0,2,"['26', '90+2']",[],1.72,3.45,4.3,1.96,1.79,1.86,1.88
+39,1565077,Ecuador Primera Categoría Serie A,2022,2022-03-21 14:00:00,5,CS Emelec,Delfin SC,1,2,3,['90+2'],"['18', '78']",1.49,3.95,5.7,1.8,1.95,1.91,1.83
+40,1565074,Ecuador Primera Categoría Serie A,2022,2022-03-21 21:00:00,5,Deportivo Cuenca,CD Universidad Católica,0,2,2,[],"['78', '89']",2.5,3.2,2.45,1.82,1.93,1.66,2.14
+41,1565080,Ecuador Primera Categoría Serie A,2022,2022-04-01 21:00:00,6,CD Universidad Católica,Barcelona,1,2,3,['71'],"['16', '36']",2.6,3.15,2.55,1.95,1.75,1.68,2.1
+42,1565082,Ecuador Primera Categoría Serie A,2022,2022-04-01 23:00:00,6,CS Emelec,LDU Quito,2,0,2,"['11', '79']",[],1.85,3.45,3.65,1.65,2.1,1.63,2.22
+43,1565083,Ecuador Primera Categoría Serie A,2022,2022-04-02 18:30:00,6,Gualaceo SC,CSD Independiente del Valle,1,3,4,['67'],"['17', '36', '53']",5.55,3.95,1.5,1.8,1.9,1.97,1.8
+44,1565081,Ecuador Primera Categoría Serie A,2022,2022-04-02 21:00:00,6,SD Aucas,9 de Octubre,1,1,2,['86'],['74'],1.9,3.5,3.47,1.76,1.95,1.73,2.06
+45,1565086,Ecuador Primera Categoría Serie A,2022,2022-04-03 16:00:00,6,Orense SC,Mushuc Runa SC,0,0,0,[],[],1.8,3.5,3.87,1.85,1.85,1.81,1.95
+46,1565085,Ecuador Primera Categoría Serie A,2022,2022-04-03 18:30:00,6,Guayaquil City FC,Técnico Universitario,0,1,1,[],['21'],2.25,3.15,2.96,2.29,1.55,2.0,1.77
+47,1565087,Ecuador Primera Categoría Serie A,2022,2022-04-03 21:00:00,6,Delfin SC,Deportivo Cuenca,0,0,0,[],[],2.07,3.3,3.19,1.98,1.74,1.83,1.83
+48,1565084,Ecuador Primera Categoría Serie A,2022,2022-04-04 21:00:00,6,Macará,Cumbayá,0,0,0,[],[],1.93,3.2,3.45,2.1,1.67,1.9,1.8
+49,1565095,Ecuador Primera Categoría Serie A,2022,2022-04-08 21:00:00,7,Técnico Universitario,Gualaceo SC,1,1,2,['37'],['71'],1.81,3.25,4.02,2.0,1.75,1.91,1.8
+50,1565093,Ecuador Primera Categoría Serie A,2022,2022-04-09 16:30:00,7,Mushuc Runa SC,Delfin SC,1,2,3,['6'],"['89', '90+1']",2.44,3.2,2.5,1.83,1.97,1.67,2.1
+51,1565091,Ecuador Primera Categoría Serie A,2022,2022-04-09 19:00:00,7,9 de Octubre,CD Universidad Católica,0,4,4,[],"['41', '71', '77', '78']",2.04,3.25,3.15,1.76,2.0,1.57,2.25
+52,1565090,Ecuador Primera Categoría Serie A,2022,2022-04-09 21:30:00,7,Cumbayá,LDU Quito,0,2,2,[],"['54', '90+4']",3.9,3.45,1.74,1.75,2.02,1.62,2.2
+53,1565089,Ecuador Primera Categoría Serie A,2022,2022-04-10 15:00:00,7,CSD Independiente del Valle,Guayaquil City FC,0,0,0,[],[],1.25,5.0,11.0,1.6,2.2,2.3,1.55
+54,1565088,Ecuador Primera Categoría Serie A,2022,2022-04-10 17:30:00,7,Deportivo Cuenca,CS Emelec,2,2,4,"['18', '73']","['50', '53']",2.75,3.35,2.3,1.89,1.86,1.77,1.93
+55,1565094,Ecuador Primera Categoría Serie A,2022,2022-04-10 20:00:00,7,Barcelona,Orense SC,2,0,2,"['14', '73']",[],1.44,3.8,6.5,1.8,1.91,1.98,1.73
+56,1565092,Ecuador Primera Categoría Serie A,2022,2022-04-11 21:00:00,7,SD Aucas,Macará,2,0,2,"['34', '54']",[],1.5,3.9,5.0,1.78,2.17,1.77,1.93
+57,1565102,Ecuador Primera Categoría Serie A,2022,2022-04-15 21:00:00,8,Gualaceo SC,Mushuc Runa SC,3,2,5,"['4', '32', '45']","['21', '90+3']",2.63,3.25,2.81,2.08,1.7,1.78,1.96
+58,1565101,Ecuador Primera Categoría Serie A,2022,2022-04-16 14:30:00,8,Orense SC,Técnico Universitario,0,0,0,[],[],1.98,3.05,3.7,2.18,1.65,2.0,1.71
+59,1565100,Ecuador Primera Categoría Serie A,2022,2022-04-16 17:00:00,8,Delfin SC,Cumbayá,1,1,2,['45+7'],['42'],1.7,3.62,4.7,1.99,1.78,2.05,1.7
+60,1565098,Ecuador Primera Categoría Serie A,2022,2022-04-16 19:30:00,8,Guayaquil City FC,SD Aucas,4,0,4,"['3', '25', '62', '86']",[],3.55,3.56,2.07,1.89,1.91,1.66,2.1
+61,1565099,Ecuador Primera Categoría Serie A,2022,2022-04-16 22:00:00,8,CD Universidad Católica,CSD Independiente del Valle,3,1,4,"['45+3', '54', '71']",['12'],3.35,3.43,2.08,1.79,1.97,1.68,2.05
+62,1565103,Ecuador Primera Categoría Serie A,2022,2022-04-17 15:00:00,8,Macará,Deportivo Cuenca,0,1,1,[],['57'],2.17,3.05,3.2,2.02,1.75,1.77,1.95
+63,1565097,Ecuador Primera Categoría Serie A,2022,2022-04-17 17:30:00,8,CS Emelec,9 de Octubre,2,1,3,"['39', '78']",['49'],1.6,3.85,4.7,1.72,2.06,1.77,1.95
+64,1565096,Ecuador Primera Categoría Serie A,2022,2022-04-17 20:00:00,8,LDU Quito,Barcelona,2,0,2,"['17', '86']",[],1.95,3.2,3.65,1.91,1.84,1.7,2.05
+65,1565109,Ecuador Primera Categoría Serie A,2022,2022-04-19 21:00:00,9,Técnico Universitario,Delfin SC,1,1,2,['40'],['28'],2.61,2.89,3.04,2.19,1.6,1.83,1.91
+66,1565110,Ecuador Primera Categoría Serie A,2022,2022-04-20 14:30:00,9,CSD Independiente del Valle,Deportivo Cuenca,2,0,2,"['28', '68']",[],1.39,4.3,6.8,1.8,1.91,2.06,1.71
+67,1565106,Ecuador Primera Categoría Serie A,2022,2022-04-20 17:00:00,9,Orense SC,LDU Quito,3,0,3,"['17', '29', '74']",[],3.0,3.0,2.2,2.05,1.7,1.83,1.93
+68,1565111,Ecuador Primera Categoría Serie A,2022,2022-04-20 22:00:00,9,Barcelona,Gualaceo SC,0,1,1,[],['42'],1.36,4.0,8.5,1.95,1.75,2.25,1.6
+69,1565108,Ecuador Primera Categoría Serie A,2022,2022-04-21 15:00:00,9,Mushuc Runa SC,Macará,0,0,0,[],[],2.65,3.1,2.5,1.95,1.76,1.76,2.0
+70,1565107,Ecuador Primera Categoría Serie A,2022,2022-04-21 17:30:00,9,SD Aucas,CD Universidad Católica,3,2,5,"['9', '49', '63']","['28', '38']",2.2,3.4,2.85,1.68,2.06,1.63,2.19
+71,1565104,Ecuador Primera Categoría Serie A,2022,2022-04-21 20:00:00,9,Cumbayá,CS Emelec,1,1,2,['84'],['89'],4.57,3.5,1.68,2.0,1.72,1.91,1.8
+72,1565119,Ecuador Primera Categoría Serie A,2022,2022-04-23 16:00:00,10,Gualaceo SC,Orense SC,2,1,3,"['55', '61']",['33'],3.1,2.98,2.27,2.37,1.5,2.06,1.71
+73,1565113,Ecuador Primera Categoría Serie A,2022,2022-04-23 18:30:00,10,Deportivo Cuenca,9 de Octubre,1,1,2,['55'],['63'],2.05,3.1,3.4,2.15,1.67,1.89,1.85
+74,1565115,Ecuador Primera Categoría Serie A,2022,2022-04-23 21:00:00,10,Delfin SC,CSD Independiente del Valle,0,1,1,[],['31'],3.3,3.3,2.05,1.95,1.75,1.77,1.98
+75,1565117,Ecuador Primera Categoría Serie A,2022,2022-04-24 14:00:00,10,CD Universidad Católica,Técnico Universitario,4,1,5,"['32', '50', '83', '88']",['82'],1.56,4.0,5.6,1.98,1.94,2.0,1.77
+76,1565118,Ecuador Primera Categoría Serie A,2022,2022-04-24 16:30:00,10,LDU Quito,Mushuc Runa SC,3,2,5,"['45+2', '51', '87']","['69', '76']",1.32,4.8,7.5,1.58,2.3,1.91,1.85
+77,1565114,Ecuador Primera Categoría Serie A,2022,2022-04-24 19:00:00,10,CS Emelec,SD Aucas,1,0,1,['10'],[],1.67,3.9,4.1,1.72,2.06,1.73,2.05
+78,1565112,Ecuador Primera Categoría Serie A,2022,2022-04-24 21:30:00,10,Macará,Barcelona,0,1,1,[],['47'],3.3,3.05,2.14,2.17,1.65,1.92,1.84
+79,1565116,Ecuador Primera Categoría Serie A,2022,2022-04-25 21:00:00,10,Guayaquil City FC,Cumbayá,4,1,5,"['13', '61', '76', '90+6']",['60'],2.05,3.0,3.4,2.2,1.6,2.0,1.77
+80,1565127,Ecuador Primera Categoría Serie A,2022,2022-04-29 21:00:00,11,Gualaceo SC,Macará,2,1,3,"['51', '90+2']",['68'],2.45,3.18,2.88,2.25,1.57,2.1,1.67
+81,1565123,Ecuador Primera Categoría Serie A,2022,2022-04-30 17:00:00,11,Mushuc Runa SC,Guayaquil City FC,2,0,2,"['70', '90+4']",[],1.93,3.2,3.5,2.09,1.85,1.85,1.85
+82,1565128,Ecuador Primera Categoría Serie A,2022,2022-04-30 19:30:00,11,9 de Octubre,Delfin SC,0,1,1,[],['68'],2.55,3.1,2.5,1.95,1.75,1.8,1.91
+83,1565126,Ecuador Primera Categoría Serie A,2022,2022-04-30 22:00:00,11,Técnico Universitario,SD Aucas,0,1,1,[],['8'],2.55,3.0,2.55,2.1,1.67,1.8,1.91
+84,1565125,Ecuador Primera Categoría Serie A,2022,2022-05-01 16:00:00,11,Orense SC,CD Universidad Católica,1,0,1,['6'],[],2.7,3.2,2.42,2.02,1.76,1.82,1.94
+85,1565129,Ecuador Primera Categoría Serie A,2022,2022-05-01 18:30:00,11,Cumbayá,Deportivo Cuenca,0,1,1,[],['84'],2.47,3.22,2.92,2.25,1.57,1.95,1.79
+86,1565124,Ecuador Primera Categoría Serie A,2022,2022-05-01 21:00:00,11,CSD Independiente del Valle,LDU Quito,1,0,1,['5'],[],1.81,3.64,4.33,1.8,1.9,1.83,1.83
+87,1565134,Ecuador Primera Categoría Serie A,2022,2022-05-06 21:00:00,12,Deportivo Cuenca,Técnico Universitario,1,0,1,['54'],[],2.1,3.1,3.75,2.4,1.53,2.1,1.7
+88,1565136,Ecuador Primera Categoría Serie A,2022,2022-05-07 17:00:00,12,Delfin SC,Orense SC,2,1,3,"['13', '31']",['76'],2.15,3.0,3.2,2.2,1.62,1.98,1.78
+89,1565133,Ecuador Primera Categoría Serie A,2022,2022-05-07 19:30:00,12,SD Aucas,Cumbayá,1,0,1,['22'],[],1.64,3.78,5.05,1.95,1.75,1.94,1.82
+90,1565135,Ecuador Primera Categoría Serie A,2022,2022-05-07 22:00:00,12,CS Emelec,Mushuc Runa SC,4,0,4,"['5', '43', '68', '80']",[],1.43,4.4,7.1,1.8,1.9,2.05,1.73
+91,1565137,Ecuador Primera Categoría Serie A,2022,2022-05-08 16:00:00,12,CD Universidad Católica,Gualaceo SC,3,1,4,"['21', '38', '70']",['82'],1.75,3.4,4.08,1.87,1.87,1.85,1.85
+92,1565131,Ecuador Primera Categoría Serie A,2022,2022-05-08 18:30:00,12,LDU Quito,9 de Octubre,2,0,2,"['46', '60']",[],1.7,3.43,4.32,1.85,1.89,1.91,1.85
+93,1565130,Ecuador Primera Categoría Serie A,2022,2022-05-08 21:00:00,12,Guayaquil City FC,Barcelona,1,4,5,['69'],"['30', '49', '62', '76']",3.3,3.25,2.0,1.97,1.78,1.91,1.8
+94,1565132,Ecuador Primera Categoría Serie A,2022,2022-05-09 21:00:00,12,Macará,CSD Independiente del Valle,0,1,1,[],['51'],4.35,3.3,1.75,1.93,1.83,1.9,1.83
+95,1565105,Ecuador Primera Categoría Serie A,2022,2022-05-11 19:00:00,9,9 de Octubre,Guayaquil City FC,2,2,4,"['10', '48']","['66', '71']",1.62,3.82,4.98,1.86,1.88,2.0,1.77
+96,1565122,Ecuador Primera Categoría Serie A,2022,2022-05-11 22:00:00,11,Barcelona,CS Emelec,1,1,2,['89'],['81'],1.93,3.07,3.77,2.06,1.71,1.91,1.83
+97,1565142,Ecuador Primera Categoría Serie A,2022,2022-05-13 21:00:00,13,CD Universidad Católica,Cumbayá,1,0,1,['72'],[],1.45,4.1,6.0,1.76,2.0,1.9,1.84
+98,1565140,Ecuador Primera Categoría Serie A,2022,2022-05-14 16:00:00,13,Mushuc Runa SC,SD Aucas,1,1,2,['89'],['38'],3.0,3.15,2.2,1.83,1.92,1.67,2.13
+99,1565143,Ecuador Primera Categoría Serie A,2022,2022-05-14 18:30:00,13,9 de Octubre,Macará,1,1,2,['30'],['58'],2.05,3.0,3.6,2.15,1.62,1.95,1.8
+100,1565144,Ecuador Primera Categoría Serie A,2022,2022-05-14 21:00:00,13,LDU Quito,Delfin SC,3,2,5,"['34', '52', '90+5']","['45+3', '54']",1.53,3.9,5.25,1.8,1.9,1.87,1.87
+101,1565141,Ecuador Primera Categoría Serie A,2022,2022-05-15 15:00:00,13,Técnico Universitario,CSD Independiente del Valle,2,3,5,"['11', '63']","['38', '39', '84']",4.6,3.3,1.7,2.19,1.6,2.17,1.66
+102,1565138,Ecuador Primera Categoría Serie A,2022,2022-05-15 17:30:00,13,Orense SC,CS Emelec,2,0,2,"['16', '45+5']",[],2.5,3.2,2.58,2.03,1.7,1.82,1.94
+103,1565145,Ecuador Primera Categoría Serie A,2022,2022-05-15 20:00:00,13,Barcelona,Deportivo Cuenca,1,1,2,['55'],['90+3'],1.49,3.8,6.03,1.95,1.76,2.1,1.7
+104,1565139,Ecuador Primera Categoría Serie A,2022,2022-05-16 21:00:00,13,Gualaceo SC,Guayaquil City FC,2,1,3,"['12', '65']",['21'],2.04,3.25,3.3,2.14,1.64,1.9,1.83
+105,1565147,Ecuador Primera Categoría Serie A,2022,2022-05-20 21:00:00,14,Cumbayá,9 de Octubre,3,2,5,"['28', '42', '55']","['17', '48']",2.05,3.13,2.68,2.2,1.65,1.79,1.96
+106,1565153,Ecuador Primera Categoría Serie A,2022,2022-05-21 17:00:00,14,Delfin SC,Gualaceo SC,1,0,1,['79'],[],1.62,3.6,4.88,2.06,1.68,2.05,1.68
+107,1565149,Ecuador Primera Categoría Serie A,2022,2022-05-21 19:30:00,14,CS Emelec,CD Universidad Católica,0,1,1,[],['73'],1.84,3.5,3.69,1.75,1.96,1.7,2.0
+108,1565148,Ecuador Primera Categoría Serie A,2022,2022-05-21 22:00:00,14,Guayaquil City FC,LDU Quito,2,2,4,"['56', '67']","['51', '76']",4.63,3.55,1.66,1.8,1.9,1.75,2.01
+109,1565150,Ecuador Primera Categoría Serie A,2022,2022-05-22 18:30:00,14,Macará,Técnico Universitario,3,1,4,"['43', '84', '90']",['67'],2.1,2.8,3.4,2.5,1.47,2.16,1.65
+110,1565151,Ecuador Primera Categoría Serie A,2022,2022-05-22 21:00:00,14,CSD Independiente del Valle,Mushuc Runa SC,0,1,1,[],['71'],1.28,4.75,9.0,1.57,2.3,1.95,1.75
+111,1565146,Ecuador Primera Categoría Serie A,2022,2022-05-22 21:00:00,14,SD Aucas,Barcelona,2,1,3,"['16', '45+5']",['53'],2.55,3.0,2.55,2.05,1.67,1.75,2.0
+112,1565152,Ecuador Primera Categoría Serie A,2022,2022-05-23 21:00:00,14,Deportivo Cuenca,Orense SC,1,1,2,['49'],['68'],2.3,3.0,3.0,2.18,1.64,1.93,1.78
+113,1565156,Ecuador Primera Categoría Serie A,2022,2022-05-27 21:00:00,15,Gualaceo SC,SD Aucas,1,4,5,['46'],"['12', '25', '28', '60']",3.47,3.42,2.06,2.25,1.73,1.9,1.8
+114,1565161,Ecuador Primera Categoría Serie A,2022,2022-05-28 15:00:00,15,Mushuc Runa SC,Deportivo Cuenca,1,0,1,['35'],[],2.41,3.16,2.6,1.95,1.78,1.73,1.98
+115,1565155,Ecuador Primera Categoría Serie A,2022,2022-05-28 17:30:00,15,Orense SC,Guayaquil City FC,0,1,1,[],['20'],1.51,3.73,5.4,1.88,1.85,1.95,1.75
+116,1565154,Ecuador Primera Categoría Serie A,2022,2022-05-28 20:00:00,15,Técnico Universitario,CS Emelec,1,1,2,['90+2'],['20'],3.26,3.03,2.09,2.15,1.61,1.83,1.83
+117,1565157,Ecuador Primera Categoría Serie A,2022,2022-05-29 20:00:00,15,9 de Octubre,CSD Independiente del Valle,1,1,2,['56'],['70'],4.2,3.35,1.8,2.0,1.7,1.91,1.8
+118,1565158,Ecuador Primera Categoría Serie A,2022,2022-05-29 20:00:00,15,Barcelona,Cumbayá,4,0,4,"['31', '41', '59', '84']",[],1.3,4.75,8.5,1.75,1.95,2.0,1.73
+119,1565159,Ecuador Primera Categoría Serie A,2022,2022-05-29 20:00:00,15,LDU Quito,Macará,3,2,5,"['26', '45+2', '63']","['23', '78']",1.53,3.9,5.0,1.85,1.85,2.0,1.73
+120,1565160,Ecuador Primera Categoría Serie A,2022,2022-05-29 20:00:00,15,CD Universidad Católica,Delfin SC,4,2,6,"['60', '63', '78', '83']","['40', '90+1']",1.65,3.75,4.5,1.75,1.95,1.8,1.91
+121,1565167,Ecuador Primera Categoría Serie A,2022,2022-07-08 21:00:00,1,CD Universidad Católica,Mushuc Runa SC,2,1,3,"['8', '70']",['37'],1.34,4.55,6.8,1.56,2.12,1.82,1.94
+122,1565169,Ecuador Primera Categoría Serie A,2022,2022-07-09 17:00:00,1,SD Aucas,Orense SC,2,0,2,"['69', '90+2']",[],1.73,3.3,4.2,1.87,1.83,1.77,1.98
+123,1565166,Ecuador Primera Categoría Serie A,2022,2022-07-09 19:30:00,1,9 de Octubre,Técnico Universitario,2,0,2,"['18', '71']",[],2.04,3.2,3.4,2.2,1.6,1.94,1.81
+124,1565164,Ecuador Primera Categoría Serie A,2022,2022-07-09 22:00:00,1,Gualaceo SC,LDU Quito,0,1,1,[],['45+1'],4.0,3.3,1.8,1.87,1.83,1.78,1.97
+125,1565165,Ecuador Primera Categoría Serie A,2022,2022-07-10 16:00:00,1,CSD Independiente del Valle,Cumbayá,2,0,2,"['1', '90+4']",[],1.24,5.2,10.0,1.75,1.95,2.29,1.59
+126,1565162,Ecuador Primera Categoría Serie A,2022,2022-07-10 18:30:00,1,Macará,CS Emelec,1,3,4,['26'],"['9', '43', '58']",2.95,3.1,2.29,2.2,1.6,1.92,1.84
+127,1565168,Ecuador Primera Categoría Serie A,2022,2022-07-10 21:00:00,1,Barcelona,Delfin SC,0,1,1,[],['66'],1.49,4.0,5.6,1.78,1.93,1.93,1.78
+128,1565163,Ecuador Primera Categoría Serie A,2022,2022-07-11 21:00:00,1,Deportivo Cuenca,Guayaquil City FC,1,0,1,['44'],[],1.8,3.5,4.2,2.0,1.75,1.88,1.88
+129,1565177,Ecuador Primera Categoría Serie A,2022,2022-07-15 21:00:00,2,Cumbayá,Gualaceo SC,1,2,3,['74'],"['1', '33']",2.05,3.1,3.3,2.1,1.68,1.88,1.88
+130,1565175,Ecuador Primera Categoría Serie A,2022,2022-07-16 17:00:00,2,Orense SC,Macará,1,1,2,['71'],['6'],1.95,3.2,3.75,2.4,1.5,2.08,1.71
+131,1565176,Ecuador Primera Categoría Serie A,2022,2022-07-16 19:30:00,2,LDU Quito,Deportivo Cuenca,1,1,2,['36'],['84'],1.53,3.85,5.05,1.76,1.84,1.86,1.9
+132,1565170,Ecuador Primera Categoría Serie A,2022,2022-07-16 22:00:00,2,Técnico Universitario,Barcelona,0,2,2,[],"['7', '90+3']",4.0,3.0,1.9,2.24,1.51,2.04,1.74
+133,1565171,Ecuador Primera Categoría Serie A,2022,2022-07-17 16:00:00,2,Mushuc Runa SC,9 de Octubre,3,1,4,"['23', '61', '64']",['85'],2.8,3.0,2.35,2.0,1.7,1.8,1.96
+134,1565172,Ecuador Primera Categoría Serie A,2022,2022-07-17 18:30:00,2,Guayaquil City FC,CD Universidad Católica,2,0,2,"['17', '61']",[],4.1,3.5,1.69,1.9,1.92,1.79,1.98
+135,1565174,Ecuador Primera Categoría Serie A,2022,2022-07-17 21:00:00,2,CS Emelec,CSD Independiente del Valle,2,3,5,"['45+1', '55']","['26', '51', '68']",2.34,3.05,2.7,1.94,1.77,1.78,1.93
+136,1565173,Ecuador Primera Categoría Serie A,2022,2022-07-18 21:00:00,2,Delfin SC,SD Aucas,0,0,0,[],[],2.25,3.1,2.8,1.87,1.83,1.73,2.06
+137,1565185,Ecuador Primera Categoría Serie A,2022,2022-07-22 21:00:00,3,Gualaceo SC,Deportivo Cuenca,0,0,0,[],[],2.78,3.2,2.5,2.2,1.65,1.83,1.83
+138,1565182,Ecuador Primera Categoría Serie A,2022,2022-07-23 17:00:00,3,Orense SC,Cumbayá,3,1,4,"['58', '70', '78']",['42'],1.6,3.55,5.17,2.21,1.59,2.2,1.62
+139,1565181,Ecuador Primera Categoría Serie A,2022,2022-07-23 19:30:00,3,SD Aucas,CSD Independiente del Valle,5,0,5,"['8', '74', '84', '90+7', '90+11']",[],2.42,3.33,2.64,1.81,1.87,1.73,2.0
+140,1565178,Ecuador Primera Categoría Serie A,2022,2022-07-23 22:00:00,3,Guayaquil City FC,CS Emelec,0,0,0,[],[],3.8,3.5,1.75,1.9,1.92,1.8,1.91
+141,1565183,Ecuador Primera Categoría Serie A,2022,2022-07-24 16:00:00,3,Mushuc Runa SC,Técnico Universitario,0,0,0,[],[],2.23,3.15,2.97,2.29,1.55,2.1,1.67
+142,1565180,Ecuador Primera Categoría Serie A,2022,2022-07-24 18:30:00,3,CD Universidad Católica,LDU Quito,4,0,4,"['5', '31', '33', '69']",[],2.17,3.5,2.85,1.85,1.99,1.67,2.1
+143,1565179,Ecuador Primera Categoría Serie A,2022,2022-07-24 21:00:00,3,Barcelona,9 de Octubre,2,2,4,"['21', '87']","['27', '45+5']",1.55,4.0,6.0,1.78,2.0,2.1,1.67
+144,1565184,Ecuador Primera Categoría Serie A,2022,2022-07-25 21:30:00,3,Macará,Delfin SC,1,2,3,['5'],"['58', '85']",2.35,3.2,2.88,2.25,1.62,1.91,1.8
+145,1565189,Ecuador Primera Categoría Serie A,2022,2022-07-29 21:00:00,4,Deportivo Cuenca,SD Aucas,1,2,3,['81'],"['5', '43']",2.75,3.2,2.3,1.9,1.71,1.79,1.99
+146,1565187,Ecuador Primera Categoría Serie A,2022,2022-07-30 17:00:00,4,Delfin SC,Guayaquil City FC,1,3,4,['37'],"['63', '74', '80']",1.54,3.93,5.66,1.85,1.91,1.87,1.83
+147,1565190,Ecuador Primera Categoría Serie A,2022,2022-07-30 19:30:00,4,LDU Quito,Técnico Universitario,2,0,2,"['86', '90+7']",[],1.5,4.28,6.74,1.84,1.91,2.02,1.77
+148,1565186,Ecuador Primera Categoría Serie A,2022,2022-07-30 22:00:00,4,CSD Independiente del Valle,Barcelona,1,1,2,['37'],['39'],2.1,3.37,3.69,2.05,1.81,1.8,1.91
+149,1565191,Ecuador Primera Categoría Serie A,2022,2022-07-31 16:00:00,4,Cumbayá,Mushuc Runa SC,1,1,2,['70'],['48'],2.0,3.05,3.5,2.04,1.61,1.93,1.78
+150,1565188,Ecuador Primera Categoría Serie A,2022,2022-07-31 18:30:00,4,Macará,CD Universidad Católica,1,3,4,['11'],"['33', '68', '78']",2.87,3.05,2.19,1.9,1.71,1.78,1.93
+151,1565193,Ecuador Primera Categoría Serie A,2022,2022-07-31 21:00:00,4,CS Emelec,Gualaceo SC,2,1,3,"['27', '33']",['53'],1.29,4.5,7.45,1.71,1.91,2.2,1.62
+152,1565192,Ecuador Primera Categoría Serie A,2022,2022-08-01 21:00:00,4,9 de Octubre,Orense SC,0,0,0,[],[],2.26,3.0,2.97,1.99,1.65,1.83,1.93
+153,1565198,Ecuador Primera Categoría Serie A,2022,2022-08-05 21:00:00,5,Técnico Universitario,Cumbayá,3,3,6,"['26', '73', '86']","['12', '68', '90+5']",1.79,3.18,4.14,2.21,1.52,2.09,1.72
+154,1565197,Ecuador Primera Categoría Serie A,2022,2022-08-06 17:00:00,5,Orense SC,CSD Independiente del Valle,1,2,3,['61'],"['23', '79']",2.6,3.1,2.55,2.12,1.64,1.99,1.79
+155,1565199,Ecuador Primera Categoría Serie A,2022,2022-08-06 19:30:00,5,Guayaquil City FC,Macará,0,0,0,[],[],2.55,3.15,2.56,2.07,1.67,1.85,1.92
+156,1565194,Ecuador Primera Categoría Serie A,2022,2022-08-06 22:00:00,5,Delfin SC,CS Emelec,0,3,3,[],"['16', '76', '90+5']",2.8,3.1,2.38,2.07,1.67,1.9,1.87
+157,1565196,Ecuador Primera Categoría Serie A,2022,2022-08-07 16:00:00,5,SD Aucas,LDU Quito,1,1,2,['32'],['90+4'],2.1,3.4,3.5,1.8,1.95,1.68,2.13
+158,1565201,Ecuador Primera Categoría Serie A,2022,2022-08-07 18:30:00,5,CD Universidad Católica,Deportivo Cuenca,0,2,2,[],"['6', '75']",1.55,4.0,6.0,1.8,1.95,1.9,1.86
+159,1565200,Ecuador Primera Categoría Serie A,2022,2022-08-07 21:00:00,5,Barcelona,Mushuc Runa SC,4,1,5,"['24', '40', '51', '55']",['34'],1.33,4.8,10.0,1.7,2.1,2.04,1.74
+160,1565195,Ecuador Primera Categoría Serie A,2022,2022-08-08 21:00:00,5,Gualaceo SC,9 de Octubre,1,0,1,['67'],[],2.5,3.0,2.6,2.05,1.7,1.8,1.91
+161,1565208,Ecuador Primera Categoría Serie A,2022,2022-08-12 21:00:00,6,Mushuc Runa SC,Orense SC,1,1,2,['43'],['75'],2.25,2.9,3.2,2.28,1.56,2.0,1.75
+162,1565209,Ecuador Primera Categoría Serie A,2022,2022-08-13 17:00:00,6,CSD Independiente del Valle,Gualaceo SC,2,0,2,"['24', '48']",[],1.28,4.8,9.06,1.84,1.86,2.45,1.5
+163,1565205,Ecuador Primera Categoría Serie A,2022,2022-08-13 19:30:00,6,9 de Octubre,SD Aucas,1,2,3,['66'],"['33', '86']",2.67,3.3,2.37,1.82,1.88,1.65,2.19
+164,1565204,Ecuador Primera Categoría Serie A,2022,2022-08-13 22:00:00,6,Barcelona,CD Universidad Católica,0,0,0,[],[],1.84,3.36,3.64,1.84,1.89,1.78,1.99
+165,1565206,Ecuador Primera Categoría Serie A,2022,2022-08-14 15:00:00,6,Cumbayá,Macará,1,0,1,['30'],[],2.8,2.95,2.34,2.2,1.6,1.9,1.83
+166,1565203,Ecuador Primera Categoría Serie A,2022,2022-08-14 17:30:00,6,Técnico Universitario,Guayaquil City FC,3,1,4,"['17', '83', '90+8']",['38'],1.73,3.3,4.2,2.2,1.6,2.12,1.69
+167,1565202,Ecuador Primera Categoría Serie A,2022,2022-08-14 20:00:00,6,LDU Quito,CS Emelec,2,0,2,"['25', '88']",[],1.98,3.25,3.25,1.9,1.8,1.77,2.0
+168,1565207,Ecuador Primera Categoría Serie A,2022,2022-08-15 21:00:00,6,Deportivo Cuenca,Delfin SC,3,2,5,"['12', '49', '88']","['55', '87']",2.14,3.1,3.22,1.96,1.75,1.83,1.83
+169,1565215,Ecuador Primera Categoría Serie A,2022,2022-08-19 21:00:00,7,Gualaceo SC,Técnico Universitario,0,3,3,[],"['5', '45', '75']",2.39,3.0,2.71,2.33,1.53,2.0,1.72
+170,1565210,Ecuador Primera Categoría Serie A,2022,2022-08-20 17:00:00,7,Orense SC,Barcelona,1,2,3,['37'],"['83', '90']",3.55,2.95,2.08,2.3,1.55,1.95,1.78
+171,1565214,Ecuador Primera Categoría Serie A,2022,2022-08-20 19:30:00,7,LDU Quito,Cumbayá,1,0,1,['27'],[],1.25,5.0,11.0,1.57,2.25,2.05,1.7
+172,1565212,Ecuador Primera Categoría Serie A,2022,2022-08-20 22:00:00,7,Macará,SD Aucas,1,1,2,['90+13'],['90+10'],2.87,3.1,2.25,1.95,1.75,1.77,1.93
+173,1565213,Ecuador Primera Categoría Serie A,2022,2022-08-22 21:00:00,7,Guayaquil City FC,CSD Independiente del Valle,0,1,1,[],['90+3'],3.85,3.3,1.8,2.0,1.82,1.87,1.87
+174,1565222,Ecuador Primera Categoría Serie A,2022,2022-08-26 21:00:00,8,Deportivo Cuenca,Macará,1,1,2,['79'],['5'],1.95,3.35,3.2,1.87,1.95,1.7,2.05
+175,1565223,Ecuador Primera Categoría Serie A,2022,2022-08-27 17:00:00,8,Cumbayá,Delfin SC,2,1,3,"['27', '86']",['34'],2.91,2.93,2.36,1.93,1.81,1.71,2.05
+176,1565219,Ecuador Primera Categoría Serie A,2022,2022-08-27 19:30:00,8,SD Aucas,Guayaquil City FC,2,1,3,"['5', '53']",['76'],1.43,4.2,6.75,1.8,1.89,2.15,1.62
+177,1565218,Ecuador Primera Categoría Serie A,2022,2022-08-27 22:00:00,8,9 de Octubre,CS Emelec,0,3,3,[],"['4', '62', '83']",2.65,3.15,2.36,2.02,1.8,1.75,2.0
+178,1565225,Ecuador Primera Categoría Serie A,2022,2022-08-28 16:00:00,8,Mushuc Runa SC,Gualaceo SC,2,0,2,"['35', '42']",[],1.95,3.25,3.6,1.95,1.75,1.85,1.85
+179,1565221,Ecuador Primera Categoría Serie A,2022,2022-08-28 18:30:00,8,CSD Independiente del Valle,CD Universidad Católica,1,2,3,['81'],"['22', '75']",2.05,3.15,3.35,1.9,1.8,1.72,1.95
+180,1565220,Ecuador Primera Categoría Serie A,2022,2022-08-28 21:00:00,8,Barcelona,LDU Quito,1,1,2,['4'],['85'],2.0,3.25,3.5,1.9,1.8,1.8,1.96
+181,1565224,Ecuador Primera Categoría Serie A,2022,2022-08-29 21:00:00,8,Técnico Universitario,Orense SC,2,0,2,"['44', '90']",[],2.0,3.1,3.4,2.1,1.68,2.04,1.74
+182,1565230,Ecuador Primera Categoría Serie A,2022,2022-09-02 21:00:00,9,CS Emelec,Cumbayá,1,0,1,['75'],[],1.28,5.4,8.5,1.7,2.04,2.15,1.66
+183,1565229,Ecuador Primera Categoría Serie A,2022,2022-09-03 16:00:00,9,Deportivo Cuenca,CSD Independiente del Valle,2,1,3,"['49', '62']",['19'],2.87,3.19,2.21,2.0,1.71,1.76,2.0
+184,1565227,Ecuador Primera Categoría Serie A,2022,2022-09-03 18:30:00,9,Guayaquil City FC,9 de Octubre,1,1,2,['34'],['90+3'],2.62,3.07,2.48,2.0,1.76,1.71,2.05
+185,1565226,Ecuador Primera Categoría Serie A,2022,2022-09-03 21:00:00,9,Gualaceo SC,Barcelona,2,1,3,"['45+7', '90+1']",['89'],4.77,3.33,1.67,2.03,1.73,1.83,1.9
+186,1565232,Ecuador Primera Categoría Serie A,2022,2022-09-04 16:00:00,9,Macará,Mushuc Runa SC,3,0,3,"['52', '90+3', '90+8']",[],1.95,3.1,3.6,2.05,1.7,1.89,1.88
+187,1565233,Ecuador Primera Categoría Serie A,2022,2022-09-04 18:30:00,9,LDU Quito,Orense SC,1,2,3,['76'],"['4', '7']",1.33,4.25,9.0,1.87,1.85,2.3,1.6
+188,1565228,Ecuador Primera Categoría Serie A,2022,2022-09-04 21:00:00,9,CD Universidad Católica,SD Aucas,1,2,3,['39'],"['13', '36']",1.85,3.5,3.6,1.68,1.95,1.71,2.1
+189,1565231,Ecuador Primera Categoría Serie A,2022,2022-09-05 21:00:00,9,Delfin SC,Técnico Universitario,0,0,0,[],[],1.95,3.42,3.78,2.0,1.64,1.85,1.9
+190,1565236,Ecuador Primera Categoría Serie A,2022,2022-09-09 21:00:00,10,Mushuc Runa SC,LDU Quito,1,2,3,['45+6'],"['22', '71']",3.76,3.27,1.7,1.77,1.84,1.73,1.98
+191,1565241,Ecuador Primera Categoría Serie A,2022,2022-09-10 16:00:00,10,Orense SC,Gualaceo SC,4,1,5,"['33', '55', '58', '87']",['48'],1.55,3.23,4.89,2.14,1.81,2.0,1.71
+192,1565235,Ecuador Primera Categoría Serie A,2022,2022-09-10 18:30:00,10,Cumbayá,Guayaquil City FC,3,0,3,"['8', '34', '65']",[],1.97,3.25,3.25,2.02,1.78,1.93,1.78
+193,1565238,Ecuador Primera Categoría Serie A,2022,2022-09-10 21:00:00,10,Barcelona,Macará,5,3,8,"['12', '25', '55', '76', '82']","['29', '34', '89']",1.39,4.15,6.3,1.94,1.86,2.2,1.64
+194,1565239,Ecuador Primera Categoría Serie A,2022,2022-09-11 16:00:00,10,CSD Independiente del Valle,Delfin SC,2,0,2,"['26', '76']",[],1.5,4.24,5.95,1.85,2.09,1.83,1.87
+195,1565234,Ecuador Primera Categoría Serie A,2022,2022-09-11 18:30:00,10,SD Aucas,CS Emelec,1,1,2,['83'],['65'],2.03,3.5,3.2,1.85,2.09,1.64,2.15
+196,1565240,Ecuador Primera Categoría Serie A,2022,2022-09-11 21:00:00,10,9 de Octubre,Deportivo Cuenca,1,0,1,['78'],[],1.97,3.46,3.64,2.09,1.85,1.8,1.9
+197,1565237,Ecuador Primera Categoría Serie A,2022,2022-09-12 21:00:00,10,Técnico Universitario,CD Universidad Católica,1,1,2,['27'],['14'],3.48,3.2,2.0,2.04,1.69,1.83,1.9
+198,1565245,Ecuador Primera Categoría Serie A,2022,2022-09-16 21:00:00,11,Deportivo Cuenca,Cumbayá,1,1,2,['32'],['20'],1.6,3.6,5.0,1.98,1.82,1.93,1.83
+199,1565249,Ecuador Primera Categoría Serie A,2022,2022-09-17 15:00:00,11,Macará,Gualaceo SC,1,1,2,['49'],['18'],1.77,3.3,4.1,2.0,1.72,1.94,1.77
+200,1565243,Ecuador Primera Categoría Serie A,2022,2022-09-17 17:30:00,11,Delfin SC,9 de Octubre,3,1,4,"['40', '50', '73']",['59'],1.95,3.2,3.4,1.91,1.8,1.77,1.94
+201,1565244,Ecuador Primera Categoría Serie A,2022,2022-09-17 20:00:00,11,LDU Quito,CSD Independiente del Valle,2,2,4,"['40', '81']","['14', '16']",2.1,3.1,3.3,1.94,1.77,1.77,2.01
+202,1565248,Ecuador Primera Categoría Serie A,2022,2022-09-18 15:00:00,11,CD Universidad Católica,Orense SC,2,0,2,"['45', '48']",[],1.44,3.98,5.9,1.81,1.89,1.98,1.74
+203,1565246,Ecuador Primera Categoría Serie A,2022,2022-09-18 17:30:00,11,SD Aucas,Técnico Universitario,5,2,7,"['9', '11', '21', '61', '90']","['45+1', '54']",1.37,4.7,7.5,1.72,2.0,1.99,1.78
+204,1565242,Ecuador Primera Categoría Serie A,2022,2022-09-19 14:00:00,11,CS Emelec,Barcelona,1,3,4,['44'],"['16', '64', '75']",2.1,3.2,3.45,1.98,1.74,1.8,1.96
+205,1565247,Ecuador Primera Categoría Serie A,2022,2022-09-19 21:00:00,11,Guayaquil City FC,Mushuc Runa SC,4,1,5,"['9', '61', '66', '75']",['83'],2.25,3.3,2.7,2.02,1.71,1.73,2.0
+206,1565211,Ecuador Primera Categoría Serie A,2022,2022-09-24 18:30:00,7,CD Universidad Católica,9 de Octubre,3,0,3,"['49', '60', '86']",[],1.43,4.3,6.0,1.66,1.97,1.87,1.83
+207,1565255,Ecuador Primera Categoría Serie A,2022,2022-09-24 21:00:00,12,CSD Independiente del Valle,Macará,1,0,1,['90+8'],[],1.51,3.95,5.6,1.77,1.95,1.83,1.83
+208,1565216,Ecuador Primera Categoría Serie A,2022,2022-09-25 17:30:00,7,Delfin SC,Mushuc Runa SC,0,0,0,[],[],1.75,3.4,4.4,1.81,1.9,1.9,1.85
+209,1565217,Ecuador Primera Categoría Serie A,2022,2022-09-25 20:00:00,7,CS Emelec,Deportivo Cuenca,3,1,4,"['52', '62', '90+1']",['40'],1.65,3.65,4.9,1.85,1.85,2.05,1.68
+210,1565253,Ecuador Primera Categoría Serie A,2022,2022-09-30 21:00:00,12,Gualaceo SC,CD Universidad Católica,0,1,1,[],['42'],3.7,3.25,1.87,1.87,1.83,1.73,2.0
+211,1565252,Ecuador Primera Categoría Serie A,2022,2022-10-01 19:45:00,12,9 de Octubre,LDU Quito,2,2,4,"['88', '89']","['34', '43']",3.4,3.3,1.95,1.96,1.96,1.73,2.0
+212,1565250,Ecuador Primera Categoría Serie A,2022,2022-10-01 22:00:00,12,Mushuc Runa SC,CS Emelec,0,0,0,[],[],4.0,3.4,1.8,1.87,2.06,1.73,2.0
+213,1565256,Ecuador Primera Categoría Serie A,2022,2022-10-02 15:00:00,12,Orense SC,Delfin SC,1,1,2,['86'],['54'],1.94,3.3,3.8,2.12,1.64,1.85,1.9
+214,1565254,Ecuador Primera Categoría Serie A,2022,2022-10-02 17:30:00,12,Cumbayá,SD Aucas,0,0,0,[],[],4.35,3.65,1.7,1.74,1.97,1.8,1.91
+215,1565251,Ecuador Primera Categoría Serie A,2022,2022-10-02 20:00:00,12,Barcelona,Guayaquil City FC,1,1,2,['13'],['5'],1.2,6.0,12.0,1.68,2.06,2.28,1.6
+216,1565257,Ecuador Primera Categoría Serie A,2022,2022-10-03 21:00:00,12,Técnico Universitario,Deportivo Cuenca,1,0,1,['90+4'],[],2.08,3.2,3.5,2.05,1.68,1.84,1.92
+217,1565260,Ecuador Primera Categoría Serie A,2022,2022-10-07 21:00:00,13,Delfin SC,LDU Quito,3,0,3,"['34', '78', '90+2']",[],3.3,3.35,1.96,1.8,1.8,1.73,1.95
+218,1565261,Ecuador Primera Categoría Serie A,2022,2022-10-08 15:00:00,13,Cumbayá,CD Universidad Católica,0,0,0,[],[],3.25,3.3,1.96,1.93,1.83,1.77,1.9
+219,1565259,Ecuador Primera Categoría Serie A,2022,2022-10-08 17:30:00,13,Macará,9 de Octubre,3,1,4,"['14', '64', '76']",['44'],1.84,3.45,3.5,1.93,1.83,1.77,1.93
+220,1565258,Ecuador Primera Categoría Serie A,2022,2022-10-08 20:00:00,13,Deportivo Cuenca,Barcelona,2,1,3,"['29', '58']",['65'],2.35,3.25,2.6,1.95,1.8,1.77,1.93
+221,1565265,Ecuador Primera Categoría Serie A,2022,2022-10-09 15:00:00,13,Guayaquil City FC,Gualaceo SC,1,0,1,['64'],[],2.3,3.15,3.05,1.85,1.85,1.65,2.15
+222,1565263,Ecuador Primera Categoría Serie A,2022,2022-10-09 17:30:00,13,SD Aucas,Mushuc Runa SC,0,0,0,[],[],1.48,4.1,6.1,1.64,2.12,1.8,1.91
+223,1565264,Ecuador Primera Categoría Serie A,2022,2022-10-09 20:00:00,13,CS Emelec,Orense SC,0,0,0,[],[],1.67,3.65,4.75,1.93,1.78,1.93,1.75
+224,1565262,Ecuador Primera Categoría Serie A,2022,2022-10-10 21:00:00,13,CSD Independiente del Valle,Técnico Universitario,0,1,1,[],['89'],1.6,3.47,4.96,1.89,1.86,2.02,1.76
+225,1565267,Ecuador Primera Categoría Serie A,2022,2022-10-15 20:00:00,14,LDU Quito,Guayaquil City FC,2,0,2,"['71', '72']",[],1.24,5.23,9.24,1.62,2.05,1.98,1.72
+226,1565273,Ecuador Primera Categoría Serie A,2022,2022-10-15 20:00:00,14,Orense SC,Deportivo Cuenca,1,0,1,['53'],[],2.01,3.17,3.57,2.01,1.64,1.93,1.75
+227,1565272,Ecuador Primera Categoría Serie A,2022,2022-10-15 20:00:00,14,Gualaceo SC,Delfin SC,2,1,3,"['11', '55']",['78'],2.45,3.09,2.78,1.89,1.74,1.8,1.88
+228,1565266,Ecuador Primera Categoría Serie A,2022,2022-10-16 20:00:00,14,CD Universidad Católica,CS Emelec,2,0,2,"['26', '51']",[],1.75,3.5,4.75,1.91,1.85,1.75,1.98
+229,1565268,Ecuador Primera Categoría Serie A,2022,2022-10-16 20:00:00,14,Barcelona,SD Aucas,0,2,2,[],"['59', '90+3']",2.4,3.2,3.0,1.95,1.8,1.68,2.08
+230,1565269,Ecuador Primera Categoría Serie A,2022,2022-10-16 20:00:00,14,Mushuc Runa SC,CSD Independiente del Valle,0,1,1,[],['56'],4.5,3.6,1.8,1.85,1.9,1.72,2.02
+231,1565270,Ecuador Primera Categoría Serie A,2022,2022-10-17 21:00:00,14,9 de Octubre,Cumbayá,0,1,1,[],['74'],1.93,3.5,3.15,1.82,2.0,1.8,1.97
+232,1565271,Ecuador Primera Categoría Serie A,2022,2022-10-17 21:00:00,14,Técnico Universitario,Macará,3,1,4,"['6', '84', '90+7']",['11'],1.96,3.15,3.5,2.09,1.58,1.9,1.83
+233,1565279,Ecuador Primera Categoría Serie A,2022,2022-10-21 21:00:00,15,Deportivo Cuenca,Mushuc Runa SC,3,1,4,"['31', '41', '65']",['22'],1.78,3.55,3.9,1.92,1.9,1.8,1.88
+234,1565276,Ecuador Primera Categoría Serie A,2022,2022-10-22 15:00:00,15,Macará,LDU Quito,0,5,5,[],"['2', '44', '54', '58', '83']",3.3,3.55,2.0,1.93,1.8,1.83,1.93
+235,1565278,Ecuador Primera Categoría Serie A,2022,2022-10-22 17:30:00,15,CS Emelec,Técnico Universitario,3,1,4,"['40', '54', '78']",['90+1'],1.5,4.25,6.69,1.91,1.85,2.0,1.77
+236,1565274,Ecuador Primera Categoría Serie A,2022,2022-10-22 20:00:00,15,Cumbayá,Barcelona,1,1,2,['67'],['51'],4.4,3.5,1.87,1.93,1.81,1.81,1.9
+237,1565275,Ecuador Primera Categoría Serie A,2022,2022-10-23 17:30:00,15,CSD Independiente del Valle,9 de Octubre,1,0,1,['61'],[],1.25,5.0,8.0,1.74,2.02,2.5,1.5
+238,1565277,Ecuador Primera Categoría Serie A,2022,2022-10-23 20:00:00,15,Delfin SC,CD Universidad Católica,2,1,3,"['30', '56']",['15'],3.5,3.3,1.95,1.95,1.75,1.8,1.96
+239,1565280,Ecuador Primera Categoría Serie A,2022,2022-10-23 20:00:00,15,Guayaquil City FC,Orense SC,1,1,2,['53'],['48'],2.75,3.1,2.38,2.18,1.64,1.91,1.85
+240,1565281,Ecuador Primera Categoría Serie A,2022,2022-10-23 20:00:00,15,SD Aucas,Gualaceo SC,3,0,3,"['54', '63', '90']",[],1.25,4.6,10.0,1.86,1.88,2.5,1.5
+241,4474669,Ecuador Primera Categoría Serie A,2022,2022-11-06 18:00:00,0,Barcelona,SD Aucas,0,1,1,[],['65'],2.11,3.5,2.95,1.85,1.99,1.66,2.12
+242,4474670,Ecuador Primera Categoría Serie A,2022,2022-11-13 20:00:00,0,SD Aucas,Barcelona,0,0,0,[],[],1.86,3.68,3.84,1.7,1.9,1.72,2.08

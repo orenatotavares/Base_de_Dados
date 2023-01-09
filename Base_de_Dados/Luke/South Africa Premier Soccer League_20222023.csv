@@ -1,0 +1,121 @@
+Nº,Id_Jogo,League,Season,Date,Rodada,Home,Away,FT_Goals_H,FT_Goals_A,FT_TotalGoals,Goals_H_Minutes,Goals_A_Minutes,FT_Odd_H,FT_Odd_D,FT_Odd_A,FT_Odd_Over25,FT_Odd_Under25,FT_Odd_BTTS_Yes,FT_Odd_BTTS_No
+1,2962176,South Africa Premier Soccer League,2022/2023,2022-08-05 14:30:00,0,Cape Town City,Mamelodi Sundowns,0,2,2,[],"['61', '63']",3.66,2.9,2.01,2.23,1.52,2.0,1.73
+2,2962177,South Africa Premier Soccer League,2022/2023,2022-08-06 10:00:00,0,Golden Arrows,Richards Bay,0,2,2,[],"['28', '71']",2.31,2.98,3.2,2.27,1.56,2.1,1.67
+3,2962178,South Africa Premier Soccer League,2022/2023,2022-08-06 10:00:00,0,Marumo Gallants,Stellenbosch,0,0,0,[],[],2.7,2.7,2.23,2.8,1.36,2.38,1.53
+4,2962179,South Africa Premier Soccer League,2022/2023,2022-08-06 10:00:00,0,Orlando Pirates,Moroka Swallows,1,0,1,['10'],[],1.6,3.52,5.8,2.36,1.52,2.25,1.57
+5,2962180,South Africa Premier Soccer League,2022/2023,2022-08-06 12:30:00,0,Real Kings,Kaizer Chiefs,1,0,1,['2'],[],2.87,2.7,2.53,2.41,1.5,2.1,1.67
+6,2962181,South Africa Premier Soccer League,2022/2023,2022-08-06 15:00:00,0,Maritzburg United,Sekhukhune United,1,1,2,['85'],['15'],2.12,2.69,3.69,2.89,1.36,2.38,1.53
+7,2962182,South Africa Premier Soccer League,2022/2023,2022-08-07 10:00:00,0,TS Galaxy,AmaZulu,0,0,0,[],[],3.0,2.75,2.45,2.77,1.39,2.25,1.57
+8,2962183,South Africa Premier Soccer League,2022/2023,2022-08-07 12:30:00,0,SuperSport United,Chippa United,1,1,2,['63'],['17'],2.0,3.0,3.5,2.55,1.5,2.2,1.62
+9,2962184,South Africa Premier Soccer League,2022/2023,2022-08-09 10:00:00,0,Richards Bay,Marumo Gallants,0,0,0,[],[],2.47,2.71,3.15,2.85,1.33,2.35,1.55
+10,2962185,South Africa Premier Soccer League,2022/2023,2022-08-09 12:00:00,0,Moroka Swallows,Cape Town City,3,2,5,"['16', '23', '90+3']","['31', '61']",3.28,2.93,2.3,2.55,1.5,2.08,1.65
+11,2962186,South Africa Premier Soccer League,2022/2023,2022-08-09 14:30:00,0,Kaizer Chiefs,Maritzburg United,3,0,3,"['4', '24', '90+5']",[],1.77,3.18,5.0,2.48,1.45,2.21,1.64
+12,2962187,South Africa Premier Soccer League,2022/2023,2022-08-10 12:00:00,0,AmaZulu,SuperSport United,2,1,3,"['65', '78']",['56'],2.17,2.94,3.15,2.5,1.5,2.15,1.67
+13,2962191,South Africa Premier Soccer League,2022/2023,2022-08-10 14:30:00,0,Stellenbosch,Orlando Pirates,1,1,2,['54'],['45'],3.46,2.8,2.27,2.55,1.47,2.15,1.61
+14,2962190,South Africa Premier Soccer League,2022/2023,2022-08-10 14:30:00,0,Sekhukhune United,Golden Arrows,1,0,1,['45+2'],[],2.53,2.95,2.59,2.65,1.44,2.13,1.62
+15,2962188,South Africa Premier Soccer League,2022/2023,2022-08-10 14:30:00,0,Chippa United,Real Kings,1,3,4,['75'],"['30', '41', '76']",3.34,2.95,2.24,2.5,1.5,2.05,1.67
+16,2962189,South Africa Premier Soccer League,2022/2023,2022-08-10 14:30:00,0,Mamelodi Sundowns,TS Galaxy,0,1,1,[],['34'],1.41,4.14,7.4,2.04,1.74,2.18,1.59
+17,2962192,South Africa Premier Soccer League,2022/2023,2022-08-12 14:30:00,0,Maritzburg United,Moroka Swallows,0,0,0,[],[],2.55,2.69,3.22,2.75,1.4,2.2,1.58
+18,2962193,South Africa Premier Soccer League,2022/2023,2022-08-13 10:00:00,0,Marumo Gallants,Golden Arrows,1,1,2,['55'],['71'],2.7,2.75,2.65,2.63,1.38,2.2,1.62
+19,2962194,South Africa Premier Soccer League,2022/2023,2022-08-13 10:00:00,0,Stellenbosch,Real Kings,3,1,4,"['2', '49', '64']",['83'],2.55,2.75,2.85,2.61,1.38,2.08,1.71
+20,2962195,South Africa Premier Soccer League,2022/2023,2022-08-13 10:00:00,0,Mamelodi Sundowns,Kaizer Chiefs,4,0,4,"['6', '17', '53', '76']",[],1.83,3.1,4.2,2.18,1.55,2.06,1.73
+21,2962196,South Africa Premier Soccer League,2022/2023,2022-08-13 13:55:00,0,Richards Bay,Sekhukhune United,1,0,1,['78'],[],2.2,2.88,3.2,2.64,1.38,2.18,1.6
+22,2962197,South Africa Premier Soccer League,2022/2023,2022-08-13 15:00:00,0,AmaZulu,Cape Town City,2,1,3,"['42', '52']",['36'],2.75,2.7,2.73,2.7,1.41,2.21,1.64
+23,2962198,South Africa Premier Soccer League,2022/2023,2022-08-14 10:00:00,0,Orlando Pirates,Chippa United,0,1,1,[],['86'],1.65,3.15,5.0,2.2,1.6,2.1,1.64
+24,2962199,South Africa Premier Soccer League,2022/2023,2022-08-14 12:30:00,0,TS Galaxy,SuperSport United,2,0,2,"['43', '66']",[],2.7,2.7,2.6,2.55,1.45,2.05,1.73
+25,2962232,South Africa Premier Soccer League,2022/2023,2022-08-16 14:30:00,0,Cape Town City,Maritzburg United,0,0,0,[],[],2.06,3.11,4.19,2.59,1.44,2.1,1.68
+26,2962238,South Africa Premier Soccer League,2022/2023,2022-08-17 14:30:00,0,Real Kings,Orlando Pirates,0,1,1,[],['34'],3.46,2.87,2.35,2.39,1.51,2.13,1.68
+27,2962200,South Africa Premier Soccer League,2022/2023,2022-08-19 14:30:00,0,Moroka Swallows,AmaZulu,2,3,5,"['43', '66']","['24', '79', '90']",2.88,2.73,2.46,2.77,1.34,2.2,1.62
+28,2962202,South Africa Premier Soccer League,2022/2023,2022-08-20 10:00:00,0,Sekhukhune United,Mamelodi Sundowns,1,1,2,['46'],['45'],5.6,3.2,1.64,2.48,1.5,2.2,1.64
+29,2962201,South Africa Premier Soccer League,2022/2023,2022-08-20 10:00:00,0,Golden Arrows,TS Galaxy,0,0,0,[],[],1.74,3.15,4.9,2.6,1.47,2.15,1.67
+30,2962203,South Africa Premier Soccer League,2022/2023,2022-08-20 12:30:00,0,Cape Town City,Stellenbosch,1,1,2,['42'],['73'],2.12,2.85,3.6,2.64,1.4,2.18,1.65
+31,2962204,South Africa Premier Soccer League,2022/2023,2022-08-20 15:00:00,0,Kaizer Chiefs,Richards Bay,1,0,1,['62'],[],1.75,3.1,4.5,2.35,1.53,2.1,1.7
+32,2962205,South Africa Premier Soccer League,2022/2023,2022-08-20 15:00:00,0,Maritzburg United,Chippa United,2,1,3,"['45+2', '90+1']",['34'],2.2,2.63,3.8,2.93,1.33,2.4,1.54
+33,2962206,South Africa Premier Soccer League,2022/2023,2022-08-21 10:00:00,0,Real Kings,Marumo Gallants,2,2,4,"['45', '90+2']","['15', '52']",2.0,2.9,3.9,2.42,1.5,2.2,1.62
+34,2962207,South Africa Premier Soccer League,2022/2023,2022-08-21 12:30:00,0,SuperSport United,Orlando Pirates,0,0,0,[],[],3.4,2.8,2.12,2.32,1.54,1.99,1.71
+35,2962209,South Africa Premier Soccer League,2022/2023,2022-08-23 14:30:00,0,Moroka Swallows,Sekhukhune United,2,1,3,"['40', '80']",['27'],2.3,2.75,3.13,2.94,1.35,2.26,1.62
+36,2962208,South Africa Premier Soccer League,2022/2023,2022-08-23 14:30:00,0,Cape Town City,Kaizer Chiefs,2,0,2,"['5', '62']",[],2.8,2.88,2.4,2.55,1.5,2.06,1.74
+37,2962210,South Africa Premier Soccer League,2022/2023,2022-08-24 12:00:00,0,Mamelodi Sundowns,Stellenbosch,3,0,3,"['2', '41', '76']",[],1.47,3.55,6.3,2.3,1.53,2.33,1.57
+38,2962211,South Africa Premier Soccer League,2022/2023,2022-08-24 14:30:00,0,AmaZulu,Golden Arrows,0,1,1,[],['27'],1.99,2.9,3.5,2.75,1.4,2.2,1.58
+39,2962212,South Africa Premier Soccer League,2022/2023,2022-08-24 14:30:00,0,Chippa United,TS Galaxy,0,0,0,[],[],2.18,2.8,3.3,2.75,1.4,2.18,1.59
+40,2962213,South Africa Premier Soccer League,2022/2023,2022-08-24 14:30:00,0,Orlando Pirates,Marumo Gallants,1,0,1,['3'],[],1.55,3.35,5.7,2.45,1.5,2.5,1.5
+41,2962214,South Africa Premier Soccer League,2022/2023,2022-08-24 14:30:00,0,Richards Bay,SuperSport United,0,1,1,[],['50'],2.46,2.75,3.05,2.58,1.39,2.1,1.68
+42,2962215,South Africa Premier Soccer League,2022/2023,2022-08-24 14:30:00,0,Real Kings,Maritzburg United,1,0,1,['10'],[],2.28,2.9,2.86,2.55,1.45,2.16,1.6
+43,2962216,South Africa Premier Soccer League,2022/2023,2022-09-02 14:30:00,0,SuperSport United,Mamelodi Sundowns,2,1,3,"['9', '45+1']",['90+3'],4.6,3.2,1.77,2.18,1.64,1.98,1.72
+44,2962217,South Africa Premier Soccer League,2022/2023,2022-09-03 10:00:00,0,Golden Arrows,Chippa United,3,2,5,"['18', '23', '41']","['62', '67']",2.06,2.85,3.5,2.75,1.4,2.39,1.56
+45,2962218,South Africa Premier Soccer League,2022/2023,2022-09-03 10:00:00,0,Stellenbosch,Richards Bay,1,2,3,['36'],"['30', '75']",2.28,2.67,3.25,2.9,1.36,2.24,1.62
+46,2962220,South Africa Premier Soccer League,2022/2023,2022-09-03 12:30:00,0,Sekhukhune United,Real Kings,1,2,3,['89'],"['9', '55']",2.33,2.81,2.98,2.6,1.44,2.15,1.67
+47,2962219,South Africa Premier Soccer League,2022/2023,2022-09-03 12:30:00,0,Kaizer Chiefs,AmaZulu,0,0,0,[],[],1.91,2.86,4.05,2.4,1.5,2.28,1.6
+48,2962221,South Africa Premier Soccer League,2022/2023,2022-09-03 15:00:00,0,TS Galaxy,Cape Town City,0,1,1,[],['15'],3.02,2.75,2.6,2.72,1.36,2.16,1.66
+49,2962222,South Africa Premier Soccer League,2022/2023,2022-09-04 10:00:00,0,Marumo Gallants,Moroka Swallows,1,1,2,['38'],['65'],2.56,2.62,2.92,2.85,1.37,2.25,1.57
+50,2962223,South Africa Premier Soccer League,2022/2023,2022-09-04 12:30:00,0,Maritzburg United,Orlando Pirates,1,0,1,['80'],[],3.4,2.7,2.2,2.99,1.3,2.38,1.5
+51,2962231,South Africa Premier Soccer League,2022/2023,2022-09-06 12:00:00,0,Real Kings,Richards Bay,0,1,1,[],['27'],2.07,2.5,4.98,2.45,1.49,0.0,0.0
+52,2962228,South Africa Premier Soccer League,2022/2023,2022-09-06 14:30:00,0,Cape Town City,Sekhukhune United,0,0,0,[],[],2.23,2.96,3.0,2.55,1.45,2.18,1.66
+53,2962241,South Africa Premier Soccer League,2022/2023,2022-09-07 14:30:00,0,Chippa United,Mamelodi Sundowns,0,1,1,[],['90+1'],6.3,3.45,1.58,2.38,1.55,2.24,1.59
+54,2962224,South Africa Premier Soccer League,2022/2023,2022-09-09 14:30:00,0,Maritzburg United,SuperSport United,1,2,3,['58'],"['57', '73']",2.34,2.79,3.62,2.58,1.39,2.11,1.69
+55,2962226,South Africa Premier Soccer League,2022/2023,2022-09-10 10:00:00,0,Moroka Swallows,Stellenbosch,1,2,3,['37'],"['28', '53']",2.39,2.88,2.82,2.75,1.4,2.18,1.65
+56,2962225,South Africa Premier Soccer League,2022/2023,2022-09-10 10:00:00,0,AmaZulu,Chippa United,1,2,3,['90+2'],"['7', '43']",1.8,2.96,4.4,2.75,1.4,2.58,1.49
+57,2962227,South Africa Premier Soccer League,2022/2023,2022-09-10 12:30:00,0,Orlando Pirates,TS Galaxy,2,0,2,"['6', '37']",[],1.75,3.05,4.5,2.9,1.36,2.53,1.5
+58,2962229,South Africa Premier Soccer League,2022/2023,2022-09-10 15:00:00,0,Mamelodi Sundowns,Golden Arrows,2,1,3,"['44', '59']",['49'],1.57,3.55,5.0,2.3,1.57,2.18,1.66
+59,2962230,South Africa Premier Soccer League,2022/2023,2022-09-11 10:00:00,0,Marumo Gallants,Kaizer Chiefs,1,1,2,['12'],['84'],3.84,3.05,2.01,2.85,1.37,2.5,1.5
+60,2962233,South Africa Premier Soccer League,2022/2023,2022-09-17 10:00:00,0,Chippa United,Marumo Gallants,1,0,1,['50'],[],2.41,2.81,2.86,2.84,1.33,2.2,1.62
+61,2962234,South Africa Premier Soccer League,2022/2023,2022-09-17 10:00:00,0,Golden Arrows,Moroka Swallows,4,0,4,"['13', '14', '66', '70']",[],2.06,2.97,3.35,2.54,1.4,2.28,1.54
+62,2962236,South Africa Premier Soccer League,2022/2023,2022-09-17 12:30:00,0,Sekhukhune United,Stellenbosch,1,1,2,['38'],['53'],2.13,2.84,3.35,3.22,1.26,2.52,1.45
+63,2962237,South Africa Premier Soccer League,2022/2023,2022-09-17 15:00:00,0,Kaizer Chiefs,SuperSport United,2,1,3,"['40', '54']",['15'],1.94,3.0,4.0,2.43,1.44,2.18,1.59
+64,2962235,South Africa Premier Soccer League,2022/2023,2022-09-18 10:00:00,0,Mamelodi Sundowns,AmaZulu,1,0,1,['90+1'],[],1.55,3.45,5.54,2.28,1.6,2.35,1.57
+65,2962239,South Africa Premier Soccer League,2022/2023,2022-09-18 12:30:00,0,Richards Bay,TS Galaxy,0,0,0,[],[],2.45,2.63,3.2,2.75,1.4,2.26,1.55
+66,2962240,South Africa Premier Soccer League,2022/2023,2022-10-04 12:00:00,0,Sekhukhune United,Orlando Pirates,2,0,2,"['84', '90+1']",[],3.0,2.7,2.55,3.2,1.33,2.63,1.44
+67,2962242,South Africa Premier Soccer League,2022/2023,2022-10-04 14:30:00,0,Golden Arrows,Cape Town City,1,1,2,['84'],['27'],2.75,2.9,2.6,2.5,1.5,2.1,1.67
+68,2962243,South Africa Premier Soccer League,2022/2023,2022-10-04 14:30:00,0,Stellenbosch,Maritzburg United,3,0,3,"['24', '58', '65']",[],2.4,2.75,3.2,2.8,1.4,2.38,1.53
+69,2962244,South Africa Premier Soccer League,2022/2023,2022-10-04 14:30:00,0,SuperSport United,Real Kings,3,1,4,"['59', '81', '90+4']",['75'],2.2,3.0,3.25,2.45,1.52,2.1,1.67
+70,2962245,South Africa Premier Soccer League,2022/2023,2022-10-04 14:30:00,0,TS Galaxy,Marumo Gallants,0,1,1,[],['38'],2.2,2.8,3.5,3.3,1.3,2.63,1.44
+71,2962246,South Africa Premier Soccer League,2022/2023,2022-10-05 12:00:00,0,AmaZulu,Richards Bay,0,1,1,[],['90+2'],2.4,2.75,3.0,2.6,1.44,2.2,1.62
+72,2962247,South Africa Premier Soccer League,2022/2023,2022-10-05 14:30:00,0,Moroka Swallows,Kaizer Chiefs,1,2,3,['68'],"['35', '45+1']",3.4,2.75,2.3,2.6,1.44,2.13,1.62
+73,2962248,South Africa Premier Soccer League,2022/2023,2022-10-07 14:30:00,0,SuperSport United,Sekhukhune United,3,1,4,"['15', '42', '59']",['64'],2.14,2.79,3.8,2.63,1.38,2.2,1.58
+74,2962254,South Africa Premier Soccer League,2022/2023,2022-10-08 10:30:00,0,TS Galaxy,Moroka Swallows,0,0,0,[],[],2.25,2.6,3.69,3.04,1.33,2.37,1.51
+75,2962250,South Africa Premier Soccer League,2022/2023,2022-10-08 15:00:00,0,Orlando Pirates,Richards Bay,0,0,0,[],[],1.72,3.2,4.6,2.85,1.33,2.63,1.44
+76,2962253,South Africa Premier Soccer League,2022/2023,2022-10-09 10:30:00,0,Stellenbosch,Kaizer Chiefs,1,3,4,['29'],"['45+4', '49', '56']",3.06,2.91,2.41,2.77,1.39,2.28,1.6
+77,2962257,South Africa Premier Soccer League,2022/2023,2022-10-14 14:30:00,0,Golden Arrows,Stellenbosch,1,1,2,['90+5'],['23'],2.45,2.8,3.2,2.65,1.44,2.15,1.67
+78,2962256,South Africa Premier Soccer League,2022/2023,2022-10-14 14:30:00,0,Orlando Pirates,AmaZulu,1,1,2,['45'],['35'],2.15,2.8,4.0,3.1,1.33,2.3,1.53
+79,2962258,South Africa Premier Soccer League,2022/2023,2022-10-15 10:30:00,0,Richards Bay,Maritzburg United,0,0,0,[],[],1.77,3.0,5.2,2.48,1.43,2.02,1.69
+80,2962259,South Africa Premier Soccer League,2022/2023,2022-10-15 12:30:00,0,Kaizer Chiefs,Chippa United,1,2,3,['44'],"['54', '89']",1.63,3.4,5.4,2.33,1.48,2.24,1.62
+81,2962264,South Africa Premier Soccer League,2022/2023,2022-10-18 12:00:00,0,Chippa United,Sekhukhune United,1,0,1,['27'],[],1.96,3.13,3.92,2.3,1.57,2.01,1.74
+82,2962266,South Africa Premier Soccer League,2022/2023,2022-10-18 12:00:00,0,Stellenbosch,SuperSport United,0,2,2,[],"['35', '67']",2.75,2.95,2.56,2.5,1.5,1.85,1.91
+83,2962265,South Africa Premier Soccer League,2022/2023,2022-10-18 14:30:00,0,Golden Arrows,Orlando Pirates,0,2,2,[],"['6', '24']",2.52,2.98,2.77,2.65,1.44,2.05,1.65
+84,2962267,South Africa Premier Soccer League,2022/2023,2022-10-19 12:00:00,0,AmaZulu,Maritzburg United,1,1,2,['39'],['77'],2.1,2.9,3.4,2.55,1.5,2.0,1.75
+85,2962271,South Africa Premier Soccer League,2022/2023,2022-10-19 14:30:00,0,Moroka Swallows,Real Kings,2,0,2,"['38', '51']",[],3.0,2.9,2.25,2.45,1.53,2.05,1.66
+86,2962268,South Africa Premier Soccer League,2022/2023,2022-10-19 14:30:00,0,Mamelodi Sundowns,Marumo Gallants,1,0,1,['28'],[],1.44,3.6,7.5,2.2,1.6,2.5,1.5
+87,2962269,South Africa Premier Soccer League,2022/2023,2022-10-19 14:30:00,0,Kaizer Chiefs,TS Galaxy,2,2,4,"['7', '81']","['33', '41']",1.9,3.0,3.9,2.6,1.44,2.18,1.65
+88,2962270,South Africa Premier Soccer League,2022/2023,2022-10-19 14:30:00,0,Richards Bay,Cape Town City,1,0,1,['90+1'],[],2.1,2.99,3.29,2.38,1.52,1.98,1.78
+89,2962251,South Africa Premier Soccer League,2022/2023,2022-10-25 12:00:00,0,Real Kings,Golden Arrows,3,1,4,"['7', '43', '89']",['32'],2.33,2.82,2.98,2.25,1.6,1.91,1.78
+90,2962255,South Africa Premier Soccer League,2022/2023,2022-10-25 14:30:00,0,Cape Town City,Chippa United,2,1,3,"['72', '84']",['31'],1.98,2.89,3.7,2.65,1.44,2.11,1.63
+91,2962252,South Africa Premier Soccer League,2022/2023,2022-10-25 15:30:00,0,Maritzburg United,Mamelodi Sundowns,0,5,5,[],"['26', '29', '45', '67', '76']",4.25,3.1,1.78,2.3,1.6,2.16,1.6
+92,2962249,South Africa Premier Soccer League,2022/2023,2022-10-26 14:30:00,0,Marumo Gallants,AmaZulu,0,0,0,[],[],2.64,2.84,2.76,2.99,1.34,2.38,1.55
+93,2962272,South Africa Premier Soccer League,2022/2023,2022-10-28 14:30:00,0,Maritzburg United,Golden Arrows,0,2,2,[],"['28', '45+1']",2.35,2.87,2.9,2.37,1.53,1.6,2.2
+94,2962273,South Africa Premier Soccer League,2022/2023,2022-10-29 10:30:00,0,Orlando Pirates,Kaizer Chiefs,0,1,1,[],['74'],2.2,2.88,3.4,2.6,1.44,2.11,1.63
+95,2962274,South Africa Premier Soccer League,2022/2023,2022-10-29 12:30:00,0,Marumo Gallants,Cape Town City,2,1,3,"['42', '90+5']",['84'],3.0,2.7,2.5,2.9,1.36,2.28,1.6
+96,2962275,South Africa Premier Soccer League,2022/2023,2022-10-29 13:00:00,0,Real Kings,Mamelodi Sundowns,0,3,3,[],"['45', '85', '89']",4.95,3.22,1.76,2.29,1.56,2.14,1.67
+97,2962278,South Africa Premier Soccer League,2022/2023,2022-10-30 10:30:00,0,TS Galaxy,Sekhukhune United,1,1,2,['27'],['36'],2.11,2.75,3.01,2.9,1.36,2.35,1.55
+98,2962276,South Africa Premier Soccer League,2022/2023,2022-10-30 10:30:00,0,AmaZulu,Stellenbosch,1,0,1,['31'],[],2.28,2.9,3.3,2.55,1.45,2.2,1.62
+99,2962277,South Africa Premier Soccer League,2022/2023,2022-10-30 10:30:00,0,Chippa United,Richards Bay,3,3,6,"['55', '76', '78']","['42', '45+3', '67']",2.49,2.63,2.72,2.6,1.44,2.1,1.63
+100,2962279,South Africa Premier Soccer League,2022/2023,2022-10-30 12:30:00,0,SuperSport United,Moroka Swallows,1,1,2,['55'],['90'],1.88,3.2,4.0,2.35,1.53,2.05,1.7
+101,2962285,South Africa Premier Soccer League,2022/2023,2022-12-30 10:30:00,0,Mamelodi Sundowns,Orlando Pirates,2,0,2,"['41', '63']",[],1.7,3.35,4.6,2.2,1.6,2.2,1.62
+102,2962286,South Africa Premier Soccer League,2022/2023,2022-12-30 12:30:00,0,Cape Town City,Real Kings,2,1,3,"['37', '90+1']",['44'],2.05,2.9,3.6,2.35,1.56,2.1,1.67
+103,2962283,South Africa Premier Soccer League,2022/2023,2022-12-30 12:30:00,0,Stellenbosch,Chippa United,1,1,2,['50'],['62'],2.15,2.7,3.85,2.59,1.39,2.5,1.5
+104,2962280,South Africa Premier Soccer League,2022/2023,2022-12-30 14:30:00,0,SuperSport United,Marumo Gallants,1,0,1,['56'],[],1.83,2.84,4.64,2.56,1.4,2.5,1.5
+105,2962281,South Africa Premier Soccer League,2022/2023,2022-12-30 14:30:00,0,Maritzburg United,TS Galaxy,1,2,3,['38'],"['40', '77']",2.44,2.81,2.87,2.71,1.36,2.5,1.5
+106,2962284,South Africa Premier Soccer League,2022/2023,2022-12-31 10:30:00,0,Golden Arrows,Kaizer Chiefs,0,2,2,[],"['14', '37']",2.9,2.92,2.31,2.4,1.5,2.1,1.67
+107,2962282,South Africa Premier Soccer League,2022/2023,2022-12-31 10:30:00,0,Richards Bay,Moroka Swallows,1,0,1,['11'],[],2.15,2.85,3.5,2.6,1.44,2.2,1.62
+108,2962287,South Africa Premier Soccer League,2022/2023,2022-12-31 12:30:00,0,Sekhukhune United,AmaZulu,0,0,0,[],[],2.2,2.88,3.35,2.75,1.4,2.38,1.53
+109,2962260,South Africa Premier Soccer League,2022/2023,2023-01-03 12:00:00,0,Cape Town City,SuperSport United,0,1,1,[],['82'],2.35,2.95,2.95,2.12,1.64,1.91,1.8
+110,2962263,South Africa Premier Soccer League,2022/2023,2023-01-03 14:30:00,0,Mamelodi Sundowns,Moroka Swallows,2,0,2,"['63', '67']",[],1.38,4.0,8.0,1.95,1.76,2.25,1.6
+111,2962262,South Africa Premier Soccer League,2022/2023,2023-01-03 14:30:00,0,Real Kings,TS Galaxy,0,0,0,[],[],1.78,3.2,4.4,2.11,1.65,1.85,1.91
+112,2962261,South Africa Premier Soccer League,2022/2023,2023-01-03 14:30:00,0,Sekhukhune United,Marumo Gallants,3,2,5,"['28', '49', '77']","['29', '90+4']",2.4,2.9,2.79,2.89,1.36,2.15,1.62
+113,2962288,South Africa Premier Soccer League,2022/2023,2023-01-06 14:30:00,0,Moroka Swallows,Chippa United,2,0,2,"['34', '70']",[],6.5,3.4,1.57,2.12,1.68,2.2,1.62
+114,2962289,South Africa Premier Soccer League,2022/2023,2023-01-06 14:30:00,0,Richards Bay,Mamelodi Sundowns,0,2,2,[],"['39', '66']",6.5,3.45,1.55,2.16,1.66,2.2,1.64
+115,2962290,South Africa Premier Soccer League,2022/2023,2023-01-07 10:30:00,0,Golden Arrows,SuperSport United,2,1,3,"['19', '41']",['85'],2.76,3.0,2.44,2.28,1.5,2.0,1.73
+116,2962291,South Africa Premier Soccer League,2022/2023,2023-01-07 10:30:00,0,Marumo Gallants,Maritzburg United,0,1,1,[],['79'],2.2,2.75,3.6,3.0,1.36,2.5,1.5
+117,2962292,South Africa Premier Soccer League,2022/2023,2023-01-07 12:30:00,0,Cape Town City,Orlando Pirates,2,1,3,"['31', '74']",['20'],2.6,2.8,2.8,2.81,1.38,2.1,1.7
+118,2962293,South Africa Premier Soccer League,2022/2023,2023-01-07 15:00:00,0,Kaizer Chiefs,Sekhukhune United,0,1,1,[],['49'],1.87,3.1,4.2,2.65,1.42,2.15,1.67
+119,2962294,South Africa Premier Soccer League,2022/2023,2023-01-08 10:30:00,0,Real Kings,AmaZulu,2,0,2,"['12', '85']",[],2.44,2.8,3.2,2.6,1.44,2.2,1.62
+120,2962295,South Africa Premier Soccer League,2022/2023,2023-01-08 12:30:00,0,TS Galaxy,Stellenbosch,0,0,0,[],[],2.28,2.55,3.45,3.04,1.33,2.38,1.55

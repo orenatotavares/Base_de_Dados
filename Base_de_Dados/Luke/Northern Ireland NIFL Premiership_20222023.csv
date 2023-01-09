@@ -1,0 +1,125 @@
+Nº,Id_Jogo,League,Season,Date,Rodada,Home,Away,FT_Goals_H,FT_Goals_A,FT_TotalGoals,Goals_H_Minutes,Goals_A_Minutes,FT_Odd_H,FT_Odd_D,FT_Odd_A,FT_Odd_Over25,FT_Odd_Under25,FT_Odd_BTTS_Yes,FT_Odd_BTTS_No
+1,2515281,Northern Ireland NIFL Premiership,2022/2023,2022-08-12 15:45:00,1,Larne,Glentoran,0,0,0,[],[],1.9,3.31,3.02,1.75,1.95,1.65,2.11
+2,2515277,Northern Ireland NIFL Premiership,2022/2023,2022-08-13 11:00:00,1,Ballymena United,Glenavon,2,2,4,"['4', '32']","['45+1', '90+4']",2.4,3.25,2.65,1.81,1.95,1.73,2.0
+3,2515278,Northern Ireland NIFL Premiership,2022/2023,2022-08-13 11:00:00,1,Carrick Rangers,Newry City AFC,2,1,3,"['37', '75']",['16'],2.25,3.3,2.75,1.82,1.9,1.67,2.1
+4,2515279,Northern Ireland NIFL Premiership,2022/2023,2022-08-13 11:00:00,1,Coleraine,Cliftonville,3,1,4,"['31', '38', '90+5']",['57'],3.55,3.5,1.9,1.84,1.92,1.83,1.83
+5,2515280,Northern Ireland NIFL Premiership,2022/2023,2022-08-13 11:00:00,1,Crusaders,Dungannon Swifts,5,1,6,"['7', '37', '48', '65', '68']",['45+2'],1.33,5.0,7.5,1.49,2.33,1.82,1.94
+6,2515282,Northern Ireland NIFL Premiership,2022/2023,2022-08-14 11:00:00,1,Linfield,Portadown,4,0,4,"['7', '57', '72', '86']",[],1.1,7.0,16.0,1.35,2.94,2.44,1.53
+7,2515286,Northern Ireland NIFL Premiership,2022/2023,2022-08-19 15:45:00,2,Glentoran,Crusaders,3,1,4,"['8', '53', '78']",['5'],2.07,3.52,3.34,1.82,1.94,1.66,2.16
+8,2515288,Northern Ireland NIFL Premiership,2022/2023,2022-08-20 11:00:00,2,Portadown,Coleraine,0,2,2,[],"['20', '47']",5.8,4.6,1.38,1.58,2.28,1.7,2.06
+9,2515285,Northern Ireland NIFL Premiership,2022/2023,2022-08-20 11:00:00,2,Glenavon,Larne,1,2,3,['40'],"['34', '90+7']",4.0,3.8,1.66,1.71,2.08,1.73,2.07
+10,2515284,Northern Ireland NIFL Premiership,2022/2023,2022-08-20 11:00:00,2,Dungannon Swifts,Ballymena United,0,2,2,[],"['51', '89']",2.88,3.4,2.12,1.73,2.05,1.61,2.25
+11,2515283,Northern Ireland NIFL Premiership,2022/2023,2022-08-20 11:00:00,2,Cliftonville,Carrick Rangers,3,2,5,"['1', '53', '70']","['38', '43']",1.3,4.9,7.0,1.71,2.08,2.16,1.67
+12,2515287,Northern Ireland NIFL Premiership,2022/2023,2022-08-21 10:00:00,2,Newry City AFC,Linfield,1,3,4,['35'],"['16', '28', '78']",5.5,4.5,1.4,1.45,2.43,1.57,2.34
+13,2515289,Northern Ireland NIFL Premiership,2022/2023,2022-08-23 15:45:00,3,Ballymena United,Cliftonville,1,2,3,['36'],"['18', '68']",5.0,3.9,1.65,1.8,2.0,1.83,1.87
+14,2515290,Northern Ireland NIFL Premiership,2022/2023,2022-08-23 15:45:00,3,Carrick Rangers,Coleraine,2,4,6,"['45+1', '90+1']","['17', '40', '54', '87']",3.25,3.5,2.15,1.85,1.95,1.75,1.95
+15,2515291,Northern Ireland NIFL Premiership,2022/2023,2022-08-23 15:45:00,3,Crusaders,Portadown,2,1,3,"['64', '86']",['32'],1.2,6.5,13.0,1.44,2.59,2.05,1.7
+16,2515292,Northern Ireland NIFL Premiership,2022/2023,2022-08-23 15:45:00,3,Dungannon Swifts,Glentoran,0,1,1,[],['86'],8.0,5.0,1.36,1.62,2.3,1.7,2.05
+17,2515300,Northern Ireland NIFL Premiership,2022/2023,2022-08-26 15:45:00,4,Portadown,Glentoran,0,3,3,[],"['19', '23', '73']",9.5,5.5,1.3,1.57,2.38,1.73,2.06
+18,2515298,Northern Ireland NIFL Premiership,2022/2023,2022-08-26 15:45:00,4,Larne,Ballymena United,3,0,3,"['42', '78', '90']",[],1.32,4.72,6.84,1.63,2.05,1.83,1.93
+19,2515297,Northern Ireland NIFL Premiership,2022/2023,2022-08-26 15:45:00,4,Coleraine,Glenavon,1,3,4,['41'],"['24', '48', '62']",1.88,3.48,3.39,1.77,1.99,1.67,2.15
+20,2515296,Northern Ireland NIFL Premiership,2022/2023,2022-08-27 11:00:00,4,Cliftonville,Dungannon Swifts,4,2,6,"['33', '45+3', '50', '72']","['21', '49']",1.12,6.3,14.0,1.55,2.3,2.11,1.69
+21,2515299,Northern Ireland NIFL Premiership,2022/2023,2022-08-27 11:00:00,4,Newry City AFC,Crusaders,1,2,3,['21'],"['64', '67']",4.2,3.75,1.67,1.67,2.07,1.68,2.05
+22,2515295,Northern Ireland NIFL Premiership,2022/2023,2022-08-28 10:00:00,4,Carrick Rangers,Linfield,2,1,3,"['14', '64']",['53'],4.9,3.7,1.6,1.83,1.98,1.85,1.92
+23,2515293,Northern Ireland NIFL Premiership,2022/2023,2022-08-30 15:45:00,3,Glenavon,Newry City AFC,1,5,6,['87'],"['2', '9', '15', '83', '89']",1.66,3.7,4.6,1.81,1.89,1.73,2.0
+24,2515302,Northern Ireland NIFL Premiership,2022/2023,2022-09-02 15:45:00,5,Crusaders,Larne,1,1,2,['65'],['80'],2.45,3.4,2.45,1.76,2.0,1.62,2.15
+25,2515303,Northern Ireland NIFL Premiership,2022/2023,2022-09-02 15:45:00,5,Dungannon Swifts,Coleraine,0,5,5,[],"['10', '37', '43', '45', '85']",5.5,4.25,1.44,1.57,2.33,1.77,1.93
+26,2515301,Northern Ireland NIFL Premiership,2022/2023,2022-09-03 11:00:00,5,Ballymena United,Linfield,0,4,4,[],"['38', '45', '59', '62']",4.25,3.75,1.54,1.72,2.06,1.73,2.05
+27,2515304,Northern Ireland NIFL Premiership,2022/2023,2022-09-03 11:00:00,5,Glenavon,Carrick Rangers,2,2,4,"['10', '23']","['18', '64']",2.07,3.45,2.66,1.71,2.08,1.6,2.27
+28,2515305,Northern Ireland NIFL Premiership,2022/2023,2022-09-03 11:00:00,5,Glentoran,Newry City AFC,3,0,3,"['67', '70', '87']",[],1.29,4.55,6.4,1.44,2.47,1.83,1.93
+29,2515306,Northern Ireland NIFL Premiership,2022/2023,2022-09-03 11:00:00,5,Portadown,Cliftonville,1,2,3,['27'],"['3', '25']",7.4,4.95,1.23,1.53,2.4,1.85,1.85
+30,2515317,Northern Ireland NIFL Premiership,2022/2023,2022-09-16 15:45:00,7,Newry City AFC,Dungannon Swifts,1,0,1,['61'],[],2.21,3.97,2.94,1.73,2.1,1.5,2.43
+31,2515314,Northern Ireland NIFL Premiership,2022/2023,2022-09-16 15:45:00,7,Crusaders,Linfield,2,1,3,"['59', '82']",['47'],3.05,3.35,2.1,1.7,2.15,1.61,2.25
+32,2515316,Northern Ireland NIFL Premiership,2022/2023,2022-09-17 11:00:00,7,Glentoran,Coleraine,1,0,1,['62'],[],1.9,3.6,3.4,1.72,2.0,1.63,2.22
+33,2515315,Northern Ireland NIFL Premiership,2022/2023,2022-09-17 11:00:00,7,Glenavon,Cliftonville,0,1,1,[],['83'],4.0,3.7,1.73,1.75,1.96,1.71,2.09
+34,2515313,Northern Ireland NIFL Premiership,2022/2023,2022-09-17 11:00:00,7,Ballymena United,Carrick Rangers,0,1,1,[],['52'],2.25,3.5,2.7,1.73,2.05,1.6,2.27
+35,2515318,Northern Ireland NIFL Premiership,2022/2023,2022-09-17 11:00:00,7,Portadown,Larne,0,1,1,[],['29'],6.75,5.0,1.34,1.47,2.5,1.79,1.98
+36,2515319,Northern Ireland NIFL Premiership,2022/2023,2022-09-23 15:45:00,8,Carrick Rangers,Larne,0,1,1,[],['79'],4.1,4.0,1.65,1.61,2.2,1.66,2.09
+37,2515321,Northern Ireland NIFL Premiership,2022/2023,2022-09-23 15:45:00,8,Crusaders,Ballymena United,3,0,3,"['29', '33', '83']",[],1.53,4.1,5.0,1.61,2.25,1.68,2.06
+38,2515322,Northern Ireland NIFL Premiership,2022/2023,2022-09-23 15:45:00,8,Dungannon Swifts,Portadown,2,0,2,"['1', '47']",[],1.83,3.6,3.7,1.67,2.1,1.62,2.16
+39,2515320,Northern Ireland NIFL Premiership,2022/2023,2022-09-23 15:45:00,8,Coleraine,Newry City AFC,2,0,2,"['54', '57']",[],1.55,4.6,4.33,1.6,2.25,1.65,2.11
+40,2515330,Northern Ireland NIFL Premiership,2022/2023,2022-09-30 15:45:00,9,Portadown,Glenavon,1,1,2,['42'],['52'],5.0,3.9,1.53,1.53,2.3,1.62,2.24
+41,2515326,Northern Ireland NIFL Premiership,2022/2023,2022-10-01 11:00:00,9,Cliftonville,Newry City AFC,4,0,4,"['10', '16', '22', '45']",[],1.29,4.6,10.0,1.54,2.32,2.0,1.68
+42,2515327,Northern Ireland NIFL Premiership,2022/2023,2022-10-01 11:00:00,9,Dungannon Swifts,Linfield,0,1,1,[],['36'],7.5,4.4,1.35,1.46,2.52,1.75,2.03
+43,2515325,Northern Ireland NIFL Premiership,2022/2023,2022-10-01 11:00:00,9,Carrick Rangers,Crusaders,4,3,7,"['3', '15', '54', '65']","['27', '45+2', '56']",4.33,3.7,1.67,1.55,2.29,1.56,2.36
+44,2515329,Northern Ireland NIFL Premiership,2022/2023,2022-10-01 13:30:00,9,Larne,Coleraine,2,0,2,"['6', '82']",[],1.75,3.6,3.9,1.83,1.98,1.69,2.11
+45,2515336,Northern Ireland NIFL Premiership,2022/2023,2022-10-07 15:45:00,10,Newry City AFC,Larne,0,2,2,[],"['59', '62']",5.25,4.5,1.5,1.49,2.34,1.73,2.0
+46,2515335,Northern Ireland NIFL Premiership,2022/2023,2022-10-07 15:45:00,10,Glentoran,Carrick Rangers,5,0,5,"['15', '24', '26', '45+1', '74']",[],1.52,4.3,5.2,1.58,2.14,1.83,1.87
+47,2515332,Northern Ireland NIFL Premiership,2022/2023,2022-10-07 15:45:00,10,Cliftonville,Crusaders,0,0,0,[],[],1.95,3.6,3.45,1.75,1.89,1.66,2.09
+48,2515334,Northern Ireland NIFL Premiership,2022/2023,2022-10-08 11:00:00,10,Glenavon,Dungannon Swifts,5,0,5,"['50', '54', '61', '67', '83']",[],1.62,4.0,4.3,1.56,2.27,1.73,2.0
+49,2515333,Northern Ireland NIFL Premiership,2022/2023,2022-10-08 11:00:00,10,Coleraine,Linfield,0,0,0,[],[],3.23,3.5,1.98,1.72,2.0,1.64,2.2
+50,2515331,Northern Ireland NIFL Premiership,2022/2023,2022-10-08 11:00:00,10,Ballymena United,Portadown,2,0,2,"['8', '84']",[],1.52,4.2,4.9,1.62,2.16,1.73,2.0
+51,2515341,Northern Ireland NIFL Premiership,2022/2023,2022-10-14 15:45:00,11,Linfield,Glentoran,0,3,3,[],"['48', '76', '90+1']",2.18,3.4,3.2,1.94,1.86,1.74,2.04
+52,2515340,Northern Ireland NIFL Premiership,2022/2023,2022-10-14 15:45:00,11,Larne,Cliftonville,4,0,4,"['35', '70', '72', '76']",[],2.4,3.4,2.79,1.92,1.88,1.75,1.96
+53,2515339,Northern Ireland NIFL Premiership,2022/2023,2022-10-15 11:00:00,11,Crusaders,Glenavon,3,2,5,"['44', '64', '69']","['38', '50']",1.51,4.6,5.0,1.46,2.42,1.58,2.32
+54,2515338,Northern Ireland NIFL Premiership,2022/2023,2022-10-15 11:00:00,11,Carrick Rangers,Dungannon Swifts,3,0,3,"['24', '53', '78']",[],1.86,3.8,3.6,1.61,2.08,1.61,2.28
+55,2515337,Northern Ireland NIFL Premiership,2022/2023,2022-10-15 11:00:00,11,Ballymena United,Coleraine,2,1,3,"['15', '90+2']",['65'],3.65,3.7,1.86,1.68,1.99,1.68,2.14
+56,2515342,Northern Ireland NIFL Premiership,2022/2023,2022-10-15 13:30:00,11,Portadown,Newry City AFC,1,3,4,['48'],"['51', '88', '90+4']",2.56,3.9,2.31,1.64,2.05,1.67,2.15
+57,2515311,Northern Ireland NIFL Premiership,2022/2023,2022-10-18 15:45:00,6,Linfield,Glenavon,3,2,5,"['17', '75', '87']","['41', '67']",1.35,4.36,5.8,1.55,2.35,1.86,1.9
+58,2515345,Northern Ireland NIFL Premiership,2022/2023,2022-10-21 15:45:00,12,Dungannon Swifts,Ballymena United,1,1,2,['29'],['36'],2.68,3.45,2.05,1.68,2.06,1.52,2.36
+59,2515343,Northern Ireland NIFL Premiership,2022/2023,2022-10-22 11:00:00,12,Coleraine,Cliftonville,2,4,6,"['45', '77']","['6', '8', '62', '89']",3.18,3.54,2.13,1.75,1.95,1.62,2.2
+60,2515344,Northern Ireland NIFL Premiership,2022/2023,2022-10-22 11:00:00,12,Crusaders,Portadown,4,0,4,"['20', '31', '47', '51']",[],1.14,7.9,17.0,1.33,3.0,2.14,1.63
+61,2515347,Northern Ireland NIFL Premiership,2022/2023,2022-10-22 11:00:00,12,Linfield,Larne,2,4,6,"['42', '85']","['4', '7', '60', '70']",2.21,3.46,3.09,1.85,1.85,1.8,1.96
+62,2515348,Northern Ireland NIFL Premiership,2022/2023,2022-10-22 11:00:00,12,Newry City AFC,Glentoran,0,1,1,[],['13'],6.35,4.54,1.45,1.53,2.35,1.68,2.0
+63,2515346,Northern Ireland NIFL Premiership,2022/2023,2022-10-22 11:00:00,12,Glenavon,Carrick Rangers,4,2,6,"['13', '28', '82', '90+1']","['15', '49']",1.75,3.98,4.16,1.62,2.15,1.67,2.15
+64,2515353,Northern Ireland NIFL Premiership,2022/2023,2022-10-28 15:45:00,13,Glentoran,Larne,4,0,4,"['10', '59', '67', '83']",[],2.11,3.2,2.97,1.95,1.81,1.75,2.03
+65,2515352,Northern Ireland NIFL Premiership,2022/2023,2022-10-28 15:45:00,13,Glenavon,Ballymena United,3,2,5,"['50', '58', '67']","['23', '61']",1.92,3.5,3.3,1.68,2.12,1.61,2.25
+66,2515354,Northern Ireland NIFL Premiership,2022/2023,2022-10-29 11:00:00,13,Newry City AFC,Linfield,0,2,2,[],"['15', '58']",8.5,4.33,1.33,1.7,2.0,1.95,1.8
+67,2515351,Northern Ireland NIFL Premiership,2022/2023,2022-10-29 11:00:00,13,Dungannon Swifts,Crusaders,0,2,2,[],"['1', '48']",6.5,4.33,1.4,1.4,2.75,1.6,2.27
+68,2515349,Northern Ireland NIFL Premiership,2022/2023,2022-10-29 11:00:00,13,Cliftonville,Carrick Rangers,1,0,1,['77'],[],1.33,4.4,8.0,1.6,2.2,1.88,1.88
+69,2515350,Northern Ireland NIFL Premiership,2022/2023,2022-10-29 11:00:00,13,Coleraine,Portadown,4,0,4,"['4', '10', '50', '54']",[],1.2,5.5,13.0,1.57,2.25,2.08,1.71
+70,2515355,Northern Ireland NIFL Premiership,2022/2023,2022-11-04 16:45:00,14,Ballymena United,Newry City AFC,3,0,3,"['19', '52', '88']",[],1.91,3.5,3.15,1.7,2.0,1.67,2.1
+71,2515359,Northern Ireland NIFL Premiership,2022/2023,2022-11-04 16:45:00,14,Larne,Crusaders,4,1,5,"['9', '14', '19', '35']",['90+2'],2.0,3.45,3.05,1.7,2.0,1.64,2.22
+72,2515360,Northern Ireland NIFL Premiership,2022/2023,2022-11-05 12:00:00,14,Portadown,Linfield,0,3,3,[],"['67', '89', '90+3']",7.8,5.2,1.27,1.5,2.4,1.95,1.73
+73,2515358,Northern Ireland NIFL Premiership,2022/2023,2022-11-05 12:00:00,14,Glentoran,Dungannon Swifts,3,1,4,"['9', '68', '85']",['32'],1.19,5.6,10.0,1.45,2.55,2.12,1.66
+74,2515357,Northern Ireland NIFL Premiership,2022/2023,2022-11-05 12:00:00,14,Cliftonville,Glenavon,2,2,4,"['23', '71']","['83', '88']",1.49,4.1,5.2,1.55,2.3,1.74,2.0
+75,2515356,Northern Ireland NIFL Premiership,2022/2023,2022-11-05 12:00:00,14,Carrick Rangers,Coleraine,0,1,1,[],['82'],3.8,3.65,1.75,1.6,2.2,1.6,2.23
+76,2515309,Northern Ireland NIFL Premiership,2022/2023,2022-11-08 16:45:00,6,Coleraine,Crusaders,1,2,3,['39'],"['1', '14']",2.77,3.76,2.39,1.67,2.08,1.61,2.25
+77,2515323,Northern Ireland NIFL Premiership,2022/2023,2022-11-08 16:45:00,8,Glenavon,Glentoran,2,1,3,"['68', '72']",['45+2'],4.46,4.21,1.7,1.63,2.15,1.67,2.1
+78,2515310,Northern Ireland NIFL Premiership,2022/2023,2022-11-08 16:45:00,6,Larne,Dungannon Swifts,4,0,4,"['5', '25', '88', '90']",[],1.21,6.99,12.18,1.54,2.4,1.85,1.91
+79,2515307,Northern Ireland NIFL Premiership,2022/2023,2022-11-08 16:45:00,6,Carrick Rangers,Portadown,2,0,2,"['45+1', '55']",[],1.56,4.6,5.22,1.54,2.31,1.72,2.07
+80,2515324,Northern Ireland NIFL Premiership,2022/2023,2022-11-08 16:45:00,8,Linfield,Cliftonville,0,0,0,[],[],2.12,3.63,3.36,1.85,1.91,1.73,2.0
+81,2515312,Northern Ireland NIFL Premiership,2022/2023,2022-11-08 17:00:00,6,Newry City AFC,Ballymena United,3,2,5,"['17', '36', '90+2']","['7', '76']",2.53,3.8,2.6,1.62,2.17,1.65,2.1
+82,2515361,Northern Ireland NIFL Premiership,2022/2023,2022-11-11 16:45:00,15,Coleraine,Glentoran,0,0,0,[],[],3.55,3.25,1.89,1.79,1.92,1.7,2.11
+83,2515363,Northern Ireland NIFL Premiership,2022/2023,2022-11-12 12:00:00,15,Dungannon Swifts,Cliftonville,0,2,2,[],"['23', '66']",7.7,5.1,1.35,1.54,2.33,1.79,1.99
+84,2515364,Northern Ireland NIFL Premiership,2022/2023,2022-11-12 12:00:00,15,Linfield,Glenavon,2,1,3,"['68', '85']",['58'],1.6,4.2,4.96,1.6,2.2,1.73,2.07
+85,2515366,Northern Ireland NIFL Premiership,2022/2023,2022-11-12 12:00:00,15,Portadown,Larne,0,5,5,[],"['33', '40', '50', '51', '53']",9.3,5.65,1.28,1.38,2.81,1.88,1.88
+86,2515365,Northern Ireland NIFL Premiership,2022/2023,2022-11-12 14:30:00,15,Newry City AFC,Carrick Rangers,4,1,5,"['28', '64', '67', '83']",['41'],2.5,3.75,2.25,1.58,2.28,1.51,2.48
+87,2515362,Northern Ireland NIFL Premiership,2022/2023,2022-11-14 16:45:00,15,Crusaders,Ballymena United,0,1,1,[],['80'],1.25,5.5,7.5,1.44,2.59,1.67,2.08
+88,2515367,Northern Ireland NIFL Premiership,2022/2023,2022-11-18 16:45:00,16,Ballymena United,Linfield,0,2,2,[],"['28', '51']",5.3,4.35,1.47,1.56,2.19,1.72,2.02
+89,2515372,Northern Ireland NIFL Premiership,2022/2023,2022-11-18 16:45:00,16,Larne,Dungannon Swifts,2,1,3,"['50', '82']",['44'],1.12,6.9,15.7,1.43,2.5,2.58,1.44
+90,2515369,Northern Ireland NIFL Premiership,2022/2023,2022-11-19 12:00:00,16,Crusaders,Newry City AFC,4,0,4,"['7', '41', '61', '76']",[],1.25,4.9,6.8,1.45,2.55,1.71,2.05
+91,2515368,Northern Ireland NIFL Premiership,2022/2023,2022-11-19 12:00:00,16,Carrick Rangers,Portadown,2,0,2,"['60', '81']",[],1.44,4.4,5.5,1.52,2.25,1.81,1.89
+92,2515370,Northern Ireland NIFL Premiership,2022/2023,2022-11-19 12:00:00,16,Glenavon,Coleraine,0,0,0,[],[],2.7,3.4,2.07,1.65,2.18,1.52,2.36
+93,2515371,Northern Ireland NIFL Premiership,2022/2023,2022-11-20 09:30:00,16,Glentoran,Cliftonville,0,1,1,[],['8'],1.68,3.37,3.72,1.89,1.87,1.8,1.95
+94,2515294,Northern Ireland NIFL Premiership,2022/2023,2022-11-22 16:45:00,3,Linfield,Larne,1,0,1,['77'],[],2.6,3.09,2.32,1.84,1.76,1.77,1.94
+95,2515376,Northern Ireland NIFL Premiership,2022/2023,2022-11-25 16:45:00,17,Larne,Coleraine,0,2,2,[],"['4', '45+2']",1.57,4.1,5.4,1.84,1.97,1.91,1.86
+96,2515378,Northern Ireland NIFL Premiership,2022/2023,2022-11-26 12:00:00,17,Portadown,Glentoran,0,2,2,[],"['45+2', '85']",12.0,6.0,1.2,1.38,2.65,2.03,1.75
+97,2515374,Northern Ireland NIFL Premiership,2022/2023,2022-11-26 12:00:00,17,Cliftonville,Newry City AFC,2,0,2,"['21', '87']",[],1.36,4.75,7.5,1.66,2.15,1.94,1.83
+98,2515375,Northern Ireland NIFL Premiership,2022/2023,2022-11-26 12:00:00,17,Dungannon Swifts,Glenavon,1,0,1,['70'],[],3.75,4.2,1.75,1.46,2.4,1.52,2.45
+99,2515373,Northern Ireland NIFL Premiership,2022/2023,2022-11-26 12:00:00,17,Carrick Rangers,Ballymena United,0,2,2,[],"['73', '87']",2.05,3.6,3.2,1.6,2.25,1.56,2.27
+100,2515377,Northern Ireland NIFL Premiership,2022/2023,2022-11-26 14:30:00,17,Linfield,Crusaders,0,0,0,[],[],2.2,3.26,2.83,1.7,2.03,1.6,2.3
+101,2515382,Northern Ireland NIFL Premiership,2022/2023,2022-12-02 16:45:00,18,Glenavon,Larne,0,1,1,[],['80'],4.1,3.8,1.53,1.58,2.3,1.68,2.05
+102,2515379,Northern Ireland NIFL Premiership,2022/2023,2022-12-03 12:00:00,18,Ballymena United,Cliftonville,4,1,5,"['36', '53', '55', '82']",['70'],5.0,4.1,1.61,1.73,2.11,1.73,1.98
+103,2515380,Northern Ireland NIFL Premiership,2022/2023,2022-12-03 12:00:00,18,Coleraine,Dungannon Swifts,2,0,2,"['3', '11']",[],1.34,5.05,8.2,1.57,2.25,1.95,1.73
+104,2515381,Northern Ireland NIFL Premiership,2022/2023,2022-12-03 12:00:00,18,Crusaders,Glentoran,3,2,5,"['4', '24', '59']","['5', '51']",2.67,3.42,2.48,1.88,1.92,1.7,2.0
+105,2515383,Northern Ireland NIFL Premiership,2022/2023,2022-12-03 12:00:00,18,Linfield,Carrick Rangers,3,1,4,"['2', '28', '90+2']",['80'],1.41,4.7,6.95,1.51,2.39,1.75,2.0
+106,2515384,Northern Ireland NIFL Premiership,2022/2023,2022-12-04 11:00:00,18,Newry City AFC,Portadown,1,3,4,['82'],"['48', '67', '80']",1.44,3.95,4.9,1.7,2.05,1.83,1.83
+107,2515386,Northern Ireland NIFL Premiership,2022/2023,2022-12-09 16:45:00,19,Coleraine,Crusaders,2,0,2,"['12', '61']",[],2.9,3.35,2.12,1.75,2.02,1.61,2.2
+108,2515390,Northern Ireland NIFL Premiership,2022/2023,2022-12-10 12:00:00,19,Portadown,Ballymena United,1,0,1,['37'],[],3.97,3.89,1.85,1.67,2.0,1.74,2.05
+109,2515387,Northern Ireland NIFL Premiership,2022/2023,2022-12-10 12:00:00,19,Dungannon Swifts,Carrick Rangers,4,1,5,"['17', '41', '76', '90+6']",['50'],3.29,3.49,1.91,1.81,1.95,1.68,2.08
+110,2515389,Northern Ireland NIFL Premiership,2022/2023,2022-12-10 12:00:00,19,Larne,Newry City AFC,2,0,2,"['12', '49']",[],1.2,7.06,13.08,1.49,2.33,2.21,1.59
+111,2515393,Northern Ireland NIFL Premiership,2022/2023,2022-12-17 12:00:00,20,Cliftonville,Portadown,4,1,5,"['40', '43', '70', '90+3']",['12'],1.14,6.2,13.0,1.45,2.43,2.35,1.51
+112,2515395,Northern Ireland NIFL Premiership,2022/2023,2022-12-17 12:00:00,20,Linfield,Dungannon Swifts,4,0,4,"['6', '33', '49', '90+2']",[],1.16,6.2,12.0,1.42,2.53,2.15,1.61
+113,2515308,Northern Ireland NIFL Premiership,2022/2023,2022-12-20 16:45:00,6,Cliftonville,Glentoran,1,0,1,['79'],[],2.03,3.15,3.7,1.97,1.81,1.74,2.04
+114,2515401,Northern Ireland NIFL Premiership,2022/2023,2022-12-26 11:00:00,21,Glentoran,Linfield,1,2,3,['54'],"['40', '90']",1.97,3.2,3.05,1.92,1.78,1.83,1.83
+115,2515398,Northern Ireland NIFL Premiership,2022/2023,2022-12-26 12:00:00,21,Crusaders,Cliftonville,3,0,3,"['15', '36', '86']",[],2.0,3.35,2.84,1.73,2.05,1.67,2.1
+116,2515400,Northern Ireland NIFL Premiership,2022/2023,2022-12-26 12:00:00,21,Glenavon,Portadown,2,1,3,"['49', '76']",['68'],1.33,5.15,8.0,1.69,1.96,1.73,2.0
+117,2515399,Northern Ireland NIFL Premiership,2022/2023,2022-12-26 12:00:00,21,Dungannon Swifts,Newry City AFC,2,0,2,"['29', '67']",[],2.2,3.48,3.05,1.86,1.9,1.67,2.1
+118,2515397,Northern Ireland NIFL Premiership,2022/2023,2022-12-26 12:00:00,21,Coleraine,Ballymena United,2,0,2,"['23', '35']",[],1.56,4.1,5.4,1.78,1.98,1.83,1.83
+119,2515402,Northern Ireland NIFL Premiership,2022/2023,2022-12-26 14:30:00,21,Larne,Carrick Rangers,0,0,0,[],[],1.17,5.3,9.1,1.55,2.38,2.2,1.62
+120,2515406,Northern Ireland NIFL Premiership,2022/2023,2023-01-02 12:00:00,22,Linfield,Coleraine,0,0,0,[],[],1.67,4.06,4.93,1.82,1.93,1.91,1.82
+121,2515408,Northern Ireland NIFL Premiership,2022/2023,2023-01-02 12:00:00,22,Portadown,Dungannon Swifts,0,0,0,[],[],2.79,3.62,2.44,1.78,1.99,1.98,1.75
+122,2515405,Northern Ireland NIFL Premiership,2022/2023,2023-01-02 12:00:00,22,Cliftonville,Larne,2,1,3,"['59', '75']",['50'],3.1,3.32,2.23,2.04,1.78,1.84,1.89
+123,2515404,Northern Ireland NIFL Premiership,2022/2023,2023-01-02 12:00:00,22,Carrick Rangers,Crusaders,0,3,3,[],"['10', '43', '50']",4.85,3.77,1.65,1.85,1.9,1.73,2.02
+124,2515403,Northern Ireland NIFL Premiership,2022/2023,2023-01-02 12:00:00,22,Ballymena United,Glentoran,2,0,2,"['24', '84']",[],6.09,4.64,1.49,1.88,1.88,2.16,1.64

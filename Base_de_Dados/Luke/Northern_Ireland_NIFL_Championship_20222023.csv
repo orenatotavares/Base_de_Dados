@@ -123,3 +123,9 @@ Nº,League,Season,Date,Rodada,Home,Away,FT_Goals_H,FT_Goals_A,FT_TotalGoals,Goal
 122,Northern Ireland NIFL Championship,2022/2023,2023-01-03 16:45:00,22,Newington Youth,Knockbreda,0,2,2,[],"['78', '9001']",1.86,3.85,3.65,1.5,1.4,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
 123,Northern Ireland NIFL Championship,2022/2023,2023-01-10 17:00:00,19,H&W Welders,Ballinamallard United,3,1,4,"['25', '32', '46']",['72'],2.3,3.6,2.6,1.63,1.58,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0
 124,Northern Ireland NIFL Championship,2022/2023,2023-01-11 16:45:00,11,Newington Youth,Warrenpoint Town,1,4,5,['75'],"['45', '4502', '49', '59']",3.7,3.68,1.82,1.61,1.75,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1
+125,Northern Ireland NIFL Championship,2022/2023,2023-01-14 11:00:00,23,Knockbreda,Loughgall,0,0,0,[],[],5.3,4.14,1.51,1.61,1.68,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+126,Northern Ireland NIFL Championship,2022/2023,2023-01-14 11:00:00,23,Newington Youth,Annagh United,1,2,3,['-1'],"['-1', '-1']",5.8,4.0,1.54,1.62,0.0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0
+127,Northern Ireland NIFL Championship,2022/2023,2023-01-14 12:00:00,23,Ballyclare Comrades,Dergview,0,4,4,[],"['-1', '-1', '-1', '-1']",1.91,3.35,3.25,1.62,1.58,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1
+128,Northern Ireland NIFL Championship,2022/2023,2023-01-14 12:00:00,23,Warrenpoint Town,H&W Welders,3,1,4,"['-1', '-1', '-1']",['-1'],1.53,3.85,4.6,1.55,1.64,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0
+129,Northern Ireland NIFL Championship,2022/2023,2023-01-14 12:00:00,23,Ballinamallard United,Ards,1,0,1,['-1'],[],2.22,3.6,2.77,1.53,1.48,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0
+130,Northern Ireland NIFL Championship,2022/2023,2023-01-14 12:00:00,23,Dundela,Institute,1,0,1,['-1'],[],1.73,3.4,4.0,1.72,1.65,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0

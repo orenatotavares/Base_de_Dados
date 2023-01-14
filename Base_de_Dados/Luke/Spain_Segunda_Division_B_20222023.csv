@@ -358,3 +358,5 @@ Nº,League,Season,Date,Rodada,Home,Away,FT_Goals_H,FT_Goals_A,FT_TotalGoals,Goal
 357,Spain Segunda División B,2022/2023,2023-01-08 14:00:00,18,CE Sabadell FC,Athletic Club II,1,0,1,['20'],[],1.94,3.25,3.15,2.3,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0
 358,Spain Segunda División B,2022/2023,2023-01-08 15:00:00,18,La Nucía,CD Alcoyano,1,1,2,['43'],['5'],2.24,3.05,2.73,2.35,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0
 359,Spain Segunda División B,2022/2023,2023-01-08 15:00:00,18,Deportivo La Coruña,Unionistas de Salamanca CF,3,0,3,"['49', '66', '9003']",[],1.64,3.35,3.83,2.35,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0
+360,Spain Segunda División B,2022/2023,2023-01-14 13:00:00,19,CD Eldense,Real Murcia,1,0,1,['-1'],[],2.2,2.87,3.2,2.4,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0
+361,Spain Segunda División B,2022/2023,2023-01-14 13:00:00,19,AD Alcorcón,Deportivo La Coruña,3,1,4,"['-1', '-1', '-1']",['-1'],2.45,2.65,3.1,2.82,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0

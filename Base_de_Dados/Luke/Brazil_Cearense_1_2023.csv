@@ -1,1 +1,5 @@
 Nº,League,Season,Date,Rodada,Home,Away,FT_Goals_H,FT_Goals_A,FT_TotalGoals,Goals_H_Minutes,Goals_A_Minutes,FT_Odd_H,FT_Odd_D,FT_Odd_A,FT_Odd_Over25,FT_Odd_BTTS_Yes,0x0,0x1,0x2,0x3,1x0,1x1,1x2,1x3,2x0,2x1,2x2,2x3,3x0,3x1,3x2,3x3,Goleada_H,Goleada_A
+1,Brazil Cearense 1,2023,2023-01-14 16:00:00,1,Fortaleza,Iguatu,2,0,2,"['32', '90+3']",[],1.12,6.25,14.0,1.65,0.0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0
+2,Brazil Cearense 1,2023,2023-01-14 18:30:00,1,Maracanã,Caucaia,1,0,1,['49'],[],2.44,2.89,2.98,2.2,0.0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0
+3,Brazil Cearense 1,2023,2023-01-15 17:00:00,1,Guarani de Juazeiro,Ceará,0,5,5,[],"['3', '48', '56', '62', '88']",0.0,0.0,0.0,0.0,0.0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1
+4,Brazil Cearense 1,2023,2023-01-15 19:30:00,1,Uniclinic,Pacajus,1,1,2,['75'],['88'],2.67,3.08,2.39,1.92,1.72,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0

@@ -182,3 +182,7 @@ Nº,League,Season,Date,Rodada,Home,Away,FT_Goals_H,FT_Goals_A,FT_TotalGoals,Goal
 181,England Premier League,2022/2023,2023-01-14 12:00:00,20,Everton,Southampton,1,2,3,['39'],"['46', '78']",2.2,3.35,3.15,1.98,1.8,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0
 182,England Premier League,2022/2023,2023-01-14 12:00:00,20,Nottingham Forest,Leicester City,2,0,2,"['56', '84']",[],3.0,3.4,2.25,1.86,1.7,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0
 183,England Premier League,2022/2023,2023-01-14 12:00:00,20,Wolverhampton Wanderers,West Ham United,1,0,1,['48'],[],2.65,3.2,2.65,2.2,1.91,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0
+184,England Premier League,2022/2023,2023-01-14 14:30:00,20,Brentford,AFC Bournemouth,2,0,2,"['39', '75']",[],1.72,4.25,4.25,1.71,1.75,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0
+185,England Premier League,2022/2023,2023-01-15 11:00:00,20,Chelsea,Crystal Palace,1,0,1,['64'],[],1.49,4.48,7.01,1.81,1.95,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0
+186,England Premier League,2022/2023,2023-01-15 11:00:00,20,Newcastle United,Fulham,1,0,1,['89'],[],1.59,4.43,5.57,1.7,1.8,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0
+187,England Premier League,2022/2023,2023-01-15 13:30:00,20,Tottenham Hotspur,Arsenal,0,2,2,[],"['14', '36']",3.4,3.5,2.1,1.73,1.67,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0

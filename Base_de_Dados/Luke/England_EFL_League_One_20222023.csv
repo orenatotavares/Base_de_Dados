@@ -302,3 +302,4 @@ Nº,League,Season,Date,Rodada,Home,Away,FT_Goals_H,FT_Goals_A,FT_TotalGoals,Goal
 301,England EFL League One,2022/2023,2023-01-14 12:00:00,27,Charlton Athletic,Barnsley,2,0,2,"['19', '61']",[],2.7,3.25,2.38,1.93,1.75,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0
 302,England EFL League One,2022/2023,2023-01-14 12:00:00,27,Burton Albion,Shrewsbury Town,0,4,4,[],"['1', '43', '58', '90+4']",2.32,3.1,2.9,1.93,1.91,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1
 303,England EFL League One,2022/2023,2023-01-14 12:00:00,27,Accrington Stanley,Bristol Rovers,2,0,2,"['51', '79']",[],2.85,3.25,2.27,1.75,1.7,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0
+304,England EFL League One,2022/2023,2023-01-16 17:00:00,27,Port Vale,Peterborough United,0,2,2,[],"['56', '64']",2.76,3.25,2.47,1.99,1.75,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0

@@ -1,0 +1,7 @@
+Nº,League,Season,Date,Rodada,Home,Away,FT_Goals_H,FT_Goals_A,FT_TotalGoals,Goals_H_Minutes,Goals_A_Minutes,FT_Odd_H,FT_Odd_D,FT_Odd_A,FT_Odd_Over25,FT_Odd_BTTS_Yes,0x0,0x1,0x2,0x3,1x0,1x1,1x2,1x3,2x0,2x1,2x2,2x3,3x0,3x1,3x2,3x3,Goleada_H,Goleada_A
+1,Brazil Catarinense 1,2023,2023-01-14 16:30:00,1,Chapecoense,Avaí,2,0,2,"['49', '85']",[],2.7,2.9,2.6,2.88,2.38,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0
+2,Brazil Catarinense 1,2023,2023-01-14 19:00:00,1,Figueirense,Atlético Catarinense,1,0,1,['77'],[],1.53,3.59,5.69,2.02,2.0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0
+3,Brazil Catarinense 1,2023,2023-01-14 20:00:00,1,Camboriú,Joinville,0,0,0,[],[],2.01,2.81,3.58,2.68,2.38,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+4,Brazil Catarinense 1,2023,2023-01-15 16:00:00,1,Marcílio Dias,Hercílio Luz,0,2,2,[],"['31', '48']",2.2,2.88,3.2,2.48,2.38,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+5,Brazil Catarinense 1,2023,2023-01-15 19:00:00,1,Criciúma,Concórdia AC,0,0,0,[],[],1.73,3.2,4.5,2.23,2.5,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+6,Brazil Catarinense 1,2023,2023-01-15 19:00:00,1,Brusque,Barra do Garcas,2,0,2,"['51', '87']",[],1.73,3.1,4.75,2.35,2.5,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0

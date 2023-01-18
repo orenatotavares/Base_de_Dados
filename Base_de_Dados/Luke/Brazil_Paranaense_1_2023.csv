@@ -1,0 +1,8 @@
+Nº,League,Season,Date,Rodada,Home,Away,FT_Goals_H,FT_Goals_A,FT_TotalGoals,Goals_H_Minutes,Goals_A_Minutes,FT_Odd_H,FT_Odd_D,FT_Odd_A,FT_Odd_Over25,FT_Odd_BTTS_Yes,0x0,0x1,0x2,0x3,1x0,1x1,1x2,1x3,2x0,2x1,2x2,2x3,3x0,3x1,3x2,3x3,Goleada_H,Goleada_A
+1,Brazil Paranaense 1,2023,2023-01-14 16:00:00,1,Rio Branco PR,Atlético PR,0,4,4,[],"['22', '45', '45+4', '54']",15.0,5.0,1.2,2.0,2.94,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1
+2,Brazil Paranaense 1,2023,2023-01-14 18:30:00,1,Cascavel CR,Independiente FSJ,1,0,1,['81'],[],1.68,3.37,5.05,2.4,2.65,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0
+3,Brazil Paranaense 1,2023,2023-01-14 18:30:00,1,Maringá,Foz do Iguaçu,1,0,1,['8'],[],1.57,4.0,5.4,2.42,2.5,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0
+4,Brazil Paranaense 1,2023,2023-01-15 16:00:00,1,Coritiba,Aruko Sports,1,0,1,['89'],[],1.4,4.2,8.0,1.98,3.2,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0
+5,Brazil Paranaense 1,2023,2023-01-15 16:00:00,1,Londrina,Azuriz,1,1,2,['90+4'],['27'],1.55,3.4,4.5,2.28,2.09,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0
+6,Brazil Paranaense 1,2023,2023-01-15 18:30:00,1,Operário PR,Cianorte,2,0,2,"['12', '86']",[],1.75,3.2,4.33,2.23,2.15,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0
+7,Brazil Paranaense 1,2023,2023-01-17 20:00:00,2,Maringá,Rio Branco PR,2,0,2,"['40', '77']",[],1.35,4.4,8.2,1.96,2.5,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0

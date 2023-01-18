@@ -110,8 +110,8 @@ Nº,League,Season,Date,Rodada,Home,Away,FT_Goals_H,FT_Goals_A,FT_TotalGoals,Goal
 109,Northern Ireland NIFL Championship,2022/2023,2022-12-17 12:00:00,20,Annagh United,Institute,2,1,3,"['-1', '-1']",['-1'],1.74,3.56,3.61,1.59,1.54,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0
 110,Northern Ireland NIFL Championship,2022/2023,2022-12-20 16:45:00,11,H&W Welders,Dergview,3,2,5,"['57', '73', '74']","['6', '43']",2.0,3.6,3.0,1.55,1.53,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0
 111,Northern Ireland NIFL Championship,2022/2023,2022-12-26 09:00:00,21,Knockbreda,Ards,3,2,5,"['47', '54', '70']","['52', '65']",4.2,4.0,1.63,1.48,1.78,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0
-112,Northern Ireland NIFL Championship,2022/2023,2022-12-26 12:00:00,21,Ballinamallard United,Dergview,2,2,4,"['-1', '-1']","['-1', '-1']",1.75,3.76,4.1,1.65,1.58,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0
-113,Northern Ireland NIFL Championship,2022/2023,2022-12-26 12:00:00,21,Ballyclare Comrades,Newington Youth,1,1,2,['76'],['9002'],2.2,3.25,2.95,1.65,1.5,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0
+112,Northern Ireland NIFL Championship,2022/2023,2022-12-26 12:00:00,21,Ballyclare Comrades,Newington Youth,1,1,2,['76'],['9002'],2.2,3.25,2.95,1.65,1.5,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0
+113,Northern Ireland NIFL Championship,2022/2023,2022-12-26 12:00:00,21,Ballinamallard United,Dergview,2,2,4,"['-1', '-1']","['-1', '-1']",1.75,3.76,4.1,1.65,1.58,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0
 114,Northern Ireland NIFL Championship,2022/2023,2022-12-26 12:00:00,21,Institute,Warrenpoint Town,1,1,2,['61'],['83'],2.65,3.2,2.4,1.71,1.57,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0
 115,Northern Ireland NIFL Championship,2022/2023,2022-12-26 12:00:00,21,Loughgall,Annagh United,3,0,3,"['-1', '-1', '-1']",[],1.9,3.35,3.55,1.85,1.66,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0
 116,Northern Ireland NIFL Championship,2022/2023,2022-12-27 12:00:00,21,Dundela,H&W Welders,2,3,5,"['26', '40']","['4502', '57', '79']",1.67,4.0,4.0,1.58,1.61,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0
@@ -125,7 +125,7 @@ Nº,League,Season,Date,Rodada,Home,Away,FT_Goals_H,FT_Goals_A,FT_TotalGoals,Goal
 124,Northern Ireland NIFL Championship,2022/2023,2023-01-11 16:45:00,11,Newington Youth,Warrenpoint Town,1,4,5,['75'],"['45', '4502', '49', '59']",3.7,3.68,1.82,1.61,1.75,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1
 125,Northern Ireland NIFL Championship,2022/2023,2023-01-14 11:00:00,23,Knockbreda,Loughgall,0,0,0,[],[],5.3,4.14,1.51,1.61,1.68,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
 126,Northern Ireland NIFL Championship,2022/2023,2023-01-14 11:00:00,23,Newington Youth,Annagh United,1,2,3,['-1'],"['-1', '-1']",5.8,4.0,1.54,1.62,0.0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0
-127,Northern Ireland NIFL Championship,2022/2023,2023-01-14 12:00:00,23,Ballyclare Comrades,Dergview,0,4,4,[],"['10', '22', '27', '61']",1.91,3.35,3.25,1.62,1.58,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1
-128,Northern Ireland NIFL Championship,2022/2023,2023-01-14 12:00:00,23,Warrenpoint Town,H&W Welders,3,1,4,"['19', '53', '54']",['23'],1.53,3.85,4.6,1.55,1.64,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0
-129,Northern Ireland NIFL Championship,2022/2023,2023-01-14 12:00:00,23,Ballinamallard United,Ards,1,0,1,['-1'],[],2.22,3.6,2.77,1.53,1.48,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0
-130,Northern Ireland NIFL Championship,2022/2023,2023-01-14 12:00:00,23,Dundela,Institute,1,0,1,['-1'],[],1.73,3.4,4.0,1.72,1.65,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0
+127,Northern Ireland NIFL Championship,2022/2023,2023-01-14 12:00:00,23,Ballinamallard United,Ards,1,0,1,['-1'],[],2.22,3.6,2.77,1.53,1.48,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0
+128,Northern Ireland NIFL Championship,2022/2023,2023-01-14 12:00:00,23,Dundela,Institute,1,0,1,['-1'],[],1.73,3.4,4.0,1.72,1.65,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0
+129,Northern Ireland NIFL Championship,2022/2023,2023-01-14 12:00:00,23,Warrenpoint Town,H&W Welders,3,1,4,"['19', '53', '54']",['23'],1.53,3.85,4.6,1.55,1.64,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0
+130,Northern Ireland NIFL Championship,2022/2023,2023-01-14 12:00:00,23,Ballyclare Comrades,Dergview,0,4,4,[],"['10', '22', '27', '61']",1.91,3.35,3.25,1.62,1.58,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1

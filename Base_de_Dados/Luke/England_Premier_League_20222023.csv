@@ -187,3 +187,4 @@ Nº,League,Season,Date,Rodada,Home,Away,FT_Goals_H,FT_Goals_A,FT_TotalGoals,Goal
 186,England Premier League,2022/2023,2023-01-15 11:00:00,20,Newcastle United,Fulham,1,0,1,['89'],[],1.59,4.43,5.57,1.7,1.8,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0
 187,England Premier League,2022/2023,2023-01-15 13:30:00,20,Tottenham Hotspur,Arsenal,0,2,2,[],"['14', '36']",3.4,3.5,2.1,1.73,1.67,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
 188,England Premier League,2022/2023,2023-01-18 17:00:00,7,Crystal Palace,Manchester United,1,1,2,['90+1'],['43'],3.95,3.4,1.81,1.85,1.67,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0
+189,England Premier League,2022/2023,2023-01-19 17:00:00,7,Manchester City,Tottenham Hotspur,4,2,6,"['51', '53', '63', '90']","['44', '45+2']",1.31,5.66,7.87,1.49,1.7,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0

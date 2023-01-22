@@ -129,3 +129,8 @@ Nº,League,Season,Date,Rodada,Home,Away,FT_Goals_H,FT_Goals_A,FT_TotalGoals,Goal
 128,Northern Ireland NIFL Championship,2022/2023,2023-01-14 12:00:00,23,Dundela,Institute,1,0,1,['-1'],[],1.73,3.4,4.0,1.72,1.65,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0
 129,Northern Ireland NIFL Championship,2022/2023,2023-01-14 12:00:00,23,Warrenpoint Town,H&W Welders,3,1,4,"['19', '53', '54']",['23'],1.53,3.85,4.6,1.55,1.64,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0
 130,Northern Ireland NIFL Championship,2022/2023,2023-01-14 12:00:00,23,Ballyclare Comrades,Dergview,0,4,4,[],"['10', '22', '27', '61']",1.91,3.35,3.25,1.62,1.58,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1
+131,Northern Ireland NIFL Championship,2022/2023,2023-01-21 12:00:00,24,Dergview,Newington Youth,3,0,3,"['4', '20', '63']",[],2.39,3.55,2.7,1.49,1.43,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0
+132,Northern Ireland NIFL Championship,2022/2023,2023-01-21 12:00:00,24,Ards,Warrenpoint Town,3,5,8,"['-1', '-1', '-1']","['-1', '-1', '-1', '-1', '-1']",2.53,3.45,2.41,1.55,0.0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1
+133,Northern Ireland NIFL Championship,2022/2023,2023-01-21 12:00:00,24,Annagh United,Knockbreda,0,0,0,[],[],1.31,5.2,8.4,1.48,1.82,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+134,Northern Ireland NIFL Championship,2022/2023,2023-01-21 12:00:00,24,Loughgall,Dundela,0,1,1,[],['-1'],1.73,3.7,4.0,1.62,0.0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+135,Northern Ireland NIFL Championship,2022/2023,2023-01-21 12:00:00,24,H&W Welders,Ballyclare Comrades,5,1,6,"['-1', '-1', '-1', '-1', '-1']",['-1'],2.75,3.56,2.2,1.48,0.0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0

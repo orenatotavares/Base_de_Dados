@@ -125,3 +125,6 @@ Nº,League,Season,Date,Rodada,Home,Away,FT_Goals_H,FT_Goals_A,FT_TotalGoals,Goal
 124,Egypt Egyptian Premier League,2022/2023,2023-01-20 12:00:00,14,Al Masry,Ghazl El Mehalla,1,1,2,['49'],['78'],1.57,3.5,5.75,2.14,2.18,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0
 125,Egypt Egyptian Premier League,2022/2023,2023-01-20 14:00:00,14,Ceramica Cleopatra,Smouha SC,0,2,2,[],"['38', '90']",2.04,3.03,3.66,2.32,1.98,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
 126,Egypt Egyptian Premier League,2022/2023,2023-01-21 15:30:00,14,Zamalek,Al Ahly,0,3,3,[],"['61', '75', '90']",3.55,3.24,1.91,2.16,1.97,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+127,Egypt Egyptian Premier League,2022/2023,2023-01-22 12:00:00,15,El Daklyeh FC,Al Mokawloon,1,2,3,['10'],"['54', '90+4']",3.69,2.83,2.23,2.45,2.1,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0
+128,Egypt Egyptian Premier League,2022/2023,2023-01-23 09:45:00,15,Pharco,ENPPI,0,1,1,[],['90+9'],2.76,2.96,2.63,2.39,2.12,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+129,Egypt Egyptian Premier League,2022/2023,2023-01-23 09:45:00,15,Aswan FC,Ismaily SC,0,0,0,[],[],2.62,3.06,2.68,2.43,2.0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0

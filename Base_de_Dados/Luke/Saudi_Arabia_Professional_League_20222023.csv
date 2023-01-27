@@ -111,3 +111,5 @@ Nº,League,Season,Date,Rodada,Home,Away,FT_Goals_H,FT_Goals_A,FT_TotalGoals,Goal
 110,Saudi Arabia Professional League,2022/2023,2023-01-21 12:00:00,14,Al Wahda,Al Ta'ee,1,0,1,['65'],[],2.27,3.21,2.72,2.02,1.77,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0
 111,Saudi Arabia Professional League,2022/2023,2023-01-22 12:00:00,14,Al Hilal,Abha,2,1,3,"['21', '54']",['29'],1.26,5.78,10.26,1.53,2.1,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0
 112,Saudi Arabia Professional League,2022/2023,2023-01-22 14:30:00,14,Al Nassr,Al Ittifaq,1,0,1,['31'],[],1.28,5.24,9.01,1.58,2.1,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0
+113,Saudi Arabia Professional League,2022/2023,2023-01-27 12:00:00,18,Al Ta'ee,Al Shabab,1,2,3,['9'],"['18', '38']",4.5,3.5,1.65,1.67,1.71,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0
+114,Saudi Arabia Professional League,2022/2023,2023-01-27 14:30:00,9,Al Wahda,Al Fateh,0,2,2,[],"['25', '90+3']",2.6,3.4,2.29,2.01,1.73,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0

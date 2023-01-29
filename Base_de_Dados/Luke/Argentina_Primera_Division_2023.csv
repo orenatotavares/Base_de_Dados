@@ -4,3 +4,5 @@ Nº,League,Season,Date,Rodada,Home,Away,FT_Goals_H,FT_Goals_A,FT_TotalGoals,Goal
 3,Argentina Primera División,2023,2023-01-28 17:00:00,1,San Lorenzo,Arsenal de Sarandí,1,0,1,['57'],[],1.97,3.0,4.0,2.59,2.25,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0
 4,Argentina Primera División,2023,2023-01-28 19:15:00,1,Talleres Córdoba,Independiente,0,1,1,[],['52'],2.2,2.92,3.4,2.45,2.05,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
 5,Argentina Primera División,2023,2023-01-28 19:15:00,1,Estudiantes,Tigre,1,2,3,['57'],"['42', '74']",2.3,3.02,3.08,2.2,1.95,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0
+6,Argentina Primera División,2023,2023-01-28 21:30:00,1,Central Córdoba SdE,River Plate,0,2,2,[],"['45', '69']",4.48,3.47,1.73,1.82,1.8,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+7,Argentina Primera División,2023,2023-01-29 17:00:00,1,Platense,Newell's Old Boys,2,2,4,"['27', '62']","['11', '65']",2.4,2.87,3.07,2.44,2.05,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0

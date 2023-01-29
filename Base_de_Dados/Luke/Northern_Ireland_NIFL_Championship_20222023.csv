@@ -136,8 +136,8 @@ Nº,League,Season,Date,Rodada,Home,Away,FT_Goals_H,FT_Goals_A,FT_TotalGoals,Goal
 135,Northern Ireland NIFL Championship,2022/2023,2023-01-21 12:00:00,24,H&W Welders,Ballyclare Comrades,5,1,6,"['-1', '-1', '-1', '-1', '-1']",['-1'],2.75,3.56,2.2,1.48,0.0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0
 136,Northern Ireland NIFL Championship,2022/2023,2023-01-24 16:45:00,19,Ballyclare Comrades,Annagh United,2,2,4,"['-1', '-1']","['-1', '-1']",3.8,3.3,1.85,1.58,1.45,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0
 137,Northern Ireland NIFL Championship,2022/2023,2023-01-28 12:00:00,25,Ballinamallard United,Loughgall,0,2,2,[],"['-1', '-1']",4.35,3.73,1.63,1.63,0.0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
-138,Northern Ireland NIFL Championship,2022/2023,2023-01-28 12:00:00,25,Dundela,Annagh United,0,3,3,[],"['-1', '-1', '-1']",2.35,3.3,2.6,1.97,1.75,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0
-139,Northern Ireland NIFL Championship,2022/2023,2023-01-28 12:00:00,25,Institute,Ards,1,1,2,['-1'],['-1'],2.25,3.8,2.5,1.48,1.48,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0
-140,Northern Ireland NIFL Championship,2022/2023,2023-01-28 12:00:00,25,Warrenpoint Town,Newington Youth,2,0,2,"['-1', '-1']",[],1.5,4.0,5.0,1.49,1.57,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0
-141,Northern Ireland NIFL Championship,2022/2023,2023-01-28 12:00:00,25,H&W Welders,Dergview,3,0,3,"['-1', '-1', '-1']",[],2.2,3.4,2.75,1.55,1.5,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0
-142,Northern Ireland NIFL Championship,2022/2023,2023-01-28 12:00:00,25,Ballyclare Comrades,Knockbreda,1,2,3,['-1'],"['-1', '-1']",2.05,3.25,3.1,1.7,1.6,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0
+138,Northern Ireland NIFL Championship,2022/2023,2023-01-28 12:00:00,25,Dundela,Annagh United,0,3,3,[],"['42', '49', '72']",2.35,3.3,2.6,1.97,1.75,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+139,Northern Ireland NIFL Championship,2022/2023,2023-01-28 12:00:00,25,Institute,Ards,1,1,2,['34'],['37'],2.25,3.8,2.5,1.48,1.48,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0
+140,Northern Ireland NIFL Championship,2022/2023,2023-01-28 12:00:00,25,Warrenpoint Town,Newington Youth,2,0,2,"['8', '48']",[],1.5,4.0,5.0,1.49,1.57,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0
+141,Northern Ireland NIFL Championship,2022/2023,2023-01-28 12:00:00,25,H&W Welders,Dergview,3,0,3,"['16', '56', '62']",[],2.2,3.4,2.75,1.55,1.5,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0
+142,Northern Ireland NIFL Championship,2022/2023,2023-01-28 12:00:00,25,Ballyclare Comrades,Knockbreda,1,2,3,['84'],"['13', '56']",2.05,3.25,3.1,1.7,1.6,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0

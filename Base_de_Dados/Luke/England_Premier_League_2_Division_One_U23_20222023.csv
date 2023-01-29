@@ -98,3 +98,8 @@ Nº,League,Season,Date,Rodada,Home,Away,FT_Goals_H,FT_Goals_A,FT_TotalGoals,Goal
 97,England Premier League 2 Division One U23,2022/2023,2023-01-22 10:00:00,16,Liverpool U21,Crystal Palace U21,0,1,1,[],['5'],2.18,3.77,2.73,1.43,1.43,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
 98,England Premier League 2 Division One U23,2022/2023,2023-01-22 11:30:00,16,Fulham U21,Chelsea U21,2,4,6,"['73', '82']","['4', '56', '66', '89']",2.25,3.77,2.82,1.44,1.41,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1
 99,England Premier League 2 Division One U23,2022/2023,2023-01-22 13:00:00,16,Brighton U21,Everton U21,1,2,3,['11'],"['54', '83']",2.1,3.5,2.8,1.41,1.41,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0
+100,England Premier League 2 Division One U23,2022/2023,2023-01-27 16:00:00,17,Wolves U21,Liverpool U21,0,1,1,[],['84'],2.69,4.2,1.98,1.38,1.36,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+101,England Premier League 2 Division One U23,2022/2023,2023-01-27 16:00:00,17,Everton U21,Fulham U21,1,1,2,['4'],['19'],2.75,3.75,2.05,1.32,1.4,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0
+102,England Premier League 2 Division One U23,2022/2023,2023-01-27 16:00:00,17,Chelsea U21,West Ham United U21,2,3,5,"['30', '69']","['12', '27', '45+3']",1.3,4.75,7.0,1.28,1.54,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0
+103,England Premier League 2 Division One U23,2022/2023,2023-01-27 16:00:00,17,Arsenal U21,Tottenham Hotspur U21,1,2,3,['21'],"['26', '61']",1.75,3.8,3.5,1.5,1.47,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0
+104,England Premier League 2 Division One U23,2022/2023,2023-01-27 16:00:00,17,Manchester United U21,Blackburn Rovers U21,2,1,3,"['25', '45+1']",['68'],2.2,3.75,2.5,1.31,1.31,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0

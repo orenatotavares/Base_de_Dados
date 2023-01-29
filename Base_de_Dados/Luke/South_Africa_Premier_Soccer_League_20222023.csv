@@ -140,3 +140,6 @@ Nº,League,Season,Date,Rodada,Home,Away,FT_Goals_H,FT_Goals_A,FT_TotalGoals,Goal
 139,South Africa Premier Soccer League,2022/2023,2023-01-24 14:30:00,0,TS Galaxy,Mamelodi Sundowns,1,2,3,['90+5'],"['11', '64']",2.96,3.06,2.22,2.12,2.01,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0
 140,South Africa Premier Soccer League,2022/2023,2023-01-25 14:30:00,0,Golden Arrows,Marumo Gallants,3,2,5,"['53', '60', '71']","['39', '77']",2.3,2.8,3.2,2.64,2.1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0
 141,South Africa Premier Soccer League,2022/2023,2023-01-27 14:30:00,0,Stellenbosch,Cape Town City,3,2,5,"['44', '55', '83']","['5', '42']",2.6,2.7,2.9,2.66,2.2,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0
+142,South Africa Premier Soccer League,2022/2023,2023-01-28 10:30:00,0,Mamelodi Sundowns,Sekhukhune United,2,0,2,"['50', '82']",[],1.32,4.2,8.0,2.1,2.3,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0
+143,South Africa Premier Soccer League,2022/2023,2023-01-28 12:30:00,0,Moroka Swallows,SuperSport United,0,0,0,[],[],2.77,2.87,2.44,2.45,2.0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+144,South Africa Premier Soccer League,2022/2023,2023-01-28 15:00:00,0,Marumo Gallants,Orlando Pirates,0,2,2,[],"['36', '68']",4.5,2.85,1.9,2.42,2.2,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0

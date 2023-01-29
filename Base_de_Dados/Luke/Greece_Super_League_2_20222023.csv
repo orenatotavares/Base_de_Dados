@@ -164,3 +164,5 @@ Nº,League,Season,Date,Rodada,Home,Away,FT_Goals_H,FT_Goals_A,FT_TotalGoals,Goal
 163,Greece Super League 2,2022/2023,2023-01-23 10:15:00,12,Apollon Smirnis,Kallithea,1,1,2,['80'],['21'],2.17,2.82,3.92,2.45,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0
 164,Greece Super League 2,2022/2023,2023-01-24 09:45:00,12,Olympiakos Piraeus II,Irodotos,4,0,4,"['25', '30', '55', '71']",[],1.13,4.45,11.9,1.61,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0
 165,Greece Super League 2,2022/2023,2023-01-27 10:15:00,13,AEK Athens II,AOX Kissamikos,0,1,1,[],['48'],2.9,2.9,2.6,2.25,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+166,Greece Super League 2,2022/2023,2023-01-28 08:45:00,13,PAOK II,Panserraikos,0,1,1,[],['90+2'],1.95,2.16,1.59,2.1,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+167,Greece Super League 2,2022/2023,2023-01-28 09:45:00,13,Iraklis Larissa,Panathinaikos II,1,0,1,['60'],[],4.22,2.19,1.28,2.05,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0

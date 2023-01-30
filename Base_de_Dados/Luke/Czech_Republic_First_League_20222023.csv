@@ -134,3 +134,4 @@ Nº,League,Season,Date,Rodada,Home,Away,FT_Goals_H,FT_Goals_A,FT_TotalGoals,Goal
 133,Czech Republic First League,2022/2023,2023-01-29 11:00:00,17,Mladá Boleslav,Zbrojovka Brno,0,0,0,[],[],1.7,3.9,4.16,1.55,1.62,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
 134,Czech Republic First League,2022/2023,2023-01-29 11:00:00,17,Slovan Liberec,Pardubice,1,1,2,['40'],['47'],1.58,4.05,4.87,1.69,1.75,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0
 135,Czech Republic First League,2022/2023,2023-01-29 11:00:00,17,Slavia Praha,Jablonec,5,1,6,"['11', '65', '67', '76', '85']",['45+6'],1.2,6.4,10.48,1.45,2.05,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0
+136,Czech Republic First League,2022/2023,2023-01-29 14:00:00,17,Zlín,Baník Ostrava,1,1,2,['57'],['41'],2.79,3.6,2.16,1.67,1.57,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0

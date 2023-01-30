@@ -13,3 +13,4 @@ Nº,League,Season,Date,Rodada,Home,Away,FT_Goals_H,FT_Goals_A,FT_TotalGoals,Goal
 12,Chile Primera División,2023,2023-01-28 18:00:00,2,Universidad Chile,Unión Española,1,0,1,['45'],[],2.15,3.1,3.0,1.91,1.73,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0
 13,Chile Primera División,2023,2023-01-28 20:30:00,2,Universidad Católica,Curicó Unido,3,1,4,"['32', '88', '90+8']",['62'],1.67,3.4,4.4,1.8,1.8,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0
 14,Chile Primera División,2023,2023-01-29 12:00:00,2,Huachipato,Cobresal,2,1,3,"['42', '89']",['16'],2.38,3.4,2.59,1.95,1.85,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0
+15,Chile Primera División,2023,2023-01-29 18:00:00,2,O'Higgins,Colo-Colo,5,1,6,"['58', '64', '70', '77', '86']",['4'],3.25,3.3,2.05,1.88,1.9,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0

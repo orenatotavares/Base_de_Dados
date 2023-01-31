@@ -148,3 +148,4 @@ Nº,League,Season,Date,Rodada,Home,Away,FT_Goals_H,FT_Goals_A,FT_TotalGoals,Goal
 147,Northern Ireland NIFL Premiership,2022/2023,2023-01-28 12:00:00,26,Carrick Rangers,Glenavon,1,1,2,['70'],['88'],2.23,3.5,2.59,1.58,1.53,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0
 148,Northern Ireland NIFL Premiership,2022/2023,2023-01-28 12:00:00,26,Dungannon Swifts,Coleraine,0,3,3,[],"['45+1', '81', '88']",5.7,3.8,1.47,1.76,1.83,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0
 149,Northern Ireland NIFL Premiership,2022/2023,2023-01-29 12:00:00,26,Newry City AFC,Larne,0,0,0,[],[],7.61,5.2,1.28,1.56,1.82,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+150,Northern Ireland NIFL Premiership,2022/2023,2023-01-30 16:45:00,26,Glentoran,Crusaders,2,0,2,"['47', '53']",[],1.16,9.31,2.91,1.85,1.73,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0

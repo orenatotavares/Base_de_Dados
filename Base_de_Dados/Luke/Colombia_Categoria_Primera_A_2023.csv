@@ -1,0 +1,14 @@
+Nº,League,Season,Date,Rodada,Home,Away,FT_Goals_H,FT_Goals_A,FT_TotalGoals,Goals_H_Minutes,Goals_A_Minutes,FT_Odd_H,FT_Odd_D,FT_Odd_A,FT_Odd_Over25,FT_Odd_BTTS_Yes,0x0,0x1,0x2,0x3,1x0,1x1,1x2,1x3,2x0,2x1,2x2,2x3,3x0,3x1,3x2,3x3,Goleada_H,Goleada_A
+1,Colombia Categoria Primera A,2023,2023-01-24 22:00:00,1,Atlético Bucaramanga,Envigado,0,0,0,[],[],1.92,2.9,3.93,2.5,2.1,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+2,Colombia Categoria Primera A,2023,2023-01-25 17:10:00,1,Unión Magdalena,Atlético Huila,2,1,3,"['65', '72']",['59'],1.85,3.15,4.35,2.5,2.15,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0
+3,Colombia Categoria Primera A,2023,2023-01-25 19:20:00,1,Rionegro Águilas,Junior,1,1,2,['75'],['16'],2.48,2.75,3.1,2.6,1.9,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0
+4,Colombia Categoria Primera A,2023,2023-01-26 18:00:00,1,Boyacá Chicó,Alianza Petrolera,2,0,2,"['35', '58']",[],1.81,3.05,4.8,2.59,2.38,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0
+5,Colombia Categoria Primera A,2023,2023-01-26 20:10:00,1,Deportes Tolima,América de Cali,2,1,3,"['45+25', '87']",['63'],1.89,3.05,4.4,2.55,2.2,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0
+6,Colombia Categoria Primera A,2023,2023-01-26 22:20:00,1,Atlético Nacional,Once Caldas,1,0,1,['61'],[],1.62,3.45,5.6,2.3,2.1,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0
+7,Colombia Categoria Primera A,2023,2023-01-27 19:20:00,1,Jaguares de Córdoba,Santa Fe,2,2,4,"['16', '32']","['1', '26']",2.59,3.1,2.5,2.22,1.91,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0
+8,Colombia Categoria Primera A,2023,2023-01-28 17:10:00,2,Envigado,La Equidad,1,1,2,['9'],['55'],2.5,2.8,2.75,2.45,2.0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0
+9,Colombia Categoria Primera A,2023,2023-01-28 19:20:00,2,Atlético Huila,Atlético Bucaramanga,1,2,3,['43'],"['22', '90+5']",3.9,2.9,1.91,2.47,2.15,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0
+10,Colombia Categoria Primera A,2023,2023-01-29 17:10:00,2,Atlético Nacional,Rionegro Águilas,0,0,0,[],[],1.8,3.4,4.33,2.15,2.05,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+11,Colombia Categoria Primera A,2023,2023-01-29 19:20:00,2,Deportivo Pereira,Millonarios,2,3,5,"['45+2', '71']","['18', '53', '70']",3.7,2.86,2.12,2.6,1.98,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0
+12,Colombia Categoria Primera A,2023,2023-01-29 21:30:00,2,Junior,Independiente Medellín,1,1,2,['60'],['79'],1.58,3.55,5.7,2.1,2.09,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0
+13,Colombia Categoria Primera A,2023,2023-01-30 22:10:00,2,Once Caldas,Deportes Tolima,1,1,2,['45+5'],['33'],3.32,3.13,2.31,2.45,2.1,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0

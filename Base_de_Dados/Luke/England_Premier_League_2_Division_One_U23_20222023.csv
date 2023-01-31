@@ -103,3 +103,5 @@ Nº,League,Season,Date,Rodada,Home,Away,FT_Goals_H,FT_Goals_A,FT_TotalGoals,Goal
 102,England Premier League 2 Division One U23,2022/2023,2023-01-27 16:00:00,17,Chelsea U21,West Ham United U21,2,3,5,"['30', '69']","['12', '27', '45+3']",1.3,4.75,7.0,1.28,1.54,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0
 103,England Premier League 2 Division One U23,2022/2023,2023-01-27 16:00:00,17,Arsenal U21,Tottenham Hotspur U21,1,2,3,['21'],"['26', '61']",1.75,3.8,3.5,1.5,1.47,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0
 104,England Premier League 2 Division One U23,2022/2023,2023-01-27 16:00:00,17,Manchester United U21,Blackburn Rovers U21,2,1,3,"['25', '45+1']",['68'],2.2,3.75,2.5,1.31,1.31,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0
+105,England Premier League 2 Division One U23,2022/2023,2023-01-30 10:00:00,17,Crystal Palace U21,Manchester City U21,0,5,5,[],"['45', '64', '70', '80', '86']",3.0,3.7,1.95,1.27,1.3,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1
+106,England Premier League 2 Division One U23,2022/2023,2023-01-30 12:00:00,17,Brighton U21,Leicester City U21,3,1,4,"['45', '62', '65']",['38'],1.4,4.59,1.78,1.36,1.35,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0

@@ -12,3 +12,5 @@ Nº,League,Season,Date,Rodada,Home,Away,FT_Goals_H,FT_Goals_A,FT_TotalGoals,Goal
 11,Colombia Categoria Primera A,2023,2023-01-29 19:20:00,2,Deportivo Pereira,Millonarios,2,3,5,"['45+2', '71']","['18', '53', '70']",3.7,2.86,2.12,2.6,1.98,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0
 12,Colombia Categoria Primera A,2023,2023-01-29 21:30:00,2,Junior,Independiente Medellín,1,1,2,['60'],['79'],1.58,3.55,5.7,2.1,2.09,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0
 13,Colombia Categoria Primera A,2023,2023-01-30 22:10:00,2,Once Caldas,Deportes Tolima,1,1,2,['45+5'],['33'],3.32,3.13,2.31,2.45,2.1,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0
+14,Colombia Categoria Primera A,2023,2023-01-31 18:00:00,2,Boyacá Chicó,Jaguares de Córdoba,1,0,1,['83'],[],2.25,2.9,3.2,2.55,2.1,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0
+15,Colombia Categoria Primera A,2023,2023-01-31 20:10:00,2,América de Cali,Unión Magdalena,4,0,4,"['5', '24', '54', '77']",[],1.6,3.2,6.0,2.11,2.65,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0

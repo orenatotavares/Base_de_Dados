@@ -117,3 +117,4 @@ Nº,League,Season,Date,Rodada,Home,Away,FT_Goals_H,FT_Goals_A,FT_TotalGoals,Goal
 116,Malta Maltese Premier League,2022/2023,2023-01-29 07:30:00,17,Balzan,Marsaxlokk,0,0,0,[],[],1.83,3.3,3.72,1.94,1.8,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
 117,Malta Maltese Premier League,2022/2023,2023-01-29 11:00:00,17,Valletta,Floriana,0,0,0,[],[],2.75,3.0,2.4,2.3,1.9,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
 118,Malta Maltese Premier League,2022/2023,2023-01-29 11:00:00,17,Hamrun Spartans,Sirens,3,0,3,"['3', '28', '82']",[],1.4,4.0,7.0,2.2,2.55,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0
+119,Malta Maltese Premier League,2022/2023,2023-02-01 15:00:00,16,Sirens,Valletta,3,3,6,"['49', '68', '89']","['3', '39', '54']",4.75,3.6,1.62,2.1,2.05,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0

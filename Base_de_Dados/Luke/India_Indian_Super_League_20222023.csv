@@ -85,3 +85,6 @@ Nº,League,Season,Date,Rodada,Home,Away,FT_Goals_H,FT_Goals_A,FT_TotalGoals,Goal
 84,India Indian Super League,2022/2023,2023-01-28 11:00:00,17,ATK Mohun Bagan,Odisha FC,2,0,2,"['3', '80']",[],1.81,3.45,3.6,1.8,1.72,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0
 85,India Indian Super League,2022/2023,2023-01-29 11:00:00,17,Kerala Blasters,NorthEast United,2,0,2,"['42', '44']",[],1.39,4.55,6.2,1.53,1.91,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0
 86,India Indian Super League,2022/2023,2023-02-02 11:00:00,18,Chennaiyin,Odisha FC,2,2,4,"['25', '57']","['24', '47']",2.1,3.35,3.1,1.65,1.55,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0
+87,India Indian Super League,2022/2023,2023-02-03 11:00:00,18,East Bengal,Kerala Blasters,1,0,1,['77'],[],4.75,3.9,1.56,1.54,1.7,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0
+88,India Indian Super League,2022/2023,2023-02-04 09:00:00,18,Mumbai City,Hyderabad,1,1,2,['23'],['65'],1.79,3.75,3.65,1.57,1.57,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0
+89,India Indian Super League,2022/2023,2023-02-04 11:00:00,18,NorthEast United,Jamshedpur,0,2,2,[],"['39', '57']",3.5,3.7,1.84,1.63,1.6,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0

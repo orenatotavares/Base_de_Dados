@@ -1,1 +1,6 @@
 Nº,League,Season,Date,Rodada,Home,Away,FT_Goals_H,FT_Goals_A,FT_TotalGoals,Goals_H_Minutes,Goals_A_Minutes,FT_Odd_H,FT_Odd_D,FT_Odd_A,FT_Odd_Over25,FT_Odd_BTTS_Yes,0x0,0x1,0x2,0x3,1x0,1x1,1x2,1x3,2x0,2x1,2x2,2x3,3x0,3x1,3x2,3x3,Goleada_H,Goleada_A
+1,Bolivia LFPB,2023,2023-02-04 16:00:00,1,Libertad,Vaca Díez,3,2,5,"['10', '78', '90+13']","['58', '90+1']",1.57,4.19,4.33,1.5,1.57,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0
+2,Bolivia LFPB,2023,2023-02-04 18:30:00,1,The Strongest,Universitario de Vinto,2,1,3,"['67', '73']",['58'],1.26,5.62,9.47,1.53,2.0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0
+3,Bolivia LFPB,2023,2023-02-04 21:00:00,1,Oriente Petrolero,Nacional Potosí,3,0,3,"['62', '67', '90+6']",[],1.52,4.11,4.93,1.6,1.73,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0
+4,Bolivia LFPB,2023,2023-02-05 16:00:00,1,Guabirá,Bolívar,1,2,3,['66'],"['22', '63']",3.4,3.25,1.95,1.79,1.67,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0
+5,Bolivia LFPB,2023,2023-02-05 18:30:00,1,Aurora,Club Always Ready,0,0,0,[],[],3.11,3.6,1.96,1.73,1.73,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0

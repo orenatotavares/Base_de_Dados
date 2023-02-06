@@ -142,3 +142,5 @@ Nº,League,Season,Date,Rodada,Home,Away,FT_Goals_H,FT_Goals_A,FT_TotalGoals,Goal
 141,Israel Israeli Premier League,2022/2023,2023-02-04 12:30:00,21,Maccabi Tel Aviv,Bnei Sakhnin,1,1,2,['53'],['13'],1.22,5.75,11.0,1.62,2.25,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0
 142,Israel Israeli Premier League,2022/2023,2023-02-04 13:00:00,21,Hapoel Haifa,Ashdod,1,1,2,['51'],['61'],2.63,3.0,2.5,2.15,1.83,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0
 143,Israel Israeli Premier League,2022/2023,2023-02-04 13:00:00,21,Hapoel Katamon,Maccabi Netanya,0,2,2,[],"['68', '90+7']",2.63,3.1,2.5,2.3,1.91,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+144,Israel Israeli Premier League,2022/2023,2023-02-04 14:30:00,21,Ironi Kiryat Shmona,Beitar Jerusalem,0,3,3,[],"['49', '63', '87']",2.38,3.4,2.63,1.95,1.73,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+145,Israel Israeli Premier League,2022/2023,2023-02-05 15:15:00,21,Maccabi Bnei Raina,Hapoel Tel Aviv,1,1,2,['77'],['45'],3.15,3.05,2.11,2.23,2.0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0

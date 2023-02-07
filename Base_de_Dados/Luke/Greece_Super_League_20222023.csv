@@ -144,3 +144,4 @@ Nº,League,Season,Date,Rodada,Home,Away,FT_Goals_H,FT_Goals_A,FT_TotalGoals,Goal
 143,Greece Super League,2022/2023,2023-02-05 12:00:00,21,Panathinaikos,Lamia,2,0,2,"['14', '90+2']",[],1.72,2.52,7.52,2.1,2.63,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0
 144,Greece Super League,2022/2023,2023-02-05 15:00:00,21,Panaitolikos,Asteras Tripolis,0,0,0,[],[],2.2,2.9,3.1,2.3,2.0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
 145,Greece Super League,2022/2023,2023-02-05 15:30:00,21,PAOK,Olympiakos Piraeus,0,0,0,[],[],2.2,2.9,3.1,2.3,2.05,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+146,Greece Super League,2022/2023,2023-02-06 11:00:00,21,Levadiakos,Volos NFC,0,3,3,[],"['61', '68', '90']",2.5,2.87,2.7,2.3,2.0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0

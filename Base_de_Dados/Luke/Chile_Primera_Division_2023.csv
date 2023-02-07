@@ -20,3 +20,5 @@ Nº,League,Season,Date,Rodada,Home,Away,FT_Goals_H,FT_Goals_A,FT_TotalGoals,Goal
 19,Chile Primera División,2023,2023-02-04 18:00:00,3,Magallanes,Unión La Calera,1,1,2,['25'],['77'],2.7,3.58,2.6,1.82,1.7,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0
 20,Chile Primera División,2023,2023-02-04 20:30:00,3,Unión Española,Everton,1,1,2,['11'],['50'],2.97,3.3,2.54,2.08,1.8,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0
 21,Chile Primera División,2023,2023-02-05 18:00:00,3,Palestino,Universidad Chile,2,0,2,"['69', '90+6']",[],2.0,3.35,3.43,1.85,1.73,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0
+22,Chile Primera División,2023,2023-02-05 20:30:00,3,Cobresal,Copiapó,1,0,1,['25'],[],1.8,3.6,3.75,1.78,1.73,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0
+23,Chile Primera División,2023,2023-02-06 20:00:00,3,O'Higgins,Huachipato,0,1,1,[],['18'],2.0,3.13,3.32,1.92,1.8,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0

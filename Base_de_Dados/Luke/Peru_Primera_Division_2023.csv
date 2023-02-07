@@ -5,3 +5,5 @@ Nº,League,Season,Date,Rodada,Home,Away,FT_Goals_H,FT_Goals_A,FT_TotalGoals,Goal
 4,Peru Primera División,2023,2023-02-04 17:30:00,3,UTC Cajamarca,Cienciano,3,0,3,"['-1', '-1', '-1']",[],2.36,3.14,2.87,1.85,1.6,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0
 5,Peru Primera División,2023,2023-02-04 21:30:00,3,Deportivo Garcilaso,Deportivo Binacional,3,0,3,"['-1', '-1', '-1']",[],2.06,3.25,3.2,1.91,1.75,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0
 6,Peru Primera División,2023,2023-02-05 12:00:00,3,Sporting Cristal,Alianza Lima,3,0,3,"['-1', '-1', '-1']",[],2.37,3.1,2.65,1.91,1.78,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0
+7,Peru Primera División,2023,2023-02-06 15:00:00,3,Sport Boys,Unión Comercio,2,1,3,"['85', '88']",['81'],1.94,3.2,3.49,1.86,1.75,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0
+8,Peru Primera División,2023,2023-02-06 17:30:00,3,César Vallejo,Alianza Atlético,2,2,4,"['72', '85']","['60', '67']",1.69,3.54,4.13,1.7,1.68,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0

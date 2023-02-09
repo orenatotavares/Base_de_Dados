@@ -338,3 +338,4 @@ Nº,League,Season,Date,Rodada,Home,Away,FT_Goals_H,FT_Goals_A,FT_TotalGoals,Goal
 337,England EFL League One,2022/2023,2023-02-04 12:00:00,30,Sheffield Wednesday,Plymouth Argyle,1,0,1,['7'],[],1.76,3.7,4.3,2.09,1.95,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0
 338,England EFL League One,2022/2023,2023-02-04 12:00:00,30,Accrington Stanley,Lincoln City,0,3,3,[],"['24', '55', '58']",2.22,3.3,3.15,1.97,1.8,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0
 339,England EFL League One,2022/2023,2023-02-04 12:00:00,30,Cambridge United,Ipswich Town,1,1,2,['24'],['54'],6.0,4.2,1.5,1.83,1.95,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0
+340,England EFL League One,2022/2023,2023-02-07 16:45:00,22,Port Vale,Accrington Stanley,1,1,2,['57'],['52'],1.85,3.4,3.8,2.0,1.82,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0

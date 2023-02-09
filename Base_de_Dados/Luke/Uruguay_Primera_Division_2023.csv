@@ -5,5 +5,5 @@ Nº,League,Season,Date,Rodada,Home,Away,FT_Goals_H,FT_Goals_A,FT_TotalGoals,Goal
 4,Uruguay Primera División,2023,2023-02-05 09:45:00,1,La Luz,Wanderers,1,3,4,['79'],"['1', '13', '89']",2.4,3.1,2.63,2.3,1.98,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0
 5,Uruguay Primera División,2023,2023-02-05 18:00:00,1,Torque,Danubio,1,1,2,['75'],['90+6'],2.88,2.75,2.6,2.3,1.98,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0
 6,Uruguay Primera División,2023,2023-02-05 21:00:00,1,Nacional,Liverpool FC Montevideo,2,1,3,"['14', '31']",['89'],1.57,3.65,5.58,1.95,1.93,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0
-7,Uruguay Primera División,2023,2023-02-06 19:00:00,1,Plaza Colonia,Deportivo Maldonado,0,1,1,[],['19'],3.08,2.7,2.35,2.5,2.2,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
-8,Uruguay Primera División,2023,2023-02-06 21:30:00,1,Defensor Sporting,Fénix,1,3,4,['51'],"['19', '48', '83']",1.89,3.2,3.6,2.3,2.05,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0
+7,Uruguay Primera División,2023,2023-02-06 19:00:00,1,Plaza Colonia,Deportivo Maldonado,0,1,1,[],['18'],3.08,2.7,2.35,2.5,2.2,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+8,Uruguay Primera División,2023,2023-02-06 21:30:00,1,Defensor Sporting,Fénix,1,3,4,['51'],"['17', '45+2', '83']",1.89,3.2,3.6,2.3,2.05,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0

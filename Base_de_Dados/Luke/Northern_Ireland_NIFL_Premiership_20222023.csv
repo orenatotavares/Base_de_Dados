@@ -149,3 +149,9 @@ Nº,League,Season,Date,Rodada,Home,Away,FT_Goals_H,FT_Goals_A,FT_TotalGoals,Goal
 148,Northern Ireland NIFL Premiership,2022/2023,2023-01-28 12:00:00,26,Carrick Rangers,Glenavon,1,1,2,['70'],['88'],2.23,3.5,2.59,1.58,1.53,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0
 149,Northern Ireland NIFL Premiership,2022/2023,2023-01-29 12:00:00,26,Newry City AFC,Larne,0,0,0,[],[],7.61,5.2,1.28,1.56,1.82,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
 150,Northern Ireland NIFL Premiership,2022/2023,2023-01-30 16:45:00,26,Glentoran,Crusaders,2,0,2,"['47', '53']",[],1.16,9.31,2.91,1.85,1.73,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0
+151,Northern Ireland NIFL Premiership,2022/2023,2023-02-10 16:45:00,27,Larne,Glenavon,3,0,3,"['14', '41', '74']",[],1.25,5.5,9.0,1.53,2.1,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0
+152,Northern Ireland NIFL Premiership,2022/2023,2023-02-10 17:00:00,27,Newry City AFC,Carrick Rangers,0,2,2,[],"['27', '47']",2.5,3.3,2.5,1.61,1.53,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+153,Northern Ireland NIFL Premiership,2022/2023,2023-02-11 12:00:00,27,Ballymena United,Portadown,0,0,0,[],[],1.44,4.2,5.5,1.61,1.91,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+154,Northern Ireland NIFL Premiership,2022/2023,2023-02-11 12:00:00,27,Coleraine,Glentoran,2,2,4,"['22', '89']","['43', '82']",2.7,3.1,2.4,1.8,1.91,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0
+155,Northern Ireland NIFL Premiership,2022/2023,2023-02-11 12:00:00,27,Crusaders,Dungannon Swifts,3,0,3,"['20', '56', '58']",[],1.11,7.0,15.0,1.39,2.25,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0
+156,Northern Ireland NIFL Premiership,2022/2023,2023-02-11 12:00:00,27,Linfield,Cliftonville,1,0,1,['59'],[],1.8,3.6,3.75,1.75,1.67,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0

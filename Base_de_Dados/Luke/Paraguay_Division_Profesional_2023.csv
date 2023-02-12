@@ -10,3 +10,7 @@ Nº,League,Season,Date,Rodada,Home,Away,FT_Goals_H,FT_Goals_A,FT_TotalGoals,Goal
 9,Paraguay Division Profesional,2023,2023-02-04 18:00:00,2,Sportivo Trinidense,Cerro Porteño,0,1,1,[],['38'],5.12,3.99,1.61,1.81,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
 10,Paraguay Division Profesional,2023,2023-02-04 20:30:00,2,Resistencia,Libertad,0,2,2,[],"['57', '90+11']",6.35,4.33,1.47,1.82,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
 11,Paraguay Division Profesional,2023,2023-02-05 19:00:00,2,Sportivo Luqueño,General Caballero JLM,1,1,2,['9'],['66'],2.65,3.2,2.5,2.06,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0
+12,Paraguay Division Profesional,2023,2023-02-10 18:00:00,3,Sportivo Ameliano,Resistencia,0,3,3,[],"['12', '49', '68']",1.83,3.64,4.02,1.87,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+13,Paraguay Division Profesional,2023,2023-02-10 20:30:00,3,Libertad,Sportivo Luqueño,1,1,2,['47'],['36'],1.45,4.34,6.65,1.78,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0
+14,Paraguay Division Profesional,2023,2023-02-11 18:00:00,3,General Caballero JLM,Nacional Asunción,0,1,1,[],['28'],3.87,3.2,1.7,2.08,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+15,Paraguay Division Profesional,2023,2023-02-11 20:30:00,3,Cerro Porteño,Guaraní,1,1,2,['77'],['51'],1.54,3.38,4.61,1.85,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0

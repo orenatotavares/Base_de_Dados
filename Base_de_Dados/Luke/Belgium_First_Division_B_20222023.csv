@@ -124,3 +124,8 @@ Nº,League,Season,Date,Rodada,Home,Away,FT_Goals_H,FT_Goals_A,FT_TotalGoals,Goal
 123,Belgium First Division B,2022/2023,2023-02-04 16:00:00,21,Lierse Kempenzonen,Beerschot-Wilrijk,1,0,1,['42'],[],2.75,3.5,2.2,1.54,1.48,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0
 124,Belgium First Division B,2022/2023,2023-02-05 12:00:00,21,Club Brugge II,Excelsior Virton,1,0,1,['82'],[],1.99,3.2,3.3,1.63,0.0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0
 125,Belgium First Division B,2022/2023,2023-02-05 15:15:00,21,FCV Dender EH,KMSK Deinze,0,1,1,[],['89'],3.0,3.2,2.1,1.83,1.5,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+126,Belgium First Division B,2022/2023,2023-02-11 12:00:00,22,Waasland-Beveren,FCV Dender EH,5,2,7,"['6', '9', '17', '55', '89']","['57', '79']",1.2,5.5,9.5,1.36,1.68,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0
+127,Belgium First Division B,2022/2023,2023-02-11 16:45:00,22,KMSK Deinze,RSC Anderlecht II,2,3,5,"['13', '76']","['63', '66', '85']",1.99,3.78,3.3,1.52,0.0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0
+128,Belgium First Division B,2022/2023,2023-02-11 16:45:00,22,Lommel United,Lierse Kempenzonen,0,2,2,[],"['9', '18']",2.37,3.4,2.6,1.83,1.5,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+129,Belgium First Division B,2022/2023,2023-02-11 16:45:00,22,Standard Liège II,Club Brugge II,0,0,0,[],[],3.32,3.8,1.98,1.56,0.0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+130,Belgium First Division B,2022/2023,2023-02-12 12:00:00,22,Excelsior Virton,KRC Genk II,0,1,1,[],['57'],2.5,3.3,2.5,1.75,0.0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0

@@ -10,3 +10,6 @@ Nº,League,Season,Date,Rodada,Home,Away,FT_Goals_H,FT_Goals_A,FT_TotalGoals,Goal
 9,Venezuela Primera División,2023,2023-02-11 16:00:00,2,UCV,Deportivo La Guaira,1,1,2,['62'],['25'],3.02,2.99,2.2,2.5,1.92,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0
 10,Venezuela Primera División,2023,2023-02-11 18:15:00,2,Portuguesa,Angostura,0,2,2,[],"['29', '78']",1.89,2.88,3.8,2.48,2.15,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
 11,Venezuela Primera División,2023,2023-02-11 20:30:00,2,Monagas,Mineros de Guayana,3,1,4,"['30', '65', '85']",['78'],1.33,3.87,7.78,1.85,2.23,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0
+12,Venezuela Primera División,2023,2023-02-12 16:00:00,2,Estudiantes Mérida,Academia Puerto Cabello,1,3,4,['87'],"['40', '50', '76']",3.38,3.3,1.9,1.96,1.9,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0
+13,Venezuela Primera División,2023,2023-02-12 18:15:00,2,Caracas,Rayo Zuliano,3,3,6,"['7', '83', '90']","['43', '55', '81']",1.52,3.47,5.95,2.15,2.1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0
+14,Venezuela Primera División,2023,2023-02-12 20:30:00,2,Carabobo,Zamora,3,0,3,"['1', '30', '81']",[],1.53,3.4,6.0,2.54,2.65,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0

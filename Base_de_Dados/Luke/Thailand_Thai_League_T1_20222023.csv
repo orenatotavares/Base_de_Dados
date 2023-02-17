@@ -151,3 +151,4 @@ Nº,League,Season,Date,Rodada,Home,Away,FT_Goals_H,FT_Goals_A,FT_TotalGoals,Goal
 150,Thailand Thai League T1,2022/2023,2023-02-12 08:00:00,19,Bangkok United,Sukhothai,3,0,3,"['7', '19', '68']",[],1.19,5.8,9.78,1.6,2.1,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0
 151,Thailand Thai League T1,2022/2023,2023-02-12 08:30:00,19,Lampang,Chiangrai United,0,0,0,[],[],3.54,3.55,1.8,1.83,1.73,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
 152,Thailand Thai League T1,2022/2023,2023-02-12 09:00:00,19,Muang Thong United,Buriram United,4,4,8,"['3', '12', '31', '47']","['37', '79', '83', '90+3']",3.7,3.7,1.74,1.7,1.74,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+153,Thailand Thai League T1,2022/2023,2023-02-17 09:00:00,20,Ratchaburi,Bangkok United,0,1,1,[],['90+9'],3.15,3.29,2.03,1.89,1.8,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0

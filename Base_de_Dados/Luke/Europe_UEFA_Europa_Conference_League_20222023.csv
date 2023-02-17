@@ -369,3 +369,11 @@ Nº,League,Season,Date,Rodada,Home,Away,FT_Goals_H,FT_Goals_A,FT_TotalGoals,Goal
 368,Europe UEFA Europa Conference League,2022/2023,2022-11-03 17:00:00,6,Partizan,Slovácko,1,1,2,['41'],['73'],1.55,4.2,6.0,1.8,1.83,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0
 369,Europe UEFA Europa Conference League,2022/2023,2022-11-03 17:00:00,6,Köln,Nice,2,2,4,"['48', '60']","['40', '43']",2.1,3.5,3.5,1.8,1.67,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0
 370,Europe UEFA Europa Conference League,2022/2023,2022-11-03 17:00:00,6,Silkeborg,RSC Anderlecht,0,2,2,[],"['20', '90+4']",2.7,3.25,2.7,1.85,1.67,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+371,Europe UEFA Europa Conference League,2022/2023,2023-02-16 14:45:00,0,Sporting Braga,Fiorentina,0,4,4,[],"['45+1', '60', '79', '90']",2.38,3.4,2.9,1.9,1.67,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1
+372,Europe UEFA Europa Conference League,2022/2023,2023-02-16 14:45:00,0,FK Bodo - Glimt,Lech Poznań,0,0,0,[],[],1.95,3.75,3.75,1.73,1.67,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+373,Europe UEFA Europa Conference League,2022/2023,2023-02-16 14:45:00,0,Qarabağ,KAA Gent,1,0,1,['78'],[],2.25,3.25,3.3,2.2,1.91,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0
+374,Europe UEFA Europa Conference League,2022/2023,2023-02-16 14:45:00,0,Trabzonspor,Basel,1,0,1,['65'],[],1.75,3.75,4.5,1.85,1.8,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0
+375,Europe UEFA Europa Conference League,2022/2023,2023-02-16 17:00:00,0,Lazio,CFR Cluj,1,0,1,['45+4'],[],1.36,4.5,10.0,2.05,2.38,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0
+376,Europe UEFA Europa Conference League,2022/2023,2023-02-16 17:00:00,0,Ludogorets,RSC Anderlecht,1,0,1,['9'],[],2.3,3.2,3.3,2.1,1.83,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0
+377,Europe UEFA Europa Conference League,2022/2023,2023-02-16 17:00:00,0,AEK Larnaca,Dnipro-1,1,0,1,['84'],[],2.2,3.4,3.3,1.95,1.73,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0
+378,Europe UEFA Europa Conference League,2022/2023,2023-02-16 17:00:00,0,Sheriff,Partizan,0,1,1,[],['45'],3.0,3.1,2.6,2.5,2.0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0

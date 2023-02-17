@@ -2,3 +2,6 @@ Nº,League,Season,Date,Rodada,Home,Away,FT_Goals_H,FT_Goals_A,FT_TotalGoals,Goal
 1,South America Copa Libertadores,2023,2023-02-07 21:00:00,0,Sport Huancayo,Nacional Asunción,2,1,3,"['52', '90+6']",['69'],1.96,3.4,3.5,1.93,1.91,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0
 2,South America Copa Libertadores,2023,2023-02-08 21:00:00,0,Nacional Potosí,CD El Nacional,1,6,7,['45+1'],"['5', '13', '16', '38', '45+4', '89']",2.0,3.25,3.4,2.01,1.73,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1
 3,South America Copa Libertadores,2023,2023-02-09 21:00:00,0,Boston River,Zamora,3,1,4,"['23', '55', '64']",['75'],1.85,3.2,4.0,2.2,2.05,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0
+4,South America Copa Libertadores,2023,2023-02-14 21:00:00,0,Nacional Asunción,Sport Huancayo,3,1,4,"['62', '69', '90+8']",['39'],1.6,3.37,4.63,2.0,1.91,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0
+5,South America Copa Libertadores,2023,2023-02-15 21:00:00,0,CD El Nacional,Nacional Potosí,3,1,4,"['18', '45', '90+1']",['55'],1.28,4.43,7.62,1.6,1.96,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0
+6,South America Copa Libertadores,2023,2023-02-16 21:00:00,0,Zamora,Boston River,0,1,1,[],['20'],1.91,3.18,3.31,2.05,1.85,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0

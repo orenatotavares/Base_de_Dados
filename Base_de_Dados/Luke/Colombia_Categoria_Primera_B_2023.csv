@@ -10,3 +10,6 @@ Nº,League,Season,Date,Rodada,Home,Away,FT_Goals_H,FT_Goals_A,FT_TotalGoals,Goal
 9,Colombia Categoria Primera B,2023,2023-02-11 17:00:00,2,Valledupar,Cúcuta Deportivo,1,1,2,['19'],['42'],2.93,3.08,2.42,2.4,1.98,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0
 10,Colombia Categoria Primera B,2023,2023-02-11 18:00:00,2,Orsomarso,Atlético,1,0,1,['75'],[],2.32,2.76,2.72,2.48,1.97,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0
 11,Colombia Categoria Primera B,2023,2023-02-12 18:00:00,2,Universitario Popayán,Bogotá,1,0,1,['6'],[],2.8,3.1,2.38,2.2,1.91,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0
+12,Colombia Categoria Primera B,2023,2023-02-13 17:00:00,2,Tigres,Barranquilla,1,0,1,['65'],[],1.8,3.15,4.05,2.25,2.09,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0
+13,Colombia Categoria Primera B,2023,2023-02-13 20:00:00,2,Llaneros,Cortuluá,1,3,4,['17'],"['40', '47', '63']",2.21,3.1,2.92,2.35,1.95,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0
+14,Colombia Categoria Primera B,2023,2023-02-13 22:05:00,2,Deportes Quindío,Leones,0,3,3,[],"['54', '69', '87']",1.71,3.25,4.35,2.2,2.1,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0

@@ -15,3 +15,4 @@ Nº,League,Season,Date,Rodada,Home,Away,FT_Goals_H,FT_Goals_A,FT_TotalGoals,Goal
 14,Uruguay Primera División,2023,2023-02-12 17:00:00,2,Danubio,Liverpool FC Montevideo,1,1,2,['82'],['3'],2.78,3.1,2.45,2.25,1.91,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0
 15,Uruguay Primera División,2023,2023-02-13 18:30:00,2,Wanderers,Defensor Sporting,1,1,2,['57'],['27'],2.63,3.25,2.3,2.06,1.85,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0
 16,Uruguay Primera División,2023,2023-02-13 21:00:00,2,La Luz,Peñarol,3,4,7,"['9', '82', '87']","['12', '45+7', '65', '90+8']",2.97,3.2,2.13,1.95,2.15,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1
+17,Uruguay Primera División,2023,2023-02-17 21:00:00,3,Cerro Largo,Danubio,1,0,1,['86'],[],2.75,2.98,2.69,2.65,2.1,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0

@@ -1,1 +1,5 @@
 Nº,League,Season,Date,Rodada,Home,Away,FT_Goals_H,FT_Goals_A,FT_TotalGoals,Goals_H_Minutes,Goals_A_Minutes,FT_Odd_H,FT_Odd_D,FT_Odd_A,FT_Odd_Over25,FT_Odd_BTTS_Yes,0x0,0x1,0x2,0x3,1x0,1x1,1x2,1x3,2x0,2x1,2x2,2x3,3x0,3x1,3x2,3x3,Goleada_H,Goleada_A
+1,Republic of Ireland Premier Division,2023,2023-02-17 16:45:00,1,Cork City,Bohemians,1,2,3,['82'],"['19', '53']",2.71,3.52,2.45,1.9,1.8,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0
+2,Republic of Ireland Premier Division,2023,2023-02-17 16:45:00,1,Dundalk,UCD,1,1,2,['34'],['78'],1.35,5.05,8.4,1.6,1.95,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0
+3,Republic of Ireland Premier Division,2023,2023-02-17 16:45:00,1,Shelbourne,Drogheda United,0,0,0,[],[],1.53,4.32,5.8,1.77,2.05,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+4,Republic of Ireland Premier Division,2023,2023-02-17 16:45:00,1,St Patrick's Athl.,Derry City,1,1,2,['89'],['32'],2.78,3.24,2.55,2.12,1.95,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0

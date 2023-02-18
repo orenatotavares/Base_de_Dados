@@ -41,3 +41,6 @@ Nº,League,Season,Date,Rodada,Home,Away,FT_Goals_H,FT_Goals_A,FT_TotalGoals,Goal
 40,Argentina Primera División,2023,2023-02-12 21:30:00,3,Racing Club,Tigre,2,2,4,"['12', '49']","['15', '55']",2.09,3.31,3.51,2.05,1.91,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0
 41,Argentina Primera División,2023,2023-02-13 17:00:00,3,Barracas Central,Unión Santa Fe,1,1,2,['5'],['22'],2.67,3.04,2.78,2.4,2.0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0
 42,Argentina Primera División,2023,2023-02-13 20:00:00,3,Estudiantes,Lanús,0,2,2,[],"['45', '89']",2.03,3.55,3.9,2.1,1.95,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+43,Argentina Primera División,2023,2023-02-17 18:00:00,4,Gimnasia La Plata,Instituto,2,0,2,"['5', '55']",[],2.67,2.83,2.62,2.57,2.1,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0
+44,Argentina Primera División,2023,2023-02-17 21:30:00,4,Huracán,Barracas Central,2,0,2,"['30', '86']",[],1.62,3.8,5.25,2.05,2.1,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0
+45,Argentina Primera División,2023,2023-02-17 21:30:00,4,Arsenal de Sarandí,Racing Club,0,3,3,[],"['29', '39', '45+2']",4.5,3.35,1.74,2.23,2.0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0

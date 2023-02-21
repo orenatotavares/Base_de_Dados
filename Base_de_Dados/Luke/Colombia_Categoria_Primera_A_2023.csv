@@ -33,3 +33,11 @@ Nº,League,Season,Date,Rodada,Home,Away,FT_Goals_H,FT_Goals_A,FT_TotalGoals,Goal
 32,Colombia Categoria Primera A,2023,2023-02-14 22:00:00,4,Santa Fe,Deportivo Pasto,0,2,2,[],"['78', '90+3']",1.94,3.59,4.13,2.02,1.83,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
 33,Colombia Categoria Primera A,2023,2023-02-15 22:00:00,1,La Equidad,Independiente Medellín,2,1,3,"['34', '37']",['59'],2.16,2.99,3.22,2.21,1.93,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0
 34,Colombia Categoria Primera A,2023,2023-02-17 22:00:00,5,Atlético Huila,Deportes Tolima,0,0,0,[],[],3.26,3.34,2.23,2.05,1.9,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+35,Colombia Categoria Primera A,2023,2023-02-18 16:00:00,5,Envigado,Alianza Petrolera,0,0,0,[],[],2.05,3.0,3.5,2.15,1.9,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+36,Colombia Categoria Primera A,2023,2023-02-18 18:10:00,5,Independiente Medellín,América de Cali,0,1,1,[],['90+2'],2.0,3.1,3.5,2.09,1.86,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+37,Colombia Categoria Primera A,2023,2023-02-18 20:20:00,5,Millonarios,Jaguares de Córdoba,2,1,3,"['66', '87']",['90'],1.57,3.6,5.5,1.99,2.11,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0
+38,Colombia Categoria Primera A,2023,2023-02-18 22:30:00,5,Deportivo Pasto,Junior,1,0,1,['90+1'],[],2.75,3.0,2.4,2.1,1.88,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0
+39,Colombia Categoria Primera A,2023,2023-02-19 16:00:00,5,Deportivo Pereira,Once Caldas,3,1,4,"['26', '31', '90']",['53'],2.2,3.05,3.2,2.19,1.91,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0
+40,Colombia Categoria Primera A,2023,2023-02-19 18:10:00,5,La Equidad,Santa Fe,0,1,1,[],['7'],2.4,3.1,2.81,2.11,1.85,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+41,Colombia Categoria Primera A,2023,2023-02-19 21:30:00,5,Atlético Bucaramanga,Atlético Nacional,1,1,2,['48'],['45+1'],2.93,3.05,2.35,2.16,1.91,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0
+42,Colombia Categoria Primera A,2023,2023-02-20 22:05:00,5,Deportivo Cali,Rionegro Águilas,1,1,2,['55'],['46'],2.35,2.92,2.62,2.25,1.91,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0

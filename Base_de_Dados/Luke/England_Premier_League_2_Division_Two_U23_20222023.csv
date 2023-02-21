@@ -72,3 +72,7 @@ Nº,League,Season,Date,Rodada,Home,Away,FT_Goals_H,FT_Goals_A,FT_TotalGoals,Goal
 71,England Premier League 2 Division Two U23,2022/2023,2023-02-13 16:00:00,15,Newcastle United U21,Leeds United U21,2,2,4,"['36', '84']","['7', '37']",3.27,4.49,1.87,1.24,1.31,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0
 72,England Premier League 2 Division Two U23,2022/2023,2023-02-13 16:00:00,15,Derby County U21,Norwich City U21,0,3,3,[],"['40', '54', '66']",3.47,4.58,1.79,1.26,1.41,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0
 73,England Premier League 2 Division Two U23,2022/2023,2023-02-17 16:00:00,16,Norwich City U21,Nottingham Forest U21,0,3,3,[],"['23', '36', '84']",2.14,3.72,2.91,1.31,1.32,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+74,England Premier League 2 Division Two U23,2022/2023,2023-02-20 15:00:00,16,Stoke City U21,Middlesbrough U21,1,2,3,['10'],"['22', '47']",2.35,3.7,2.4,1.23,1.26,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0
+75,England Premier League 2 Division Two U23,2022/2023,2023-02-20 16:00:00,16,Sunderland U21,Derby County U21,1,1,2,['52'],['89'],1.6,4.7,3.7,1.23,1.35,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0
+76,England Premier League 2 Division Two U23,2022/2023,2023-02-20 16:00:00,16,Leeds United U21,Aston Villa U21,2,1,3,"['42', '83']",['49'],1.6,4.0,4.1,1.28,1.38,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0
+77,England Premier League 2 Division Two U23,2022/2023,2023-02-20 16:00:00,16,West Bromwich Albion U21,Southampton U21,1,2,3,['66'],"['10', '39']",2.65,3.55,2.2,1.24,1.26,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0

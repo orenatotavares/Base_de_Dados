@@ -188,3 +188,5 @@ Nº,League,Season,Date,Rodada,Home,Away,FT_Goals_H,FT_Goals_A,FT_TotalGoals,Goal
 187,Europe UEFA Champions League,2022/2023,2023-02-14 17:00:00,0,AC Milan,Tottenham Hotspur,1,0,1,['7'],[],2.16,3.39,3.24,1.85,1.75,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0
 188,Europe UEFA Champions League,2022/2023,2023-02-15 17:00:00,0,Club Brugge,Benfica,0,2,2,[],"['51', '88']",3.8,3.4,2.0,1.67,1.7,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
 189,Europe UEFA Champions League,2022/2023,2023-02-15 17:00:00,0,Borussia Dortmund,Chelsea,1,0,1,['63'],[],2.5,3.25,2.8,1.73,1.7,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0
+190,Europe UEFA Champions League,2022/2023,2023-02-21 17:00:00,0,Liverpool,Real Madrid,2,5,7,"['4', '14']","['21', '36', '47', '55', '67']",4.08,5.9,1.44,1.7,1.53,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1
+191,Europe UEFA Champions League,2022/2023,2023-02-21 17:00:00,0,Eintracht Frankfurt,Napoli,0,2,2,[],"['40', '65']",6.21,6.67,1.25,1.7,1.62,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0

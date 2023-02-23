@@ -21,5 +21,5 @@ Nº,League,Season,Date,Rodada,Home,Away,FT_Goals_H,FT_Goals_A,FT_TotalGoals,Goal
 20,Uruguay Primera División,2023,2023-02-19 09:45:00,3,Racing,River Plate,0,0,0,[],[],3.46,3.28,2.09,2.1,1.85,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
 21,Uruguay Primera División,2023,2023-02-19 18:00:00,3,Defensor Sporting,La Luz,1,0,1,['90+5'],[],1.75,3.55,4.22,1.98,1.93,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0
 22,Uruguay Primera División,2023,2023-02-19 21:00:00,3,Peñarol,Boston River,1,0,1,['38'],[],1.55,3.75,5.61,2.03,2.04,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0
-23,Uruguay Primera División,2023,2023-02-20 17:00:00,3,Liverpool FC Montevideo,Fénix,3,1,4,"['29', '53', '60']",['75'],1.57,3.82,4.75,1.77,1.9,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0
+23,Uruguay Primera División,2023,2023-02-20 17:00:00,3,Liverpool FC Montevideo,Fénix,3,1,4,"['28', '53', '60']",['71'],1.57,3.82,4.75,1.77,1.9,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0
 24,Uruguay Primera División,2023,2023-02-20 20:15:00,3,Torque,Wanderers,0,1,1,[],['64'],2.4,3.15,2.66,2.18,1.93,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0

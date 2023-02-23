@@ -19,3 +19,4 @@ Nº,League,Season,Date,Rodada,Home,Away,FT_Goals_H,FT_Goals_A,FT_TotalGoals,Goal
 18,Colombia Categoria Primera B,2023,2023-02-19 18:00:00,3,Universitario Popayán,Real Cartagena,2,0,2,"['69', '81']",[],2.08,3.08,3.28,2.2,1.88,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0
 19,Colombia Categoria Primera B,2023,2023-02-19 18:00:00,3,Cúcuta Deportivo,Tigres,1,0,1,['57'],[],1.95,3.15,3.78,2.29,2.03,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0
 20,Colombia Categoria Primera B,2023,2023-02-20 20:00:00,3,Patriotas Boyacá,Real Santander,1,0,1,['64'],[],1.77,3.33,4.45,2.1,1.95,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0
+21,Colombia Categoria Primera B,2023,2023-02-21 21:40:00,3,Leones,Llaneros,0,1,1,[],['36'],2.3,3.0,3.25,2.38,2.0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0

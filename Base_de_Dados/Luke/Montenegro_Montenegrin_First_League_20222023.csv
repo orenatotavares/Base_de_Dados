@@ -99,3 +99,5 @@ Nº,League,Season,Date,Rodada,Home,Away,FT_Goals_H,FT_Goals_A,FT_TotalGoals,Goal
 98,Montenegro Montenegrin First League,2022/2023,2023-02-18 10:00:00,20,Arsenal Tivat,Jedinstvo,1,0,1,['45'],[],2.05,3.0,3.4,1.8,1.6,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0
 99,Montenegro Montenegrin First League,2022/2023,2023-02-18 11:00:00,20,Sutjeska,FK Jezero Plav,4,2,6,"['27', '35', '64', '90']","['30', '56']",1.4,4.0,6.5,1.95,2.25,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0
 100,Montenegro Montenegrin First League,2022/2023,2023-02-18 14:00:00,20,Petrovac,Budućnost,1,1,2,['53'],['19'],4.5,3.4,1.7,2.08,1.85,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0
+101,Montenegro Montenegrin First League,2022/2023,2023-02-23 09:00:00,21,FK Jezero Plav,Arsenal Tivat,1,0,1,['70'],[],1.73,3.5,4.0,2.35,1.9,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0
+102,Montenegro Montenegrin First League,2022/2023,2023-02-23 09:00:00,21,Jedinstvo,Petrovac,2,1,3,"['50', '90+6']",['87'],2.55,3.0,2.6,2.4,2.1,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0

@@ -77,3 +77,6 @@ Nº,League,Season,Date,Rodada,Home,Away,FT_Goals_H,FT_Goals_A,FT_TotalGoals,Goal
 76,Bahrain Bahraini Premier League,2022/2023,2023-02-19 11:50:00,13,Al Ahli,Al-Hidd,1,1,2,['58'],['30'],2.25,3.0,3.0,1.95,1.73,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0
 77,Bahrain Bahraini Premier League,2022/2023,2023-02-19 14:50:00,13,Khalidiya,Muharraq,2,0,2,"['26', '81']",[],2.65,2.99,2.84,2.37,1.93,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0
 78,Bahrain Bahraini Premier League,2022/2023,2023-02-19 14:50:00,13,Al Shabab,Al Riffa,2,2,4,"['20', '90']","['70', '83']",5.5,3.5,1.57,2.2,2.25,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0
+79,Bahrain Bahraini Premier League,2022/2023,2023-02-24 10:50:00,14,Khalidiya,Manama,1,0,1,['49'],[],2.63,2.88,2.63,2.15,1.83,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0
+80,Bahrain Bahraini Premier League,2022/2023,2023-02-24 10:50:00,14,Al-Hidd,East Riffa,0,0,0,[],[],2.75,2.8,2.75,2.25,1.83,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+81,Bahrain Bahraini Premier League,2022/2023,2023-02-24 13:50:00,14,Muharraq,Al Riffa,0,0,0,[],[],2.7,2.9,2.6,2.25,1.91,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0

@@ -1,1 +1,4 @@
 Nº,League,Season,Date,Rodada,Home,Away,FT_Goals_H,FT_Goals_A,FT_TotalGoals,Goals_H_Minutes,Goals_A_Minutes,FT_Odd_H,FT_Odd_D,FT_Odd_A,FT_Odd_Over25,FT_Odd_BTTS_Yes,0x0,0x1,0x2,0x3,1x0,1x1,1x2,1x3,2x0,2x1,2x2,2x3,3x0,3x1,3x2,3x3,Goleada_H,Goleada_A
+1,South Korea K League 1,2023,2023-02-25 02:00:00,1,Ulsan,Jeonbuk Motors,2,1,3,"['44', '65']",['11'],2.1,3.2,3.5,2.15,1.8,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0
+2,South Korea K League 1,2023,2023-02-25 04:30:00,1,FC Seoul,Incheon United,2,1,3,"['30', '70']",['88'],2.25,3.34,3.24,2.15,1.91,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0
+3,South Korea K League 1,2023,2023-02-25 04:30:00,1,Suwon Bluewings,Gwangju,0,1,1,[],['88'],2.29,3.24,3.24,2.18,1.91,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0

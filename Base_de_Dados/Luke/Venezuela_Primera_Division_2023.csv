@@ -20,3 +20,5 @@ Nº,League,Season,Date,Rodada,Home,Away,FT_Goals_H,FT_Goals_A,FT_TotalGoals,Goal
 19,Venezuela Primera División,2023,2023-02-19 16:00:00,3,Caracas,Hermanos Colmenares,2,2,4,"['41', '78']","['6', '54']",1.47,3.6,5.99,2.02,2.0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0
 20,Venezuela Primera División,2023,2023-02-19 18:15:00,3,Mineros de Guayana,Portuguesa,0,0,0,[],[],2.77,2.95,2.35,2.01,1.95,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
 21,Venezuela Primera División,2023,2023-02-19 20:30:00,3,Zamora,Estudiantes Mérida,1,5,6,['45'],"['8', '15', '33', '38', '65']",1.71,3.55,3.87,1.98,1.95,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1
+22,Venezuela Primera División,2023,2023-02-24 18:00:00,4,Hermanos Colmenares,Deportivo La Guaira,0,0,0,[],[],2.63,2.9,2.75,2.5,0.0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+23,Venezuela Primera División,2023,2023-02-24 20:30:00,4,Monagas,Angostura,1,0,1,['53'],[],1.75,3.25,4.75,2.1,1.93,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0

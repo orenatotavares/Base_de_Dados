@@ -50,3 +50,4 @@ Nº,League,Season,Date,Rodada,Home,Away,FT_Goals_H,FT_Goals_A,FT_TotalGoals,Goal
 49,Brazil Pernambucano 1,2023,2023-02-11 20:30:00,9,Náutico,Sport Recife,2,2,4,"['46', '90+2']","['31', '62']",3.51,2.85,1.94,2.38,2.0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0
 50,Brazil Pernambucano 1,2023,2023-02-12 16:00:00,9,Petrolina Social Futebol Clube,Caruaru City,2,0,2,"['11', '58']",[],1.83,3.16,3.98,1.93,2.08,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0
 51,Brazil Pernambucano 1,2023,2023-02-12 18:30:00,9,Maguary PE,Central,1,1,2,['2'],['90+2'],2.27,3.0,3.4,2.34,2.09,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0
+52,Brazil Pernambucano 1,2023,2023-02-25 16:30:00,1,Retrô,Santa Cruz,1,1,2,['82'],['37'],1.85,3.1,4.0,2.23,1.95,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0

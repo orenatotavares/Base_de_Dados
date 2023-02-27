@@ -26,3 +26,5 @@ Nº,League,Season,Date,Rodada,Home,Away,FT_Goals_H,FT_Goals_A,FT_TotalGoals,Goal
 25,Peru Primera División,2023,2023-02-19 21:35:00,5,Real Garcilaso,Alianza Atlético,2,1,3,"['59', '62']",['90'],1.62,3.75,4.5,1.8,1.73,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0
 26,Peru Primera División,2023,2023-02-20 17:30:00,5,Deportivo Municipal,Deportivo Binacional,2,0,2,"['7', '87']",[],1.86,3.32,3.68,1.77,1.65,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0
 27,Peru Primera División,2023,2023-02-22 17:00:00,5,UTC Cajamarca,Academia Cantolao,1,0,1,['8'],[],1.56,3.62,5.25,1.85,2.0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0
+28,Peru Primera División,2023,2023-02-25 15:00:00,6,Alianza Atlético,Sport Huancayo,4,2,6,"['10', '29', '35', '90+5']","['75', '90+2']",2.2,3.1,3.15,1.91,1.78,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0
+29,Peru Primera División,2023,2023-02-25 17:30:00,6,Deportivo Garcilaso,Atlético Grau,2,0,2,"['48', '70']",[],1.81,3.54,4.24,1.99,1.85,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0

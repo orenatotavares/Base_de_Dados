@@ -135,3 +135,5 @@ Nº,League,Season,Date,Rodada,Home,Away,FT_Goals_H,FT_Goals_A,FT_TotalGoals,Goal
 134,Belgium First Division B,2022/2023,2023-02-24 16:00:00,1,Standard Liège II,Lommel United,1,0,1,['51'],[],2.84,3.19,2.2,1.89,0.0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0
 135,Belgium First Division B,2022/2023,2023-02-25 12:00:00,1,KMSK Deinze,KRC Genk II,1,3,4,['74'],"['37', '76', '89']",1.94,3.5,3.15,1.62,0.0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0
 136,Belgium First Division B,2022/2023,2023-02-25 16:00:00,1,Club Brugge II,Waasland-Beveren,3,0,3,"['39', '74', '90+2']",[],3.05,3.45,2.05,1.52,0.0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0
+137,Belgium First Division B,2022/2023,2023-02-26 12:00:00,1,Beerschot-Wilrijk,RSC Anderlecht II,0,0,0,[],[],1.71,3.85,4.1,1.68,0.0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+138,Belgium First Division B,2022/2023,2023-02-26 15:15:00,1,RWDM,Lierse Kempenzonen,3,1,4,"['47', '57', '83']",['78'],1.55,4.3,5.15,1.62,1.67,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0

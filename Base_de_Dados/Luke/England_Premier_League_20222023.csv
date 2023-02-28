@@ -237,3 +237,4 @@ Nº,League,Season,Date,Rodada,Home,Away,FT_Goals_H,FT_Goals_A,FT_TotalGoals,Goal
 236,England Premier League,2022/2023,2023-02-25 12:00:00,25,Leicester City,Arsenal,0,1,1,[],['46'],4.8,3.9,1.62,1.65,1.7,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
 237,England Premier League,2022/2023,2023-02-25 14:30:00,25,AFC Bournemouth,Manchester City,1,4,5,['83'],"['15', '29', '45', '51']",10.5,5.25,1.25,1.55,1.95,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1
 238,England Premier League,2022/2023,2023-02-25 16:45:00,25,Crystal Palace,Liverpool,0,0,0,[],[],4.6,3.9,1.73,1.72,1.75,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+239,England Premier League,2022/2023,2023-02-26 10:30:00,25,Tottenham Hotspur,Chelsea,2,0,2,"['46', '82']",[],2.3,3.3,2.9,1.95,1.75,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0

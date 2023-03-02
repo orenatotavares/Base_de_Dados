@@ -124,3 +124,5 @@ Nº,League,Season,Date,Rodada,Home,Away,FT_Goals_H,FT_Goals_A,FT_TotalGoals,Goal
 123,Scotland League Two,2022/2023,2023-02-25 12:00:00,26,Dumbarton,Elgin City,1,2,3,['44'],"['16', '50']",1.7,3.55,3.7,1.77,1.73,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0
 124,Scotland League Two,2022/2023,2023-02-25 12:00:00,26,Stranraer,East Fife,2,0,2,"['13', '49']",[],2.06,3.25,2.88,1.66,1.57,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0
 125,Scotland League Two,2022/2023,2023-02-25 12:00:00,26,Forfar Athletic,Stirling Albion,0,0,0,[],[],2.32,3.0,2.66,1.9,1.65,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+126,Scotland League Two,2022/2023,2023-02-28 16:45:00,17,Dumbarton,Stenhousemuir,1,0,1,['38'],[],1.87,3.45,3.44,1.8,1.62,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0
+127,Scotland League Two,2022/2023,2023-02-28 16:45:00,25,Bonnyrigg Rose Athletic,Forfar Athletic,1,1,2,['87'],['72'],3.4,3.3,2.0,1.9,1.7,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0

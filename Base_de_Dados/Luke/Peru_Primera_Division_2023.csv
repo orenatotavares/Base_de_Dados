@@ -31,3 +31,4 @@ Nº,League,Season,Date,Rodada,Home,Away,FT_Goals_H,FT_Goals_A,FT_TotalGoals,Goal
 30,Peru Primera División,2023,2023-02-26 15:00:00,6,Unión Comercio,UTC Cajamarca,1,0,1,['64'],[],2.38,3.3,2.63,1.93,1.75,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0
 31,Peru Primera División,2023,2023-02-26 17:30:00,6,ADT,Deportivo Municipal,3,0,3,"['21', '27', '46']",[],1.87,3.4,3.45,1.78,0.0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0
 32,Peru Primera División,2023,2023-02-26 21:00:00,6,Carlos Manucci,Universitario,2,0,2,"['53', '89']",[],3.05,3.15,2.01,2.2,1.98,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0
+33,Peru Primera División,2023,2023-02-27 17:30:00,6,Academia Cantolao,Real Garcilaso,2,3,5,"['14', '56']","['55', '70', '89']",2.46,3.27,2.68,1.85,1.97,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0

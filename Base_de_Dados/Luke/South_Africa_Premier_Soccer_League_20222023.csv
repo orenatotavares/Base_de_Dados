@@ -167,3 +167,4 @@ Nº,League,Season,Date,Rodada,Home,Away,FT_Goals_H,FT_Goals_A,FT_TotalGoals,Goal
 166,South Africa Premier Soccer League,2022/2023,2023-02-25 12:30:00,0,Sekhukhune United,Cape Town City,0,1,1,[],['62'],1.91,2.8,4.5,2.73,2.3,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
 167,South Africa Premier Soccer League,2022/2023,2023-02-25 15:00:00,0,AmaZulu,Real Kings,1,1,2,['87'],['52'],2.25,2.75,3.3,2.73,2.2,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0
 168,South Africa Premier Soccer League,2022/2023,2023-02-26 10:30:00,0,Chippa United,Moroka Swallows,1,2,3,['31'],"['19', '66']",2.55,2.8,2.88,2.65,2.2,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0
+169,South Africa Premier Soccer League,2022/2023,2023-03-03 14:30:00,0,Moroka Swallows,Orlando Pirates,1,4,5,['76'],"['6', '47', '60', '90+2']",3.4,2.97,2.05,2.64,2.1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1

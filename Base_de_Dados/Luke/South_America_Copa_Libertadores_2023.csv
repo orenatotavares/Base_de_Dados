@@ -11,10 +11,13 @@ Nº,League,Season,Date,Rodada,Home,Away,FT_Goals_H,FT_Goals_A,FT_TotalGoals,Goal
 10,South America Copa Libertadores,2023,2023-02-22 21:00:00,0,Boston River,Huracán,0,0,0,[],[],2.5,2.95,2.49,2.1,1.87,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
 11,South America Copa Libertadores,2023,2023-02-22 21:30:00,0,Carabobo,Atlético Mineiro,0,0,0,[],[],5.7,3.83,1.55,1.92,2.05,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
 12,South America Copa Libertadores,2023,2023-02-23 19:00:00,0,Magallanes,Club Always Ready,3,0,3,"['21', '80', '89']",[],1.86,3.27,4.22,1.98,1.85,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0
-13,South America Copa Libertadores,2023,2023-02-23 21:00:00,0,CD Universidad Católica,Millonarios,0,0,0,[],[],1.99,2.99,3.28,2.15,1.83,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
-14,South America Copa Libertadores,2023,2023-02-23 21:00:00,0,Deportivo Maldonado,Fortaleza,0,0,0,[],[],3.22,2.88,2.07,2.1,1.85,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+13,South America Copa Libertadores,2023,2023-02-23 21:00:00,0,Deportivo Maldonado,Fortaleza,0,0,0,[],[],3.22,2.88,2.07,2.1,1.85,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+14,South America Copa Libertadores,2023,2023-02-23 21:00:00,0,CD Universidad Católica,Millonarios,0,0,0,[],[],1.99,2.99,3.28,2.15,1.83,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
 15,South America Copa Libertadores,2023,2023-02-28 19:00:00,0,Cerro Porteño,Curicó Unido,1,0,1,['51'],[],1.39,3.92,6.12,1.85,2.3,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0
 16,South America Copa Libertadores,2023,2023-02-28 21:00:00,0,Sporting Cristal,Nacional Asunción,5,1,6,"['46', '67', '74', '89', '90+5']",['47'],1.7,3.61,3.62,1.86,1.85,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0
 17,South America Copa Libertadores,2023,2023-03-01 19:00:00,0,Huracán,Boston River,1,0,1,['45+7'],[],1.31,4.33,6.97,1.92,2.75,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0
 18,South America Copa Libertadores,2023,2023-03-01 21:00:00,0,Independiente Medellín,CD El Nacional,2,1,3,"['67', '73']",['90+2'],1.5,3.59,5.12,1.92,2.0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0
 19,South America Copa Libertadores,2023,2023-03-01 21:30:00,0,Atlético Mineiro,Carabobo,3,1,4,"['16', '18', '73']",['45+3'],1.11,6.16,12.81,1.58,2.6,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0
+20,South America Copa Libertadores,2023,2023-03-02 19:00:00,0,Club Always Ready,Magallanes,1,3,4,['90+1'],"['9', '50', '53']",1.37,4.33,9.25,1.85,2.2,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0
+21,South America Copa Libertadores,2023,2023-03-02 21:00:00,0,Millonarios,CD Universidad Católica,2,1,3,"['62', '69']",['38'],1.62,3.14,4.87,2.15,2.1,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0
+22,South America Copa Libertadores,2023,2023-03-02 21:00:00,0,Fortaleza,Deportivo Maldonado,4,0,4,"['45+5', '83', '86', '90+2']",[],1.33,3.73,8.41,2.1,2.5,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0

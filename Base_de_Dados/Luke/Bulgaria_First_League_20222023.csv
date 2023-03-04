@@ -167,3 +167,4 @@ Nº,League,Season,Date,Rodada,Home,Away,FT_Goals_H,FT_Goals_A,FT_TotalGoals,Goal
 166,Bulgaria First League,2022/2023,2023-02-26 12:15:00,21,Septemvri Sofia,CSKA Sofia,0,1,1,[],['42'],6.0,4.4,1.38,1.85,2.1,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
 167,Bulgaria First League,2022/2023,2023-02-27 12:30:00,21,OFK Pirin,Cherno More,0,1,1,[],['11'],3.75,3.3,1.95,2.39,2.2,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
 168,Bulgaria First League,2022/2023,2023-02-28 12:45:00,21,Levski Sofia,Ludogorets,0,0,0,[],[],2.75,2.87,2.45,2.3,1.91,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+169,Bulgaria First League,2022/2023,2023-03-03 12:30:00,22,Lokomotiv Sofia 1929,CSKA 1948 Sofia,0,6,6,[],"['2', '42', '50', '71', '75', '88']",3.75,3.3,1.91,1.9,1.73,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1

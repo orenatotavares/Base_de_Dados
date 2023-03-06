@@ -148,15 +148,15 @@ Nº,League,Season,Date,Rodada,Home,Away,FT_Goals_H,FT_Goals_A,FT_TotalGoals,Goal
 147,Israel Israeli Premier League,2022/2023,2023-02-08 15:30:00,21,Hapoel Hadera,Maccabi Haifa,1,1,2,['58'],['81'],8.0,4.8,1.33,1.56,2.0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0
 148,Israel Israeli Premier League,2022/2023,2023-02-11 10:00:00,22,Beitar Jerusalem,Ashdod,2,1,3,"['24', '40']",['90+5'],2.25,3.25,2.75,2.1,1.83,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0
 149,Israel Israeli Premier League,2022/2023,2023-02-11 12:30:00,22,Hapoel Be'er Sheva,Hapoel Katamon,0,0,0,[],[],1.5,3.8,5.75,2.0,2.1,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
-150,Israel Israeli Premier League,2022/2023,2023-02-11 13:30:00,22,Bnei Sakhnin,Maccabi Bnei Raina,1,1,2,['58'],['90'],1.62,3.75,4.33,1.95,1.91,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0
-151,Israel Israeli Premier League,2022/2023,2023-02-11 13:30:00,22,Sektzia Nes Tziona,Hapoel Haifa,0,2,2,[],"['39', '67']",3.1,3.4,2.0,2.15,1.91,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+150,Israel Israeli Premier League,2022/2023,2023-02-11 13:30:00,22,Sektzia Nes Tziona,Hapoel Haifa,0,2,2,[],"['39', '67']",3.1,3.4,2.0,2.15,1.91,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+151,Israel Israeli Premier League,2022/2023,2023-02-11 13:30:00,22,Bnei Sakhnin,Maccabi Bnei Raina,1,1,2,['58'],['90'],1.62,3.75,4.33,1.95,1.91,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0
 152,Israel Israeli Premier League,2022/2023,2023-02-11 14:30:00,22,Maccabi Haifa,Ironi Kiryat Shmona,2,0,2,"['65', '87']",[],1.3,4.75,8.5,1.65,2.0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0
 153,Israel Israeli Premier League,2022/2023,2023-02-12 15:15:00,22,Hapoel Tel Aviv,Hapoel Hadera,0,0,0,[],[],1.93,3.35,3.59,1.95,1.91,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
 154,Israel Israeli Premier League,2022/2023,2023-02-13 15:30:00,22,Maccabi Netanya,Maccabi Tel Aviv,2,1,3,"['56', '82']",['87'],6.37,4.36,1.48,1.79,1.91,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0
 155,Israel Israeli Premier League,2022/2023,2023-02-18 10:00:00,23,Ironi Kiryat Shmona,Hapoel Tel Aviv,0,1,1,[],['16'],2.63,3.2,2.63,2.1,1.83,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
 156,Israel Israeli Premier League,2022/2023,2023-02-18 12:30:00,23,Maccabi Bnei Raina,Maccabi Netanya,1,2,3,['23'],"['50', '63']",5.0,3.5,1.7,1.95,1.83,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0
-157,Israel Israeli Premier League,2022/2023,2023-02-18 13:30:00,23,Hapoel Katamon,Sektzia Nes Tziona,1,0,1,['48'],[],1.83,3.6,3.6,2.1,1.91,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0
-158,Israel Israeli Premier League,2022/2023,2023-02-18 13:30:00,23,Hapoel Hadera,Bnei Sakhnin,1,3,4,['25'],"['8', '51', '84']",2.7,3.25,2.45,2.25,1.91,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0
+157,Israel Israeli Premier League,2022/2023,2023-02-18 13:30:00,23,Hapoel Hadera,Bnei Sakhnin,1,3,4,['25'],"['8', '51', '84']",2.7,3.25,2.45,2.25,1.91,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0
+158,Israel Israeli Premier League,2022/2023,2023-02-18 13:30:00,23,Hapoel Katamon,Sektzia Nes Tziona,1,0,1,['48'],[],1.83,3.6,3.6,2.1,1.91,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0
 159,Israel Israeli Premier League,2022/2023,2023-02-18 14:30:00,23,Ashdod,Maccabi Haifa,3,1,4,"['7', '30', '90+2']",['50'],5.25,3.6,1.62,1.9,1.83,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0
 160,Israel Israeli Premier League,2022/2023,2023-02-19 15:15:00,23,Hapoel Haifa,Beitar Jerusalem,0,0,0,[],[],2.4,3.2,2.7,1.99,1.73,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
 161,Israel Israeli Premier League,2022/2023,2023-02-20 15:30:00,23,Maccabi Tel Aviv,Hapoel Be'er Sheva,1,0,1,['17'],[],1.95,3.35,3.55,2.1,1.91,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0
@@ -167,3 +167,9 @@ Nº,League,Season,Date,Rodada,Home,Away,FT_Goals_H,FT_Goals_A,FT_TotalGoals,Goal
 166,Israel Israeli Premier League,2022/2023,2023-02-25 15:00:00,24,Maccabi Haifa,Beitar Jerusalem,2,1,3,"['45+2', '61']",['11'],1.29,4.75,9.5,1.67,2.1,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0
 167,Israel Israeli Premier League,2022/2023,2023-02-26 15:15:00,24,Hapoel Katamon,Hapoel Haifa,2,2,4,"['22', '64']","['38', '88']",2.14,3.18,3.46,2.5,2.2,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0
 168,Israel Israeli Premier League,2022/2023,2023-02-27 15:00:00,24,Hapoel Be'er Sheva,Maccabi Bnei Raina,2,0,2,"['30', '51']",[],1.25,4.75,12.0,1.85,2.1,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0
+169,Israel Israeli Premier League,2022/2023,2023-03-04 10:00:00,25,Ironi Kiryat Shmona,Maccabi Netanya,1,3,4,['34'],"['15', '26', '49']",3.1,3.1,2.2,2.0,1.83,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0
+170,Israel Israeli Premier League,2022/2023,2023-03-04 12:30:00,25,Hapoel Hadera,Hapoel Be'er Sheva,0,3,3,[],"['22', '84', '90']",6.5,4.2,1.5,2.05,2.2,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+171,Israel Israeli Premier League,2022/2023,2023-03-04 13:30:00,25,Ashdod,Bnei Sakhnin,1,1,2,['80'],['31'],2.0,3.25,4.0,2.15,1.91,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0
+172,Israel Israeli Premier League,2022/2023,2023-03-04 13:30:00,25,Maccabi Bnei Raina,Sektzia Nes Tziona,3,2,5,"['19', '69', '88']","['25', '45+2']",2.3,3.2,3.1,2.1,1.83,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0
+173,Israel Israeli Premier League,2022/2023,2023-03-04 14:30:00,25,Maccabi Tel Aviv,Hapoel Katamon,1,2,3,['4'],"['60', '63']",1.33,5.0,8.0,1.85,2.2,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0
+174,Israel Israeli Premier League,2022/2023,2023-03-05 15:15:00,25,Beitar Jerusalem,Hapoel Tel Aviv,1,3,4,['45+6'],"['15', '82', '90+4']",2.01,3.2,3.3,2.03,1.83,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0

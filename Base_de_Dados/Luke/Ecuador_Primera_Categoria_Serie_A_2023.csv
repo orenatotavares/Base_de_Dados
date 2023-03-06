@@ -8,3 +8,9 @@ Nº,League,Season,Date,Rodada,Home,Away,FT_Goals_H,FT_Goals_A,FT_TotalGoals,Goal
 7,Ecuador Primera Categoría Serie A,2023,2023-02-26 21:00:00,1,CS Emelec,Libertad,2,0,2,"['11', '38']",[],1.22,5.4,8.7,1.78,2.25,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0
 8,Ecuador Primera Categoría Serie A,2023,2023-02-27 21:00:00,1,Delfin SC,Orense SC,1,1,2,['36'],['67'],2.05,3.1,3.45,2.19,1.95,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0
 9,Ecuador Primera Categoría Serie A,2023,2023-03-03 21:00:00,2,Libertad,Deportivo Cuenca,3,1,4,"['57', '62', '83']",['30'],3.15,3.2,2.09,1.95,1.78,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0
+10,Ecuador Primera Categoría Serie A,2023,2023-03-04 16:00:00,2,CD El Nacional,Técnico Universitario,3,2,5,"['15', '30', '78']","['52', '67']",2.21,3.4,3.15,1.93,1.68,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0
+11,Ecuador Primera Categoría Serie A,2023,2023-03-04 18:30:00,2,LDU Quito,SD Aucas,1,1,2,['45+1'],['32'],1.75,3.74,4.34,1.84,1.71,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0
+12,Ecuador Primera Categoría Serie A,2023,2023-03-04 21:00:00,2,Barcelona,Delfin SC,5,0,5,"['33', '45', '56', '68', '80']",[],1.5,4.16,5.96,1.89,1.9,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0
+13,Ecuador Primera Categoría Serie A,2023,2023-03-05 16:00:00,2,Mushuc Runa SC,Gualaceo SC,2,1,3,"['31', '58']",['15'],2.15,3.2,3.1,2.03,1.83,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0
+14,Ecuador Primera Categoría Serie A,2023,2023-03-05 18:30:00,2,CD Universidad Católica,Guayaquil City FC,3,0,3,"['18', '45', '61']",[],1.45,3.75,7.0,1.81,2.03,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0
+15,Ecuador Primera Categoría Serie A,2023,2023-03-05 21:00:00,2,Orense SC,CS Emelec,2,1,3,"['49', '75']",['90+2'],3.3,3.3,1.96,1.88,1.8,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0

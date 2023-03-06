@@ -117,3 +117,9 @@ Nº,League,Season,Date,Rodada,Home,Away,FT_Goals_H,FT_Goals_A,FT_TotalGoals,Goal
 116,Bosnia and Herzegovina Premier League of Bosnia,2022/2023,2023-02-26 09:00:00,20,Posusje,Leotar,1,1,2,['2'],['8'],1.85,2.9,5.2,2.4,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0
 117,Bosnia and Herzegovina Premier League of Bosnia,2022/2023,2023-02-26 10:00:00,20,FK Tuzla City,Velež,0,1,1,[],['77'],2.34,2.95,3.15,2.35,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
 118,Bosnia and Herzegovina Premier League of Bosnia,2022/2023,2023-02-26 13:30:00,20,Sarajevo,Zrinjski,0,2,2,[],"['33', '73']",3.11,2.98,2.37,2.61,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+119,Bosnia and Herzegovina Premier League of Bosnia,2022/2023,2023-03-04 09:00:00,21,Leotar,Igman Konjic,1,1,2,['59'],['62'],2.12,3.18,3.4,2.14,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0
+120,Bosnia and Herzegovina Premier League of Bosnia,2022/2023,2023-03-04 12:00:00,21,Željezničar,Sloboda Tuzla,1,0,1,['20'],[],1.57,3.6,5.5,1.77,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0
+121,Bosnia and Herzegovina Premier League of Bosnia,2022/2023,2023-03-04 14:30:00,21,Velež,Borac Banja Luka,1,0,1,['73'],[],2.36,3.04,3.07,2.37,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0
+122,Bosnia and Herzegovina Premier League of Bosnia,2022/2023,2023-03-05 09:00:00,21,FK Tuzla City,Sloga Doboj,0,0,0,[],[],1.63,3.7,5.0,1.96,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+123,Bosnia and Herzegovina Premier League of Bosnia,2022/2023,2023-03-05 09:00:00,21,Zrinjski,Posusje,5,0,5,"['-1', '-1', '-1', '-1', '-1']",[],1.28,5.0,10.0,1.87,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0
+124,Bosnia and Herzegovina Premier League of Bosnia,2022/2023,2023-03-05 12:00:00,21,Široki Brijeg,Sarajevo,1,3,4,['-1'],"['-1', '-1', '-1']",2.55,2.9,2.95,2.48,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0

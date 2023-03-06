@@ -30,3 +30,7 @@ Nº,League,Season,Date,Rodada,Home,Away,FT_Goals_H,FT_Goals_A,FT_TotalGoals,Goal
 29,Venezuela Primera División,2023,2023-03-03 16:00:00,5,Caracas,Portuguesa,1,1,2,['87'],['15'],1.91,2.9,3.9,2.37,2.15,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0
 30,Venezuela Primera División,2023,2023-03-03 18:15:00,5,Mineros de Guayana,UCV,2,0,2,"['17', '23']",[],1.73,3.25,4.4,2.0,1.86,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0
 31,Venezuela Primera División,2023,2023-03-03 20:30:00,5,Academia Puerto Cabello,Metropolitanos,1,0,1,['17'],[],2.25,3.0,3.0,2.15,1.83,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0
+32,Venezuela Primera División,2023,2023-03-04 16:00:00,5,Deportivo La Guaira,Estudiantes Mérida,1,3,4,['3'],"['6', '45', '57']",1.71,3.25,4.33,1.96,1.92,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0
+33,Venezuela Primera División,2023,2023-03-04 18:15:00,5,Monagas,Hermanos Colmenares,2,1,3,"['31', '53']",['90+5'],1.31,4.33,8.75,2.01,0.0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0
+34,Venezuela Primera División,2023,2023-03-04 20:30:00,5,Deportivo Táchira,Rayo Zuliano,5,0,5,"['5', '43', '45+1', '73', '80']",[],1.39,4.2,6.5,1.81,1.97,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0
+35,Venezuela Primera División,2023,2023-03-05 18:00:00,5,Angostura,Carabobo,0,1,1,[],['38'],2.5,3.1,2.65,2.09,1.82,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0

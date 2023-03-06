@@ -116,3 +116,6 @@ Nº,League,Season,Date,Rodada,Home,Away,FT_Goals_H,FT_Goals_A,FT_TotalGoals,Goal
 115,Switzerland Challenge League,2022/2023,2023-02-26 10:15:00,23,Aarau,Bellinzona,2,0,2,"['63', '90+4']",[],1.75,3.6,3.8,1.68,1.62,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0
 116,Switzerland Challenge League,2022/2023,2023-03-03 15:30:00,24,Yverdon Sport,Wil,1,1,2,['31'],['90+4'],2.41,3.7,2.41,1.6,1.53,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0
 117,Switzerland Challenge League,2022/2023,2023-03-03 16:15:00,24,Neuchâtel Xamax,Aarau,0,0,0,[],[],2.49,3.75,2.31,1.57,1.5,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+118,Switzerland Challenge League,2022/2023,2023-03-05 10:15:00,24,FC Schaffhausen,Thun,0,5,5,[],"['5', '6', '15', '71', '85']",2.29,3.38,2.58,1.62,1.57,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1
+119,Switzerland Challenge League,2022/2023,2023-03-05 10:15:00,24,Bellinzona,Stade Lausanne-Ouchy,0,1,1,[],['57'],2.58,3.38,2.29,1.6,1.62,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+120,Switzerland Challenge League,2022/2023,2023-03-05 12:30:00,24,Lausanne Sport,Vaduz,0,0,0,[],[],1.75,3.75,4.5,1.7,1.67,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0

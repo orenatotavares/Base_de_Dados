@@ -416,3 +416,6 @@ Nº,League,Season,Date,Rodada,Home,Away,FT_Goals_H,FT_Goals_A,FT_TotalGoals,Goal
 415,England Championship,2022/2023,2023-03-04 12:00:00,35,Watford,Preston North End,0,0,0,[],[],1.83,3.45,4.1,2.15,1.95,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
 416,England Championship,2022/2023,2023-03-04 12:00:00,35,Rotherham United,Queens Park Rangers,3,1,4,"['15', '70', '90']",['83'],2.75,3.1,2.5,2.04,1.8,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0
 417,England Championship,2022/2023,2023-03-04 12:00:00,35,Sunderland,Stoke City,1,5,6,['62'],"['41', '53', '57', '68', '76']",2.3,3.25,3.05,2.02,1.8,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1
+418,England Championship,2022/2023,2023-03-07 16:45:00,29,Huddersfield Town,Bristol City,0,0,0,[],[],2.65,3.23,2.68,2.09,1.88,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+419,England Championship,2022/2023,2023-03-07 17:00:00,29,Reading,Sheffield United,0,1,1,[],['60'],3.22,3.4,2.2,1.99,1.9,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+420,England Championship,2022/2023,2023-03-07 17:00:00,29,West Bromwich Albion,Wigan Athletic,1,0,1,['27'],[],1.55,4.02,6.0,1.94,2.05,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0

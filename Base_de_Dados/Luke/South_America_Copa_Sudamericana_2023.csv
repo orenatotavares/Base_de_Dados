@@ -1,1 +1,6 @@
 Nº,League,Season,Date,Rodada,Home,Away,FT_Goals_H,FT_Goals_A,FT_TotalGoals,Goals_H_Minutes,Goals_A_Minutes,FT_Odd_H,FT_Odd_D,FT_Odd_A,FT_Odd_Over25,FT_Odd_BTTS_Yes,0x0,0x1,0x2,0x3,1x0,1x1,1x2,1x3,2x0,2x1,2x2,2x3,3x0,3x1,3x2,3x3,Goleada_H,Goleada_A
+1,South America Copa Sudamericana,2023,2023-03-07 19:00:00,0,Audax Italiano,Universidad Católica,3,2,5,"['19', '56', '58']","['16', '36']",3.62,3.37,2.07,1.92,1.83,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0
+2,South America Copa Sudamericana,2023,2023-03-07 19:00:00,0,Tacuary,General Caballero JLM,2,2,4,"['27', '84']","['49', '68']",2.59,3.56,2.51,1.88,1.85,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0
+3,South America Copa Sudamericana,2023,2023-03-07 21:00:00,0,River Plate,Peñarol,0,4,4,[],"['8', '16', '21', '75']",3.57,3.29,2.09,1.98,1.83,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1
+4,South America Copa Sudamericana,2023,2023-03-07 21:00:00,0,Caracas,Academia Puerto Cabello,0,1,1,[],['53'],2.3,3.14,3.44,2.06,1.9,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+5,South America Copa Sudamericana,2023,2023-03-07 23:00:00,0,LDU Quito,Delfin SC,4,0,4,"['7', '20', '78', '90+2']",[],1.42,4.5,7.32,1.81,1.96,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0

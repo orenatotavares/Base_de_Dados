@@ -130,3 +130,6 @@ Nº,League,Season,Date,Rodada,Home,Away,FT_Goals_H,FT_Goals_A,FT_TotalGoals,Goal
 129,England Premier League 2 Division One U23,2022/2023,2023-03-03 16:00:00,21,West Ham United U21,Manchester City U21,1,5,6,['90+2'],"['35', '49', '58', '70', '75']",4.5,4.3,1.59,1.32,1.39,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1
 130,England Premier League 2 Division One U23,2022/2023,2023-03-05 10:00:00,21,Everton U21,Crystal Palace U21,0,1,1,[],['79'],2.29,3.59,2.49,1.35,1.41,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
 131,England Premier League 2 Division One U23,2022/2023,2023-03-05 13:00:00,21,Brighton U21,Wolves U21,3,1,4,"['22', '28', '72']",['90+1'],2.0,4.0,2.75,1.31,1.31,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0
+132,England Premier League 2 Division One U23,2022/2023,2023-03-06 16:00:00,21,Manchester United U21,Chelsea U21,1,3,4,['59'],"['32', '82', '90+4']",2.14,3.95,2.51,1.34,1.27,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0
+133,England Premier League 2 Division One U23,2022/2023,2023-03-06 16:00:00,21,Arsenal U21,Liverpool U21,0,1,1,[],['85'],2.73,3.75,2.06,1.46,1.36,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+134,England Premier League 2 Division One U23,2022/2023,2023-03-06 16:00:00,21,Leicester City U21,Blackburn Rovers U21,0,1,1,[],['6'],2.6,3.75,2.2,1.37,1.32,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0

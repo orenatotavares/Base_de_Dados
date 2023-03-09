@@ -21,3 +21,5 @@ Nº,League,Season,Date,Rodada,Home,Away,FT_Goals_H,FT_Goals_A,FT_TotalGoals,Goal
 20,South America Copa Libertadores,2023,2023-03-02 19:00:00,0,Club Always Ready,Magallanes,1,3,4,['90+1'],"['9', '50', '53']",1.37,4.33,9.25,1.85,2.2,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0
 21,South America Copa Libertadores,2023,2023-03-02 21:00:00,0,Millonarios,CD Universidad Católica,2,1,3,"['62', '69']",['38'],1.62,3.14,4.87,2.15,2.1,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0
 22,South America Copa Libertadores,2023,2023-03-02 21:00:00,0,Fortaleza,Deportivo Maldonado,4,0,4,"['45+5', '83', '86', '90+2']",[],1.33,3.73,8.41,2.1,2.5,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0
+23,South America Copa Libertadores,2023,2023-03-08 19:00:00,0,Magallanes,Independiente Medellín,1,1,2,['90+5'],['70'],2.25,3.1,3.25,2.25,1.95,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0
+24,South America Copa Libertadores,2023,2023-03-08 21:30:00,0,Millonarios,Atlético Mineiro,1,1,2,['42'],['66'],3.37,3.2,2.12,2.2,1.87,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0
